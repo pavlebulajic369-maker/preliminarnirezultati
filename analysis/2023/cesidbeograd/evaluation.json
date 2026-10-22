@@ -1,0 +1,1000 @@
+{
+  "model": {
+    "type": "deterministic retrospective scoring, not a trained predictive model",
+    "official_share": "100 * national party votes / ballots_cast",
+    "signed_error": "published estimate - official share (percentage points)",
+    "mae": "mean(abs(signed_error))",
+    "rmse": "sqrt(mean(signed_error**2))",
+    "primary_party_set": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "MI",
+      "NADA",
+      "ZAV_DVERI"
+    ],
+    "weighting": "equal weight per list within a snapshot; no pooling of correlated snapshots",
+    "seat_distance": "0.5 * sum(abs(projected_seats - official_seats))",
+    "seat_agreement": "100 * (1 - seat_distance / 250); descriptive allocation overlap, not a probability of reliability",
+    "share_denominator_assumption": "Charts do not name a denominator. Compare published shares to RIK ballots-cast shares; their displayed sums of 97.1 and 97.2 are consistent with inclusion of invalid ballots. Sensitivity metrics are also supplied."
+  },
+  "inputs_sha256": {
+    "parquet": "ac878e0b8cff762d672264e9b6196b7f16bfa8293c4283cff2e760fd70fb1676",
+    "claims": "cb6df94dbf8707935d82a032a4198089e0ff7998942a07774df50e81a45ced6b",
+    "rik_reference": "eb4f80e41139558d08648087c9c1a6159c7501af1fd6faefacdd3740dec07cf8",
+    "posts": "aa4110f94cb75f0602559f4d721d20367cb081daf6e705b623e651638201a119"
+  },
+  "baseline_audit": {
+    "status": "passed",
+    "parquet_totals": {
+      "reg_2023": 6500666,
+      "turnout_2023": 3820746,
+      "valid_2023": 3710978,
+      "votes_2023_SNS": 1783701,
+      "votes_2023_SPN": 902450,
+      "votes_2023_SPS": 249916,
+      "votes_2023_MI": 178830,
+      "votes_2023_NADA": 191431,
+      "votes_2023_ZAV_DVERI": 105165,
+      "votes_2023_MANJINE": 150531,
+      "votes_2023_OSTALI": 148954
+    },
+    "reconciliation": {
+      "polling_stations": {
+        "parquet": 8273,
+        "rik": 8273
+      },
+      "registered_voters": {
+        "parquet": 6500666,
+        "rik": 6500666
+      },
+      "voters_who_turned_out": {
+        "parquet": 3820746,
+        "rik": 3820746
+      },
+      "valid_ballots": {
+        "parquet": 3710978,
+        "rik": 3710978
+      },
+      "SNS": {
+        "parquet": 1783701,
+        "rik": 1783701
+      },
+      "SPN": {
+        "parquet": 902450,
+        "rik": 902450
+      },
+      "SPS": {
+        "parquet": 249916,
+        "rik": 249916
+      },
+      "MI": {
+        "parquet": 178830,
+        "rik": 178830
+      },
+      "NADA": {
+        "parquet": 191431,
+        "rik": 191431
+      },
+      "ZAV_DVERI": {
+        "parquet": 105165,
+        "rik": 105165
+      },
+      "MANJINE": {
+        "parquet": 150531,
+        "rik": 150531
+      },
+      "OSTALI": {
+        "parquet": 148954,
+        "rik": 148954
+      }
+    },
+    "ballots_cast_from_rik": 3815007
+  },
+  "source_url": "https://www.rik.parlament.gov.rs/vest/564488/51-sednica-republicke-izborne-komisije.php",
+  "collection": [
+    {
+      "file": "data\\2023\\cesidbeograd\\search_8d7f063216687233.json",
+      "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+      "search_exhausted": false,
+      "has_next_token": true,
+      "returned_posts_total": 7
+    }
+  ],
+  "scored_posts": [
+    {
+      "post_id": "1736491315691446389",
+      "post_url": "https://x.com/cesidbeograd/status/1736491315691446389",
+      "created_at_cet": "2023-12-17T21:59:26+01:00",
+      "metric": "vote_share",
+      "sample_processed_pct": 72.6,
+      "image": "data/2023/cesidbeograd/1736491315691446389_3_1736491309584482304.jpg",
+      "unit": "percentage_points",
+      "denominator": 3815007,
+      "displayed_party_share_sum": 97.10000000000001,
+      "primary_six": [
+        {
+          "party": "SNS",
+          "estimate": 46.6,
+          "actual": 46.754855233555276,
+          "signed_error": -0.1548552335552742,
+          "absolute_error": 0.1548552335552742
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.1,
+          "actual": 23.655264590602325,
+          "signed_error": -0.5552645906023237,
+          "absolute_error": 0.5552645906023237
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.9,
+          "actual": 6.55086609277519,
+          "signed_error": 0.3491339072248101,
+          "absolute_error": 0.3491339072248101
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.8,
+          "actual": 5.017841382728786,
+          "signed_error": -0.2178413827287864,
+          "absolute_error": 0.2178413827287864
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        }
+      ],
+      "metrics_primary_six": {
+        "n": 6,
+        "mae": 0.23882350237714745,
+        "rmse": 0.2933080787869339,
+        "max_absolute_error": 0.5552645906023237
+      },
+      "grouped_eight": [
+        {
+          "party": "SNS",
+          "estimate": 46.6,
+          "actual": 46.754855233555276,
+          "signed_error": -0.1548552335552742,
+          "absolute_error": 0.1548552335552742
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.1,
+          "actual": 23.655264590602325,
+          "signed_error": -0.5552645906023237,
+          "absolute_error": 0.5552645906023237
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.9,
+          "actual": 6.55086609277519,
+          "signed_error": 0.3491339072248101,
+          "absolute_error": 0.3491339072248101
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.8,
+          "actual": 5.017841382728786,
+          "signed_error": -0.2178413827287864,
+          "absolute_error": 0.2178413827287864
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        },
+        {
+          "party": "MANJINE",
+          "estimate": 4.1,
+          "actual": 3.9457594704282326,
+          "signed_error": 0.15424052957176704,
+          "absolute_error": 0.15424052957176704
+        },
+        {
+          "party": "OSTALI",
+          "estimate": 4.0,
+          "actual": 3.9044227179661792,
+          "signed_error": 0.09557728203382077,
+          "absolute_error": 0.09557728203382077
+        }
+      ],
+      "metrics_grouped_eight": {
+        "n": 8,
+        "mae": 0.21034485323355906,
+        "rmse": 0.26198829465589796,
+        "max_absolute_error": 0.5552645906023237
+      },
+      "all_eighteen": [
+        {
+          "party": "SNS",
+          "estimate": 46.6,
+          "actual": 46.754855233555276,
+          "signed_error": -0.1548552335552742,
+          "absolute_error": 0.1548552335552742
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.1,
+          "actual": 23.655264590602325,
+          "signed_error": -0.5552645906023237,
+          "absolute_error": 0.5552645906023237
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.9,
+          "actual": 6.55086609277519,
+          "signed_error": 0.3491339072248101,
+          "absolute_error": 0.3491339072248101
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.8,
+          "actual": 5.017841382728786,
+          "signed_error": -0.2178413827287864,
+          "absolute_error": 0.2178413827287864
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.7,
+          "actual": 1.6971659553966743,
+          "signed_error": 0.0028340446033257027,
+          "absolute_error": 0.0028340446033257027
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.5,
+          "actual": 1.462172939656467,
+          "signed_error": 0.03782706034353289,
+          "absolute_error": 0.03782706034353289
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2,
+          "actual": 1.1816229957114102,
+          "signed_error": 0.018377004288589793,
+          "absolute_error": 0.018377004288589793
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9,
+          "actual": 0.8751753273322959,
+          "signed_error": 0.024824672667704162,
+          "absolute_error": 0.024824672667704162
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.8,
+          "actual": 0.7618858890691419,
+          "signed_error": 0.03811411093085815,
+          "absolute_error": 0.03811411093085815
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6,
+          "actual": 0.5721352542734521,
+          "signed_error": 0.027864745726547846,
+          "absolute_error": 0.027864745726547846
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.4,
+          "actual": 0.3538918801459604,
+          "signed_error": 0.04610811985403962,
+          "absolute_error": 0.04610811985403962
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.3,
+          "actual": 0.2980073168935208,
+          "signed_error": 0.0019926831064792094,
+          "absolute_error": 0.0019926831064792094
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.2,
+          "actual": 0.24228002727124748,
+          "signed_error": -0.04228002727124747,
+          "absolute_error": 0.04228002727124747
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.2,
+          "actual": 0.1431714279947586,
+          "signed_error": 0.05682857200524141,
+          "absolute_error": 0.05682857200524141
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.2,
+          "actual": 0.17787647571813106,
+          "signed_error": 0.02212352428186895,
+          "absolute_error": 0.02212352428186895
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.1,
+          "actual": 0.0847966989313519,
+          "signed_error": 0.015203301068648103,
+          "absolute_error": 0.015203301068648103
+        }
+      ],
+      "metrics_all_eighteen": {
+        "n": 18,
+        "mae": 0.09818438224505378,
+        "rmse": 0.1713779786926418,
+        "max_absolute_error": 0.5552645906023237
+      },
+      "sensitivity": {
+        "literal_parquet_turnout_denominator": {
+          "denominator": 3820746,
+          "metrics_primary_six": {
+            "n": 6,
+            "mae": 0.22344414764376683,
+            "rmse": 0.2789603093128742,
+            "max_absolute_error": 0.5197329003288864
+          }
+        },
+        "both_sides_normalized_to_valid_votes": {
+          "metrics_primary_six": {
+            "n": 6,
+            "mae": 0.22718493264830983,
+            "rmse": 0.2849086866777211,
+            "max_absolute_error": 0.5284799163307952
+          }
+        }
+      }
+    },
+    {
+      "post_id": "1736496827044634778",
+      "post_url": "https://x.com/cesidbeograd/status/1736496827044634778",
+      "created_at_cet": "2023-12-17T22:21:20+01:00",
+      "metric": "seats",
+      "sample_processed_pct": 72.6,
+      "image": "data/2023/cesidbeograd/1736496827044634778_3_1736496820006621184.jpg",
+      "unit": "seats",
+      "all_eighteen": [
+        {
+          "party": "SNS",
+          "estimate": 129,
+          "actual": 129,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SPN",
+          "estimate": 63,
+          "actual": 65,
+          "signed_error": -2,
+          "absolute_error": 2
+        },
+        {
+          "party": "SPS",
+          "estimate": 19,
+          "actual": 18,
+          "signed_error": 1,
+          "absolute_error": 1
+        },
+        {
+          "party": "MI",
+          "estimate": 13,
+          "actual": 13,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "NADA",
+          "estimate": 13,
+          "actual": 13,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SVM",
+          "estimate": 6,
+          "actual": 6,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SRS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "NS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 3,
+          "actual": 2,
+          "signed_error": 1,
+          "absolute_error": 1
+        },
+        {
+          "party": "SDA",
+          "estimate": 2,
+          "actual": 2,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "PDD",
+          "estimate": 1,
+          "actual": 1,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 1,
+          "actual": 1,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "LDP",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "ADA",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        }
+      ],
+      "metrics_all_eighteen": {
+        "n": 18,
+        "mae": 0.2222222222222222,
+        "rmse": 0.5773502691896257,
+        "max_absolute_error": 2
+      },
+      "minimum_seats_to_reassign": 2.0,
+      "seat_allocation_agreement_pct": 99.2,
+      "exact_party_allocations": 15,
+      "parties_with_seats_match": true
+    },
+    {
+      "post_id": "1736513641321546053",
+      "post_url": "https://x.com/cesidbeograd/status/1736513641321546053",
+      "created_at_cet": "2023-12-17T23:28:09+01:00",
+      "metric": "vote_share",
+      "sample_processed_pct": 88.4,
+      "image": "data/2023/cesidbeograd/1736513641321546053_3_1736513636175122432.jpg",
+      "unit": "percentage_points",
+      "denominator": 3815007,
+      "displayed_party_share_sum": 97.2,
+      "primary_six": [
+        {
+          "party": "SNS",
+          "estimate": 46.2,
+          "actual": 46.754855233555276,
+          "signed_error": -0.5548552335552728,
+          "absolute_error": 0.5548552335552728
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.7,
+          "actual": 23.655264590602325,
+          "signed_error": 0.044735409397674175,
+          "absolute_error": 0.044735409397674175
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.6,
+          "actual": 6.55086609277519,
+          "signed_error": 0.04913390722480937,
+          "absolute_error": 0.04913390722480937
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.9,
+          "actual": 5.017841382728786,
+          "signed_error": -0.11784138272878586,
+          "absolute_error": 0.11784138272878586
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        }
+      ],
+      "metrics_primary_six": {
+        "n": 6,
+        "mae": 0.1537353055097054,
+        "rmse": 0.23829107961023874,
+        "max_absolute_error": 0.5548552335552728
+      },
+      "grouped_eight": [
+        {
+          "party": "SNS",
+          "estimate": 46.2,
+          "actual": 46.754855233555276,
+          "signed_error": -0.5548552335552728,
+          "absolute_error": 0.5548552335552728
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.7,
+          "actual": 23.655264590602325,
+          "signed_error": 0.044735409397674175,
+          "absolute_error": 0.044735409397674175
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.6,
+          "actual": 6.55086609277519,
+          "signed_error": 0.04913390722480937,
+          "absolute_error": 0.04913390722480937
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.9,
+          "actual": 5.017841382728786,
+          "signed_error": -0.11784138272878586,
+          "absolute_error": 0.11784138272878586
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        },
+        {
+          "party": "MANJINE",
+          "estimate": 4.2,
+          "actual": 3.9457594704282326,
+          "signed_error": 0.25424052957176757,
+          "absolute_error": 0.25424052957176757
+        },
+        {
+          "party": "OSTALI",
+          "estimate": 4.0,
+          "actual": 3.9044227179661792,
+          "signed_error": 0.09557728203382077,
+          "absolute_error": 0.09557728203382077
+        }
+      ],
+      "metrics_grouped_eight": {
+        "n": 8,
+        "mae": 0.1590287055829776,
+        "rmse": 0.22761510699226012,
+        "max_absolute_error": 0.5548552335552728
+      },
+      "all_eighteen": [
+        {
+          "party": "SNS",
+          "estimate": 46.2,
+          "actual": 46.754855233555276,
+          "signed_error": -0.5548552335552728,
+          "absolute_error": 0.5548552335552728
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.7,
+          "actual": 23.655264590602325,
+          "signed_error": 0.044735409397674175,
+          "absolute_error": 0.044735409397674175
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.6,
+          "actual": 6.55086609277519,
+          "signed_error": 0.04913390722480937,
+          "absolute_error": 0.04913390722480937
+        },
+        {
+          "party": "MI",
+          "estimate": 4.8,
+          "actual": 4.687540547107777,
+          "signed_error": 0.1124594528922227,
+          "absolute_error": 0.1124594528922227
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.9,
+          "actual": 5.017841382728786,
+          "signed_error": -0.11784138272878586,
+          "absolute_error": 0.11784138272878586
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8,
+          "actual": 2.756613552740532,
+          "signed_error": 0.04338644725946761,
+          "absolute_error": 0.04338644725946761
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.7,
+          "actual": 1.6971659553966743,
+          "signed_error": 0.0028340446033257027,
+          "absolute_error": 0.0028340446033257027
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.5,
+          "actual": 1.462172939656467,
+          "signed_error": 0.03782706034353289,
+          "absolute_error": 0.03782706034353289
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2,
+          "actual": 1.1816229957114102,
+          "signed_error": 0.018377004288589793,
+          "absolute_error": 0.018377004288589793
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9,
+          "actual": 0.8751753273322959,
+          "signed_error": 0.024824672667704162,
+          "absolute_error": 0.024824672667704162
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.9,
+          "actual": 0.7618858890691419,
+          "signed_error": 0.13811411093085812,
+          "absolute_error": 0.13811411093085812
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6,
+          "actual": 0.5721352542734521,
+          "signed_error": 0.027864745726547846,
+          "absolute_error": 0.027864745726547846
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.4,
+          "actual": 0.3538918801459604,
+          "signed_error": 0.04610811985403962,
+          "absolute_error": 0.04610811985403962
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.3,
+          "actual": 0.2980073168935208,
+          "signed_error": 0.0019926831064792094,
+          "absolute_error": 0.0019926831064792094
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.2,
+          "actual": 0.24228002727124748,
+          "signed_error": -0.04228002727124747,
+          "absolute_error": 0.04228002727124747
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.2,
+          "actual": 0.1431714279947586,
+          "signed_error": 0.05682857200524141,
+          "absolute_error": 0.05682857200524141
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.2,
+          "actual": 0.17787647571813106,
+          "signed_error": 0.02212352428186895,
+          "absolute_error": 0.02212352428186895
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.1,
+          "actual": 0.0847966989313519,
+          "signed_error": 0.015203301068648103,
+          "absolute_error": 0.015203301068648103
+        }
+      ],
+      "metrics_all_eighteen": {
+        "n": 18,
+        "mae": 0.07537720551146199,
+        "rmse": 0.14352860494629205,
+        "max_absolute_error": 0.5548552335552728
+      },
+      "sensitivity": {
+        "literal_parquet_turnout_denominator": {
+          "denominator": 3820746,
+          "metrics_primary_six": {
+            "n": 6,
+            "mae": 0.1501998475341372,
+            "rmse": 0.21349854308406818,
+            "max_absolute_error": 0.48462651011085
+          }
+        },
+        "both_sides_normalized_to_valid_votes": {
+          "metrics_primary_six": {
+            "n": 6,
+            "mae": 0.1563425449722328,
+            "rmse": 0.23212424651831334,
+            "max_absolute_error": 0.5346592305250297
+          }
+        }
+      }
+    },
+    {
+      "post_id": "1736514618996961555",
+      "post_url": "https://x.com/cesidbeograd/status/1736514618996961555",
+      "created_at_cet": "2023-12-17T23:32:02+01:00",
+      "metric": "seats",
+      "sample_processed_pct": 88.4,
+      "image": "data/2023/cesidbeograd/1736514618996961555_3_1736514612206473216.jpg",
+      "unit": "seats",
+      "all_eighteen": [
+        {
+          "party": "SNS",
+          "estimate": 128,
+          "actual": 129,
+          "signed_error": -1,
+          "absolute_error": 1
+        },
+        {
+          "party": "SPN",
+          "estimate": 65,
+          "actual": 65,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SPS",
+          "estimate": 18,
+          "actual": 18,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "MI",
+          "estimate": 13,
+          "actual": 13,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "NADA",
+          "estimate": 13,
+          "actual": 13,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SVM",
+          "estimate": 6,
+          "actual": 6,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SRS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "NS",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 3,
+          "actual": 2,
+          "signed_error": 1,
+          "absolute_error": 1
+        },
+        {
+          "party": "SDA",
+          "estimate": 2,
+          "actual": 2,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "PDD",
+          "estimate": 1,
+          "actual": 1,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 1,
+          "actual": 1,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "LDP",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        },
+        {
+          "party": "ADA",
+          "estimate": 0,
+          "actual": 0,
+          "signed_error": 0,
+          "absolute_error": 0
+        }
+      ],
+      "metrics_all_eighteen": {
+        "n": 18,
+        "mae": 0.1111111111111111,
+        "rmse": 0.3333333333333333,
+        "max_absolute_error": 1
+      },
+      "minimum_seats_to_reassign": 1.0,
+      "seat_allocation_agreement_pct": 99.6,
+      "exact_party_allocations": 16,
+      "parties_with_seats_match": true
+    }
+  ],
+  "excluded_posts": [
+    {
+      "post_id": "1736503013278179328",
+      "election_scope": "belgrade_city_assembly",
+      "metric": "vote_share",
+      "sample_processed_pct": 42,
+      "reason": "Separate city election: the Parquet contains national parliamentary votes, including national votes cast in Belgrade, not Belgrade assembly results.",
+      "image": "data/2023/cesidbeograd/1736503013278179328_3_1736503007812919296.jpg",
+      "image_sha256": "5512b1c005d1295259edd941f1929db7c84784f3f49710fdd6ebe404b9bf14dd",
+      "post_url": "https://x.com/cesidbeograd/status/1736503013278179328",
+      "created_at": "2023-12-17T21:45:55.000Z"
+    },
+    {
+      "post_id": "1736504577833181469",
+      "election_scope": "belgrade_city_assembly",
+      "metric": "seats",
+      "sample_processed_pct": 42,
+      "reason": "Separate city election: the Parquet contains national parliamentary votes, including national votes cast in Belgrade, not Belgrade assembly results.",
+      "image": "data/2023/cesidbeograd/1736504577833181469_3_1736504572317704192.jpg",
+      "image_sha256": "6fb3e729cc6860d5a7c80950f390639428a380ad11e73531e86ee8dde0d6d3e7",
+      "post_url": "https://x.com/cesidbeograd/status/1736504577833181469",
+      "created_at": "2023-12-17T21:52:08.000Z"
+    },
+    {
+      "post_id": "1736520939683168370",
+      "election_scope": "belgrade_city_assembly",
+      "metric": "vote_share",
+      "sample_processed_pct": 77,
+      "reason": "Separate city election: the Parquet contains national parliamentary votes, including national votes cast in Belgrade, not Belgrade assembly results.",
+      "image": "data/2023/cesidbeograd/1736520939683168370_3_1736520934469603328.jpg",
+      "image_sha256": "e55f5b13a2e2943a69d7480fda5c8836f600147dcc257d73a00b040e2da376ea",
+      "post_url": "https://x.com/cesidbeograd/status/1736520939683168370",
+      "created_at": "2023-12-17T22:57:09.000Z"
+    }
+  ],
+  "limitations": [
+    "Only two national vote-share snapshots and two linked seat snapshots from one joint CeSID/Ipsos source and one election.",
+    "The saved fetch is partial; earlier posts may remain. Earliest saved is not necessarily first published.",
+    "Values were manually read from images; this script checks input hashes and recomputes scores, not OCR.",
+    "Vote estimates are displayed to 0.1 percentage point. No sample size/design information supports confidence intervals.",
+    "Belgrade city assembly results require a separate benchmark; national votes cast in Belgrade are not that benchmark.",
+    "Final results include repeat voting. These are retrospective final-outcome errors, not errors against contemporaneous sample totals.",
+    "No inference of publication latency or independence from RIK is made from timestamp_cet or speed_percentile in the Parquet."
+  ]
+}

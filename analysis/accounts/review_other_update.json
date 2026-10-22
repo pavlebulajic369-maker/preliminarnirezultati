@@ -1,0 +1,721 @@
+{
+  "reviewed_on": "2026-10-22",
+  "records": [
+    {
+      "post_id": "1275033555119288329",
+      "account": "miikialeksic",
+      "year": "2020",
+      "post_url": "https://x.com/miikialeksic/status/1275033555119288329",
+      "created_at": "2020-06-22T11:51:03.000Z",
+      "text": "Tužno je danas slušati stranke koje su izašle na izbore i bile protiv bojkota kako se žale na nepravilnosti.\n\nPa znali smo to sve gospodo, ali...",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "process_report",
+      "reason": "Comment on boycott and alleged irregularities; not a numerical national parliamentary projection."
+    },
+    {
+      "post_id": "1274863403841073153",
+      "account": "milos_vucevic",
+      "year": "2020",
+      "post_url": "https://x.com/milos_vucevic/status/1274863403841073153",
+      "created_at": "2020-06-22T00:34:55.000Z",
+      "text": "Нови Сад остаје у сигурним рукама. Од 197 обрађених на 109 бирачких места, СНС је освојио 56,52 одсто. На прошлим изборима смо имали 40,05 одсто. https://t.co/FRRiU18HBn",
+      "images": [
+        {
+          "file": "data/2020/milos_vucevic/1274863403841073153_3_1274863381137240064.jpg",
+          "sha256": "b9d9446e053f85e508dc6c32baa6061ae615a39fe92b290884725e0975a971ae",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbE5fZnWsAACqRG.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2020/milos_vucevic/1274863403841073153_3_1274863385306415115.jpg",
+          "sha256": "1d1f939b9a93287fd96755d32f1f66ade58828035e41cb258602c78cd9d49d54",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbE5fpJXQAsh1NX.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2020/milos_vucevic/1274863403841073153_3_1274863391622995969.jpg",
+          "sha256": "dd170cf582f0452eb5b6704794e5d446d765833afef83fae74bcdd0e2f9d0062",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbE5gArWoAEDdSw.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2020/milos_vucevic/1274863403841073153_3_1274863397411139586.jpg",
+          "sha256": "2b7fd50d1f2d895ba815aa1abbf5e4d36c6098be6d63549d5d788c18bbabf254",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbE5gWPWsAIW-Gf.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "different_election",
+      "reason": "Caption is Novi Sad local results; photographed chart explicitly says Vojvodina provincial elections. Neither is national parliament. Other three photos contain no numerical chart.",
+      "extracted": {
+        "caption_scope": "Novi Sad",
+        "sns_pct": 56.52,
+        "previous_election_pct": 40.05,
+        "image_chart_scope": "Vojvodina provincial elections",
+        "sample_count_caption_ambiguous": true
+      }
+    },
+    {
+      "post_id": "1274993014709063680",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1274993014709063680",
+      "created_at": "2020-06-22T09:09:57.000Z",
+      "text": "Председник Александар #Vucic @avucic рекао је да су се грађани Србије определили за своју будућност и захвалио им на историјској подршци, те поручио да ће се борити за Србију, својим срцем, знањем, енергијом и да не постоји на свету ништа лепше од Србије. https://t.co/9XkKPJTBHE https://t.co/nmhX12cBqB",
+      "images": [
+        {
+          "file": "data/2020/sns_srbija/1274993014709063680_3_1274992957523976193.jpg",
+          "sha256": "2747791a61ced06a401a8afb9e1ad06a9a0d4dcef3bed10a4f0cca3e737aa389",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbGvVvRXYAEi7s1.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1275014810313412609",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275014810313412609",
+      "created_at": "2020-06-22T10:36:34.000Z",
+      "text": "Мали: Вишегодишњим трудом изграђено је поверење грађана https://t.co/MlEDBoUs5S",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1275057790608748547",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275057790608748547",
+      "created_at": "2020-06-22T13:27:21.000Z",
+      "text": "Михајловић: Већа политичка стабилност за изазове и развој инфраструктуре https://t.co/FRZYp7gNNO",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1275060374207750144",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275060374207750144",
+      "created_at": "2020-06-22T13:37:37.000Z",
+      "text": "#Najava - Марко Ђурић @markodjuric https://t.co/XfCNpmtulK",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "external_livestream",
+      "reason": "Announcement or interview link without a numerical result in saved text. Linked recording not saved/transcribed."
+    },
+    {
+      "post_id": "1275065357716254721",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275065357716254721",
+      "created_at": "2020-06-22T13:57:25.000Z",
+      "text": "Ђорђевић: Настављамо са свим започетим активностима https://t.co/fhqcLBBhGv",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1275089224811925511",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275089224811925511",
+      "created_at": "2020-06-22T15:32:15.000Z",
+      "text": "Владимир Орлић @Vladimir_Orlic гостовање \"Добро јутро Србијо\" - 22.06.2020. https://t.co/BCjPg16lS4",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "external_livestream",
+      "reason": "Announcement or interview link without a numerical result in saved text. Linked recording not saved/transcribed."
+    },
+    {
+      "post_id": "1275096620485443586",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275096620485443586",
+      "created_at": "2020-06-22T16:01:39.000Z",
+      "text": "Ђурић @markodjuric: Највише гласова на КиМ освојила је Српска напредна странка https://t.co/HaLHgLjWRM",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "different_geographic_scope",
+      "reason": "Qualitative claim that SNS won the most votes in Kosovo; not a national vote-share projection. Linked article not saved."
+    },
+    {
+      "post_id": "1275125859058421770",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275125859058421770",
+      "created_at": "2020-06-22T17:57:50.000Z",
+      "text": "Волим када поштено изнесемо карте на сто, рекао је председник Србије Александар #Vucic @avucic после разговора са специјалним представником ЕУ за дијалог Београда и Приштине Мирославом Лајчаком @MiroslavLajcak и истакао да је то био један искрен разговор. https://t.co/WN7I4ebuqB https://t.co/guxhDTfPv4",
+      "images": [
+        {
+          "file": "data/2020/sns_srbija/1275125859058421770_3_1275125742070829059.jpg",
+          "sha256": "ac3abd86b26a438e692537c1c3e451ddc92957e377693a0dad11158b38aaaee5",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbIoG0QWkAMpqOP.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "unrelated_news",
+      "reason": "Diplomatic meeting; photo and text contain no election forecast."
+    },
+    {
+      "post_id": "1275136662310436865",
+      "account": "sns_srbija",
+      "year": "2020",
+      "post_url": "https://x.com/sns_srbija/status/1275136662310436865",
+      "created_at": "2020-06-22T18:40:45.000Z",
+      "text": "Јоксимовић Тањи Фајон: Грађани Србије имају право на свој избор https://t.co/L5k5FgWk0A",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1510745100393005056",
+      "account": "sns_srbija",
+      "year": "2022",
+      "post_url": "https://x.com/sns_srbija/status/1510745100393005056",
+      "created_at": "2022-04-03T22:24:34.000Z",
+      "text": "Председник Александар #Vucic @avucic је рекао да је задовољан што су грађани изашли у толиком броју и потврдили демократску природу српског друштва, и додао да жели да се настави модернизација наше земље, као и да се сачува мир и стабилност. https://t.co/FJeDdVwgDs https://t.co/BJD6sQSZuu",
+      "images": [
+        {
+          "file": "data/2022/sns_srbija/1510745100393005056_3_1510742970995298304.jpg",
+          "sha256": "51813b26f9d63344424553bdcb00122da135f4021626ca98aa8c16be3db1d780",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPc8ulUX0AAgmfl.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1510752295096573961",
+      "account": "sns_srbija",
+      "year": "2022",
+      "post_url": "https://x.com/sns_srbija/status/1510752295096573961",
+      "created_at": "2022-04-03T22:53:10.000Z",
+      "text": "Хвала, Србијо! 🇷🇸❤️🇷🇸   #Vucic @avucic https://t.co/V0rC93FOzM",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "7_1510752092788510725",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Thank-you/political caption without numerical results. Attached video is not downloaded or transcribed; its contents are unassessed."
+    },
+    {
+      "post_id": "1736725219627188673",
+      "account": "milos_vucevic",
+      "year": "2023",
+      "post_url": "https://x.com/milos_vucevic/status/1736725219627188673",
+      "created_at": "2023-12-18T12:28:53.000Z",
+      "text": "Желео би да честитам грађанима Србије. Поносни смо на изборни резултат, остајемо смирени и рационални јер смо свесни одговорности која нас чека. Свесни смо да и када побеђујемо да треба да покажемо дозу озбиљности. Највећа заслуга иде Александру Вучићу који је учествовао у кампањи са нама и у својим разговорима са медијима носио победничку енергију. На њему је био највећи терет због количине напада којима је био изложен. Ова опозиција окупирана Драганом Ђиласом фокусирала се на мржњу према предесднику што им се обило у главу. Заслепила их је потреба да докажу да се не плаше некога, али су баш истицањем своје храбрости кроз увреде потврдило је њихов кукавичлук.\n\nНикакву идеологију нисам препознао у опозицији, а то је кључно јер морате грађанима  представити на који начин ћете водити државу што они нису урадили. Та клика коалиције “Србија против насиља” би дозволила апокалипсу Србије докле год су ти око њих безбедни. Грађанима се згадило само име њихове листе, јер су покушали да присвоје стрељање деце како би градили себе политички. Свака несрећа која нас захвати као земљу они користе као метод за долазак на власт. До 2012. године су имали прилику да се покажу што смо видели како је прошло. Сметало им је што је Александар Вучић помагао нашу кампању, али не видим шта је ту лоше, они свог главног лидера маргинализују и користе га као реликвију. Ко год буде покушао да организује насиље против грађана на улицама или било где биће законски санкционисан, јер са државом нема игре.",
+      "images": [
+        {
+          "file": "data/2023/milos_vucevic/1736725219627188673_3_1736725213906186240.jpg",
+          "sha256": "e9254034e50960d6ac158f98dd9d9dcdba11069a7d7c2e854f1862d5c54a2e1d",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoWYWdXsAAENEh.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/milos_vucevic/1736725219627188673_3_1736725213910310912.jpg",
+          "sha256": "62eac9ed0aaee3be8ba1c905855f06c586afe994ea4cc8ec465f2d2461f96201",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoWYWeWoAAxG21.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/milos_vucevic/1736725219627188673_3_1736725213927153664.jpg",
+          "sha256": "a2fcd687cfbf1a280b42bbe99e53ceaf876d173c29f3f2623ba3df26cb9a167e",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoWYWiXoAA7_RJ.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/milos_vucevic/1736725219627188673_3_1736725213906165760.jpg",
+          "sha256": "d767b76fc400e1764193a5f75b5ab4d4b66bad27e8cf3c6aec70516d0b494315",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoWYWdXYAA1ov7.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1736817545196318898",
+      "account": "milos_vucevic",
+      "year": "2023",
+      "post_url": "https://x.com/milos_vucevic/status/1736817545196318898",
+      "created_at": "2023-12-18T18:35:45.000Z",
+      "text": "Драги пријатељу,\nпоштовани Драшко,\n\nВеома ме је обрадовала твоја честитка поводом изборног резултата листе „Александар Вучић – Србија не сме да стане“. У име Српске напредне странке искрено ти се захваљујем!\n\nОно што смо народу Србије обећали јесте да никада и ни под коју цену нећемо дозволити да Србија стане. И Србија неће стати. Само ће јачати и ићи напред!\n\nХвала за енергију и љубав коју имаш према својој матици Србији. \n\nКао и до сада радићемо и градићемо Србију уз најбоље односе са Републиком Српском и регионом у целини.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1736823018909737080",
+      "account": "milos_vucevic",
+      "year": "2023",
+      "post_url": "https://x.com/milos_vucevic/status/1736823018909737080",
+      "created_at": "2023-12-18T18:57:30.000Z",
+      "text": "Желим да се захвалим драгом Милораду Додику за подршку и љубав према Србији.\n\nНаш народ изабрао је мир и стабилност, напредак и економски просперитет и у огромном броју подржао је листу „Александар Вучић Србија не сме да стане“. Имамо од народа задатак да у наредно периоду учинимо све да то и остваримо.\n\nСрбија никада није стала и Србија никада неће стати! \n\nЖивела Србија !\n\nЖивела Република Српска!",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1736563217717936257",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736563217717936257",
+      "created_at": "2023-12-18T01:45:09.000Z",
+      "text": "Na osnovu 81 procenta prebrojanih glasova u Beogradu, lista SNS ima 21 hiljadu glasova više od naše liste Srbija protiv nasilja. \n\nS obzirom na to da je više od 40 hiljada ljudi bez legalnog prebivališta u Beogradu organizovano dovedeno radi podrške SNS listi, čime je…",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "different_election",
+      "reason": "Belgrade city assembly claim and irregularity allegations, not national parliament. Final national totals cannot verify city results or allegations.",
+      "extracted": {
+        "city": "Belgrade",
+        "sample_counted_pct": 81,
+        "sns_lead_votes": 21000,
+        "alleged_nonresident_voters_more_than": 40000
+      }
+    },
+    {
+      "post_id": "1736563220704301138",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736563220704301138",
+      "created_at": "2023-12-18T01:45:10.000Z",
+      "text": "… drastično promenjena izborna volja Beograđana, zahtevamo poništavanje izbora u gradu Beogradu i ponavljanje glasanja za Skupštinu grada. Prethodno, zahtevamo čišćenje biračkog spiska.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736563223149609047",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736563223149609047",
+      "created_at": "2023-12-18T01:45:10.000Z",
+      "text": "Pozivamo građane Beograda na proteste zbog krađe izborne volje ispred Gradske Skupštine (Starog dvora) u 18h, odakle ćemo se uputiti ka sedištu Republičke izborne komisije u ulici Kralja Milana.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736729337695437204",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736729337695437204",
+      "created_at": "2023-12-18T12:45:15.000Z",
+      "text": "🚩Večeras dajemo upozorenje i povlačimo crvenu liniju za RIK i Tužilaštvo zbog izborne krađe. Branićemo svaki glas na ulici! Vidimo se u 18 sati kod Gradske skupštine (Stari dvor)! https://t.co/1DRg2tIC8n",
+      "images": [
+        {
+          "file": "data/2023/narodnipokrets/1736729337695437204_3_1736729331953520640.jpg",
+          "sha256": "264c43fdfb2e77bf6d6b5d22e445758288f62264d796acbd6b5471c7ce1cee37",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoaIDYXUAAuuQy.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736729341139009789",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736729341139009789",
+      "created_at": "2023-12-18T12:45:16.000Z",
+      "text": "Čekali smo sinoć da se prebroje svi glasovi i da se zabeleže sve nepravilnosti na biračkim mestima kako bismo vam se obratili sa pouzdanim informacijama.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736729343718527233",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736729343718527233",
+      "created_at": "2023-12-18T12:45:17.000Z",
+      "text": "Izborna volja Beograđana ne može biti opravdana u preko 40 000 glasova ljudi dovedenih iz drugih gradova i država da glasaju u njihovo ime, niti izborni rezultati mogu biti prihvaćeni nakon otvorene kupovine glasova, bugarskih vozova i drugih izbornih neregularnosti zabeleženih.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736756357057950141",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736756357057950141",
+      "created_at": "2023-12-18T14:32:37.000Z",
+      "text": "Pratite gostovanje @MiikiAleksic u Utisku nedelje https://t.co/zqB5T5Yhcu",
+      "images": [
+        {
+          "file": "data/2023/narodnipokrets/1736756357057950141_3_1736756351441764353.jpg",
+          "sha256": "19123a3a812b99ee3a27d8102a69ed819379f7085957d44d873aa3ac2a5ed71f",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoysy0XAAEKsCR.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "external_livestream",
+      "reason": "TV appearance announcement: Monday 20:30; image has no result chart and linked programme is not saved/transcribed."
+    },
+    {
+      "post_id": "1736798830295671241",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736798830295671241",
+      "created_at": "2023-12-18T17:21:23.000Z",
+      "text": "Ispred Republičke izborne komisije ⬇️ https://t.co/XBsBMBmS7U",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "7_1736798701555703808",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736809954378649715",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736809954378649715",
+      "created_at": "2023-12-18T18:05:36.000Z",
+      "text": "📍Republička izborna komisija https://t.co/pbiqLnGfil",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "7_1736808372622573568",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736541942396133520",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736541942396133520",
+      "created_at": "2023-12-18T00:20:37.000Z",
+      "text": "Potpuno je jasno da su u Beogradu stranke opozicije dobile više glasova od stranka koje su dosada u prestonici predstavljale vlast! Branićemo izbornu volju građana! https://t.co/WswaFiCpLI",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736541606826672128",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736567959290544612",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736567959290544612",
+      "created_at": "2023-12-18T02:04:00.000Z",
+      "text": "Pozivamo građane sutra na protest u 18h ispred Gradske skupštine. https://t.co/jkwGiLnjMX",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736567809109315584",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736567996892561711",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736567996892561711",
+      "created_at": "2023-12-18T02:04:08.000Z",
+      "text": "Pozivamo građane na protest u 18h ispred Gradske skupštine. https://t.co/1F8gVrU5qn",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736567809109315584",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736665915159146846",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736665915159146846",
+      "created_at": "2023-12-18T08:33:14.000Z",
+      "text": "Na osnovu 81 procenta prebrojanih glasova u Beogradu, lista SNS ima 21 hiljadu glasova više od naše liste Srbija protiv nasilja. S obzirom na to da je više od 40 hiljada ljudi bez legalnog prebivališta u Beogradu organizovano dovedeno radi podrške SNS listi, čime je drastično promenjena izborna volja Beograđana, zahtevamo poništavanje izbora u gradu Beogradu i ponavljanje glasanja za Skupštinu grada. Prethodno, zahtevamo čišćenje biračkog spiska. \n\nPozivamo građane Beograda na proteste zbog krađe izborne volje isped Gradske Skupštine (Starog dvora) u 18h, odakle ćemo se uputiti ka sedištu Republičke izborne komisije u ulici Kralja Milana.",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "different_election",
+      "reason": "Belgrade city assembly claim and irregularity allegations, not national parliament. Final national totals cannot verify city results or allegations.",
+      "extracted": {
+        "city": "Belgrade",
+        "sample_counted_pct": 81,
+        "sns_lead_votes": 21000,
+        "alleged_nonresident_voters_more_than": 40000
+      }
+    },
+    {
+      "post_id": "1736749489388388562",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736749489388388562",
+      "created_at": "2023-12-18T14:05:20.000Z",
+      "text": "https://t.co/k5GlHihLJf",
+      "images": [
+        {
+          "file": "data/2023/slobodaipravda/1736749489388388562_3_1736749483860303872.jpg",
+          "sha256": "5927d8f77cd3a79b1b729f478c3ee67452fd126e2e036814e9dd6719d584b954",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBosdDFWIAA9DJr.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736783279297081694",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736783279297081694",
+      "created_at": "2023-12-18T16:19:36.000Z",
+      "text": "Predsednik je bio previše prisutan u medijima, bilo je oštre retorike i pristrasnosti medija, pritisak na zaposlene u javnom sektoru, bilo je kupovine glasova, bilo je i toga da su ljudi iz okolnih zemalja dolazili i glasali…Ovo kaže šef misije ODIHR-a u Srbiji, Albert Džonson. Poslušajte deo konferencije⬇️",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736782977600749569",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736801361810141316",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736801361810141316",
+      "created_at": "2023-12-18T17:31:27.000Z",
+      "text": "Marinika Tepić i Miroslav Aleksić večeras započinju štrajk glađu u RIK-u https://t.co/A26jhAdYuo",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736801293098795009",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736802178260775421",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736802178260775421",
+      "created_at": "2023-12-18T17:34:42.000Z",
+      "text": "Marinika Tepić i Miroslav Aleksić večeras započinju štrajk glađu u RIK-u zbog krađe izbora! https://t.co/2aoffGuH2M",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736801293098795009",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736819607795806218",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736819607795806218",
+      "created_at": "2023-12-18T18:43:57.000Z",
+      "text": "Ne damo pobedu! \nTražimo da se izbori u Beogradu ponište! https://t.co/22SvRcVlOb",
+      "images": [
+        {
+          "file": "data/2023/slobodaipravda/1736819607795806218_3_1736819601101500416.jpg",
+          "sha256": "f88acd9edb53b45c207c8451a5e37d8027076a99be82dfb5f8134159137c571b",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpsOaKXMAAfkDg.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/slobodaipravda/1736819607795806218_3_1736819601093038080.jpg",
+          "sha256": "b172971e975a31d1a9f6ca39c002d91cb95c20ef9b2f914d28e9fdf616bafc8f",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpsOaIWEAAgDOe.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/slobodaipravda/1736819607795806218_3_1736819601101438977.jpg",
+          "sha256": "1c1bd5de4f4334a85973aa5f7d19a631c7bdb6b2bd335b3100e34f33376e02e4",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpsOaKWQAExShx.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/slobodaipravda/1736819607795806218_3_1736819601101447168.jpg",
+          "sha256": "c2fc53b1b9c8c36ae1ee37992e870ab49cbbb41da057992df30275aca63780e5",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpsOaKWYAAk_ot.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "process_or_protest_report",
+      "reason": "Read saved text and photos: city election objections, protest notice or protest photographs, not a national parliamentary vote-share projection. Official vote totals do not establish whether irregularity claims are true."
+    },
+    {
+      "post_id": "1736822994918330566",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736822994918330566",
+      "created_at": "2023-12-18T18:57:25.000Z",
+      "text": "Uživo iz RIK-a\n@MarinikaTepic i @MiikiAleksic doneli gomilu poziva za glasanje fantomskih birača!\nPoslušajte šta poručuju javnosti⬇️ https://t.co/S8W9ATKA6X",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736822913792167936",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736860614985953435",
+      "account": "slobodaipravda",
+      "year": "2023",
+      "post_url": "https://x.com/slobodaipravda/status/1736860614985953435",
+      "created_at": "2023-12-18T21:26:54.000Z",
+      "text": "Jedino rešenje za ovu situaciju je ponavljanje izbora. Ne postoji drugo rešenje. \n@DraganDjilas https://t.co/b1zPNLWTej",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "13_1736860393715138560",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Saved caption concerns Belgrade results, electoral process, protest or hunger strike, not a national numerical forecast. Attached video not downloaded/transcribed; its contents remain unassessed."
+    },
+    {
+      "post_id": "1736531766427504641",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736531766427504641",
+      "created_at": "2023-12-17T23:40:10.000Z",
+      "text": "Вучевић @milos_vucevic: Хвала свима који су подржали одговорну и озбиљну политику https://t.co/CRsFsniQHu",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1736706143009849768",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736706143009849768",
+      "created_at": "2023-12-18T11:13:05.000Z",
+      "text": "Важно је да наставимо да бринемо о људима, да радимо још више, још снажније за наш народ. Људи јесу наша снага, хвала свима, Србија не сме да стане! 🇷🇸🇷🇸🇷🇸 #Vucic @avucic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/Tp9md3HnqR",
+      "images": [],
+      "unreviewed_media": [
+        {
+          "type": "video",
+          "media_key": "7_1736705968258285568",
+          "reason": "Video not saved or transcribed; no claim made about its numerical content."
+        }
+      ],
+      "category": "unreviewed_video",
+      "reason": "Thank-you/political caption without numerical results. Attached video is not downloaded or transcribed; its contents are unassessed."
+    },
+    {
+      "post_id": "1736723015356805407",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736723015356805407",
+      "created_at": "2023-12-18T12:20:08.000Z",
+      "text": "Вучевић @milos_vucevic: Поносан сам на изборну победу https://t.co/AQm7eWHpef",
+      "images": [],
+      "unreviewed_media": [],
+      "category": "political_commentary",
+      "reason": "Read full saved text; congratulations, thanks, policy or political commentary without a numerical national vote-share projection. Attached photographs, if present, contain no result chart. Linked content not saved."
+    },
+    {
+      "post_id": "1736827692882768141",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736827692882768141",
+      "created_at": "2023-12-18T19:16:05.000Z",
+      "text": "Председник Србије Александар #Vucic @avucic рекао је, за РТС, да је наша земља имала поштене изборе, и навео да су резултати на изборима, разултат претходног рада и онога што сте понудили грађанима, а грађани су показали да желе безбедност и сигурност. https://t.co/e9O7WdYfJc https://t.co/oLeiP75VlW",
+      "images": [
+        {
+          "file": "data/2023/sns_srbija/1736827692882768141_3_1736826936972738560.jpg",
+          "sha256": "4c9e5d4283e91f231f2f83017a807163266714d2b0978951f8e38e58a6670d3e",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpy5aaXAAAz1zH.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "unreviewed_media": [],
+      "category": "process_report",
+      "reason": "Interview statement on election fairness; photograph contains no result chart. Final official totals cannot verify the fairness claim; linked interview not saved."
+    }
+  ],
+  "claims": [],
+  "note": "All 40 new saved texts and 19 photo attachments visually reviewed. No complete numerical national parliamentary projection found. 12 video attachments unavailable for review."
+}

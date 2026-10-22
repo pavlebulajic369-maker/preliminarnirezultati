@@ -1,0 +1,2150 @@
+{
+  "reviewed_on": "2026-10-22",
+  "scope": "Saved posts and photo attachments in election-night 20:00–00:00 windows; linked videos/pages excluded.",
+  "input_posts_sha256": {
+    "data/2020/cesidbeograd/posts.jsonl": "49f7fe95cb935607b0696f1979069ac74609cf71e8599969b435eb61cefc0e70",
+    "data/2020/crtars/posts.jsonl": "135485443f1eb95e0b81f9700c4f649dea6c7508f40e40417b58e7ba7a8e557c",
+    "data/2020/miikialeksic/posts.jsonl": "ec9fe4da977418a686b4427abe0efb6562efc0f0cdad0b4486512b1e909cffea",
+    "data/2020/milos_vucevic/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2020/narodnipokrets/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2020/slobodaipravda/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2020/sns_srbija/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2022/cesidbeograd/posts.jsonl": "b48d925d703ce721d8f0e78cd0fe9a03aea1254203c3b66460abd97d00e35250",
+    "data/2022/crtars/posts.jsonl": "cd86499535e85c22221bd1fb5892d4bfb5cc89eae7a863c3505a76a50859daa8",
+    "data/2022/miikialeksic/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2022/milos_vucevic/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2022/narodnipokrets/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2022/slobodaipravda/posts.jsonl": "5e7605d7f9e1f256277b2f64eece03ca70c9c76132f18a5048c7c934c4aa81bf",
+    "data/2022/sns_srbija/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2023/cesidbeograd/posts.jsonl": "aa4110f94cb75f0602559f4d721d20367cb081daf6e705b623e651638201a119",
+    "data/2023/crtars/posts.jsonl": "8903b763f571f5f3db383321d7987d0af96184984491930822507567a5aa74fc",
+    "data/2023/miikialeksic/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2023/milos_vucevic/posts.jsonl": "08562b077d50fa3ece991f681b095697d88554a1ce364ccb5fbe8d67c4104bae",
+    "data/2023/narodnipokrets/posts.jsonl": "c8215cb22a40423a7c2d92c519c6d8ae05832a5c699774e2b18fb2d12af81a03",
+    "data/2023/slobodaipravda/posts.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/2023/sns_srbija/posts.jsonl": "2bc8498260c6c6ab7e353bf277b60c64dae7c8464d8fc849dd3e3a1aabf96d95"
+  },
+  "records": [
+    {
+      "post_id": "1274772051711180800",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274772051711180800",
+      "created_at": "2020-06-21T18:31:55.000Z",
+      "text": "Na biračkom mestu u Apatinu, naš posmatrač je u automobilu udaljenom manje od 50m od BM uočio kopiju biračkog spiska. O ovome je obaveštena policija.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Polling-place incident; official result totals cannot verify incident reports."
+    },
+    {
+      "post_id": "1274777470181552128",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274777470181552128",
+      "created_at": "2020-06-21T18:53:27.000Z",
+      "text": "Na biračkom mestu 40 na Voždovcu nepoznata lica su ispred BO pretila članovima BO, kao i zaposlenima na održavanju zgrade u kojoj se nalazi BM i zahtevala da im se za 5 minuta kažu rezultati. Na ovo BM je pozvana policija.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Polling-place incident; official result totals cannot verify incident reports."
+    },
+    {
+      "post_id": "1274789282079703047",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274789282079703047",
+      "created_at": "2020-06-21T19:40:23.000Z",
+      "text": "Procena rezultata na 63.9% realizacije uzorka https://t.co/q4LQLhkSMF",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274789282079703047_3_1274789033743450115.jpg",
+          "sha256": "b5d31837027fa472783128a30ade82addc795475560aaec47d5133a5c23ef587",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbD13z_XgAMi7qA.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274798166576189443",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274798166576189443",
+      "created_at": "2020-06-21T20:15:42.000Z",
+      "text": "Procena rezultata na 75,5% realizacije uzorka https://t.co/MZfG151i7C",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274798166576189443_3_1274798150541357059.jpg",
+          "sha256": "9f6c1b696dc57f0f4c88c91bc81f395808692b715a3b4838d03c1ea7ea3273d9",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbD-KetXsAM0OXX.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274810342326046721",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274810342326046721",
+      "created_at": "2020-06-21T21:04:05.000Z",
+      "text": "Procena izlaznosti u 20h (bez Kosova i Metohije, zavoda za izvršenje krivičnih sankcija i dijaspore) na 87% realizacije uzorka https://t.co/ouTZb2dUeL",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274810342326046721_3_1274804712659914752.jpg",
+          "sha256": "73d9bb2d9ea13da9713a1983d09d1d914b812461611ecc4e90188378d747f6b9",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEEIcgWkAAOUWD.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274811761041051649",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274811761041051649",
+      "created_at": "2020-06-21T21:09:43.000Z",
+      "text": "Procena rezultata na 87,4% realizacije uzorka https://t.co/wgmj02VXoJ",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274811761041051649_3_1274811741751390208.jpg",
+          "sha256": "13f46f38b3a2ad16a0ecc269dc725287cebfb7c3870df343df4fb343d01c9e7f",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEKhl6WsAAaIrC.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274814500814966786",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274814500814966786",
+      "created_at": "2020-06-21T21:20:36.000Z",
+      "text": "@KatarinaDmitro3 @CRTArs https://t.co/rfgfoFgiTo",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply contains a link but no standalone numerical claim. Linked content is not saved."
+    },
+    {
+      "post_id": "1274817636006846465",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
+      "created_at": "2020-06-21T21:33:04.000Z",
+      "text": "Procena rezultata na 91,1% realizacije uzorka\n\nNevažeći listići: 4% https://t.co/E0OCdrtd4Q",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274817636006846465_3_1274817609767231491.jpg",
+          "sha256": "fc17a58f28045b68a4985f764682f17dcd0a7c72d0d090be1a171e715576b6c8",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEP3J-WoAMe4n5.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274764054502965253",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274764054502965253",
+      "created_at": "2020-06-21T18:00:09.000Z",
+      "text": "Zatvaraju se birališta. Ukoliko se birač zatekao u 20h na ili ispred biračkog mesta, birački odbor je dužan da ga pusti da glasa. #Izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274765808808464385",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274765808808464385",
+      "created_at": "2020-06-21T18:07:07.000Z",
+      "text": "@novaknajveci Nakon prebrojavanja glasova mi ćemo objaviti konačnu izlaznost i rezultate za parlamentarne izbore.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274770411989983233",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274770411989983233",
+      "created_at": "2020-06-21T18:25:24.000Z",
+      "text": "@Nina97507336 https://t.co/B85U67bY15",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274771133460615171",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274771133460615171",
+      "created_at": "2020-06-21T18:28:16.000Z",
+      "text": "Počinje #kzn. #Izbori2020\nhttps://t.co/FSFsge502P",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274771141178134531",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274771141178134531",
+      "created_at": "2020-06-21T18:28:18.000Z",
+      "text": "@jappydiv Zabranjena je upotreba mobilnih telefona i fotoaparata na biračkom mestu.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274772338287009792",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274772338287009792",
+      "created_at": "2020-06-21T18:33:04.000Z",
+      "text": "@TruthIsEdgy Napravili smo bazu brojeva telefona sa kojih su tokom kampanje pozivani građani u ime raznih stranaka. Pokušaćemo da otkrijemo na koga se ti brojevi telefona vode.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274773570674188291",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274773570674188291",
+      "created_at": "2020-06-21T18:37:58.000Z",
+      "text": "@veljkoveseljko @hrabri_markuze Poštovani, izlaznost smo merili na osnovu informacija koje smo dobijali od naših 1.700 posmatrača raspoređenih na 500 biračkih mesta širom Srbije. Istu metodologiju koristimo godinama unazad.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274773967757287424",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274773967757287424",
+      "created_at": "2020-06-21T18:39:32.000Z",
+      "text": "@sedamdeseti Prosledili smo našem pravnom timu. Hvala na info.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274776200074924032",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274776200074924032",
+      "created_at": "2020-06-21T18:48:24.000Z",
+      "text": "Na 5% BM bilo je nepravilnosti koje mogu uticati na rezultate glasanja. #Izbori2020 https://t.co/MMq2y7Hg0G",
+      "images": [
+        {
+          "file": "data/2020/crtars/1274776200074924032_3_1274776109930946561.png",
+          "sha256": "7782391674316831b1ecb52aba0d1377e845280b15b0ac9d14ee40a8adf97776",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbDqHjCWoAE22lt.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "process_report",
+      "reason": "Graphic reports irregularities, not vote shares.",
+      "extracted": {
+        "observer_access_denied_pct": 0,
+        "polling_places_with_irregularities_pct": 5
+      }
+    },
+    {
+      "post_id": "1274776632214138880",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274776632214138880",
+      "created_at": "2020-06-21T18:50:07.000Z",
+      "text": "U periodu od 19 do 20 časova na dva biračka mesta došlo je i do fizičkih incidenata.\n\nNa BM 139 na Novom Beogradu, gde je bila prisutna posmatračica Crte, upala je grupa momaka i počela da snima telefonom. Slučaj je prijavljen policiji. #Izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274777973711867912",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274777973711867912",
+      "created_at": "2020-06-21T18:55:27.000Z",
+      "text": "Zbog velikog interesovanja imamo manjih tehničkih problema sa sajtom https://t.co/3bLt7egcx1. Trudimo se da što pre budemo ponovo dostupni.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274778582947110919",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274778582947110919",
+      "created_at": "2020-06-21T18:57:53.000Z",
+      "text": "@Mushicky Zabeležili smo broj, hvala!",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274779110825492482",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274779110825492482",
+      "created_at": "2020-06-21T18:59:58.000Z",
+      "text": "Sledeća #kzn sa projekcijama rezultata nakon obrade podataka. #Izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274781738166779905",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274781738166779905",
+      "created_at": "2020-06-21T19:10:25.000Z",
+      "text": "@vladaz12 Za sada imamo samo podatak o izlaznosti do 19h - 45.5%. Uskoro ćemo objaviti i konačnu izlaznost na parlamentarnim izborima.",
+      "images": [],
+      "category": "earlier_turnout",
+      "reason": "45.5% turnout by 19:00; cannot compare with final turnout as an error.",
+      "extracted": {
+        "turnout_19h_pct": 45.5
+      }
+    },
+    {
+      "post_id": "1274782679020470272",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274782679020470272",
+      "created_at": "2020-06-21T19:14:09.000Z",
+      "text": "@Duga_Carapa @bora_novakovic Ukoliko se birač zatekao u 20h na ili ispred biračkog mesta, birački odbor je dužan da ga pusti da glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274804792985083904",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274804792985083904",
+      "created_at": "2020-06-21T20:42:02.000Z",
+      "text": "Za nekoliko minuta počinje #kzn. #Izbori2020 \nhttps://t.co/y6jzb2LqFi",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274806574821842944",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274806574821842944",
+      "created_at": "2020-06-21T20:49:06.000Z",
+      "text": "Izlaznost je između 48 i 49 odsto što je manje nego na parlamentarnim izborima 2016. kada je ukupna izlaznost bila 56,7 odsto. #Izbori2020",
+      "images": [],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274807152633397249",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274807152633397249",
+      "created_at": "2020-06-21T20:51:24.000Z",
+      "text": "@prijatelj1 Nije glasanje, dovozi se birački materijal sa biračkih mesta u opštini Palilula.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274807242198585346",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274807242198585346",
+      "created_at": "2020-06-21T20:51:45.000Z",
+      "text": "Na osnovu trenutnog obrađenog uzorka od 87%: \n1. Aleksandar Vučić - Za našu decu preko 58% osvojenih glasova\n2. Koalicija SPS - JS između 9 i 11 %\n3. Aleksandar Šapić - Pobeda za Srbiju između 3,5 i 4,5 %.\n#Izbori2020",
+      "images": [],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274807584248209411",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274807584248209411",
+      "created_at": "2020-06-21T20:53:07.000Z",
+      "text": "Osim manjinskih lista za koje ne važi izborni cenzus od 3 odsto, sve ostale liste, imajući u vidu trenutne procene na osnovu popunjenosti uzorka i marginu greške, ne mogu da pređu cenzus. #Izbori2020",
+      "images": [],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1274807786770235394",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274807786770235394",
+      "created_at": "2020-06-21T20:53:55.000Z",
+      "text": "Crta će nastaviti da prikuplja rezultate i podatke u vezi kvaliteta procesa na izborni dan a finalnu projekciju rezultata i ocenu kvaliteta izbornog dana će objaviti sutra na #KZN u 12 časova.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274808728286609409",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274808728286609409",
+      "created_at": "2020-06-21T20:57:40.000Z",
+      "text": "@ElIndio77831877 https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274809971339931649",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274809971339931649",
+      "created_at": "2020-06-21T21:02:36.000Z",
+      "text": "@divet67 https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274810389709152256",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274810389709152256",
+      "created_at": "2020-06-21T21:04:16.000Z",
+      "text": "@zuko_mayonez @prijatelj1 https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274810921400098816",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274810921400098816",
+      "created_at": "2020-06-21T21:06:23.000Z",
+      "text": "@zuko_mayonez https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274811464554106882",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274811464554106882",
+      "created_at": "2020-06-21T21:08:32.000Z",
+      "text": "@psittarch @FrauSilovichka @avucic Postoji jasna procedura glasanja van biračkog mesta, ovo što ste vi opisali uopšte ne izgleda kao regularno glasanje.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274812192949444609",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274812192949444609",
+      "created_at": "2020-06-21T21:11:26.000Z",
+      "text": "@stefangrf @ElIndio77831877 Podaci koje smo objavili baziraju se na 87 odsto obrađenog uzorka. Uzorak je sačinjen od 500 biračkih mesta širom Srbije.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274813182213832705",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274813182213832705",
+      "created_at": "2020-06-21T21:15:22.000Z",
+      "text": "@FrauSilovichka @psittarch @avucic Za početak, možete proveriti da li je neko glasao u ime Vaše majke - https://t.co/D8wsGAZd0B",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274813568060399616",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274813568060399616",
+      "created_at": "2020-06-21T21:16:54.000Z",
+      "text": "@KatarinaDmitro3 @CeSIDBeograd https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274818213742874624",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274818213742874624",
+      "created_at": "2020-06-21T21:35:21.000Z",
+      "text": "Rezultate #Izbori2020 čekali smo u društvu G. Junichia Maruyame, ambasadora Japana u Srbiji. https://t.co/rXN5QNwhOK",
+      "images": [
+        {
+          "file": "data/2020/crtars/1274818213742874624_3_1274818057974747138.jpg",
+          "sha256": "0059713bb468558fe47dcd25173940b9b2e2637f0c0e0ea3b040370cb25fd228",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEQRPrWkAI9DvE.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "event_photo",
+      "reason": "Reception photographs; no result chart or numerical election forecast."
+    },
+    {
+      "post_id": "1274819052469465093",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274819052469465093",
+      "created_at": "2020-06-21T21:38:41.000Z",
+      "text": "@downtownbeg Poštovana, zatvorena su sva birališta. O kvalitetu izbornog procesa i nepravilnostima tokom izbornog dana ćemo više govoriti sutra na konferenciji za novinare u 12h.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274819689814929408",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274819689814929408",
+      "created_at": "2020-06-21T21:41:13.000Z",
+      "text": "@Ksenija76o @RadovanN87 @BoraKonj @BalkanUtopia Zabeležili smo ovaj snimak i prosledili našem pravnom timu. Hvala na informaciji.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274819820308107265",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274819820308107265",
+      "created_at": "2020-06-21T21:41:44.000Z",
+      "text": "@draganpanic63 https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1274821407038410752",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274821407038410752",
+      "created_at": "2020-06-21T21:48:03.000Z",
+      "text": "Čast nam je da su nam se na prijemu povodom završetka izbornog dana #Izbori2020 pridružili g. Sam Fabrizi, ambasador EU, g. Andrea Orizio, šef Misije OEBS-a, i Thomas Schieb, ambasador Nemačke u Srbiji. @FabriziSem  @OSCE_Serbia https://t.co/CoEAovNMM7",
+      "images": [
+        {
+          "file": "data/2020/crtars/1274821407038410752_3_1274818550180581376.jpg",
+          "sha256": "6c6e25f4acc6d3eabe5c315de242a9b6e459367f23a9aeedb3c0fa25fd62a152",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEQt5SXkAATpxL.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "event_photo",
+      "reason": "Reception photographs; no result chart or numerical election forecast."
+    },
+    {
+      "post_id": "1274789123988107264",
+      "account": "miikialeksic",
+      "year": "2020",
+      "post_url": "https://x.com/miikialeksic/status/1274789123988107264",
+      "created_at": "2020-06-21T19:39:46.000Z",
+      "text": "Pre smo saznali rezultate nego procenat izlaznosti....@CRTArs @CeSIDBeograd",
+      "images": [],
+      "category": "commentary",
+      "reason": "Question/comment about publication timing or turnout; no numerical result."
+    },
+    {
+      "post_id": "1274791203821834241",
+      "account": "miikialeksic",
+      "year": "2020",
+      "post_url": "https://x.com/miikialeksic/status/1274791203821834241",
+      "created_at": "2020-06-21T19:48:02.000Z",
+      "text": "@dietrologia_ A izlaznost?",
+      "images": [],
+      "category": "commentary",
+      "reason": "Question/comment about publication timing or turnout; no numerical result."
+    },
+    {
+      "post_id": "1510718307967582218",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510718307967582218",
+      "created_at": "2022-04-03T20:38:07.000Z",
+      "text": "Projekcija rezultatata na osnovu 62,5% obrađenog uzorka - parlamentarni izbori. #izbori2022 https://t.co/8YYrIcRJlz",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510718307967582218_3_1510717917670871044.png",
+          "sha256": "2e2fa0790bc7b94df9cdb8dedeb27cd98e99f1fdf79203301e74606a12c5e49d",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcl8SaXEAQ4Zpe.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1510719490430050312",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510719490430050312",
+      "created_at": "2022-04-03T20:42:48.000Z",
+      "text": "Projekcija rezultatata na osnovu 55,6% obrađenog uzorka - predsednički izbori.  #izbori2022 https://t.co/p6T8eSPBZr",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510719490430050312_3_1510719389187854344.png",
+          "sha256": "d13c4a46b1b434699cd6017973c624fa2b53cfd0b31df0f9ad1e239e176511d8",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcnR8PWUAgSNlZ.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Presidential election; supplied benchmarks concern national parliament.",
+      "extracted": {
+        "sample_processed_pct": 55.6,
+        "candidate_pct": {
+          "Obradovic": 4.5,
+          "Jovanovic": 5.8,
+          "Vucic": 59.8,
+          "Djurdjevic_Stamenkovski": 4.4,
+          "Ponos": 17,
+          "Stamenkovic": 1.9,
+          "Stojkovic": 3,
+          "Vacic": 0.9
+        }
+      }
+    },
+    {
+      "post_id": "1510729200650629126",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510729200650629126",
+      "created_at": "2022-04-03T21:21:24.000Z",
+      "text": "Projekcija rezultatata na osnovu 77,1% obrađenog uzorka - parlamentarni izbori.  #izbori2022 https://t.co/q9KKc9uCIx",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510729200650629126_3_1510729038234636296.png",
+          "sha256": "d2bb8f82e1846a153af78cd1ff3bab69fe925d6b766abbf13ef20edea2662b38",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcwDlvX0AgF8al.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1510731167590453266",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510731167590453266",
+      "created_at": "2022-04-03T21:29:13.000Z",
+      "text": "Projekcija rezultatata na osnovu 75,2% obrađenog uzorka - predsednički izbori.  #izbori2022 https://t.co/hkje0S1knA",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510731167590453266_3_1510731062808305669.png",
+          "sha256": "a5a008a5367a216d005a8f5b6388f82e968889854f2b05d0f66ee6fe83ab7908",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcx5b3WYAUafTi.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Presidential election; supplied benchmarks concern national parliament.",
+      "extracted": {
+        "sample_processed_pct": 75.2,
+        "candidate_pct": {
+          "Obradovic": 4.5,
+          "Jovanovic": 6,
+          "Vucic": 58.8,
+          "Djurdjevic_Stamenkovski": 4.4,
+          "Ponos": 17.8,
+          "Stamenkovic": 2.1,
+          "Stojkovic": 3.2,
+          "Vacic": 0.9
+        }
+      }
+    },
+    {
+      "post_id": "1510735577217384457",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510735577217384457",
+      "created_at": "2022-04-03T21:46:44.000Z",
+      "text": "Projekcija rezultatata na osnovu 46,3% obrađenog uzorka - lokalni izbori u Beogradu.  #izbori2022 https://t.co/6yf83ijpuI",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510735577217384457_3_1510735553842630658.png",
+          "sha256": "f2c7f8872d9ac93dfc9049c5c8c9de0bf2e2e5f3d852f38f1423d1929bfd2152",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPc1-2RX0AIYghz.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly; national votes cast in Belgrade are a different election.",
+      "extracted": {
+        "sample_processed_pct": 46.3,
+        "party_pct": {
+          "SNS": 39.1,
+          "UJEDINJENI": 20.1,
+          "MORAMO": 10.3,
+          "SPS": 7,
+          "NADA": 6.2,
+          "ZAVETNICI": 3.7,
+          "DVERI": 3.6,
+          "SDS": 2.7,
+          "DJB": 2.2,
+          "SRS": 1.7,
+          "SAROVIC": 0.6,
+          "RUSKI_SAVEZ": 0.5
+        }
+      }
+    },
+    {
+      "post_id": "1510678575229325318",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510678575229325318",
+      "created_at": "2022-04-03T18:00:14.000Z",
+      "text": "Biračka mesta se zatvaraju i počinje brojanje glasova za #Izbori2022. Podsećamo da ukoliko se zateknete U ili ISPRED biračkog mesta u 20h, birački odbor je dužan da vam dozvoli da glasate.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510679470826479618",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510679470826479618",
+      "created_at": "2022-04-03T18:03:47.000Z",
+      "text": "@UroshNovakovic Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510679520575172615",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510679520575172615",
+      "created_at": "2022-04-03T18:03:59.000Z",
+      "text": "@tonisamjaja Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510679687378386950",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510679687378386950",
+      "created_at": "2022-04-03T18:04:39.000Z",
+      "text": "@OkoMojeL @tonisamjaja Tako je. Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510680010641784832",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510680010641784832",
+      "created_at": "2022-04-03T18:05:56.000Z",
+      "text": "@mmilenkovic U 20.15 imamo konferenciju za novinare.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510680292150943751",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510680292150943751",
+      "created_at": "2022-04-03T18:07:03.000Z",
+      "text": "@UroshNovakovic Tako je. Brojanje počinje kad svi birači koji su se zatekli na biračkom mestu glasaju.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510680409373351939",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510680409373351939",
+      "created_at": "2022-04-03T18:07:31.000Z",
+      "text": "@FrauSilovichka @ubistruja Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510681411526795270",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510681411526795270",
+      "created_at": "2022-04-03T18:11:30.000Z",
+      "text": "@IvanaMarica @FrauSilovichka @ubistruja U 20.15h imamo konferenciju za novinare.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510682605271887873",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510682605271887873",
+      "created_at": "2022-04-03T18:16:14.000Z",
+      "text": "@tonisamjaja Na biračkim mestima koja su zatvorena počinje brojanje. Tamo gde ima još birača, tamo se i dalje glasa.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510684533682847750",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510684533682847750",
+      "created_at": "2022-04-03T18:23:54.000Z",
+      "text": "Počinje KZN #Izbori2022  ⬇️⬇️\n https://t.co/CWsHJdmxHg",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510685669382889474",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510685669382889474",
+      "created_at": "2022-04-03T18:28:25.000Z",
+      "text": "Do 19h na parlamentarnim izborima na glasanje je izašlo je 55,1% birača. \nhttps://t.co/tb1g0XvRSv https://t.co/b7TreD3xFW",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510685669382889474_3_1510685085179203585.png",
+          "sha256": "fdfd1670e4c70824545de80c7118f2675f04bb0e3885278e8531bbe9077fb896",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcIFL2WUAEGWiw.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "earlier_turnout",
+      "reason": "Turnout by 19:00, not final turnout.",
+      "extracted": {
+        "turnout_19h_pct": 55.1,
+        "reported_error_pp": 1
+      }
+    },
+    {
+      "post_id": "1510686016432181254",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510686016432181254",
+      "created_at": "2022-04-03T18:29:48.000Z",
+      "text": "@Dragana_Nedin Brojanje počinje na biračkim mestima gde je završeno glasanje.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510686572747935745",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510686572747935745",
+      "created_at": "2022-04-03T18:32:00.000Z",
+      "text": "Prve procene rezultata #Izbori2022 objavićemo kad uzorak bude adekvatno popunjen, odnosno kad bude popunjeno 95% uzorka.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510689763770179590",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510689763770179590",
+      "created_at": "2022-04-03T18:44:41.000Z",
+      "text": "@i_Okolonaokolo Ako ste u 20 sati bili u redu za glasanje na biračkom mestu, a birački odbor vam nije dozvolio da glasate, možete da podnesete zahtev za poništavanje glasanja jer vam je uskraćeno biračko pravo. Ovo je procedura. \n\nhttps://t.co/lb0rJVkqKv",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510690248002465795",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510690248002465795",
+      "created_at": "2022-04-03T18:46:37.000Z",
+      "text": "@Krakozijanka @BalkanskaR Ako ste u 20 sati bili u redu za glasanje na biračkom mestu, a birački odbor vam nije dozvolio da glasate, možete da podnesete zahtev za poništavanje glasanja jer vam je uskraćeno biračko pravo. Ovo je procedura. \n\nhttps://t.co/lb0rJVC1C3",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510698894216384513",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510698894216384513",
+      "created_at": "2022-04-03T19:20:58.000Z",
+      "text": "Kako se kretala izlaznost tokom izbornog dana? \n\nSa projekcijama finalne izlaznosti i rezulatata izaći ćemo u javnost kada budemo imali 95% podataka sa oba uzorka (Srbija i Beograd), #Izbori2022 https://t.co/B53RG7jtpM",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510698894216384513_3_1510698528124903430.png",
+          "sha256": "1ff17441e8bfbf320840721d7717235e97fd7fb858614700333ff5e71397cf76",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcUTquXIAYR0BC.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "earlier_turnout",
+      "reason": "Intraday turnout series cannot be evaluated against end-of-day total.",
+      "extracted": {
+        "turnout_pct": {
+          "10h": 9.9,
+          "13h": 26.7,
+          "16h": 42.1,
+          "19h": 55.1
+        },
+        "reported_error_pp": {
+          "10h": 0.4,
+          "13h": 0.7,
+          "16h": 1,
+          "19h": 1
+        }
+      }
+    },
+    {
+      "post_id": "1510705155351756803",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510705155351756803",
+      "created_at": "2022-04-03T19:45:51.000Z",
+      "text": "Kako pristižu podaci #Izbori2022? ⬇️⬇️ https://t.co/LNc5zxmebY",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510705155351756803_3_1510704181530832898.png",
+          "sha256": "a5d172be847d5abef8f2a6ff2097efee61a8dce854dc8e53f22b014445807231",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcZcvTXsAIKJP9.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "presidential",
+        "sample_processed_pct": 45,
+        "sample_as_of_local": "21:30"
+      }
+    },
+    {
+      "post_id": "1510705160632381447",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510705160632381447",
+      "created_at": "2022-04-03T19:45:52.000Z",
+      "text": "https://t.co/dKZ5Hx61V8",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510705160632381447_3_1510704222945357827.png",
+          "sha256": "f105e6907aeb884702286b059615bf5113b941b26a32c72b68ad2082a2fc7cf3",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcZfJlXMAManiA.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "parliament",
+        "sample_processed_pct": 44,
+        "sample_as_of_local": "21:30"
+      }
+    },
+    {
+      "post_id": "1510705169360633863",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510705169360633863",
+      "created_at": "2022-04-03T19:45:54.000Z",
+      "text": "https://t.co/XLunyJg7sY",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510705169360633863_3_1510704420249554953.png",
+          "sha256": "c5246c217a8994f7fc46ed92891f7cffa64b923deec1cb5200f995c3818b8c4a",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcZqomWUAkqqE_.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "belgrade_city",
+        "sample_processed_pct": 4,
+        "sample_as_of_local": "21:30"
+      }
+    },
+    {
+      "post_id": "1510718613694603269",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510718613694603269",
+      "created_at": "2022-04-03T20:39:19.000Z",
+      "text": "@darkocitic U toku je obrada podataka.\n\nhttps://t.co/nqpLJxg9k9",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510720723102404609",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510720723102404609",
+      "created_at": "2022-04-03T20:47:42.000Z",
+      "text": "@Lula196971 Još uvek obrađujemo podatke.\n\nhttps://t.co/nqpLJxg9k9",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510724054164119567",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510724054164119567",
+      "created_at": "2022-04-03T21:00:57.000Z",
+      "text": "Prebrojavanje glasova na biračkim mestima u Beogradu dugo traje. S obzirom da ona čine veliki deo našeg uzorka za Srbiju, nećemo izlaziti u javnost sa projekcijama izlaznosti i rezultatima za predsedničke i parlamentarne izbore dok nam ne stignu podaci sa BM u BG. https://t.co/gvNozgjcjO",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510724054164119567_3_1510722232645038085.png",
+          "sha256": "95620a429fd617f16a58a1bdca857385c98fa606375dde71b26b0a18f0265a6f",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcp3c8XsAUEWs7.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "parliament",
+        "sample_processed_pct": 79,
+        "sample_as_of_local": "22:45"
+      }
+    },
+    {
+      "post_id": "1510724059461476358",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510724059461476358",
+      "created_at": "2022-04-03T21:00:58.000Z",
+      "text": "https://t.co/WGvPVOH9g3",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510724059461476358_3_1510722341659193351.png",
+          "sha256": "ebbe44bc3609b5e0f83beddf87ff37cbf35b3a960d7f4960efd76fcf87ccd241",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcp9zDXsAcWZcr.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "presidential",
+        "sample_processed_pct": 77,
+        "sample_as_of_local": "22:45"
+      }
+    },
+    {
+      "post_id": "1510724065258004488",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510724065258004488",
+      "created_at": "2022-04-03T21:00:59.000Z",
+      "text": "https://t.co/gLw7XABhua",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510724065258004488_3_1510722381576351746.png",
+          "sha256": "6e963a47c64ef959301df830252774d7c52627ecc3350634428cd2d7a29eaedd",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPcqAHwXMAI3gIg.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Percentage of sample received, not a party vote share.",
+      "extracted": {
+        "scope": "belgrade_city",
+        "sample_processed_pct": 25,
+        "sample_as_of_local": "22:45"
+      }
+    },
+    {
+      "post_id": "1510733183570038805",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510733183570038805",
+      "created_at": "2022-04-03T21:37:13.000Z",
+      "text": "@marija_antic Još obrađujemo podatke.    \n\nhttps://t.co/nqpLJxg9k9",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1510736370561875969",
+      "account": "slobodaipravda",
+      "year": "2022",
+      "post_url": "https://x.com/slobodaipravda/status/1510736370561875969",
+      "created_at": "2022-04-03T21:49:53.000Z",
+      "text": "Pratite uživo obraćanje Ujedinjenih za pobedu\n🔽🔽🔽\nhttps://t.co/XeIEH5l7wq https://t.co/jtLSJtlnLo",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2022/slobodaipravda/1510736370561875969_3_1510736364492537867.jpg",
+          "sha256": "a3104d3d71acbe1bbbd076490d66d68c2670b09508d4412166f3f1bc9b39dc47",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/FPc2uCLXwAs9dbp.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "external_livestream",
+      "reason": "Livestream link plus press-conference photo; no numerical claim in saved text or attachment. Video not saved/transcribed."
+    },
+    {
+      "post_id": "1736491315691446389",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736491315691446389",
+      "created_at": "2023-12-17T20:59:26.000Z",
+      "text": "Preliminarni rezultati parlamentarnih izbora 2023 na osnovu 72.6% obrađenog uzorka. 🗳️\n\n#izbori2023 https://t.co/zzhDGVS72m",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736491315691446389_3_1736491309584482304.jpg",
+          "sha256": "bd8a23df1f0ab49a375ced70908addcf4943df2eeda0341f3623dd8037e8de23",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlBpU9WAAAgNyp.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736496827044634778",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736496827044634778",
+      "created_at": "2023-12-17T21:21:20.000Z",
+      "text": "🗳️ CeSID i IPSOS: Projekcija raspodele mandata za Narodnu skupštinu na osnovu 72.6% obrađenog uzorka\n\n#izbori2023 https://t.co/VhRKDAhbKD",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736496827044634778_3_1736496820006621184.jpg",
+          "sha256": "205603141ffb8e5aed76987ecbdb8e188ed3e8b49be0ca23fc5c80f79c0d4cfd",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlGqE4XEAAEoT0.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736503013278179328",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736503013278179328",
+      "created_at": "2023-12-17T21:45:55.000Z",
+      "text": "🗳️ PRELIMINARNI REZULTATI BEOGRADSKIH IZBORA 2023 NA OSNOVU 42% OBRAĐENOG UZORKA\n\n#izbori2023 #izboribeograd https://t.co/wKUn8fcPT4",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736503013278179328_3_1736503007812919296.jpg",
+          "sha256": "5512b1c005d1295259edd941f1929db7c84784f3f49710fdd6ebe404b9bf14dd",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlMSQQWIAAbAmb.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly; no matching city benchmark supplied.",
+      "extracted": {
+        "sample_processed_pct": 42,
+        "party_pct": {
+          "SNS": 38.2,
+          "SPN": 35.1,
+          "NADA": 5.9,
+          "MI": 5.3,
+          "SPS": 4.9,
+          "ZAV_DVERI": 2.6,
+          "NS": 2.2,
+          "DJB_SDS": 1.6,
+          "CALE": 0.5,
+          "RUSKA": 0.4,
+          "LDP": 0.3,
+          "ZAPAD": 0.3,
+          "VACIC": 0.3,
+          "SPP": 0.1
+        }
+      }
+    },
+    {
+      "post_id": "1736504577833181469",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736504577833181469",
+      "created_at": "2023-12-17T21:52:08.000Z",
+      "text": "🗳️ Projekcija raspodele mandata za Skupštinu Grada Beograda na osnovu 42% obrađenog uzorka \n#izboribeograd https://t.co/Fo6hstfDzy",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736504577833181469_3_1736504572317704192.jpg",
+          "sha256": "6fb3e729cc6860d5a7c80950f390639428a380ad11e73531e86ee8dde0d6d3e7",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlNtUfWoAAgG9D.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly seats; no matching city benchmark supplied.",
+      "extracted": {
+        "sample_processed_pct": 42,
+        "seats": {
+          "SNS": 48,
+          "SPN": 43,
+          "NADA": 7,
+          "MI": 6,
+          "SPS": 6
+        },
+        "other_lists_seats": 0
+      }
+    },
+    {
+      "post_id": "1736513641321546053",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736513641321546053",
+      "created_at": "2023-12-17T22:28:09.000Z",
+      "text": "🗳️ PRELIMINARNI REZULTATI PARLAMENTARNIH IZBORA 2023 NA OSNOVU 88.4% OBRAĐENOG UZORKA\n#izboribeograd https://t.co/J3xi38SvQX",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736513641321546053_3_1736513636175122432.jpg",
+          "sha256": "95aded216b208f101b6a0c42b80d6248a3bac6984c8f2b056a776fbdfcd747ad",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlV85_XEAAV15k.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736514618996961555",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736514618996961555",
+      "created_at": "2023-12-17T22:32:02.000Z",
+      "text": "🗳️ Projekcija raspodele mandata za Narodnu skupštinu na osnovu 88.4% obrađenog uzorka \n#izboribeograd https://t.co/IrVQvFo9KL",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736514618996961555_3_1736514612206473216.jpg",
+          "sha256": "d3496260cc45c931dbba1903e5c216726fb0817966d0581db1f54462bb456f19",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlW1t_XkAA5qs3.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736520939683168370",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736520939683168370",
+      "created_at": "2023-12-17T22:57:09.000Z",
+      "text": "🗳️ PRELIMINARNI REZULTATI BEOGRADSKIH IZBORA 2023 NA OSNOVU 77% OBRAĐENOG UZORKA\n\n#izboribeograd https://t.co/unxUaCPGnh",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736520939683168370_3_1736520934469603328.jpg",
+          "sha256": "e55f5b13a2e2943a69d7480fda5c8836f600147dcc257d73a00b040e2da376ea",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlcluQXEAA8Pk5.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly; no matching city benchmark supplied.",
+      "extracted": {
+        "sample_processed_pct": 77,
+        "party_pct": {
+          "SNS": 38.8,
+          "SPN": 34.5,
+          "NADA": 6,
+          "MI": 5.3,
+          "SPS": 4.9,
+          "ZAV_DVERI": 2.6,
+          "NS": 2.1,
+          "DJB_SDS": 1.6,
+          "CALE": 0.5,
+          "RUSKA": 0.4,
+          "LDP": 0.3,
+          "ZAPAD": 0.3,
+          "VACIC": 0.3,
+          "SPP": 0.1
+        }
+      }
+    },
+    {
+      "post_id": "1736461552272769289",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736461552272769289",
+      "created_at": "2023-12-17T19:01:10.000Z",
+      "text": "📌Biračka mesta se zatvaraju, počinje brojanje glasova za #Izbori2023",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736464425580691538",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736464425580691538",
+      "created_at": "2023-12-17T19:12:35.000Z",
+      "text": "https://t.co/DIwAGGid9r👉 https://t.co/k4Ggz25Yzm",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736464535672823860",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736464535672823860",
+      "created_at": "2023-12-17T19:13:01.000Z",
+      "text": "👉https://t.co/DIwAGGid9r https://t.co/k4Ggz25Yzm",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466178099302406",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466178099302406",
+      "created_at": "2023-12-17T19:19:33.000Z",
+      "text": "👉Do 19h na parlamentarne izbore na nivou Srbije izašlo je 55,5% građana sa pravom glasa, dok je  parlamentarne izbore na BM u Beogradu do 19h izašlo je 54,8% birača.\n\n👉To je više nego na izborima 2022. kada je do 19h odziv birača bio 55,1% u Srbiji i 52,2% u Beogradu. https://t.co/kBbO6qEL8i",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736466178099302406_3_1736465838771744768.png",
+          "sha256": "f8f3e61de78b95e61481b7792b2c29ba628fcdd0ce9febadafab503a4fca4d41",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBkqeuyXMAA2t2u.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "earlier_turnout",
+      "reason": "Turnout by 19:00, not final turnout.",
+      "extracted": {
+        "national_turnout_pct": 55.5,
+        "belgrade_parliamentary_turnout_pct": 54.8,
+        "national_error_pp": 0.9,
+        "belgrade_error_pp": 0.4
+      }
+    },
+    {
+      "post_id": "1736466180125167758",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466180125167758",
+      "created_at": "2023-12-17T19:19:33.000Z",
+      "text": "Od poslednjeg preseka Crta je podnela još dve prijave zbog izborne korupcije – dakle, ukupno sedam prijava za sada, i to za slučajeve zabeležene na Novom Beogradu, Čukarici, u Odžacima, Vršcu, Malom Iđošu i - poslednje - u Titelu, isped dva BM.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466181698044098",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466181698044098",
+      "created_at": "2023-12-17T19:19:34.000Z",
+      "text": "U popodnevnim i večernjim časovima jasan je trend izrazitog rasta broja slučajeva unapred popunjenih glasačkih listića i nezakonitog prisustva trećih lica na biračkim mestima, posebno u Beogradu.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466183258345567",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466183258345567",
+      "created_at": "2023-12-17T19:19:34.000Z",
+      "text": "U Beogradu se od prethodnog preseka utrostručio broj mesta na kojima su zabeleženi slučajevi da se neko potpisao u izvod iz biračkog spiska umesto birača.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466184873099575",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466184873099575",
+      "created_at": "2023-12-17T19:19:35.000Z",
+      "text": "Zabrinjavajuće je veliki porast broja slučajeva vođenja paralelne evidencije unutar i izvan BM, organizovanog dovođenja birača, sumnjivog kruženja automobila oko biračkih mesta…",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466186873761867",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466186873761867",
+      "created_at": "2023-12-17T19:19:35.000Z",
+      "text": "Broj građana koji se obratio Crti povodom kršenja njihovih biračkih prava veći je nego na bilo kojim ranijim izborima koje smo posmatrali.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466189063164324",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466189063164324",
+      "created_at": "2023-12-17T19:19:36.000Z",
+      "text": "U pitanju su situacije da nisu bili u izvodu iz biračkog spiska na biračkim mestima na kojima decenijama glasaju, nije im omogućeno da glasaju od kuće iako su imali prava na to i blagovremeno su se prijavili, neko je već glasao umesto njih itd.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466190619287766",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466190619287766",
+      "created_at": "2023-12-17T19:19:36.000Z",
+      "text": "Pošto se istovremeno održavaju izbori na više nivoa, očekuje se da će proces prebrojavanja glasova trajati dugo. Kako bi se obezbedila pouzdanost i tačnost podataka, s projekcijom rezultata izbora u  javnost izaći ćemo tek kad prikupi i obradi podatke sa najmanje 95% BM iz uzorka",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736466192502538457",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736466192502538457",
+      "created_at": "2023-12-17T19:19:36.000Z",
+      "text": "Sledeća konferencija za medije Crte biće održana nakon što se obrade podaci sa 95% biračkih mesta iz oba uzoraka. Konferenciju možete pratiti uživo na Facebook stranici Crte ili na Crtinom YT kanalu.\nhttps://t.co/6FQWj0Ev8l",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Read text: voting procedure, incident report, reply, link, or promise to publish later; no evaluable final national-result estimate in saved text."
+    },
+    {
+      "post_id": "1736473053465313303",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736473053465313303",
+      "created_at": "2023-12-17T19:46:52.000Z",
+      "text": "@svigirbor Na izborima 2022. godine bilo je upisano 6.502.307 a ove godine je 6.500.666",
+      "images": [],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736488963819340271",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736488963819340271",
+      "created_at": "2023-12-17T20:50:06.000Z",
+      "text": "📢I mi sa nestrpljenjem očekujemo da nam pristignu svi podaci i da završimo sa analizom. Kada budemo imali podatke sa 95% biračkih mesta iz našeg uzorka, moći ćemo da izađemo u javnost sa projekcijama izlaznosti i rezultata. \n\n📌Za sada imamo 70% popunjenog uzorka u Srbiji i 14% na nivou Beograda.",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736488963819340271_3_1736488240465461248.png",
+          "sha256": "33536b916a593244265e7b56eb3f97b9068cfd410b0e5a6ed766301ca96e7bb5",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBk-2rmWQAA5iQY.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Sample coverage, not election outcome.",
+      "extracted": {
+        "national_sample_pct": 70,
+        "belgrade_sample_pct": 14,
+        "sample_as_of_local": "21:40"
+      }
+    },
+    {
+      "post_id": "1736503158015156295",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736503158015156295",
+      "created_at": "2023-12-17T21:46:30.000Z",
+      "text": "Velika biračka mesta još se broje... #izbori2023 https://t.co/GMwMaPNhQn",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736503158015156295_3_1736503021335371776.png",
+          "sha256": "ea3b25af5ab233a2ff0c666771efefbd6451ffed52aeec37c3f88e79a38b3221",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlMTCoWYAAZwVQ.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Sample coverage, not election outcome.",
+      "extracted": {
+        "national_sample_pct": 85,
+        "belgrade_sample_pct": 40,
+        "sample_as_of_local": "22:40"
+      }
+    },
+    {
+      "post_id": "1736517035817886148",
+      "account": "milos_vucevic",
+      "year": "2023",
+      "post_url": "https://x.com/milos_vucevic/status/1736517035817886148",
+      "created_at": "2023-12-17T22:41:38.000Z",
+      "text": "Убедљива победа!!!\nНарод је изабрао, Србија неће стати!!!\nЖивела Србија! https://t.co/6y0ECRqIO1",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2023/milos_vucevic/1736517035817886148_3_1736517021049774080.jpg",
+          "sha256": "5ebf6b7a84de1a03aa7e47c0a5e2f1b164357caccf71da0f53fd40cd9f83b757",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlZB7oXYAAo_cC.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "analysis/accounts/recovered_media/2023/milos_vucevic/1736517035817886148_3_1736517021062270976.jpg",
+          "sha256": "c123ac154fcc913459a17dd718e622b16bc7a2fd1fd9ea6a051047bd84167226",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlZB7rWEAAArnd.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "analysis/accounts/recovered_media/2023/milos_vucevic/1736517035817886148_3_1736517021079146496.jpg",
+          "sha256": "df3a4466037ca6c4c47b1f48290f122a32b9f1a0fe4a74870440fa6a813c4252",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlZB7vXkAAYn0o.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "analysis/accounts/recovered_media/2023/milos_vucevic/1736517035817886148_3_1736517021074907136.jpg",
+          "sha256": "a783ec9121e7ef3c7a1abe14900db9894d96cca935182ce2e78b5acca1d52eae",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlZB7uW4AAmQnW.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736513680055902500",
+      "account": "narodnipokrets",
+      "year": "2023",
+      "post_url": "https://x.com/narodnipokrets/status/1736513680055902500",
+      "created_at": "2023-12-17T22:28:18.000Z",
+      "text": "UŽIVO ⬇️\n\nhttps://t.co/yJfSyZHxuw",
+      "images": [],
+      "category": "external_livestream",
+      "reason": "Livestream link only; video not saved/transcribed."
+    },
+    {
+      "post_id": "1736492784155038064",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736492784155038064",
+      "created_at": "2023-12-17T21:05:16.000Z",
+      "text": "Србијо, хвала на подршци! Ви сте наша снага! Живела Србија! 🇷🇸🇷🇸🇷🇸 #Vucic @avucic @milos_vucevic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/V5tdGCrOHc",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2023/sns_srbija/1736492784155038064_3_1736492745387098113.jpg",
+          "sha256": "1136211e91bd9789785592ffbaec54d58a9a7e3778aefdea776863540f7cea4f",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlC85vXQAEmYWA.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "campaign_graphic",
+      "reason": "Thank-you graphics and text contain no numerical result."
+    },
+    {
+      "post_id": "1736499191289905374",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736499191289905374",
+      "created_at": "2023-12-17T21:30:44.000Z",
+      "text": "Србијо, хвала на подршци! Живела Србија! 🇷🇸🇷🇸🇷🇸 #Vucic @avucic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/2SQJBz8Exz",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2023/sns_srbija/1736499191289905374_3_1736499167491399681.jpg",
+          "sha256": "014b5e6b76a32fd88b4bca6e9f04bc14bf3bd425dc47a480ac03befcea952b12",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlIyt8WIAExm_g.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "campaign_graphic",
+      "reason": "Thank-you graphics and text contain no numerical result."
+    },
+    {
+      "post_id": "1736505133297451187",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736505133297451187",
+      "created_at": "2023-12-17T21:54:21.000Z",
+      "text": "Председник Србије и члан СНС Александар #Vucic @avucic изјавио је, да прелиминарни резултати показују да је највише гласова освојила листа \"Србија не сме да стане\", и додао да људи знају да желимо Србији добро, и зато морамо да наставимо да се боримо. https://t.co/UjFNH8dleb https://t.co/nMUXiIN3Ma",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2023/sns_srbija/1736505133297451187_3_1736504159317143552.jpg",
+          "sha256": "27bc1500367099b9894b2611b9223bbb1411996145b3de5969a7ee2142fdf4ee",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlNVR8WMAAS0jh.jpg?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "analysis/accounts/recovered_media/2023/sns_srbija/1736505133297451187_3_1736504957426159616.jpg",
+          "sha256": "3b66bb7b9a582e8aaf1bd825a8e7a6078589158d135a038e9e43ea08b0c3afb2",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlODvIXUAAwvnM.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736505841623109652",
+      "account": "sns_srbija",
+      "year": "2023",
+      "post_url": "https://x.com/sns_srbija/status/1736505841623109652",
+      "created_at": "2023-12-17T21:57:10.000Z",
+      "text": "Народе, хвала на подршци! Људи су наша снага! 🇷🇸🇷🇸🇷🇸 @milos_vucevic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/8bZXOkWakY",
+      "images": [
+        {
+          "file": "analysis/accounts/recovered_media/2023/sns_srbija/1736505841623109652_3_1736505811206107136.jpg",
+          "sha256": "aedc840ff002330572fab5cd4e9c1d0b83c7fbd6f94e4cca78ab328aaa16bc1d",
+          "recovered_from_saved_public_url": true,
+          "url": "https://pbs.twimg.com/media/GBlO1btXcAA4e6_.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "campaign_graphic",
+      "reason": "Thank-you graphics and text contain no numerical result."
+    }
+  ],
+  "claims": [
+    {
+      "post_id": "1274789282079703047",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 62.4,
+        "SPS": 10.7,
+        "SRS": 2.1,
+        "SVM": 2.2,
+        "SPAS": 4.1,
+        "POKS": 2.9,
+        "UDS": 1,
+        "SPP": 0.9,
+        "METLA": 2.5,
+        "ZDRAVA": 1.1,
+        "SDA": 0.6,
+        "ZAVETNICI": 1.6,
+        "NARODNI_BLOK": 0.3,
+        "PSG": 1.8,
+        "DJB": 2.6,
+        "ADA": 1,
+        "JEDAN_OD_PET": 0.7,
+        "ZELENA_NOVA": 0.3,
+        "RUSKA": 0.2,
+        "MIR": 0.3,
+        "LEVIJATAN": 0.8
+      },
+      "sample_processed_pct": 63.9,
+      "basis": "valid_ballots",
+      "basis_explicit": false,
+      "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1274789282079703047:vote_share",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1274798166576189443",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 62.5,
+        "SPS": 10.7,
+        "SRS": 2.1,
+        "SVM": 2.2,
+        "SPAS": 4,
+        "POKS": 2.9,
+        "UDS": 1,
+        "SPP": 1,
+        "METLA": 2.4,
+        "ZDRAVA": 1,
+        "SDA": 0.8,
+        "ZAVETNICI": 1.6,
+        "NARODNI_BLOK": 0.2,
+        "PSG": 1.8,
+        "DJB": 2.6,
+        "ADA": 1,
+        "JEDAN_OD_PET": 0.7,
+        "ZELENA_NOVA": 0.3,
+        "RUSKA": 0.2,
+        "MIR": 0.3,
+        "LEVIJATAN": 0.8
+      },
+      "sample_processed_pct": 75.5,
+      "basis": "valid_ballots",
+      "basis_explicit": false,
+      "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1274798166576189443:vote_share",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1274811761041051649",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 62.8,
+        "SPS": 10.8,
+        "SRS": 2,
+        "SVM": 2.2,
+        "SPAS": 4.2,
+        "POKS": 2.7,
+        "UDS": 1,
+        "SPP": 1,
+        "METLA": 2.4,
+        "ZDRAVA": 0.9,
+        "SDA": 0.9,
+        "ZAVETNICI": 1.6,
+        "NARODNI_BLOK": 0.2,
+        "PSG": 1.8,
+        "DJB": 2.6,
+        "ADA": 1,
+        "JEDAN_OD_PET": 0.6,
+        "ZELENA_NOVA": 0.3,
+        "RUSKA": 0.2,
+        "MIR": 0.3,
+        "LEVIJATAN": 0.9
+      },
+      "sample_processed_pct": 87.4,
+      "basis": "valid_ballots",
+      "basis_explicit": false,
+      "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1274811761041051649:vote_share",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1274817636006846465",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 62.6,
+        "SPS": 10.9,
+        "SRS": 2,
+        "SVM": 2.3,
+        "SPAS": 4.1,
+        "POKS": 2.7,
+        "UDS": 1,
+        "SPP": 1,
+        "METLA": 2.4,
+        "ZDRAVA": 0.9,
+        "SDA": 0.9,
+        "ZAVETNICI": 1.6,
+        "NARODNI_BLOK": 0.2,
+        "PSG": 1.8,
+        "DJB": 2.6,
+        "ADA": 1,
+        "JEDAN_OD_PET": 0.7,
+        "ZELENA_NOVA": 0.3,
+        "RUSKA": 0.2,
+        "MIR": 0.3,
+        "LEVIJATAN": 0.9
+      },
+      "sample_processed_pct": 91.1,
+      "basis": "valid_ballots",
+      "basis_explicit": false,
+      "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1274817636006846465:vote_share",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1274817636006846465",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 4
+      },
+      "basis": "ballots_cast",
+      "note": "Text says invalid ballots 4%; denominator is assumed ballots cast.",
+      "claim_id": "1274817636006846465:invalid_ballot_share",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1274810342326046721",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 47.7
+      },
+      "scope": "without_kosovo_prisons_abroad",
+      "sample_processed_pct": 87,
+      "note": "Compare with matching territorial scope, not national turnout; earlier-year bars are historical context.",
+      "claim_id": "1274810342326046721:turnout",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1510718307967582218",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 43.6,
+        "UJEDINJENI": 12.8,
+        "SPS": 11.6,
+        "NADA": 5.4,
+        "MORAMO": 4.3,
+        "DVERI": 4,
+        "ZAVETNICI": 3.9,
+        "DJB": 2.2,
+        "SRS": 2.2,
+        "SDS": 1.7,
+        "SVM": 1.5,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.5,
+        "KAD": 0.3,
+        "RUSKI_SAVEZ": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "sample_processed_pct": 62.5,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "note": "Ballots-cast basis inferred from chart total below 100%; valid-normalized sensitivity also calculated.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1510718307967582218:vote_share",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1510729200650629126",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 43.1,
+        "UJEDINJENI": 13.2,
+        "SPS": 11.4,
+        "NADA": 5.4,
+        "MORAMO": 4.5,
+        "DVERI": 3.9,
+        "ZAVETNICI": 3.9,
+        "DJB": 2.3,
+        "SRS": 2.2,
+        "SDS": 1.7,
+        "SVM": 1.6,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.5,
+        "KAD": 0.3,
+        "RUSKI_SAVEZ": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "sample_processed_pct": 77.1,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "note": "Ballots-cast basis inferred from chart total below 100%; valid-normalized sensitivity also calculated.",
+      "attribution": "CeSID/Ipsos",
+      "claim_id": "1510729200650629126:vote_share",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1736491315691446389",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 46.6,
+        "SPN": 23.1,
+        "SPS": 6.9,
+        "MI": 4.8,
+        "NADA": 4.8,
+        "ZAV_DVERI": 2.8,
+        "SVM": 1.7,
+        "SRS": 1.5,
+        "DJB_SDS": 1.2,
+        "NS": 0.9,
+        "SPP_DSHV": 0.8,
+        "SDA": 0.6,
+        "PDD": 0.4,
+        "RUSKA": 0.3,
+        "LDP": 0.2,
+        "SRBIJA_ZAPAD": 0.2,
+        "MIR_TOLERANCIJA": 0.2,
+        "ADA": 0.1
+      },
+      "sample_processed_pct": 72.6,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "attribution": "CeSID/Ipsos",
+      "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+      "claim_id": "1736491315691446389:vote_share",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1736496827044634778",
+      "kind": "seats",
+      "values": {
+        "SNS": 129,
+        "SPN": 63,
+        "SPS": 19,
+        "MI": 13,
+        "NADA": 13,
+        "ZAV_DVERI": 0,
+        "SVM": 6,
+        "SRS": 0,
+        "DJB_SDS": 0,
+        "NS": 0,
+        "SPP_DSHV": 3,
+        "SDA": 2,
+        "PDD": 1,
+        "RUSKA": 1,
+        "LDP": 0,
+        "SRBIJA_ZAPAD": 0,
+        "MIR_TOLERANCIJA": 0,
+        "ADA": 0
+      },
+      "sample_processed_pct": 72.6,
+      "basis": null,
+      "basis_explicit": false,
+      "attribution": "CeSID/Ipsos",
+      "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+      "claim_id": "1736496827044634778:seats",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1736513641321546053",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 46.2,
+        "SPN": 23.7,
+        "SPS": 6.6,
+        "MI": 4.8,
+        "NADA": 4.9,
+        "ZAV_DVERI": 2.8,
+        "SVM": 1.7,
+        "SRS": 1.5,
+        "DJB_SDS": 1.2,
+        "NS": 0.9,
+        "SPP_DSHV": 0.9,
+        "SDA": 0.6,
+        "PDD": 0.4,
+        "RUSKA": 0.3,
+        "LDP": 0.2,
+        "SRBIJA_ZAPAD": 0.2,
+        "MIR_TOLERANCIJA": 0.2,
+        "ADA": 0.1
+      },
+      "sample_processed_pct": 88.4,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "attribution": "CeSID/Ipsos",
+      "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+      "claim_id": "1736513641321546053:vote_share",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1736514618996961555",
+      "kind": "seats",
+      "values": {
+        "SNS": 128,
+        "SPN": 65,
+        "SPS": 18,
+        "MI": 13,
+        "NADA": 13,
+        "ZAV_DVERI": 0,
+        "SVM": 6,
+        "SRS": 0,
+        "DJB_SDS": 0,
+        "NS": 0,
+        "SPP_DSHV": 3,
+        "SDA": 2,
+        "PDD": 1,
+        "RUSKA": 1,
+        "LDP": 0,
+        "SRBIJA_ZAPAD": 0,
+        "MIR_TOLERANCIJA": 0,
+        "ADA": 0
+      },
+      "sample_processed_pct": 88.4,
+      "basis": null,
+      "basis_explicit": false,
+      "attribution": "CeSID/Ipsos",
+      "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+      "claim_id": "1736514618996961555:seats",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1274807242198585346",
+      "kind": "vote_share_bounds",
+      "values": {
+        "SNS": {
+          "lower": 58,
+          "upper": null,
+          "lower_inclusive": false
+        },
+        "SPS": {
+          "lower": 9,
+          "upper": 11,
+          "lower_inclusive": true
+        },
+        "SPAS": {
+          "lower": 3.5,
+          "upper": 4.5,
+          "lower_inclusive": true
+        }
+      },
+      "basis": "voters_who_turned_out",
+      "basis_explicit": false,
+      "sample_processed_pct": 87,
+      "note": "Literal published bounds; no fabricated SNS point estimate and no midpoint MAE. Valid-vote sensitivity is also shown.",
+      "attribution": "CRTA",
+      "claim_id": "1274807242198585346:vote_share_bounds",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": true
+    },
+    {
+      "post_id": "1274806574821842944",
+      "kind": "turnout_bounds",
+      "values": {
+        "lower": 48,
+        "upper": 49
+      },
+      "scope": "national",
+      "note": "2016 comparison is historical context, outside selected benchmark years.",
+      "claim_id": "1274806574821842944:turnout_bounds",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1274807584248209411",
+      "kind": "below_threshold",
+      "values": {
+        "lists": [
+          "SRS",
+          "POKS",
+          "UDS",
+          "METLA",
+          "ZDRAVA",
+          "ZAVETNICI",
+          "NARODNI_BLOK",
+          "PSG",
+          "DJB",
+          "JEDAN_OD_PET",
+          "ZELENA_NOVA",
+          "MIR",
+          "LEVIJATAN"
+        ],
+        "threshold_pct": 3
+      },
+      "note": "Qualitative threshold claim only; explicitly excludes minority lists. Verify against official shares, not sample coverage.",
+      "claim_id": "1274807584248209411:below_threshold",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1736473053465313303",
+      "kind": "registered_voters",
+      "values": {
+        "2022": 6502307,
+        "2023": 6500666
+      },
+      "note": "Known registration counts, not a preliminary-result forecast; excluded from forecast confidence.",
+      "claim_id": "1736473053465313303:registered_voters",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1736505133297451187",
+      "kind": "winner",
+      "values": {
+        "party": "SNS"
+      },
+      "note": "Text explicitly says SNS list received the most votes. Correct qualitative claim alone cannot establish numerical forecasting accuracy.",
+      "claim_id": "1736505133297451187:winner",
+      "account": "sns_srbija",
+      "year": "2023",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    },
+    {
+      "post_id": "1736517035817886148",
+      "kind": "winner",
+      "values": {
+        "party": "SNS"
+      },
+      "scope_inferred": true,
+      "note": "Victory statement interpreted from party slogan and press-conference photos; no numerical margin and no explicit election level. Keep as contextual corroboration, outside numerical score.",
+      "claim_id": "1736517035817886148:winner",
+      "account": "milos_vucevic",
+      "year": "2023",
+      "extraction": "reviewed saved text",
+      "confidence_scoring_eligible": false
+    }
+  ],
+  "note": "Transcriptions are reviewed data, not automatically inferred OCR. New or changed posts/images must be reviewed before evaluation can succeed."
+}

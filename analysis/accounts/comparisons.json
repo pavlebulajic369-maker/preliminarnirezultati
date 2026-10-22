@@ -1,0 +1,3645 @@
+[
+  {
+    "post_id": "1274789282079703047",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 62.4,
+      "SPS": 10.7,
+      "SRS": 2.1,
+      "SVM": 2.2,
+      "SPAS": 4.1,
+      "POKS": 2.9,
+      "UDS": 1,
+      "SPP": 0.9,
+      "METLA": 2.5,
+      "ZDRAVA": 1.1,
+      "SDA": 0.6,
+      "ZAVETNICI": 1.6,
+      "NARODNI_BLOK": 0.3,
+      "PSG": 1.8,
+      "DJB": 2.6,
+      "ADA": 1,
+      "JEDAN_OD_PET": 0.7,
+      "ZELENA_NOVA": 0.3,
+      "RUSKA": 0.2,
+      "MIR": 0.3,
+      "LEVIJATAN": 0.8
+    },
+    "sample_processed_pct": 63.9,
+    "basis": "valid_ballots",
+    "basis_explicit": false,
+    "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1274789282079703047:vote_share",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3100608,
+    "chart_sum_pct": 100.1,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 62.4,
+        "official": 63.019833529423906,
+        "signed_error": -0.6198335294239072,
+        "absolute_error": 0.6198335294239072
+      },
+      {
+        "party": "SPS",
+        "estimate": 10.7,
+        "official": 10.782820659689971,
+        "signed_error": -0.08282065968997188,
+        "absolute_error": 0.08282065968997188
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.1,
+        "official": 2.1271311949140297,
+        "signed_error": -0.0271311949140296,
+        "absolute_error": 0.0271311949140296
+      },
+      {
+        "party": "SVM",
+        "estimate": 2.2,
+        "official": 2.3186742729167955,
+        "signed_error": -0.11867427291679533,
+        "absolute_error": 0.11867427291679533
+      },
+      {
+        "party": "SPAS",
+        "estimate": 4.1,
+        "official": 3.9796388321258283,
+        "signed_error": 0.1203611678741714,
+        "absolute_error": 0.1203611678741714
+      },
+      {
+        "party": "POKS",
+        "estimate": 2.9,
+        "official": 2.7700373604144737,
+        "signed_error": 0.12996263958552623,
+        "absolute_error": 0.12996263958552623
+      },
+      {
+        "party": "UDS",
+        "estimate": 1,
+        "official": 0.9866129481701653,
+        "signed_error": 0.013387051829834684,
+        "absolute_error": 0.013387051829834684
+      },
+      {
+        "party": "SPP",
+        "estimate": 0.9,
+        "official": 1.0375384440729045,
+        "signed_error": -0.1375384440729045,
+        "absolute_error": 0.1375384440729045
+      },
+      {
+        "party": "METLA",
+        "estimate": 2.5,
+        "official": 2.324866606807439,
+        "signed_error": 0.17513339319256094,
+        "absolute_error": 0.17513339319256094
+      },
+      {
+        "party": "ZDRAVA",
+        "estimate": 1.1,
+        "official": 1.0783368939253204,
+        "signed_error": 0.021663106074679694,
+        "absolute_error": 0.021663106074679694
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.7958439119037298,
+        "signed_error": -0.19584391190372985,
+        "absolute_error": 0.19584391190372985
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 1.6,
+        "official": 1.4819674076826221,
+        "signed_error": 0.11803259231737795,
+        "absolute_error": 0.11803259231737795
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "estimate": 0.3,
+        "official": 0.25391794125539247,
+        "signed_error": 0.046082058744607524,
+        "absolute_error": 0.046082058744607524
+      },
+      {
+        "party": "PSG",
+        "estimate": 1.8,
+        "official": 1.6372595310339133,
+        "signed_error": 0.16274046896608674,
+        "absolute_error": 0.16274046896608674
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.6,
+        "official": 2.385112855285157,
+        "signed_error": 0.21488714471484327,
+        "absolute_error": 0.21488714471484327
+      },
+      {
+        "party": "ADA",
+        "estimate": 1,
+        "official": 0.8526392243069746,
+        "signed_error": 0.14736077569302541,
+        "absolute_error": 0.14736077569302541
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "estimate": 0.7,
+        "official": 0.6535814911140009,
+        "signed_error": 0.04641850888599908,
+        "absolute_error": 0.04641850888599908
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "estimate": 0.3,
+        "official": 0.2517248230024563,
+        "signed_error": 0.04827517699754369,
+        "absolute_error": 0.04827517699754369
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.2,
+        "official": 0.20302469709166718,
+        "signed_error": -0.0030246970916671667,
+        "absolute_error": 0.0030246970916671667
+      },
+      {
+        "party": "MIR",
+        "estimate": 0.3,
+        "official": 0.3276131649018515,
+        "signed_error": -0.027613164901851506,
+        "absolute_error": 0.027613164901851506
+      },
+      {
+        "party": "LEVIJATAN",
+        "estimate": 0.8,
+        "official": 0.7318242099614011,
+        "signed_error": 0.06817579003859897,
+        "absolute_error": 0.06817579003859897
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 21,
+      "mae_pp": 0.12023617856331965,
+      "rmse_pp": 0.1754148357113054,
+      "max_absolute_error_pp": 0.6198335294239072
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.2238330890801635,
+      "rmse_pp": 0.2884666805324576,
+      "max_absolute_error_pp": 0.6198335294239072
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 62.337662337662344,
+          "official": 63.019833529423906,
+          "signed_error": -0.6821711917615616,
+          "absolute_error": 0.6821711917615616
+        },
+        {
+          "party": "SPS",
+          "estimate": 10.68931068931069,
+          "official": 10.782820659689971,
+          "signed_error": -0.09350997037928188,
+          "absolute_error": 0.09350997037928188
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.097902097902098,
+          "official": 2.1271311949140297,
+          "signed_error": -0.02922909701193177,
+          "absolute_error": 0.02922909701193177
+        },
+        {
+          "party": "SVM",
+          "estimate": 2.1978021978021984,
+          "official": 2.3186742729167955,
+          "signed_error": -0.12087207511459708,
+          "absolute_error": 0.12087207511459708
+        },
+        {
+          "party": "SPAS",
+          "estimate": 4.095904095904095,
+          "official": 3.9796388321258283,
+          "signed_error": 0.11626526377826707,
+          "absolute_error": 0.11626526377826707
+        },
+        {
+          "party": "POKS",
+          "estimate": 2.897102897102897,
+          "official": 2.7700373604144737,
+          "signed_error": 0.12706553668842346,
+          "absolute_error": 0.12706553668842346
+        },
+        {
+          "party": "UDS",
+          "estimate": 0.999000999000999,
+          "official": 0.9866129481701653,
+          "signed_error": 0.012388050830833719,
+          "absolute_error": 0.012388050830833719
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.8991008991008992,
+          "official": 1.0375384440729045,
+          "signed_error": -0.13843754497200533,
+          "absolute_error": 0.13843754497200533
+        },
+        {
+          "party": "METLA",
+          "estimate": 2.4975024975024978,
+          "official": 2.324866606807439,
+          "signed_error": 0.1726358906950587,
+          "absolute_error": 0.1726358906950587
+        },
+        {
+          "party": "ZDRAVA",
+          "estimate": 1.0989010989010992,
+          "official": 1.0783368939253204,
+          "signed_error": 0.02056420497577882,
+          "absolute_error": 0.02056420497577882
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5994005994005994,
+          "official": 0.7958439119037298,
+          "signed_error": -0.1964433125031304,
+          "absolute_error": 0.1964433125031304
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 1.5984015984015985,
+          "official": 1.4819674076826221,
+          "signed_error": 0.11643419071897632,
+          "absolute_error": 0.11643419071897632
+        },
+        {
+          "party": "NARODNI_BLOK",
+          "estimate": 0.2997002997002997,
+          "official": 0.25391794125539247,
+          "signed_error": 0.045782358444907245,
+          "absolute_error": 0.045782358444907245
+        },
+        {
+          "party": "PSG",
+          "estimate": 1.7982017982017984,
+          "official": 1.6372595310339133,
+          "signed_error": 0.16094226716788507,
+          "absolute_error": 0.16094226716788507
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.5974025974025974,
+          "official": 2.385112855285157,
+          "signed_error": 0.21228974211744056,
+          "absolute_error": 0.21228974211744056
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.999000999000999,
+          "official": 0.8526392243069746,
+          "signed_error": 0.14636177469402445,
+          "absolute_error": 0.14636177469402445
+        },
+        {
+          "party": "JEDAN_OD_PET",
+          "estimate": 0.6993006993006994,
+          "official": 0.6535814911140009,
+          "signed_error": 0.0457192081866985,
+          "absolute_error": 0.0457192081866985
+        },
+        {
+          "party": "ZELENA_NOVA",
+          "estimate": 0.2997002997002997,
+          "official": 0.2517248230024563,
+          "signed_error": 0.04797547669784341,
+          "absolute_error": 0.04797547669784341
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.1998001998001998,
+          "official": 0.20302469709166718,
+          "signed_error": -0.003224497291467371,
+          "absolute_error": 0.003224497291467371
+        },
+        {
+          "party": "MIR",
+          "estimate": 0.2997002997002997,
+          "official": 0.3276131649018515,
+          "signed_error": -0.027912865201551784,
+          "absolute_error": 0.027912865201551784
+        },
+        {
+          "party": "LEVIJATAN",
+          "estimate": 0.7992007992007992,
+          "official": 0.7318242099614011,
+          "signed_error": 0.06737658923939815,
+          "absolute_error": 0.06737658923939815
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.2339895992366722,
+        "rmse_pp": 0.31054656037633505,
+        "max_absolute_error_pp": 0.6821711917615616
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.2238330890801635,
+        "rmse_pp": 0.2884666805324576,
+        "max_absolute_error_pp": 0.6198335294239072
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.5112526975942823,
+        "rmse_pp": 0.7359708361222028,
+        "max_absolute_error_pp": 1.6935112029062083
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.5246146900118399,
+        "rmse_pp": 0.7600781381376969,
+        "max_absolute_error_pp": 1.7527686079180427
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274789282079703047",
+    "created_at_belgrade": "2020-06-21T21:40:23+02:00"
+  },
+  {
+    "post_id": "1274798166576189443",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 62.5,
+      "SPS": 10.7,
+      "SRS": 2.1,
+      "SVM": 2.2,
+      "SPAS": 4,
+      "POKS": 2.9,
+      "UDS": 1,
+      "SPP": 1,
+      "METLA": 2.4,
+      "ZDRAVA": 1,
+      "SDA": 0.8,
+      "ZAVETNICI": 1.6,
+      "NARODNI_BLOK": 0.2,
+      "PSG": 1.8,
+      "DJB": 2.6,
+      "ADA": 1,
+      "JEDAN_OD_PET": 0.7,
+      "ZELENA_NOVA": 0.3,
+      "RUSKA": 0.2,
+      "MIR": 0.3,
+      "LEVIJATAN": 0.8
+    },
+    "sample_processed_pct": 75.5,
+    "basis": "valid_ballots",
+    "basis_explicit": false,
+    "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1274798166576189443:vote_share",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3100608,
+    "chart_sum_pct": 100.1,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 62.5,
+        "official": 63.019833529423906,
+        "signed_error": -0.5198335294239058,
+        "absolute_error": 0.5198335294239058
+      },
+      {
+        "party": "SPS",
+        "estimate": 10.7,
+        "official": 10.782820659689971,
+        "signed_error": -0.08282065968997188,
+        "absolute_error": 0.08282065968997188
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.1,
+        "official": 2.1271311949140297,
+        "signed_error": -0.0271311949140296,
+        "absolute_error": 0.0271311949140296
+      },
+      {
+        "party": "SVM",
+        "estimate": 2.2,
+        "official": 2.3186742729167955,
+        "signed_error": -0.11867427291679533,
+        "absolute_error": 0.11867427291679533
+      },
+      {
+        "party": "SPAS",
+        "estimate": 4,
+        "official": 3.9796388321258283,
+        "signed_error": 0.02036116787417175,
+        "absolute_error": 0.02036116787417175
+      },
+      {
+        "party": "POKS",
+        "estimate": 2.9,
+        "official": 2.7700373604144737,
+        "signed_error": 0.12996263958552623,
+        "absolute_error": 0.12996263958552623
+      },
+      {
+        "party": "UDS",
+        "estimate": 1,
+        "official": 0.9866129481701653,
+        "signed_error": 0.013387051829834684,
+        "absolute_error": 0.013387051829834684
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 1.0375384440729045,
+        "signed_error": -0.03753844407290452,
+        "absolute_error": 0.03753844407290452
+      },
+      {
+        "party": "METLA",
+        "estimate": 2.4,
+        "official": 2.324866606807439,
+        "signed_error": 0.07513339319256085,
+        "absolute_error": 0.07513339319256085
+      },
+      {
+        "party": "ZDRAVA",
+        "estimate": 1,
+        "official": 1.0783368939253204,
+        "signed_error": -0.0783368939253204,
+        "absolute_error": 0.0783368939253204
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.8,
+        "official": 0.7958439119037298,
+        "signed_error": 0.004156088096270216,
+        "absolute_error": 0.004156088096270216
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 1.6,
+        "official": 1.4819674076826221,
+        "signed_error": 0.11803259231737795,
+        "absolute_error": 0.11803259231737795
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "estimate": 0.2,
+        "official": 0.25391794125539247,
+        "signed_error": -0.053917941255392454,
+        "absolute_error": 0.053917941255392454
+      },
+      {
+        "party": "PSG",
+        "estimate": 1.8,
+        "official": 1.6372595310339133,
+        "signed_error": 0.16274046896608674,
+        "absolute_error": 0.16274046896608674
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.6,
+        "official": 2.385112855285157,
+        "signed_error": 0.21488714471484327,
+        "absolute_error": 0.21488714471484327
+      },
+      {
+        "party": "ADA",
+        "estimate": 1,
+        "official": 0.8526392243069746,
+        "signed_error": 0.14736077569302541,
+        "absolute_error": 0.14736077569302541
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "estimate": 0.7,
+        "official": 0.6535814911140009,
+        "signed_error": 0.04641850888599908,
+        "absolute_error": 0.04641850888599908
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "estimate": 0.3,
+        "official": 0.2517248230024563,
+        "signed_error": 0.04827517699754369,
+        "absolute_error": 0.04827517699754369
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.2,
+        "official": 0.20302469709166718,
+        "signed_error": -0.0030246970916671667,
+        "absolute_error": 0.0030246970916671667
+      },
+      {
+        "party": "MIR",
+        "estimate": 0.3,
+        "official": 0.3276131649018515,
+        "signed_error": -0.027613164901851506,
+        "absolute_error": 0.027613164901851506
+      },
+      {
+        "party": "LEVIJATAN",
+        "estimate": 0.8,
+        "official": 0.7318242099614011,
+        "signed_error": 0.06817579003859897,
+        "absolute_error": 0.06817579003859897
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 21,
+      "mae_pp": 0.09513245697065131,
+      "rmse_pp": 0.1453596118174394,
+      "max_absolute_error_pp": 0.5198335294239058
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.1738330890801633,
+      "rmse_pp": 0.24021259215063379,
+      "max_absolute_error_pp": 0.5198335294239058
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 62.43756243756244,
+          "official": 63.019833529423906,
+          "signed_error": -0.5822710918614646,
+          "absolute_error": 0.5822710918614646
+        },
+        {
+          "party": "SPS",
+          "estimate": 10.68931068931069,
+          "official": 10.782820659689971,
+          "signed_error": -0.09350997037928188,
+          "absolute_error": 0.09350997037928188
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.097902097902098,
+          "official": 2.1271311949140297,
+          "signed_error": -0.02922909701193177,
+          "absolute_error": 0.02922909701193177
+        },
+        {
+          "party": "SVM",
+          "estimate": 2.1978021978021984,
+          "official": 2.3186742729167955,
+          "signed_error": -0.12087207511459708,
+          "absolute_error": 0.12087207511459708
+        },
+        {
+          "party": "SPAS",
+          "estimate": 3.996003996003996,
+          "official": 3.9796388321258283,
+          "signed_error": 0.016365163878167888,
+          "absolute_error": 0.016365163878167888
+        },
+        {
+          "party": "POKS",
+          "estimate": 2.897102897102897,
+          "official": 2.7700373604144737,
+          "signed_error": 0.12706553668842346,
+          "absolute_error": 0.12706553668842346
+        },
+        {
+          "party": "UDS",
+          "estimate": 0.999000999000999,
+          "official": 0.9866129481701653,
+          "signed_error": 0.012388050830833719,
+          "absolute_error": 0.012388050830833719
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.999000999000999,
+          "official": 1.0375384440729045,
+          "signed_error": -0.038537445071905485,
+          "absolute_error": 0.038537445071905485
+        },
+        {
+          "party": "METLA",
+          "estimate": 2.3976023976023977,
+          "official": 2.324866606807439,
+          "signed_error": 0.07273579079495862,
+          "absolute_error": 0.07273579079495862
+        },
+        {
+          "party": "ZDRAVA",
+          "estimate": 0.999000999000999,
+          "official": 1.0783368939253204,
+          "signed_error": -0.07933589492432136,
+          "absolute_error": 0.07933589492432136
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.7992007992007992,
+          "official": 0.7958439119037298,
+          "signed_error": 0.0033568872970693997,
+          "absolute_error": 0.0033568872970693997
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 1.5984015984015985,
+          "official": 1.4819674076826221,
+          "signed_error": 0.11643419071897632,
+          "absolute_error": 0.11643419071897632
+        },
+        {
+          "party": "NARODNI_BLOK",
+          "estimate": 0.1998001998001998,
+          "official": 0.25391794125539247,
+          "signed_error": -0.05411774145519266,
+          "absolute_error": 0.05411774145519266
+        },
+        {
+          "party": "PSG",
+          "estimate": 1.7982017982017984,
+          "official": 1.6372595310339133,
+          "signed_error": 0.16094226716788507,
+          "absolute_error": 0.16094226716788507
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.5974025974025974,
+          "official": 2.385112855285157,
+          "signed_error": 0.21228974211744056,
+          "absolute_error": 0.21228974211744056
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.999000999000999,
+          "official": 0.8526392243069746,
+          "signed_error": 0.14636177469402445,
+          "absolute_error": 0.14636177469402445
+        },
+        {
+          "party": "JEDAN_OD_PET",
+          "estimate": 0.6993006993006994,
+          "official": 0.6535814911140009,
+          "signed_error": 0.0457192081866985,
+          "absolute_error": 0.0457192081866985
+        },
+        {
+          "party": "ZELENA_NOVA",
+          "estimate": 0.2997002997002997,
+          "official": 0.2517248230024563,
+          "signed_error": 0.04797547669784341,
+          "absolute_error": 0.04797547669784341
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.1998001998001998,
+          "official": 0.20302469709166718,
+          "signed_error": -0.003224497291467371,
+          "absolute_error": 0.003224497291467371
+        },
+        {
+          "party": "MIR",
+          "estimate": 0.2997002997002997,
+          "official": 0.3276131649018515,
+          "signed_error": -0.027912865201551784,
+          "absolute_error": 0.027912865201551784
+        },
+        {
+          "party": "LEVIJATAN",
+          "estimate": 0.7992007992007992,
+          "official": 0.7318242099614011,
+          "signed_error": 0.06737658923939815,
+          "absolute_error": 0.06737658923939815
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.18403954928662283,
+        "rmse_pp": 0.2628544077531039,
+        "max_absolute_error_pp": 0.5822710918614646
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.1738330890801633,
+        "rmse_pp": 0.24021259215063379,
+        "max_absolute_error_pp": 0.5198335294239058
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.49458603092761594,
+        "rmse_pp": 0.7652054568554074,
+        "max_absolute_error_pp": 1.7935112029062097
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.5079480233451735,
+        "rmse_pp": 0.7895459066790937,
+        "max_absolute_error_pp": 1.852768607918044
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274798166576189443",
+    "created_at_belgrade": "2020-06-21T22:15:42+02:00"
+  },
+  {
+    "post_id": "1274811761041051649",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 62.8,
+      "SPS": 10.8,
+      "SRS": 2,
+      "SVM": 2.2,
+      "SPAS": 4.2,
+      "POKS": 2.7,
+      "UDS": 1,
+      "SPP": 1,
+      "METLA": 2.4,
+      "ZDRAVA": 0.9,
+      "SDA": 0.9,
+      "ZAVETNICI": 1.6,
+      "NARODNI_BLOK": 0.2,
+      "PSG": 1.8,
+      "DJB": 2.6,
+      "ADA": 1,
+      "JEDAN_OD_PET": 0.6,
+      "ZELENA_NOVA": 0.3,
+      "RUSKA": 0.2,
+      "MIR": 0.3,
+      "LEVIJATAN": 0.9
+    },
+    "sample_processed_pct": 87.4,
+    "basis": "valid_ballots",
+    "basis_explicit": false,
+    "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1274811761041051649:vote_share",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3100608,
+    "chart_sum_pct": 100.4,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 62.8,
+        "official": 63.019833529423906,
+        "signed_error": -0.21983352942390866,
+        "absolute_error": 0.21983352942390866
+      },
+      {
+        "party": "SPS",
+        "estimate": 10.8,
+        "official": 10.782820659689971,
+        "signed_error": 0.017179340310029545,
+        "absolute_error": 0.017179340310029545
+      },
+      {
+        "party": "SRS",
+        "estimate": 2,
+        "official": 2.1271311949140297,
+        "signed_error": -0.1271311949140297,
+        "absolute_error": 0.1271311949140297
+      },
+      {
+        "party": "SVM",
+        "estimate": 2.2,
+        "official": 2.3186742729167955,
+        "signed_error": -0.11867427291679533,
+        "absolute_error": 0.11867427291679533
+      },
+      {
+        "party": "SPAS",
+        "estimate": 4.2,
+        "official": 3.9796388321258283,
+        "signed_error": 0.22036116787417193,
+        "absolute_error": 0.22036116787417193
+      },
+      {
+        "party": "POKS",
+        "estimate": 2.7,
+        "official": 2.7700373604144737,
+        "signed_error": -0.0700373604144735,
+        "absolute_error": 0.0700373604144735
+      },
+      {
+        "party": "UDS",
+        "estimate": 1,
+        "official": 0.9866129481701653,
+        "signed_error": 0.013387051829834684,
+        "absolute_error": 0.013387051829834684
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 1.0375384440729045,
+        "signed_error": -0.03753844407290452,
+        "absolute_error": 0.03753844407290452
+      },
+      {
+        "party": "METLA",
+        "estimate": 2.4,
+        "official": 2.324866606807439,
+        "signed_error": 0.07513339319256085,
+        "absolute_error": 0.07513339319256085
+      },
+      {
+        "party": "ZDRAVA",
+        "estimate": 0.9,
+        "official": 1.0783368939253204,
+        "signed_error": -0.17833689392532037,
+        "absolute_error": 0.17833689392532037
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.9,
+        "official": 0.7958439119037298,
+        "signed_error": 0.1041560880962702,
+        "absolute_error": 0.1041560880962702
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 1.6,
+        "official": 1.4819674076826221,
+        "signed_error": 0.11803259231737795,
+        "absolute_error": 0.11803259231737795
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "estimate": 0.2,
+        "official": 0.25391794125539247,
+        "signed_error": -0.053917941255392454,
+        "absolute_error": 0.053917941255392454
+      },
+      {
+        "party": "PSG",
+        "estimate": 1.8,
+        "official": 1.6372595310339133,
+        "signed_error": 0.16274046896608674,
+        "absolute_error": 0.16274046896608674
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.6,
+        "official": 2.385112855285157,
+        "signed_error": 0.21488714471484327,
+        "absolute_error": 0.21488714471484327
+      },
+      {
+        "party": "ADA",
+        "estimate": 1,
+        "official": 0.8526392243069746,
+        "signed_error": 0.14736077569302541,
+        "absolute_error": 0.14736077569302541
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "estimate": 0.6,
+        "official": 0.6535814911140009,
+        "signed_error": -0.0535814911140009,
+        "absolute_error": 0.0535814911140009
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "estimate": 0.3,
+        "official": 0.2517248230024563,
+        "signed_error": 0.04827517699754369,
+        "absolute_error": 0.04827517699754369
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.2,
+        "official": 0.20302469709166718,
+        "signed_error": -0.0030246970916671667,
+        "absolute_error": 0.0030246970916671667
+      },
+      {
+        "party": "MIR",
+        "estimate": 0.3,
+        "official": 0.3276131649018515,
+        "signed_error": -0.027613164901851506,
+        "absolute_error": 0.027613164901851506
+      },
+      {
+        "party": "LEVIJATAN",
+        "estimate": 0.9,
+        "official": 0.7318242099614011,
+        "signed_error": 0.16817579003859895,
+        "absolute_error": 0.16817579003859895
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 21,
+      "mae_pp": 0.10377990381241368,
+      "rmse_pp": 0.12491696385672243,
+      "max_absolute_error_pp": 0.22036116787417193
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.1362386559883313,
+      "rmse_pp": 0.1601601793463251,
+      "max_absolute_error_pp": 0.22036116787417193
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 62.54980079681275,
+          "official": 63.019833529423906,
+          "signed_error": -0.4700327326111591,
+          "absolute_error": 0.4700327326111591
+        },
+        {
+          "party": "SPS",
+          "estimate": 10.756972111553784,
+          "official": 10.782820659689971,
+          "signed_error": -0.025848548136186977,
+          "absolute_error": 0.025848548136186977
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.99203187250996,
+          "official": 2.1271311949140297,
+          "signed_error": -0.13509932240406974,
+          "absolute_error": 0.13509932240406974
+        },
+        {
+          "party": "SVM",
+          "estimate": 2.1912350597609564,
+          "official": 2.3186742729167955,
+          "signed_error": -0.12743921315583906,
+          "absolute_error": 0.12743921315583906
+        },
+        {
+          "party": "SPAS",
+          "estimate": 4.183266932270916,
+          "official": 3.9796388321258283,
+          "signed_error": 0.20362810014508792,
+          "absolute_error": 0.20362810014508792
+        },
+        {
+          "party": "POKS",
+          "estimate": 2.689243027888446,
+          "official": 2.7700373604144737,
+          "signed_error": -0.08079433252602763,
+          "absolute_error": 0.08079433252602763
+        },
+        {
+          "party": "UDS",
+          "estimate": 0.99601593625498,
+          "official": 0.9866129481701653,
+          "signed_error": 0.009402988084814656,
+          "absolute_error": 0.009402988084814656
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.99601593625498,
+          "official": 1.0375384440729045,
+          "signed_error": -0.04152250781792455,
+          "absolute_error": 0.04152250781792455
+        },
+        {
+          "party": "METLA",
+          "estimate": 2.390438247011952,
+          "official": 2.324866606807439,
+          "signed_error": 0.06557164020451278,
+          "absolute_error": 0.06557164020451278
+        },
+        {
+          "party": "ZDRAVA",
+          "estimate": 0.896414342629482,
+          "official": 1.0783368939253204,
+          "signed_error": -0.18192255129583834,
+          "absolute_error": 0.18192255129583834
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.896414342629482,
+          "official": 0.7958439119037298,
+          "signed_error": 0.10057043072575222,
+          "absolute_error": 0.10057043072575222
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 1.593625498007968,
+          "official": 1.4819674076826221,
+          "signed_error": 0.1116580903253459,
+          "absolute_error": 0.1116580903253459
+        },
+        {
+          "party": "NARODNI_BLOK",
+          "estimate": 0.199203187250996,
+          "official": 0.25391794125539247,
+          "signed_error": -0.05471475400439646,
+          "absolute_error": 0.05471475400439646
+        },
+        {
+          "party": "PSG",
+          "estimate": 1.792828685258964,
+          "official": 1.6372595310339133,
+          "signed_error": 0.1555691542250508,
+          "absolute_error": 0.1555691542250508
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.589641434262948,
+          "official": 2.385112855285157,
+          "signed_error": 0.2045285789777913,
+          "absolute_error": 0.2045285789777913
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.99601593625498,
+          "official": 0.8526392243069746,
+          "signed_error": 0.1433767119480054,
+          "absolute_error": 0.1433767119480054
+        },
+        {
+          "party": "JEDAN_OD_PET",
+          "estimate": 0.597609561752988,
+          "official": 0.6535814911140009,
+          "signed_error": -0.05597192936101292,
+          "absolute_error": 0.05597192936101292
+        },
+        {
+          "party": "ZELENA_NOVA",
+          "estimate": 0.298804780876494,
+          "official": 0.2517248230024563,
+          "signed_error": 0.04707995787403768,
+          "absolute_error": 0.04707995787403768
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.199203187250996,
+          "official": 0.20302469709166718,
+          "signed_error": -0.0038215098406711723,
+          "absolute_error": 0.0038215098406711723
+        },
+        {
+          "party": "MIR",
+          "estimate": 0.298804780876494,
+          "official": 0.3276131649018515,
+          "signed_error": -0.028808384025357514,
+          "absolute_error": 0.028808384025357514
+        },
+        {
+          "party": "LEVIJATAN",
+          "estimate": 0.896414342629482,
+          "official": 0.7318242099614011,
+          "signed_error": 0.16459013266808098,
+          "absolute_error": 0.16459013266808098
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.17506732210012763,
+        "rmse_pp": 0.22939145004463118,
+        "max_absolute_error_pp": 0.4700327326111591
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.1362386559883313,
+        "rmse_pp": 0.1601601793463251,
+        "max_absolute_error_pp": 0.22036116787417193
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.5612526975942824,
+        "rmse_pp": 0.8949732636799232,
+        "max_absolute_error_pp": 2.093511202906207
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.57461469001184,
+        "rmse_pp": 0.919325853641258,
+        "max_absolute_error_pp": 2.1527686079180413
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274811761041051649",
+    "created_at_belgrade": "2020-06-21T23:09:43+02:00"
+  },
+  {
+    "post_id": "1274817636006846465",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 62.6,
+      "SPS": 10.9,
+      "SRS": 2,
+      "SVM": 2.3,
+      "SPAS": 4.1,
+      "POKS": 2.7,
+      "UDS": 1,
+      "SPP": 1,
+      "METLA": 2.4,
+      "ZDRAVA": 0.9,
+      "SDA": 0.9,
+      "ZAVETNICI": 1.6,
+      "NARODNI_BLOK": 0.2,
+      "PSG": 1.8,
+      "DJB": 2.6,
+      "ADA": 1,
+      "JEDAN_OD_PET": 0.7,
+      "ZELENA_NOVA": 0.3,
+      "RUSKA": 0.2,
+      "MIR": 0.3,
+      "LEVIJATAN": 0.9
+    },
+    "sample_processed_pct": 91.1,
+    "basis": "valid_ballots",
+    "basis_explicit": false,
+    "note": "Valid-vote basis inferred from complete 21-list chart summing to approximately 100%. Last post separately states 4% invalid ballots. Alternative denominator errors are retained.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1274817636006846465:vote_share",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3100608,
+    "chart_sum_pct": 100.4,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 62.6,
+        "official": 63.019833529423906,
+        "signed_error": -0.4198335294239044,
+        "absolute_error": 0.4198335294239044
+      },
+      {
+        "party": "SPS",
+        "estimate": 10.9,
+        "official": 10.782820659689971,
+        "signed_error": 0.11717934031002919,
+        "absolute_error": 0.11717934031002919
+      },
+      {
+        "party": "SRS",
+        "estimate": 2,
+        "official": 2.1271311949140297,
+        "signed_error": -0.1271311949140297,
+        "absolute_error": 0.1271311949140297
+      },
+      {
+        "party": "SVM",
+        "estimate": 2.3,
+        "official": 2.3186742729167955,
+        "signed_error": -0.018674272916795687,
+        "absolute_error": 0.018674272916795687
+      },
+      {
+        "party": "SPAS",
+        "estimate": 4.1,
+        "official": 3.9796388321258283,
+        "signed_error": 0.1203611678741714,
+        "absolute_error": 0.1203611678741714
+      },
+      {
+        "party": "POKS",
+        "estimate": 2.7,
+        "official": 2.7700373604144737,
+        "signed_error": -0.0700373604144735,
+        "absolute_error": 0.0700373604144735
+      },
+      {
+        "party": "UDS",
+        "estimate": 1,
+        "official": 0.9866129481701653,
+        "signed_error": 0.013387051829834684,
+        "absolute_error": 0.013387051829834684
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 1.0375384440729045,
+        "signed_error": -0.03753844407290452,
+        "absolute_error": 0.03753844407290452
+      },
+      {
+        "party": "METLA",
+        "estimate": 2.4,
+        "official": 2.324866606807439,
+        "signed_error": 0.07513339319256085,
+        "absolute_error": 0.07513339319256085
+      },
+      {
+        "party": "ZDRAVA",
+        "estimate": 0.9,
+        "official": 1.0783368939253204,
+        "signed_error": -0.17833689392532037,
+        "absolute_error": 0.17833689392532037
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.9,
+        "official": 0.7958439119037298,
+        "signed_error": 0.1041560880962702,
+        "absolute_error": 0.1041560880962702
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 1.6,
+        "official": 1.4819674076826221,
+        "signed_error": 0.11803259231737795,
+        "absolute_error": 0.11803259231737795
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "estimate": 0.2,
+        "official": 0.25391794125539247,
+        "signed_error": -0.053917941255392454,
+        "absolute_error": 0.053917941255392454
+      },
+      {
+        "party": "PSG",
+        "estimate": 1.8,
+        "official": 1.6372595310339133,
+        "signed_error": 0.16274046896608674,
+        "absolute_error": 0.16274046896608674
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.6,
+        "official": 2.385112855285157,
+        "signed_error": 0.21488714471484327,
+        "absolute_error": 0.21488714471484327
+      },
+      {
+        "party": "ADA",
+        "estimate": 1,
+        "official": 0.8526392243069746,
+        "signed_error": 0.14736077569302541,
+        "absolute_error": 0.14736077569302541
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "estimate": 0.7,
+        "official": 0.6535814911140009,
+        "signed_error": 0.04641850888599908,
+        "absolute_error": 0.04641850888599908
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "estimate": 0.3,
+        "official": 0.2517248230024563,
+        "signed_error": 0.04827517699754369,
+        "absolute_error": 0.04827517699754369
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.2,
+        "official": 0.20302469709166718,
+        "signed_error": -0.0030246970916671667,
+        "absolute_error": 0.0030246970916671667
+      },
+      {
+        "party": "MIR",
+        "estimate": 0.3,
+        "official": 0.3276131649018515,
+        "signed_error": -0.027613164901851506,
+        "absolute_error": 0.027613164901851506
+      },
+      {
+        "party": "LEVIJATAN",
+        "estimate": 0.9,
+        "official": 0.7318242099614011,
+        "signed_error": 0.16817579003859895,
+        "absolute_error": 0.16817579003859895
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 21,
+      "mae_pp": 0.10820071418250861,
+      "rmse_pp": 0.14151141607883622,
+      "max_absolute_error_pp": 0.4198335294239044
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.16957198932166376,
+      "rmse_pp": 0.20864832635570205,
+      "max_absolute_error_pp": 0.4198335294239044
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 62.35059760956175,
+          "official": 63.019833529423906,
+          "signed_error": -0.6692359198621531,
+          "absolute_error": 0.6692359198621531
+        },
+        {
+          "party": "SPS",
+          "estimate": 10.856573705179283,
+          "official": 10.782820659689971,
+          "signed_error": 0.07375304548931183,
+          "absolute_error": 0.07375304548931183
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.99203187250996,
+          "official": 2.1271311949140297,
+          "signed_error": -0.13509932240406974,
+          "absolute_error": 0.13509932240406974
+        },
+        {
+          "party": "SVM",
+          "estimate": 2.290836653386454,
+          "official": 2.3186742729167955,
+          "signed_error": -0.027837619530341584,
+          "absolute_error": 0.027837619530341584
+        },
+        {
+          "party": "SPAS",
+          "estimate": 4.083665338645417,
+          "official": 3.9796388321258283,
+          "signed_error": 0.10402650651958911,
+          "absolute_error": 0.10402650651958911
+        },
+        {
+          "party": "POKS",
+          "estimate": 2.689243027888446,
+          "official": 2.7700373604144737,
+          "signed_error": -0.08079433252602763,
+          "absolute_error": 0.08079433252602763
+        },
+        {
+          "party": "UDS",
+          "estimate": 0.99601593625498,
+          "official": 0.9866129481701653,
+          "signed_error": 0.009402988084814656,
+          "absolute_error": 0.009402988084814656
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.99601593625498,
+          "official": 1.0375384440729045,
+          "signed_error": -0.04152250781792455,
+          "absolute_error": 0.04152250781792455
+        },
+        {
+          "party": "METLA",
+          "estimate": 2.390438247011952,
+          "official": 2.324866606807439,
+          "signed_error": 0.06557164020451278,
+          "absolute_error": 0.06557164020451278
+        },
+        {
+          "party": "ZDRAVA",
+          "estimate": 0.896414342629482,
+          "official": 1.0783368939253204,
+          "signed_error": -0.18192255129583834,
+          "absolute_error": 0.18192255129583834
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.896414342629482,
+          "official": 0.7958439119037298,
+          "signed_error": 0.10057043072575222,
+          "absolute_error": 0.10057043072575222
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 1.593625498007968,
+          "official": 1.4819674076826221,
+          "signed_error": 0.1116580903253459,
+          "absolute_error": 0.1116580903253459
+        },
+        {
+          "party": "NARODNI_BLOK",
+          "estimate": 0.199203187250996,
+          "official": 0.25391794125539247,
+          "signed_error": -0.05471475400439646,
+          "absolute_error": 0.05471475400439646
+        },
+        {
+          "party": "PSG",
+          "estimate": 1.792828685258964,
+          "official": 1.6372595310339133,
+          "signed_error": 0.1555691542250508,
+          "absolute_error": 0.1555691542250508
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.589641434262948,
+          "official": 2.385112855285157,
+          "signed_error": 0.2045285789777913,
+          "absolute_error": 0.2045285789777913
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.99601593625498,
+          "official": 0.8526392243069746,
+          "signed_error": 0.1433767119480054,
+          "absolute_error": 0.1433767119480054
+        },
+        {
+          "party": "JEDAN_OD_PET",
+          "estimate": 0.697211155378486,
+          "official": 0.6535814911140009,
+          "signed_error": 0.04362966426448511,
+          "absolute_error": 0.04362966426448511
+        },
+        {
+          "party": "ZELENA_NOVA",
+          "estimate": 0.298804780876494,
+          "official": 0.2517248230024563,
+          "signed_error": 0.04707995787403768,
+          "absolute_error": 0.04707995787403768
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.199203187250996,
+          "official": 0.20302469709166718,
+          "signed_error": -0.0038215098406711723,
+          "absolute_error": 0.0038215098406711723
+        },
+        {
+          "party": "MIR",
+          "estimate": 0.298804780876494,
+          "official": 0.3276131649018515,
+          "signed_error": -0.028808384025357514,
+          "absolute_error": 0.028808384025357514
+        },
+        {
+          "party": "LEVIJATAN",
+          "estimate": 0.896414342629482,
+          "official": 0.7318242099614011,
+          "signed_error": 0.16459013266808098,
+          "absolute_error": 0.16459013266808098
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.1996516705965643,
+        "rmse_pp": 0.2934839706007445,
+        "max_absolute_error_pp": 0.6692359198621531
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.16957198932166376,
+        "rmse_pp": 0.20864832635570205,
+        "max_absolute_error_pp": 0.4198335294239044
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.5279193642609497,
+        "rmse_pp": 0.8203422581538564,
+        "max_absolute_error_pp": 1.893511202906211
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.5412813566785072,
+        "rmse_pp": 0.8446342659357248,
+        "max_absolute_error_pp": 1.9527686079180455
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
+    "created_at_belgrade": "2020-06-21T23:33:04+02:00"
+  },
+  {
+    "post_id": "1274817636006846465",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 4
+    },
+    "basis": "ballots_cast",
+    "note": "Text says invalid ballots 4%; denominator is assumed ballots cast.",
+    "claim_id": "1274817636006846465:invalid_ballot_share",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 4,
+      "official": 3.6708201256196866,
+      "signed_error": 0.3291798743803134,
+      "absolute_error": 0.3291798743803134
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
+    "created_at_belgrade": "2020-06-21T23:33:04+02:00"
+  },
+  {
+    "post_id": "1274810342326046721",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 47.7
+    },
+    "scope": "without_kosovo_prisons_abroad",
+    "sample_processed_pct": 87,
+    "note": "Compare with matching territorial scope, not national turnout; earlier-year bars are historical context.",
+    "claim_id": "1274810342326046721:turnout",
+    "account": "cesidbeograd",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "unit": "percentage_points",
+    "scope_reference": {
+      "registered_voters": 6467129,
+      "voters_who_turned_out": 3150407,
+      "source_cells": "Резултати!C5:D6",
+      "scope": "Central Serbia plus Vojvodina; excludes separately reported Kosovo, abroad and prison rows"
+    },
+    "comparison": {
+      "party": "turnout",
+      "estimate": 47.7,
+      "official": 48.71415120991092,
+      "signed_error": -1.0141512099109207,
+      "absolute_error": 1.0141512099109207
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1274810342326046721",
+    "created_at_belgrade": "2020-06-21T23:04:05+02:00"
+  },
+  {
+    "post_id": "1510718307967582218",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 43.6,
+      "UJEDINJENI": 12.8,
+      "SPS": 11.6,
+      "NADA": 5.4,
+      "MORAMO": 4.3,
+      "DVERI": 4,
+      "ZAVETNICI": 3.9,
+      "DJB": 2.2,
+      "SRS": 2.2,
+      "SDS": 1.7,
+      "SVM": 1.5,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.5,
+      "KAD": 0.3,
+      "RUSKI_SAVEZ": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "sample_processed_pct": 62.5,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "note": "Ballots-cast basis inferred from chart total below 100%; valid-normalized sensitivity also calculated.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1510718307967582218:vote_share",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 97.0,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 43.6,
+        "official": 42.96057592517177,
+        "signed_error": 0.6394240748282343,
+        "absolute_error": 0.6394240748282343
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 12.8,
+        "official": 13.674780940870455,
+        "signed_error": -0.8747809408704548,
+        "absolute_error": 0.8747809408704548
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.6,
+        "official": 11.436371040842868,
+        "signed_error": 0.1636289591571316,
+        "absolute_error": 0.1636289591571316
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.4,
+        "official": 5.371553185060627,
+        "signed_error": 0.02844681493937351,
+        "absolute_error": 0.02844681493937351
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.3,
+        "official": 4.696023436371041,
+        "signed_error": -0.3960234363710411,
+        "absolute_error": 0.3960234363710411
+      },
+      {
+        "party": "DVERI",
+        "estimate": 4,
+        "official": 3.803470789926564,
+        "signed_error": 0.19652921007343593,
+        "absolute_error": 0.19652921007343593
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.9,
+        "official": 3.71059234639587,
+        "signed_error": 0.18940765360413003,
+        "absolute_error": 0.18940765360413003
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.2,
+        "official": 2.2690716096740715,
+        "signed_error": -0.06907160967407133,
+        "absolute_error": 0.06907160967407133
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.2,
+        "official": 2.156198683674676,
+        "signed_error": 0.04380131632532436,
+        "absolute_error": 0.04380131632532436
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.5,
+        "official": 1.5846612629891883,
+        "signed_error": -0.0846612629891883,
+        "absolute_error": 0.0846612629891883
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.5,
+        "official": 0.5400086704063267,
+        "signed_error": -0.04000867040632672,
+        "absolute_error": 0.04000867040632672
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.3,
+        "official": 0.267074788823058,
+        "signed_error": 0.03292521117694197,
+        "absolute_error": 0.03292521117694197
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.2,
+        "official": 0.2514155095177415,
+        "signed_error": -0.05141550951774149,
+        "absolute_error": 0.05141550951774149
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.15962425473570815,
+      "rmse_pp": 0.2774723447861952,
+      "max_absolute_error_pp": 0.8747809408704548
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.3831389060399452,
+      "rmse_pp": 0.4825534153684266,
+      "max_absolute_error_pp": 0.8747809408704548
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.94845360824742,
+          "official": 44.27175165595907,
+          "signed_error": 0.6767019522883473,
+          "absolute_error": 0.6767019522883473
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.195876288659793,
+          "official": 14.09214128829067,
+          "signed_error": -0.8962649996308762,
+          "absolute_error": 0.8962649996308762
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.958762886597938,
+          "official": 11.785414130561922,
+          "signed_error": 0.17334875603601674,
+          "absolute_error": 0.17334875603601674
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.56701030927835,
+          "official": 5.535495358116041,
+          "signed_error": 0.0315149511623094,
+          "absolute_error": 0.0315149511623094
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.43298969072165,
+          "official": 4.839348143463023,
+          "signed_error": -0.4063584527413733,
+          "absolute_error": 0.4063584527413733
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.123711340206185,
+          "official": 3.9195543964684427,
+          "signed_error": 0.2041569437377424,
+          "absolute_error": 0.2041569437377424
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 4.020618556701031,
+          "official": 3.8238412618646382,
+          "signed_error": 0.1967772948363926,
+          "absolute_error": 0.1967772948363926
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.2680412371134024,
+          "official": 2.338324676281121,
+          "signed_error": -0.07028343916771851,
+          "absolute_error": 0.07028343916771851
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.2680412371134024,
+          "official": 2.22200681878241,
+          "signed_error": 0.046034418330992644,
+          "absolute_error": 0.046034418330992644
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7525773195876289,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03163620631526309,
+          "absolute_error": 0.03163620631526309
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.5463917525773196,
+          "official": 1.6330258238640056,
+          "signed_error": -0.08663407128668599,
+          "absolute_error": 0.08663407128668599
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0309278350515463,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06025856332696622,
+          "absolute_error": 0.06025856332696622
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8247422680412371,
+          "official": 0.8446582594343096,
+          "signed_error": -0.01991599139307254,
+          "absolute_error": 0.01991599139307254
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7216494845360825,
+          "official": 0.6504702533866474,
+          "signed_error": 0.07117923114943503,
+          "absolute_error": 0.07117923114943503
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5154639175257731,
+          "official": 0.5564899732707195,
+          "signed_error": -0.04102605574494633,
+          "absolute_error": 0.04102605574494633
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.30927835051546393,
+          "official": 0.2752260292072624,
+          "signed_error": 0.034052321308201516,
+          "absolute_error": 0.034052321308201516
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.20618556701030927,
+          "official": 0.25908882178891235,
+          "signed_error": -0.05290325477860308,
+          "absolute_error": 0.05290325477860308
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.20618556701030927,
+          "official": 0.17309591782804018,
+          "signed_error": 0.03308964918226909,
+          "absolute_error": 0.03308964918226909
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10309278350515463,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014635977069333062,
+          "absolute_error": 0.014635977069333062
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.3980576759327776,
+        "rmse_pp": 0.49984442828925796,
+        "max_absolute_error_pp": 0.8962649996308762
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.48409936332038034,
+        "rmse_pp": 0.641740433386274,
+        "max_absolute_error_pp": 1.2921412882906687
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.3831389060399452,
+        "rmse_pp": 0.4825534153684266,
+        "max_absolute_error_pp": 0.8747809408704548
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.392053261301907,
+        "rmse_pp": 0.4897491697576094,
+        "max_absolute_error_pp": 0.8585996962650349
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1510718307967582218",
+    "created_at_belgrade": "2022-04-03T22:38:07+02:00"
+  },
+  {
+    "post_id": "1510729200650629126",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 43.1,
+      "UJEDINJENI": 13.2,
+      "SPS": 11.4,
+      "NADA": 5.4,
+      "MORAMO": 4.5,
+      "DVERI": 3.9,
+      "ZAVETNICI": 3.9,
+      "DJB": 2.3,
+      "SRS": 2.2,
+      "SDS": 1.7,
+      "SVM": 1.6,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.5,
+      "KAD": 0.3,
+      "RUSKI_SAVEZ": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "sample_processed_pct": 77.1,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "note": "Ballots-cast basis inferred from chart total below 100%; valid-normalized sensitivity also calculated.",
+    "attribution": "CeSID/Ipsos",
+    "claim_id": "1510729200650629126:vote_share",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 97.0,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 43.1,
+        "official": 42.96057592517177,
+        "signed_error": 0.13942407482823427,
+        "absolute_error": 0.13942407482823427
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 13.2,
+        "official": 13.674780940870455,
+        "signed_error": -0.4747809408704562,
+        "absolute_error": 0.4747809408704562
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.4,
+        "official": 11.436371040842868,
+        "signed_error": -0.036371040842867686,
+        "absolute_error": 0.036371040842867686
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.4,
+        "official": 5.371553185060627,
+        "signed_error": 0.02844681493937351,
+        "absolute_error": 0.02844681493937351
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.5,
+        "official": 4.696023436371041,
+        "signed_error": -0.19602343637104092,
+        "absolute_error": 0.19602343637104092
+      },
+      {
+        "party": "DVERI",
+        "estimate": 3.9,
+        "official": 3.803470789926564,
+        "signed_error": 0.09652921007343584,
+        "absolute_error": 0.09652921007343584
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.9,
+        "official": 3.71059234639587,
+        "signed_error": 0.18940765360413003,
+        "absolute_error": 0.18940765360413003
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.3,
+        "official": 2.2690716096740715,
+        "signed_error": 0.030928390325928312,
+        "absolute_error": 0.030928390325928312
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.2,
+        "official": 2.156198683674676,
+        "signed_error": 0.04380131632532436,
+        "absolute_error": 0.04380131632532436
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.6,
+        "official": 1.5846612629891883,
+        "signed_error": 0.015338737010811787,
+        "absolute_error": 0.015338737010811787
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.5,
+        "official": 0.5400086704063267,
+        "signed_error": -0.04000867040632672,
+        "absolute_error": 0.04000867040632672
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.3,
+        "official": 0.267074788823058,
+        "signed_error": 0.03292521117694197,
+        "absolute_error": 0.03292521117694197
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.2,
+        "official": 0.2514155095177415,
+        "signed_error": -0.05141550951774149,
+        "absolute_error": 0.05141550951774149
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.08411248296514068,
+      "rmse_pp": 0.13565919722029238,
+      "max_absolute_error_pp": 0.4747809408704562
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.16192925298756808,
+      "rmse_pp": 0.2216345206083829,
+      "max_absolute_error_pp": 0.4747809408704562
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.43298969072165,
+          "official": 44.27175165595907,
+          "signed_error": 0.16123803476257592,
+          "absolute_error": 0.16123803476257592
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.608247422680412,
+          "official": 14.09214128829067,
+          "signed_error": -0.4838938656102574,
+          "absolute_error": 0.4838938656102574
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.75257731958763,
+          "official": 11.785414130561922,
+          "signed_error": -0.03283681097429181,
+          "absolute_error": 0.03283681097429181
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.56701030927835,
+          "official": 5.535495358116041,
+          "signed_error": 0.0315149511623094,
+          "absolute_error": 0.0315149511623094
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.639175257731959,
+          "official": 4.839348143463023,
+          "signed_error": -0.20017288573106384,
+          "absolute_error": 0.20017288573106384
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.020618556701031,
+          "official": 3.9195543964684427,
+          "signed_error": 0.10106416023258813,
+          "absolute_error": 0.10106416023258813
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 4.020618556701031,
+          "official": 3.8238412618646382,
+          "signed_error": 0.1967772948363926,
+          "absolute_error": 0.1967772948363926
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.3711340206185563,
+          "official": 2.338324676281121,
+          "signed_error": 0.03280934433743532,
+          "absolute_error": 0.03280934433743532
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.2680412371134024,
+          "official": 2.22200681878241,
+          "signed_error": 0.046034418330992644,
+          "absolute_error": 0.046034418330992644
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7525773195876289,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03163620631526309,
+          "absolute_error": 0.03163620631526309
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.6494845360824741,
+          "official": 1.6330258238640056,
+          "signed_error": 0.016458712218468508,
+          "absolute_error": 0.016458712218468508
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0309278350515463,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06025856332696622,
+          "absolute_error": 0.06025856332696622
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8247422680412371,
+          "official": 0.8446582594343096,
+          "signed_error": -0.01991599139307254,
+          "absolute_error": 0.01991599139307254
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7216494845360825,
+          "official": 0.6504702533866474,
+          "signed_error": 0.07117923114943503,
+          "absolute_error": 0.07117923114943503
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5154639175257731,
+          "official": 0.5564899732707195,
+          "signed_error": -0.04102605574494633,
+          "absolute_error": 0.04102605574494633
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.30927835051546393,
+          "official": 0.2752260292072624,
+          "signed_error": 0.034052321308201516,
+          "absolute_error": 0.034052321308201516
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.20618556701030927,
+          "official": 0.25908882178891235,
+          "signed_error": -0.05290325477860308,
+          "absolute_error": 0.05290325477860308
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.20618556701030927,
+          "official": 0.17309591782804018,
+          "signed_error": 0.03308964918226909,
+          "absolute_error": 0.03308964918226909
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10309278350515463,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014635977069333062,
+          "absolute_error": 0.014635977069333062
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.16845345141218107,
+        "rmse_pp": 0.22821976762048146,
+        "max_absolute_error_pp": 0.4838938656102574
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.49061749547652805,
+        "rmse_pp": 0.6391870621495976,
+        "max_absolute_error_pp": 1.1717516559590706
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.16192925298756808,
+        "rmse_pp": 0.2216345206083829,
+        "max_absolute_error_pp": 0.4747809408704562
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.16633275677750534,
+        "rmse_pp": 0.22163391858697418,
+        "max_absolute_error_pp": 0.45859969626503627
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1510729200650629126",
+    "created_at_belgrade": "2022-04-03T23:21:24+02:00"
+  },
+  {
+    "post_id": "1736491315691446389",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 46.6,
+      "SPN": 23.1,
+      "SPS": 6.9,
+      "MI": 4.8,
+      "NADA": 4.8,
+      "ZAV_DVERI": 2.8,
+      "SVM": 1.7,
+      "SRS": 1.5,
+      "DJB_SDS": 1.2,
+      "NS": 0.9,
+      "SPP_DSHV": 0.8,
+      "SDA": 0.6,
+      "PDD": 0.4,
+      "RUSKA": 0.3,
+      "LDP": 0.2,
+      "SRBIJA_ZAPAD": 0.2,
+      "MIR_TOLERANCIJA": 0.2,
+      "ADA": 0.1
+    },
+    "sample_processed_pct": 72.6,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "attribution": "CeSID/Ipsos",
+    "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+    "claim_id": "1736491315691446389:vote_share",
+    "account": "cesidbeograd",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3815007,
+    "chart_sum_pct": 97.10000000000001,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 46.6,
+        "official": 46.754855233555276,
+        "signed_error": -0.1548552335552742,
+        "absolute_error": 0.1548552335552742
+      },
+      {
+        "party": "SPN",
+        "estimate": 23.1,
+        "official": 23.655264590602325,
+        "signed_error": -0.5552645906023237,
+        "absolute_error": 0.5552645906023237
+      },
+      {
+        "party": "SPS",
+        "estimate": 6.9,
+        "official": 6.55086609277519,
+        "signed_error": 0.3491339072248101,
+        "absolute_error": 0.3491339072248101
+      },
+      {
+        "party": "MI",
+        "estimate": 4.8,
+        "official": 4.687540547107777,
+        "signed_error": 0.1124594528922227,
+        "absolute_error": 0.1124594528922227
+      },
+      {
+        "party": "NADA",
+        "estimate": 4.8,
+        "official": 5.017841382728786,
+        "signed_error": -0.2178413827287864,
+        "absolute_error": 0.2178413827287864
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 2.8,
+        "official": 2.756613552740532,
+        "signed_error": 0.04338644725946761,
+        "absolute_error": 0.04338644725946761
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.7,
+        "official": 1.6971659553966743,
+        "signed_error": 0.0028340446033257027,
+        "absolute_error": 0.0028340446033257027
+      },
+      {
+        "party": "SRS",
+        "estimate": 1.5,
+        "official": 1.462172939656467,
+        "signed_error": 0.03782706034353289,
+        "absolute_error": 0.03782706034353289
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 1.2,
+        "official": 1.1816229957114102,
+        "signed_error": 0.018377004288589793,
+        "absolute_error": 0.018377004288589793
+      },
+      {
+        "party": "NS",
+        "estimate": 0.9,
+        "official": 0.8751753273322959,
+        "signed_error": 0.024824672667704162,
+        "absolute_error": 0.024824672667704162
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 0.8,
+        "official": 0.7618858890691419,
+        "signed_error": 0.03811411093085815,
+        "absolute_error": 0.03811411093085815
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.5721352542734521,
+        "signed_error": 0.027864745726547846,
+        "absolute_error": 0.027864745726547846
+      },
+      {
+        "party": "PDD",
+        "estimate": 0.4,
+        "official": 0.3538918801459604,
+        "signed_error": 0.04610811985403962,
+        "absolute_error": 0.04610811985403962
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.3,
+        "official": 0.2980073168935208,
+        "signed_error": 0.0019926831064792094,
+        "absolute_error": 0.0019926831064792094
+      },
+      {
+        "party": "LDP",
+        "estimate": 0.2,
+        "official": 0.24228002727124748,
+        "signed_error": -0.04228002727124747,
+        "absolute_error": 0.04228002727124747
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0.2,
+        "official": 0.1431714279947586,
+        "signed_error": 0.05682857200524141,
+        "absolute_error": 0.05682857200524141
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0.2,
+        "official": 0.17787647571813106,
+        "signed_error": 0.02212352428186895,
+        "absolute_error": 0.02212352428186895
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0847966989313519,
+        "signed_error": 0.015203301068648103,
+        "absolute_error": 0.015203301068648103
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 18,
+      "mae_pp": 0.09818438224505377,
+      "rmse_pp": 0.1713779786926418,
+      "max_absolute_error_pp": 0.5552645906023237
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "NADA",
+      "MI",
+      "ZAV_DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.23882350237714745,
+      "rmse_pp": 0.2933080787869338,
+      "max_absolute_error_pp": 0.5552645906023237
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 47.99176107106076,
+          "official": 48.06552342805589,
+          "signed_error": -0.07376235699513245,
+          "absolute_error": 0.07376235699513245
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.789907312049433,
+          "official": 24.318387228380228,
+          "signed_error": -0.5284799163307952,
+          "absolute_error": 0.5284799163307952
+        },
+        {
+          "party": "SPS",
+          "estimate": 7.106076210092687,
+          "official": 6.734505028054599,
+          "signed_error": 0.37157118203808803,
+          "absolute_error": 0.37157118203808803
+        },
+        {
+          "party": "MI",
+          "estimate": 4.943357363542739,
+          "official": 4.818945302289585,
+          "signed_error": 0.12441206125315407,
+          "absolute_error": 0.12441206125315407
+        },
+        {
+          "party": "NADA",
+          "estimate": 4.943357363542739,
+          "official": 5.158505385911746,
+          "signed_error": -0.2151480223690072,
+          "absolute_error": 0.2151480223690072
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8836251287332644,
+          "official": 2.8338890718295824,
+          "signed_error": 0.04973605690368199,
+          "absolute_error": 0.04973605690368199
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.7507723995880533,
+          "official": 1.7447422215922594,
+          "signed_error": 0.006030177995793862,
+          "absolute_error": 0.006030177995793862
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.544799176107106,
+          "official": 1.5031617002310442,
+          "signed_error": 0.041637475876061814,
+          "absolute_error": 0.041637475876061814
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2358393408856847,
+          "official": 1.2147471636856915,
+          "signed_error": 0.021092177199993234,
+          "absolute_error": 0.021092177199993234
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9268795056642636,
+          "official": 0.899708917703096,
+          "signed_error": 0.027170587961167558,
+          "absolute_error": 0.027170587961167558
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.8238928939237898,
+          "official": 0.7832436624523239,
+          "signed_error": 0.04064923147146593,
+          "absolute_error": 0.04064923147146593
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6179196704428424,
+          "official": 0.5881737913832957,
+          "signed_error": 0.02974587905954662,
+          "absolute_error": 0.02974587905954662
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.4119464469618949,
+          "official": 0.36381245051843475,
+          "signed_error": 0.04813399644346017,
+          "absolute_error": 0.04813399644346017
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.3089598352214212,
+          "official": 0.30636128804859525,
+          "signed_error": 0.002598547172825927,
+          "absolute_error": 0.002598547172825927
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.20597322348094746,
+          "official": 0.24907180802473095,
+          "signed_error": -0.043098584543783486,
+          "absolute_error": 0.043098584543783486
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.20597322348094746,
+          "official": 0.14718491998605218,
+          "signed_error": 0.05878830349489528,
+          "absolute_error": 0.05878830349489528
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.20597322348094746,
+          "official": 0.18286284639790373,
+          "signed_error": 0.023110377083043726,
+          "absolute_error": 0.023110377083043726
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10298661174047373,
+          "official": 0.08717378545493937,
+          "signed_error": 0.015812826285534362,
+          "absolute_error": 0.015812826285534362
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.22718493264830983,
+        "rmse_pp": 0.2849086866777211,
+        "max_absolute_error_pp": 0.5284799163307952
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.5434575647354051,
+        "rmse_pp": 0.7947377395086578,
+        "max_absolute_error_pp": 1.4655234280558886
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.23882350237714745,
+        "rmse_pp": 0.2933080787869338,
+        "max_absolute_error_pp": 0.5552645906023237
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.22344414764376683,
+        "rmse_pp": 0.2789603093128742,
+        "max_absolute_error_pp": 0.5197329003288864
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1736491315691446389",
+    "created_at_belgrade": "2023-12-17T21:59:26+01:00"
+  },
+  {
+    "post_id": "1736496827044634778",
+    "kind": "seats",
+    "values": {
+      "SNS": 129,
+      "SPN": 63,
+      "SPS": 19,
+      "MI": 13,
+      "NADA": 13,
+      "ZAV_DVERI": 0,
+      "SVM": 6,
+      "SRS": 0,
+      "DJB_SDS": 0,
+      "NS": 0,
+      "SPP_DSHV": 3,
+      "SDA": 2,
+      "PDD": 1,
+      "RUSKA": 1,
+      "LDP": 0,
+      "SRBIJA_ZAPAD": 0,
+      "MIR_TOLERANCIJA": 0,
+      "ADA": 0
+    },
+    "sample_processed_pct": 72.6,
+    "basis": null,
+    "basis_explicit": false,
+    "attribution": "CeSID/Ipsos",
+    "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag. Seat overlap is descriptive, not a reliability probability.",
+    "claim_id": "1736496827044634778:seats",
+    "account": "cesidbeograd",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "unit": "seats",
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 129,
+        "official": 129,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPN",
+        "estimate": 63,
+        "official": 65,
+        "signed_error": -2,
+        "absolute_error": 2
+      },
+      {
+        "party": "SPS",
+        "estimate": 19,
+        "official": 18,
+        "signed_error": 1,
+        "absolute_error": 1
+      },
+      {
+        "party": "MI",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NADA",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SVM",
+        "estimate": 6,
+        "official": 6,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 3,
+        "official": 2,
+        "signed_error": 1,
+        "absolute_error": 1
+      },
+      {
+        "party": "SDA",
+        "estimate": 2,
+        "official": 2,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "PDD",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "LDP",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ADA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      }
+    ],
+    "minimum_seats_to_reassign": 2.0,
+    "allocation_agreement_pct": 99.2,
+    "post_url": "https://x.com/cesidbeograd/status/1736496827044634778",
+    "created_at_belgrade": "2023-12-17T22:21:20+01:00"
+  },
+  {
+    "post_id": "1736513641321546053",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 46.2,
+      "SPN": 23.7,
+      "SPS": 6.6,
+      "MI": 4.8,
+      "NADA": 4.9,
+      "ZAV_DVERI": 2.8,
+      "SVM": 1.7,
+      "SRS": 1.5,
+      "DJB_SDS": 1.2,
+      "NS": 0.9,
+      "SPP_DSHV": 0.9,
+      "SDA": 0.6,
+      "PDD": 0.4,
+      "RUSKA": 0.3,
+      "LDP": 0.2,
+      "SRBIJA_ZAPAD": 0.2,
+      "MIR_TOLERANCIJA": 0.2,
+      "ADA": 0.1
+    },
+    "sample_processed_pct": 88.4,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "attribution": "CeSID/Ipsos",
+    "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag.",
+    "claim_id": "1736513641321546053:vote_share",
+    "account": "cesidbeograd",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "denominator": 3815007,
+    "chart_sum_pct": 97.2,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 46.2,
+        "official": 46.754855233555276,
+        "signed_error": -0.5548552335552728,
+        "absolute_error": 0.5548552335552728
+      },
+      {
+        "party": "SPN",
+        "estimate": 23.7,
+        "official": 23.655264590602325,
+        "signed_error": 0.044735409397674175,
+        "absolute_error": 0.044735409397674175
+      },
+      {
+        "party": "SPS",
+        "estimate": 6.6,
+        "official": 6.55086609277519,
+        "signed_error": 0.04913390722480937,
+        "absolute_error": 0.04913390722480937
+      },
+      {
+        "party": "MI",
+        "estimate": 4.8,
+        "official": 4.687540547107777,
+        "signed_error": 0.1124594528922227,
+        "absolute_error": 0.1124594528922227
+      },
+      {
+        "party": "NADA",
+        "estimate": 4.9,
+        "official": 5.017841382728786,
+        "signed_error": -0.11784138272878586,
+        "absolute_error": 0.11784138272878586
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 2.8,
+        "official": 2.756613552740532,
+        "signed_error": 0.04338644725946761,
+        "absolute_error": 0.04338644725946761
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.7,
+        "official": 1.6971659553966743,
+        "signed_error": 0.0028340446033257027,
+        "absolute_error": 0.0028340446033257027
+      },
+      {
+        "party": "SRS",
+        "estimate": 1.5,
+        "official": 1.462172939656467,
+        "signed_error": 0.03782706034353289,
+        "absolute_error": 0.03782706034353289
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 1.2,
+        "official": 1.1816229957114102,
+        "signed_error": 0.018377004288589793,
+        "absolute_error": 0.018377004288589793
+      },
+      {
+        "party": "NS",
+        "estimate": 0.9,
+        "official": 0.8751753273322959,
+        "signed_error": 0.024824672667704162,
+        "absolute_error": 0.024824672667704162
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 0.9,
+        "official": 0.7618858890691419,
+        "signed_error": 0.13811411093085812,
+        "absolute_error": 0.13811411093085812
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.5721352542734521,
+        "signed_error": 0.027864745726547846,
+        "absolute_error": 0.027864745726547846
+      },
+      {
+        "party": "PDD",
+        "estimate": 0.4,
+        "official": 0.3538918801459604,
+        "signed_error": 0.04610811985403962,
+        "absolute_error": 0.04610811985403962
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.3,
+        "official": 0.2980073168935208,
+        "signed_error": 0.0019926831064792094,
+        "absolute_error": 0.0019926831064792094
+      },
+      {
+        "party": "LDP",
+        "estimate": 0.2,
+        "official": 0.24228002727124748,
+        "signed_error": -0.04228002727124747,
+        "absolute_error": 0.04228002727124747
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0.2,
+        "official": 0.1431714279947586,
+        "signed_error": 0.05682857200524141,
+        "absolute_error": 0.05682857200524141
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0.2,
+        "official": 0.17787647571813106,
+        "signed_error": 0.02212352428186895,
+        "absolute_error": 0.02212352428186895
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0847966989313519,
+        "signed_error": 0.015203301068648103,
+        "absolute_error": 0.015203301068648103
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 18,
+      "mae_pp": 0.07537720551146199,
+      "rmse_pp": 0.14352860494629205,
+      "max_absolute_error_pp": 0.5548552335552728
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "NADA",
+      "MI",
+      "ZAV_DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.1537353055097054,
+      "rmse_pp": 0.23829107961023874,
+      "max_absolute_error_pp": 0.5548552335552728
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 47.53086419753086,
+          "official": 48.06552342805589,
+          "signed_error": -0.5346592305250297,
+          "absolute_error": 0.5346592305250297
+        },
+        {
+          "party": "SPN",
+          "estimate": 24.382716049382715,
+          "official": 24.318387228380228,
+          "signed_error": 0.06432882100248705,
+          "absolute_error": 0.06432882100248705
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.790123456790123,
+          "official": 6.734505028054599,
+          "signed_error": 0.05561842873552436,
+          "absolute_error": 0.05561842873552436
+        },
+        {
+          "party": "MI",
+          "estimate": 4.938271604938271,
+          "official": 4.818945302289585,
+          "signed_error": 0.1193263026486866,
+          "absolute_error": 0.1193263026486866
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.041152263374486,
+          "official": 5.158505385911746,
+          "signed_error": -0.11735312253725994,
+          "absolute_error": 0.11735312253725994
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.8806584362139915,
+          "official": 2.8338890718295824,
+          "signed_error": 0.04676936438440915,
+          "absolute_error": 0.04676936438440915
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.7489711934156378,
+          "official": 1.7447422215922594,
+          "signed_error": 0.004228971823378336,
+          "absolute_error": 0.004228971823378336
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.5432098765432098,
+          "official": 1.5031617002310442,
+          "signed_error": 0.04004817631216562,
+          "absolute_error": 0.04004817631216562
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2345679012345678,
+          "official": 1.2147471636856915,
+          "signed_error": 0.019820737548876366,
+          "absolute_error": 0.019820737548876366
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9259259259259259,
+          "official": 0.899708917703096,
+          "signed_error": 0.026217008222829907,
+          "absolute_error": 0.026217008222829907
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.9259259259259259,
+          "official": 0.7832436624523239,
+          "signed_error": 0.14268226347360202,
+          "absolute_error": 0.14268226347360202
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6172839506172839,
+          "official": 0.5881737913832957,
+          "signed_error": 0.029110159233988187,
+          "absolute_error": 0.029110159233988187
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.411522633744856,
+          "official": 0.36381245051843475,
+          "signed_error": 0.04771018322642123,
+          "absolute_error": 0.04771018322642123
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.30864197530864196,
+          "official": 0.30636128804859525,
+          "signed_error": 0.00228068726004671,
+          "absolute_error": 0.00228068726004671
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.205761316872428,
+          "official": 0.24907180802473095,
+          "signed_error": -0.043310491152302955,
+          "absolute_error": 0.043310491152302955
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.205761316872428,
+          "official": 0.14718491998605218,
+          "signed_error": 0.05857639688637581,
+          "absolute_error": 0.05857639688637581
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.205761316872428,
+          "official": 0.18286284639790373,
+          "signed_error": 0.022898470474524257,
+          "absolute_error": 0.022898470474524257
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.102880658436214,
+          "official": 0.08717378545493937,
+          "signed_error": 0.015706872981274628,
+          "absolute_error": 0.015706872981274628
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.1563425449722328,
+        "rmse_pp": 0.23212424651831334,
+        "max_absolute_error_pp": 0.5346592305250297
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.4882925740869381,
+        "rmse_pp": 0.8112751748158403,
+        "max_absolute_error_pp": 1.8655234280558872
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.1537353055097054,
+        "rmse_pp": 0.23829107961023874,
+        "max_absolute_error_pp": 0.5548552335552728
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.1501998475341372,
+        "rmse_pp": 0.21349854308406818,
+        "max_absolute_error_pp": 0.48462651011085
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1736513641321546053",
+    "created_at_belgrade": "2023-12-17T23:28:09+01:00"
+  },
+  {
+    "post_id": "1736514618996961555",
+    "kind": "seats",
+    "values": {
+      "SNS": 128,
+      "SPN": 65,
+      "SPS": 18,
+      "MI": 13,
+      "NADA": 13,
+      "ZAV_DVERI": 0,
+      "SVM": 6,
+      "SRS": 0,
+      "DJB_SDS": 0,
+      "NS": 0,
+      "SPP_DSHV": 3,
+      "SDA": 2,
+      "PDD": 1,
+      "RUSKA": 1,
+      "LDP": 0,
+      "SRBIJA_ZAPAD": 0,
+      "MIR_TOLERANCIJA": 0,
+      "ADA": 0
+    },
+    "sample_processed_pct": 88.4,
+    "basis": null,
+    "basis_explicit": false,
+    "attribution": "CeSID/Ipsos",
+    "note": "Reused previously reviewed transcription; image hash rechecked. Caption/chart scope overrides misleading Belgrade hashtag. Seat overlap is descriptive, not a reliability probability.",
+    "claim_id": "1736514618996961555:seats",
+    "account": "cesidbeograd",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "unit": "seats",
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 128,
+        "official": 129,
+        "signed_error": -1,
+        "absolute_error": 1
+      },
+      {
+        "party": "SPN",
+        "estimate": 65,
+        "official": 65,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPS",
+        "estimate": 18,
+        "official": 18,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "MI",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NADA",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SVM",
+        "estimate": 6,
+        "official": 6,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 3,
+        "official": 2,
+        "signed_error": 1,
+        "absolute_error": 1
+      },
+      {
+        "party": "SDA",
+        "estimate": 2,
+        "official": 2,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "PDD",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "LDP",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ADA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      }
+    ],
+    "minimum_seats_to_reassign": 1.0,
+    "allocation_agreement_pct": 99.6,
+    "post_url": "https://x.com/cesidbeograd/status/1736514618996961555",
+    "created_at_belgrade": "2023-12-17T23:32:02+01:00"
+  },
+  {
+    "post_id": "1274807242198585346",
+    "kind": "vote_share_bounds",
+    "values": {
+      "SNS": {
+        "lower": 58,
+        "upper": null,
+        "lower_inclusive": false
+      },
+      "SPS": {
+        "lower": 9,
+        "upper": 11,
+        "lower_inclusive": true
+      },
+      "SPAS": {
+        "lower": 3.5,
+        "upper": 4.5,
+        "lower_inclusive": true
+      }
+    },
+    "basis": "voters_who_turned_out",
+    "basis_explicit": false,
+    "sample_processed_pct": 87,
+    "note": "Literal published bounds; no fabricated SNS point estimate and no midpoint MAE. Valid-vote sensitivity is also shown.",
+    "attribution": "CRTA",
+    "claim_id": "1274807242198585346:vote_share_bounds",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": true,
+    "unit": "percentage_points",
+    "bounds": [
+      {
+        "party": "SNS",
+        "official": 60.647231392081956,
+        "lower": 58,
+        "upper": null,
+        "lower_inclusive": false,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": null
+      },
+      {
+        "party": "SPS",
+        "official": 10.37686364725498,
+        "lower": 9,
+        "upper": 11,
+        "lower_inclusive": true,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": 2
+      },
+      {
+        "party": "SPAS",
+        "official": 3.8298114036775726,
+        "lower": 3.5,
+        "upper": 4.5,
+        "lower_inclusive": true,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": 1.0
+      }
+    ],
+    "tested_bounds": 3,
+    "bounds_containing_final": 3,
+    "mean_distance_outside_pp": 0,
+    "valid_vote_basis_sensitivity": [
+      {
+        "party": "SNS",
+        "official": 63.019833529423906,
+        "lower": 58,
+        "upper": null,
+        "lower_inclusive": false,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": null
+      },
+      {
+        "party": "SPS",
+        "official": 10.782820659689971,
+        "lower": 9,
+        "upper": 11,
+        "lower_inclusive": true,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": 2
+      },
+      {
+        "party": "SPAS",
+        "official": 3.9796388321258283,
+        "lower": 3.5,
+        "upper": 4.5,
+        "lower_inclusive": true,
+        "contains_official": true,
+        "distance_outside_pp": 0,
+        "width_pp": 1.0
+      }
+    ],
+    "point_estimate_mae_pp": null,
+    "post_url": "https://x.com/crtars/status/1274807242198585346",
+    "created_at_belgrade": "2020-06-21T22:51:45+02:00"
+  },
+  {
+    "post_id": "1274806574821842944",
+    "kind": "turnout_bounds",
+    "values": {
+      "lower": 48,
+      "upper": 49
+    },
+    "scope": "national",
+    "note": "2016 comparison is historical context, outside selected benchmark years.",
+    "claim_id": "1274806574821842944:turnout_bounds",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "unit": "percentage_points",
+    "comparison": {
+      "official": 48.93262474682491,
+      "lower": 48,
+      "upper": 49,
+      "lower_inclusive": true,
+      "contains_official": true,
+      "distance_outside_pp": 0,
+      "width_pp": 1
+    },
+    "post_url": "https://x.com/crtars/status/1274806574821842944",
+    "created_at_belgrade": "2020-06-21T22:49:06+02:00"
+  },
+  {
+    "post_id": "1274807584248209411",
+    "kind": "below_threshold",
+    "values": {
+      "lists": [
+        "SRS",
+        "POKS",
+        "UDS",
+        "METLA",
+        "ZDRAVA",
+        "ZAVETNICI",
+        "NARODNI_BLOK",
+        "PSG",
+        "DJB",
+        "JEDAN_OD_PET",
+        "ZELENA_NOVA",
+        "MIR",
+        "LEVIJATAN"
+      ],
+      "threshold_pct": 3
+    },
+    "note": "Qualitative threshold claim only; explicitly excludes minority lists. Verify against official shares, not sample coverage.",
+    "claim_id": "1274807584248209411:below_threshold",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "checks": [
+      {
+        "party": "SRS",
+        "official_share_pct": 2.047047898326085,
+        "below_threshold": true
+      },
+      {
+        "party": "POKS",
+        "official_share_pct": 2.6657496117207566,
+        "below_threshold": true
+      },
+      {
+        "party": "UDS",
+        "official_share_pct": 0.9494684516131435,
+        "below_threshold": true
+      },
+      {
+        "party": "METLA",
+        "official_share_pct": 2.2373388687696854,
+        "below_threshold": true
+      },
+      {
+        "party": "ZDRAVA",
+        "official_share_pct": 1.0377391284915647,
+        "below_threshold": true
+      },
+      {
+        "party": "ZAVETNICI",
+        "official_share_pct": 1.4261735592698488,
+        "below_threshold": true
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "official_share_pct": 0.24435831190710597,
+        "below_threshold": true
+      },
+      {
+        "party": "PSG",
+        "official_share_pct": 1.5756191672760365,
+        "below_threshold": true
+      },
+      {
+        "party": "DJB",
+        "official_share_pct": 2.2953169364240074,
+        "below_threshold": true
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "official_share_pct": 0.6289751290229267,
+        "below_threshold": true
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "official_share_pct": 0.2422477612644433,
+        "below_threshold": true
+      },
+      {
+        "party": "MIR",
+        "official_share_pct": 0.3152790210024619,
+        "below_threshold": true
+      },
+      {
+        "party": "LEVIJATAN",
+        "official_share_pct": 0.7042721269508626,
+        "below_threshold": true
+      }
+    ],
+    "all_consistent": true,
+    "post_url": "https://x.com/crtars/status/1274807584248209411",
+    "created_at_belgrade": "2020-06-21T22:53:07+02:00"
+  },
+  {
+    "post_id": "1736473053465313303",
+    "kind": "registered_voters",
+    "values": {
+      "2022": 6502307,
+      "2023": 6500666
+    },
+    "note": "Known registration counts, not a preliminary-result forecast; excluded from forecast confidence.",
+    "claim_id": "1736473053465313303:registered_voters",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "post_url": "https://x.com/crtars/status/1736473053465313303",
+    "created_at_belgrade": "2023-12-17T20:46:52+01:00",
+    "checks": {
+      "2022": {
+        "estimate": 6502307,
+        "official": 6502307,
+        "difference": 0
+      },
+      "2023": {
+        "estimate": 6500666,
+        "official": 6500666,
+        "difference": 0
+      }
+    }
+  },
+  {
+    "post_id": "1736505133297451187",
+    "kind": "winner",
+    "values": {
+      "party": "SNS"
+    },
+    "note": "Text explicitly says SNS list received the most votes. Correct qualitative claim alone cannot establish numerical forecasting accuracy.",
+    "claim_id": "1736505133297451187:winner",
+    "account": "sns_srbija",
+    "year": "2023",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "official_winner": "SNS",
+    "consistent": true,
+    "comparison_scope": "national_parliament",
+    "post_url": "https://x.com/sns_srbija/status/1736505133297451187",
+    "created_at_belgrade": "2023-12-17T22:54:21+01:00"
+  },
+  {
+    "post_id": "1736517035817886148",
+    "kind": "winner",
+    "values": {
+      "party": "SNS"
+    },
+    "scope_inferred": true,
+    "note": "Victory statement interpreted from party slogan and press-conference photos; no numerical margin and no explicit election level. Keep as contextual corroboration, outside numerical score.",
+    "claim_id": "1736517035817886148:winner",
+    "account": "milos_vucevic",
+    "year": "2023",
+    "extraction": "reviewed saved text",
+    "confidence_scoring_eligible": false,
+    "official_winner": "SNS",
+    "consistent": true,
+    "comparison_scope": "context_only",
+    "post_url": "https://x.com/milos_vucevic/status/1736517035817886148",
+    "created_at_belgrade": "2023-12-17T23:41:38+01:00"
+  }
+]

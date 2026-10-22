@@ -1,0 +1,149 @@
+{
+  "source_url": "https://www.rik.parlament.gov.rs/vest/564488/51-sednica-republicke-izborne-komisije.php",
+  "source_title": "RIK, 51st session, total report on national parliamentary results",
+  "adopted_on": "2024-01-12",
+  "checked_on": "2026-10-18",
+  "polling_stations": 8273,
+  "registered_voters": 6500666,
+  "voters_who_turned_out": 3820746,
+  "ballots_cast": 3815007,
+  "invalid_ballots": 104029,
+  "valid_ballots": 3710978,
+  "parties": {
+    "SNS": {
+      "label": "SNS coalition",
+      "votes": 1783701,
+      "seats": 129
+    },
+    "SPN": {
+      "label": "Serbia Against Violence (SPN)",
+      "votes": 902450,
+      "seats": 65
+    },
+    "SPS": {
+      "label": "SPS coalition",
+      "votes": 249916,
+      "seats": 18
+    },
+    "MI": {
+      "label": "MI - Glas iz naroda",
+      "votes": 178830,
+      "seats": 13
+    },
+    "NADA": {
+      "label": "NADA coalition",
+      "votes": 191431,
+      "seats": 13
+    },
+    "ZAV_DVERI": {
+      "label": "Zavetnici - Dveri",
+      "votes": 105165,
+      "seats": 0
+    },
+    "SVM": {
+      "label": "SVM",
+      "votes": 64747,
+      "seats": 6
+    },
+    "SRS": {
+      "label": "SRS",
+      "votes": 55782,
+      "seats": 0
+    },
+    "DJB_SDS": {
+      "label": "DJB - SDS",
+      "votes": 45079,
+      "seats": 0
+    },
+    "NS": {
+      "label": "Narodna stranka",
+      "votes": 33388,
+      "seats": 0
+    },
+    "SPP_DSHV": {
+      "label": "SPP - DSHV",
+      "votes": 29066,
+      "seats": 2
+    },
+    "SDA": {
+      "label": "SDA Sandzaka",
+      "votes": 21827,
+      "seats": 2
+    },
+    "PDD": {
+      "label": "PDD / Shaip Kamberi",
+      "votes": 13501,
+      "seats": 1
+    },
+    "RUSKA": {
+      "label": "Russian Party",
+      "votes": 11369,
+      "seats": 1
+    },
+    "LDP": {
+      "label": "LDP / Cedomir Jovanovic",
+      "votes": 9243,
+      "seats": 0
+    },
+    "SRBIJA_ZAPAD": {
+      "label": "Srbija na Zapadu",
+      "votes": 5462,
+      "seats": 0
+    },
+    "MIR_TOLERANCIJA": {
+      "label": "Coalition for Peace and Tolerance",
+      "votes": 6786,
+      "seats": 0
+    },
+    "ADA": {
+      "label": "Albanian Democratic Alternative",
+      "votes": 3235,
+      "seats": 0
+    }
+  },
+  "parquet_groups": {
+    "SNS": [
+      "SNS"
+    ],
+    "SPN": [
+      "SPN"
+    ],
+    "SPS": [
+      "SPS"
+    ],
+    "MI": [
+      "MI"
+    ],
+    "NADA": [
+      "NADA"
+    ],
+    "ZAV_DVERI": [
+      "ZAV_DVERI"
+    ],
+    "MANJINE": [
+      "SVM",
+      "SPP_DSHV",
+      "SDA",
+      "PDD",
+      "RUSKA",
+      "MIR_TOLERANCIJA",
+      "ADA"
+    ],
+    "OSTALI": [
+      "SRS",
+      "DJB_SDS",
+      "NS",
+      "LDP",
+      "SRBIJA_ZAPAD"
+    ]
+  },
+  "primary_individual_parties": [
+    "SNS",
+    "SPN",
+    "SPS",
+    "MI",
+    "NADA",
+    "ZAV_DVERI"
+  ],
+  "provenance_note": "Vote totals for the six individual lists and eight groups are read from the Parquet during evaluation. Individual small-list counts, final seats and ballots-cast/invalid totals are supplementary RIK reference data; they are not columns in the Parquet."
+}

@@ -1,0 +1,391 @@
+{
+  "2020": {
+    "source": {
+      "file": "data/2020_official/G202019004.xlsx",
+      "sha256": "4cae75862610e6b442db8002b6b0c28d687764ca9bc1f92ae290f2faffb0adad",
+      "sheet": "Резултати",
+      "range": "A4:BB4",
+      "extraction": "national total; independently reconciled against station rows"
+    },
+    "registered_voters": 6584376,
+    "voters_who_turned_out": 3221908,
+    "ballots_cast": 3218763,
+    "invalid_ballots": 118155,
+    "valid_ballots": 3100608,
+    "parties": {
+      "SNS": {
+        "votes": 1953998,
+        "label": "1. АЛЕКСАНДАР ВУЧИЋ\n –  ЗА НАШУ ДЕЦУ",
+        "source_cell": "M4",
+        "published_pct": 60.65
+      },
+      "SPS": {
+        "votes": 334333,
+        "label": "2. ИВИЦА ДАЧИЋ – \"(СПС), ДРАГАН МАРКОВИЋ ПАЛМА – (ЈС)\"",
+        "source_cell": "O4",
+        "published_pct": 10.38
+      },
+      "SRS": {
+        "votes": 65954,
+        "label": "3. Др ВОЈИСЛАВ ШЕШЕЉ – \nСРПСКА РАДИКАЛНА СТРАНКА",
+        "source_cell": "Q4",
+        "published_pct": 2.05
+      },
+      "SVM": {
+        "votes": 71893,
+        "label": "4. Савез војвођанских Мађара \n– Иштван Пастор",
+        "source_cell": "S4",
+        "published_pct": 2.23
+      },
+      "SPAS": {
+        "votes": 123393,
+        "label": "5. АЛЕКСАНДАР ШАПИЋ – \nПОБЕДА ЗА СРБИЈУ",
+        "source_cell": "U4",
+        "published_pct": 3.83
+      },
+      "POKS": {
+        "votes": 85888,
+        "label": "6. ЗА КРАЉЕВИНУ СРБИЈУ\n – Жика Гојковић",
+        "source_cell": "W4",
+        "published_pct": 2.67
+      },
+      "UDS": {
+        "votes": 30591,
+        "label": "7. УЈЕДИЊЕНА ДЕМОКРАТСКА СРБИЈА",
+        "source_cell": "Y4",
+        "published_pct": 0.95
+      },
+      "SPP": {
+        "votes": 32170,
+        "label": "8. Академик Муамер Зукорлић \n– Само право – (СПП) –  \n(ДПМ)",
+        "source_cell": "AA4",
+        "published_pct": 1
+      },
+      "METLA": {
+        "votes": 72085,
+        "label": "9. МЕТЛА 2020",
+        "source_cell": "AC4",
+        "published_pct": 2.24
+      },
+      "ZDRAVA": {
+        "votes": 33435,
+        "label": "10. Милан Стаматовић-ЗДП –  Драган Јовановић-\nБС-ЗС",
+        "source_cell": "AE4",
+        "published_pct": 1.04
+      },
+      "SDA": {
+        "votes": 24676,
+        "label": "11. СДА Санџака\n – др Сулејман Угљанин",
+        "source_cell": "AG4",
+        "published_pct": 0.77
+      },
+      "ZAVETNICI": {
+        "votes": 45950,
+        "label": "12. Милица Ђурђевић Стаменковски – \nСрпска странка Заветници",
+        "source_cell": "AI4",
+        "published_pct": 1.43
+      },
+      "NARODNI_BLOK": {
+        "votes": 7873,
+        "label": "13. НАРОДНИ БЛОК –  \nВелимир Илић –  \nгенерал Момир Стојановић",
+        "source_cell": "AK4",
+        "published_pct": 0.24
+      },
+      "PSG": {
+        "votes": 50765,
+        "label": "14. СЕРГЕЈ ТРИФУНОВИЋ – ПОКРЕТ СЛОБОДНИХ ГРАЂАНА",
+        "source_cell": "AM4",
+        "published_pct": 1.58
+      },
+      "DJB": {
+        "votes": 73953,
+        "label": "15. СУВЕРЕНИСТИ",
+        "source_cell": "AO4",
+        "published_pct": 2.3
+      },
+      "ADA": {
+        "votes": 26437,
+        "label": "16. “АЛБАНСКА ДЕМОКРАТСКА АЛТЕРНАТИВА –\nУЈЕДИЊЕНА ДОЛИНА“",
+        "source_cell": "AQ4",
+        "published_pct": 0.82
+      },
+      "JEDAN_OD_PET": {
+        "votes": 20265,
+        "label": "17. Група грађана: \n1 од 5 милиона",
+        "source_cell": "AS4",
+        "published_pct": 0.63
+      },
+      "ZELENA_NOVA": {
+        "votes": 7805,
+        "label": "18. НЕК МАСКЕ ПАДНУ –\nЗелена странка - \nНова странка",
+        "source_cell": "AU4",
+        "published_pct": 0.24
+      },
+      "RUSKA": {
+        "votes": 6295,
+        "label": "19. РУСКА СТРАНКА – СЛОБОДАН НИКОЛИЋ",
+        "source_cell": "AW4",
+        "published_pct": 0.2
+      },
+      "MIR": {
+        "votes": 10158,
+        "label": "20. Чедомир Јовановић – КОАЛИЦИЈА \nЗА МИР",
+        "source_cell": "AY4",
+        "published_pct": 0.32
+      },
+      "LEVIJATAN": {
+        "votes": 22691,
+        "label": "21. ПОКРЕТ ЛЕВИЈАТАН – \nЖИВИМ ЗА СРБИЈУ",
+        "source_cell": "BA4",
+        "published_pct": 0.7
+      }
+    },
+    "official_published_share_denominator": "voters_who_turned_out",
+    "station_rows_checked": 8433,
+    "turnout_scope_without_kosovo_prisons_abroad": {
+      "registered_voters": 6467129,
+      "voters_who_turned_out": 3150407,
+      "source_cells": "Резултати!C5:D6",
+      "scope": "Central Serbia plus Vojvodina; excludes separately reported Kosovo, abroad and prison rows"
+    },
+    "note": "2020 published party percentages divide by D4 (voters who voted), not H4 (ballots in boxes). CeSID charts instead sum to about 100, so valid-vote shares are the main inferred comparison basis.",
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ]
+  },
+  "2022": {
+    "source": {
+      "file": "data/2022_official/G202219002.xlsx",
+      "sha256": "e0c69fcfef99189155f64cd2d8035a086304890b8ffb805d22664e43f7f6fd66",
+      "sheet": "Sheet1",
+      "range": "F2:AC8268",
+      "extraction": "sum 8,267 unique municipality/station records; ignore final empty row"
+    },
+    "registered_voters": 6502307,
+    "voters_who_turned_out": 3810559,
+    "ballots_cast": 3806050,
+    "invalid_ballots": 112722,
+    "valid_ballots": 3693328,
+    "official_published_share_denominator": "ballots_cast",
+    "parties": {
+      "SNS": {
+        "votes": 1635101,
+        "label": "АЛЕКСАНДАР ВУЧИЋ – Заједно можемо све"
+      },
+      "SPS": {
+        "votes": 435274,
+        "label": "ИВИЦА ДАЧИЋ-ПРЕМИЈЕР СРБИЈЕ"
+      },
+      "SVM": {
+        "votes": 60313,
+        "label": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА-ИШТВАН ПАСТОР"
+      },
+      "SRS": {
+        "votes": 82066,
+        "label": "ДР ВОЈИСЛАВ ШЕШЕЉ – СРПСКА РАДИКАЛНА СТРАНКА"
+      },
+      "UJEDINJENI": {
+        "votes": 520469,
+        "label": "МАРИНИКА ТЕПИЋ – УЈЕДИЊЕНИ ЗА ПОБЕДУ СРБИЈЕ"
+      },
+      "NADA": {
+        "votes": 204444,
+        "label": "ДР МИЛОШ ЈОВАНОВИЋ - НАДА ЗА СРБИЈУ"
+      },
+      "ZAVETNICI": {
+        "votes": 141227,
+        "label": "МИЛИЦА ЂУРЂЕВИЋ СТАМЕНКОВСКИ - СРПСКА СТРАНКА ЗАВЕТНИЦИ"
+      },
+      "SPP": {
+        "votes": 35850,
+        "label": "МУФТИЈИН AМАНЕТ – СТРАНКА ПРАВДЕ И ПОМИРЕЊА"
+      },
+      "MORAMO": {
+        "votes": 178733,
+        "label": "МОРАМО – АКЦИЈА – ЕКОЛОШКИ УСТАНАК – НЕ ДАВИМО БЕОГРАД"
+      },
+      "DJB": {
+        "votes": 86362,
+        "label": "СУВЕРЕНИСТИ – ДЈБ, ЗС,ЖЗС"
+      },
+      "DVERI": {
+        "votes": 144762,
+        "label": "СРПСКИ ПОКРЕТ ДВЕРИ - ПОКС"
+      },
+      "VOJVODJANI": {
+        "votes": 24024,
+        "label": "ЗАЈЕДНО ЗА ВОЈВОДИНУ - ВОЈВОЂАНИ"
+      },
+      "SDA": {
+        "votes": 20553,
+        "label": "СДА САНЏАКА – ДР СУЛЕЈМАН УГЉАНИН"
+      },
+      "SDS": {
+        "votes": 63560,
+        "label": "БОРИС ТАДИЋ – АЈМО ЉУДИ"
+      },
+      "ADA": {
+        "votes": 3267,
+        "label": "АЛТЕРНАТИВА ЗА ПРОМЕНЕ - АЛБАНСКА ДЕМОКРАТСКА АЛТЕРНАТИВА"
+      },
+      "KAD": {
+        "votes": 10165,
+        "label": "КОАЛИЦИЈА АЛБАНАЦА ДОЛИНЕ"
+      },
+      "OTETE_BEBE": {
+        "votes": 31196,
+        "label": "ОТЕТЕ БЕБЕ АНА ПЕЈИЋ"
+      },
+      "ROMSKA": {
+        "votes": 6393,
+        "label": "РОМСКА ПАРТИЈА – СРЂАН ШАЈН"
+      },
+      "RUSKI_SAVEZ": {
+        "votes": 9569,
+        "label": "РУСКИ МАЊИНСКИ САВЕЗ"
+      }
+    },
+    "station_rows_checked": 8267,
+    "independent_reconciliation_url": "https://www.rik.parlament.gov.rs/vest/sr/324925/79-sednica-republicke-izborne-komisije.php",
+    "note": "National totals and all 19 list vote counts reconcile with RIK final report of 5 July 2022, including repeat voting.",
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ]
+  },
+  "2023": {
+    "registered_voters": 6500666,
+    "voters_who_turned_out": 3820746,
+    "ballots_cast": 3815007,
+    "invalid_ballots": 104029,
+    "valid_ballots": 3710978,
+    "parties": {
+      "SNS": {
+        "label": "SNS coalition",
+        "votes": 1783701,
+        "seats": 129
+      },
+      "SPN": {
+        "label": "Serbia Against Violence (SPN)",
+        "votes": 902450,
+        "seats": 65
+      },
+      "SPS": {
+        "label": "SPS coalition",
+        "votes": 249916,
+        "seats": 18
+      },
+      "MI": {
+        "label": "MI - Glas iz naroda",
+        "votes": 178830,
+        "seats": 13
+      },
+      "NADA": {
+        "label": "NADA coalition",
+        "votes": 191431,
+        "seats": 13
+      },
+      "ZAV_DVERI": {
+        "label": "Zavetnici - Dveri",
+        "votes": 105165,
+        "seats": 0
+      },
+      "SVM": {
+        "label": "SVM",
+        "votes": 64747,
+        "seats": 6
+      },
+      "SRS": {
+        "label": "SRS",
+        "votes": 55782,
+        "seats": 0
+      },
+      "DJB_SDS": {
+        "label": "DJB - SDS",
+        "votes": 45079,
+        "seats": 0
+      },
+      "NS": {
+        "label": "Narodna stranka",
+        "votes": 33388,
+        "seats": 0
+      },
+      "SPP_DSHV": {
+        "label": "SPP - DSHV",
+        "votes": 29066,
+        "seats": 2
+      },
+      "SDA": {
+        "label": "SDA Sandzaka",
+        "votes": 21827,
+        "seats": 2
+      },
+      "PDD": {
+        "label": "PDD / Shaip Kamberi",
+        "votes": 13501,
+        "seats": 1
+      },
+      "RUSKA": {
+        "label": "Russian Party",
+        "votes": 11369,
+        "seats": 1
+      },
+      "LDP": {
+        "label": "LDP / Cedomir Jovanovic",
+        "votes": 9243,
+        "seats": 0
+      },
+      "SRBIJA_ZAPAD": {
+        "label": "Srbija na Zapadu",
+        "votes": 5462,
+        "seats": 0
+      },
+      "MIR_TOLERANCIJA": {
+        "label": "Coalition for Peace and Tolerance",
+        "votes": 6786,
+        "seats": 0
+      },
+      "ADA": {
+        "label": "Albanian Democratic Alternative",
+        "votes": 3235,
+        "seats": 0
+      }
+    },
+    "source": {
+      "file": "data/2023_official/G20246006.pdf",
+      "sha256": "b980dda3b7e97c5dc2c4a141e007f9ee9ebf664f139c353e30efc45ea54f1ac9",
+      "pages": [
+        8,
+        9
+      ],
+      "printed_pages": [
+        6,
+        7
+      ],
+      "tables": [
+        "1.1",
+        "1.2"
+      ],
+      "extraction": "PDF text extracted; national totals, each of 18 vote counts and seat allocations checked visually on rendered pages; existing RIK transcription reused"
+    },
+    "official_published_share_denominator": "ballots_cast",
+    "note": "Final parliamentary results including repeat voting on 30 December 2023 and 2 January 2024.",
+    "top_six_lists": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "NADA",
+      "MI",
+      "ZAV_DVERI"
+    ]
+  }
+}

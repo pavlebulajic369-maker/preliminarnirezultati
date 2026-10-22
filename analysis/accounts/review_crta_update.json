@@ -1,0 +1,1795 @@
+{
+  "reviewed_on": "2026-10-22",
+  "account": "crtars",
+  "scope": "All new saved posts across expanded 28-hour windows; 28 photo attachments individually visually inspected; unsaved links and videos excluded.",
+  "input_posts_sha256": {
+    "data/2020/crtars/posts.jsonl": "05023c45c7543e5e512bc56325e5f7ce89baf10cbd42bbe5503b9f2d37f4c4d1",
+    "data/2022/crtars/posts.jsonl": "7fc178e526bc0e7c61655437cf4f1e903bddf23aeca15d5cf68ce7d9d399d41a",
+    "data/2023/crtars/posts.jsonl": "5db719390f497f16e4066f6d9e3d4a1cfc4b671eedd695de86379e6e9460af61"
+  },
+  "records": [
+    {
+      "post_id": "1274831942970720256",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274831942970720256",
+      "created_at": "2020-06-21T22:29:55.000Z",
+      "text": "@nkaonikica @savski_nasip @RaulLaranga https://t.co/udnaKW9OxR",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply is a link only; linked content is outside saved evidence."
+    },
+    {
+      "post_id": "1274832082930458624",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274832082930458624",
+      "created_at": "2020-06-21T22:30:28.000Z",
+      "text": "@Liki_Twiki Zabeležili smo, hvala na info.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1274993895403859971",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274993895403859971",
+      "created_at": "2020-06-22T09:13:27.000Z",
+      "text": "@micin_taja Izlaznost i preliminarne rezultate smo objavili sinoć https://t.co/faCBJ0Hnnx",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Says results were published earlier and links them; no new numerical estimate in saved text."
+    },
+    {
+      "post_id": "1274995155284754435",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1274995155284754435",
+      "created_at": "2020-06-22T09:18:27.000Z",
+      "text": "@greatjakuza Ovo je važeći listić pošto se može jasno utvrditi za koga je birač glasao. Na našem sajtu možete pogledati primere važećih i nevažećih listića: https://t.co/JdWwwTXVzP",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275004274741837827",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275004274741837827",
+      "created_at": "2020-06-22T09:54:42.000Z",
+      "text": "Uskoro počinje #KZN kojoj ćemo predstaviti preliminarne nalaze o monitoringu izbornog dana i oceniti kako je protekao proces glasanja. Pratite live. 👇 #Izbori2020\nhttps://t.co/O0DQ8whrXl https://t.co/dstQkpIZoe",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275004274741837827_3_1275003952027795456.jpg",
+          "sha256": "315477b636534890d8fa36890d4dad9e1d254d1d74af0be9884707a2919f96ca",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbG5Vs_WAAAPf4u.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "event_photo",
+      "reason": "Press-conference setup photograph and livestream link; no result chart. Linked video not saved or transcribed."
+    },
+    {
+      "post_id": "1275006702681755649",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275006702681755649",
+      "created_at": "2020-06-22T10:04:21.000Z",
+      "text": "@malaJ0 Ovde imate više informacija. Potrebno je poslati RIK-u dopis sa očitanom/skeniranom ličnom kartom. https://t.co/D8wsGAZd0B",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275009779002421248",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275009779002421248",
+      "created_at": "2020-06-22T10:16:34.000Z",
+      "text": "@CaptainSensibl7 Poštovani, svesni smo da javnost želi da čuje rezultate što pre, ali sa podacima izlazimo javno onda kada smo sigurni u njihovu tačnost odnosno kada je uzorak dovoljno popunjen.",
+      "images": [],
+      "category": "methodology",
+      "reason": "Explains sample/publication policy or parliamentary scope, not a vote-share forecast."
+    },
+    {
+      "post_id": "1275011544515072009",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275011544515072009",
+      "created_at": "2020-06-22T10:23:35.000Z",
+      "text": "Počinje #KZN na kojoj predstavljamo preliminarne nalaze monitoringa izbornog dana i ocenu toka glasanja. Pratite live. 👇 #Izbori2020\nhttps://t.co/8nJHjrCGpt",
+      "images": [],
+      "category": "external_livestream",
+      "reason": "Press-conference live link; no standalone numerical estimate. Linked video not saved or transcribed."
+    },
+    {
+      "post_id": "1275012205449265152",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275012205449265152",
+      "created_at": "2020-06-22T10:26:13.000Z",
+      "text": "Na osnovu preliminarne analize izbornog dana procenat biračkih mesta na kojima su zabeležene nepravilnosti i incidenti kreću se u rasponu od 8 do 10 odsto biračkih mesta - duplo više nego na izborima 2016. i 2017. godine. #izbori2020",
+      "images": [],
+      "category": "process_report",
+      "reason": "Share of polling places with reported irregularities, not party vote shares; official vote totals cannot verify incident reports.",
+      "extracted": {
+        "polling_places_with_irregularities_pct_range": [
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "post_id": "1275012452229484544",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275012452229484544",
+      "created_at": "2020-06-22T10:27:11.000Z",
+      "text": "Procenjujemo da bi, bez nepravilnosti koje smo identifikovali, izlaznost bila manja oko 4 procentih poena (oko 45%).",
+      "images": [],
+      "category": "counterfactual",
+      "reason": "Hypothetical turnout without irregularities cannot be evaluated against observed official turnout.",
+      "extracted": {
+        "hypothetical_turnout_pct": 45,
+        "hypothetical_reduction_pp": 4
+      }
+    },
+    {
+      "post_id": "1275013029646798855",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275013029646798855",
+      "created_at": "2020-06-22T10:29:29.000Z",
+      "text": "U narednim danima ćemo analizirati dokaze i nepravilnosti koje su se događale i u finalnom izveštaju objaviti sve nepravilnosti. Na osnovu prikupljenih dokaza, podnosićemo prijave nadležnim institucijama i o tome obavestiti javnost.#izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275013375324454912",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275013375324454912",
+      "created_at": "2020-06-22T10:30:51.000Z",
+      "text": "Ovi izbori Ispunjavaju minimalne demokratske standarde, i nakon njih ćemo imati demokratiju u lošijem stanju. #izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275014360839135241",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275014360839135241",
+      "created_at": "2020-06-22T10:34:46.000Z",
+      "text": "Rezultati #izbori2020 \n\nSamo tri liste iznad cenzusa https://t.co/wU3qClLh9X",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275014360839135241_3_1275014247341330432.png",
+          "sha256": "d28712ae58dfae4869137d0c8d2ee64c86615157ff47004313f9c0450012dc93",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHCs-BXkAA4JYS.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records.",
+      "extracted": {
+        "party_pct": {
+          "SNS": 60.41,
+          "SPS": 10.32,
+          "SPAS": 3.95,
+          "POKS": 2.62,
+          "METLA": 2.37
+        },
+        "reported_error_pp": {
+          "SNS": 1.1,
+          "SPS": 0.46,
+          "SPAS": 0.34,
+          "POKS": 0.15,
+          "METLA": 0.17
+        },
+        "invalid_pct": 3.85,
+        "invalid_error_pp": 0.18
+      }
+    },
+    {
+      "post_id": "1275015352989212672",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275015352989212672",
+      "created_at": "2020-06-22T10:38:43.000Z",
+      "text": "Rezultati #Izbori2020\n\nSRS više nije u parlamentu, @pokretslobodnih ispod cenzusa. https://t.co/TO4cqJP63Q",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275015352989212672_3_1275015293526593536.png",
+          "sha256": "8d7e6243696e72a45dd147e8e6d1becdf5f149e73a109d3060190d15e75836eb",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHDp3XX0AAw69b.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "Constituent of the complete CRTA 2020 projection; see composite claim anchored to latest constituent.",
+      "extracted": {
+        "party_pct": {
+          "DJB": 2.3,
+          "SRS": 2.18,
+          "SVM": 1.96,
+          "PSG": 1.67,
+          "ZAVETNICI": 1.47
+        },
+        "reported_error_pp": {
+          "DJB": 0.15,
+          "SRS": 0.14,
+          "SVM": 0.76,
+          "PSG": 0.13,
+          "ZAVETNICI": 0.11
+        },
+        "invalid_pct": 3.85,
+        "invalid_error_pp": 0.18
+      }
+    },
+    {
+      "post_id": "1275015905072816128",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275015905072816128",
+      "created_at": "2020-06-22T10:40:55.000Z",
+      "text": "Izlaznost #Izbori2020\n\n2020 - 49%\n\n2016 - 56.7% https://t.co/DkFnTQf1PT",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275015905072816128_3_1275015651900510218.png",
+          "sha256": "9ee22e41ca9ba7abaffb2024eff3c8767e3364783a7039596b426cfec3b419dd",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHD-uaX0Ao657y.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1275016940386484242",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275016940386484242",
+      "created_at": "2020-06-22T10:45:01.000Z",
+      "text": "Kretanje izlaznosti tokom izbornog dana #izbori2020 \n\nU poslednja 2 sata glasalo je 7,2 odsto birača. https://t.co/dmSH1eveUj",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275016940386484242_3_1275016751366000640.png",
+          "sha256": "826facb1df44d36efbcc89d1933c2a04c58b4da2091185b174e2c011c903bc09",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHE-uPX0AAU-0k.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "earlier_turnout",
+      "reason": "Repeats final 49% headline already recorded and shows an intraday series; increments cannot be compared with final turnout as errors.",
+      "extracted": {
+        "turnout_pct": {
+          "08h": 2.4,
+          "09h": 5.4,
+          "10h": 9.1,
+          "11h": 14,
+          "12h": 18.3,
+          "13h": 22.9,
+          "14h": 27,
+          "15h": 30.8,
+          "16h": 34.6,
+          "17h": 38.2,
+          "18h": 41.8,
+          "19h": 45.5,
+          "20h": 49
+        },
+        "last_two_hours_increment_pp": 7.2
+      }
+    },
+    {
+      "post_id": "1275017147136258048",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275017147136258048",
+      "created_at": "2020-06-22T10:45:51.000Z",
+      "text": "@javimisesutra https://t.co/vicYGfRH7g",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply is a link only; linked content is outside saved evidence."
+    },
+    {
+      "post_id": "1275017256011993088",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275017256011993088",
+      "created_at": "2020-06-22T10:46:17.000Z",
+      "text": "@BiljanaMarusic https://t.co/vicYGfRH7g",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply is a link only; linked content is outside saved evidence."
+    },
+    {
+      "post_id": "1275017566751272960",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275017566751272960",
+      "created_at": "2020-06-22T10:47:31.000Z",
+      "text": "@CDooka U poslednja dva sata glasalo je 7,2 odsto birača. https://t.co/rkditpvItu",
+      "images": [],
+      "category": "earlier_turnout",
+      "reason": "Increment during final two hours, not total turnout; no matching time-series official benchmark.",
+      "extracted": {
+        "last_two_hours_increment_pp": 7.2
+      }
+    },
+    {
+      "post_id": "1275018957607575552",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275018957607575552",
+      "created_at": "2020-06-22T10:53:02.000Z",
+      "text": "Rezultati #Izbori2020 \n\nČak devet lista ispod 1% https://t.co/BHISuJmJdM",
+      "images": [
+        {
+          "file": "data/2020/crtars/1275018957607575552_3_1275018635640217602.png",
+          "sha256": "c5fa9e1646a983146733e50a9bf49fac6e784652f7de56f83d1d70d3c341662c",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHGsZtWoAIUn6i.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2020/crtars/1275018957607575552_3_1275018656091602945.png",
+          "sha256": "d91560a6a80b7b14f44f48f0691beaab72f5cef54131c0b0a9224a4582cb1a0c",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbHGtl5WAAE7COv.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "Constituent of the complete CRTA 2020 projection; see composite claim anchored to latest constituent.",
+      "extracted": {
+        "party_pct": {
+          "ZDRAVA": 1.18,
+          "UDS": 1.04,
+          "SPP": 0.88,
+          "ADA": 0.77,
+          "LEVIJATAN": 0.69,
+          "JEDAN_OD_PET": 0.66,
+          "SDA": 0.63,
+          "MIR": 0.32,
+          "ZELENA_NOVA": 0.26,
+          "RUSKA": 0.24,
+          "NARODNI_BLOK": 0.22
+        },
+        "reported_error_pp": {
+          "ZDRAVA": 0.33,
+          "UDS": 0.16,
+          "SPP": 0.43,
+          "ADA": 0.81,
+          "LEVIJATAN": 0.06,
+          "JEDAN_OD_PET": 0.05,
+          "SDA": 0.35,
+          "MIR": 0.06,
+          "ZELENA_NOVA": 0.04,
+          "RUSKA": 0.04,
+          "NARODNI_BLOK": 0.05
+        },
+        "invalid_pct": 3.85,
+        "invalid_error_pp": 0.18
+      }
+    },
+    {
+      "post_id": "1275019170116259841",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275019170116259841",
+      "created_at": "2020-06-22T10:53:53.000Z",
+      "text": "@javorkaf .https://t.co/NZAk6xDHKR",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply is a link only; linked content is outside saved evidence."
+    },
+    {
+      "post_id": "1275026322939613185",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275026322939613185",
+      "created_at": "2020-06-22T11:22:18.000Z",
+      "text": "@kafa_s_mlekom Mi objavljujemo izlaznost i rezultate samo za parlamentarne izbore.",
+      "images": [],
+      "category": "methodology",
+      "reason": "Explains sample/publication policy or parliamentary scope, not a vote-share forecast."
+    },
+    {
+      "post_id": "1275030149961056256",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275030149961056256",
+      "created_at": "2020-06-22T11:37:31.000Z",
+      "text": "#Izbori2020 bili su najlošiji od svih koje je CRTA posmatrala i to se odnosi i na izborni dan i, još više, na ceo izborni proces – izjavio je @rasaned. Rezultati nisu lažirani, ali je sporan način na koji je volja birača oblikovana.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275031464921489417",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275031464921489417",
+      "created_at": "2020-06-22T11:42:44.000Z",
+      "text": "@Ptiki Mi objavljujemo rezultate i izlaznost na osnovu informacija sa uzorka - 500 biračkih mesta. Informacije o procentu osvojenih glasova i o izlaznosti birača uvek idu zajedno.",
+      "images": [],
+      "category": "methodology",
+      "reason": "Explains sample/publication policy or parliamentary scope, not a vote-share forecast."
+    },
+    {
+      "post_id": "1275032494925139971",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275032494925139971",
+      "created_at": "2020-06-22T11:46:50.000Z",
+      "text": "Povreda tajnosti glasanja i principa „1 čovek, 1 glas“, pritisci i potkupljivanje birača, vođenje paralelnih evidencija, glasanje bez dokumenata - neke su od nepravilnosti zabeleženih na 8 do 10% biračkih mesta, pokazuju naše preliminarne analize #Izbori2020",
+      "images": [],
+      "category": "process_report",
+      "reason": "Share of polling places with reported irregularities, not party vote shares; official vote totals cannot verify incident reports.",
+      "extracted": {
+        "polling_places_with_irregularities_pct_range": [
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "post_id": "1275035052708114436",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275035052708114436",
+      "created_at": "2020-06-22T11:57:00.000Z",
+      "text": "Nepravilnosti su uglavnom bile usmerene na podizanje procenta izlaznosti i dešavale su se na biračkim mestima, ispred biračkih mesta i pri glasanju van kuće. Sve nepravilnosti objavićemo u finalnom izveštaju #Izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275037066506756097",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275037066506756097",
+      "created_at": "2020-06-22T12:05:00.000Z",
+      "text": "Ceo izborni proces obeležen je neravnopravnošću učesnika, intenzivnom funkcionerskom kampanjom, zloupotrebom javnih resursa, inertnošću institucija i promenom ključnih pravila igre tokom procesa. #Izbori2020",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275038324248375296",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275038324248375296",
+      "created_at": "2020-06-22T12:10:00.000Z",
+      "text": "#Izbori2020 ispunjavaju minimalne demokratske standarde, ali vode ka urušavanju demokratije.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275056725004029953",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275056725004029953",
+      "created_at": "2020-06-22T13:23:07.000Z",
+      "text": "@kidolegendaa @CeSIDBeograd Prosledili smo našem pravnom timu, proveravamo. Hvala na info.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275057633997869057",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275057633997869057",
+      "created_at": "2020-06-22T13:26:44.000Z",
+      "text": "@anakonda1954 @novarsonline Naš pravni tim sastavlja prigovore RIK-u za nepravilnosti koje smo uočili tokom izbornog dana.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275059140734451713",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275059140734451713",
+      "created_at": "2020-06-22T13:32:43.000Z",
+      "text": "@JugoslavTadic Juče, tokom izbornog dana, podneli smo tri prijave policiji za \"bugarski voz\"/kupovinu glasova.",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275103058159177729",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275103058159177729",
+      "created_at": "2020-06-22T16:27:13.000Z",
+      "text": "@radenko1980 @nastasija_m https://t.co/Zs8vOO5RBD",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply is a link only; linked content is outside saved evidence."
+    },
+    {
+      "post_id": "1275170659853914118",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275170659853914118",
+      "created_at": "2020-06-22T20:55:51.000Z",
+      "text": "@ban_mirko Potrebno je da Republičkoj izbornoj komisiji podnesete zahtev (lično, poštom ili putem veb stranice RIK-a) za informaciju o tome da li je u izvodu iz biračkog spiska evidentirano da ste glasali ili ne. https://t.co/ymBIgyMGQs",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1275173806475227136",
+      "account": "crtars",
+      "year": "2020",
+      "post_url": "https://x.com/crtars/status/1275173806475227136",
+      "created_at": "2020-06-22T21:08:21.000Z",
+      "text": "@CaslavSunjka Imate mogućnost da podneste zahtev RIK-u lično, poštom ili putem sajta https://t.co/ymBIgyMGQs",
+      "images": [],
+      "category": "process_or_publication_update",
+      "reason": "Voting procedure, legal response, incident report or assessment of election quality; no comparable numerical parliamentary estimate. Official result totals cannot adjudicate process-integrity claims."
+    },
+    {
+      "post_id": "1510740570632769547",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510740570632769547",
+      "created_at": "2022-04-03T22:06:34.000Z",
+      "text": "Pratite KZN live. #izbori2022 \n\nhttps://t.co/z9oAJCIeCk",
+      "images": [],
+      "category": "external_livestream",
+      "reason": "Livestream link; no numerical claim in saved text. Video not saved/transcribed."
+    },
+    {
+      "post_id": "1510745160820432896",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510745160820432896",
+      "created_at": "2022-04-03T22:24:49.000Z",
+      "text": "I dalje obrađujemo podatke za Beograd i očekujemo da ćemo projekcije rezultata objaviti u toku noći. Pratite naš sajt i društvene mreže. #Izbori2022",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Announcement of later results or a press conference; no numerical projection."
+    },
+    {
+      "post_id": "1510745846677127169",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510745846677127169",
+      "created_at": "2022-04-03T22:27:32.000Z",
+      "text": "Posmatračka misija Crte će u ponedeljak u 13 sati održati konferenciju za medije na kojoj će dati preliminarnu ocenu kvaliteta izbornog dana. #Izbori2022",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Announcement of later results or a press conference; no numerical projection."
+    },
+    {
+      "post_id": "1510747898912415748",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510747898912415748",
+      "created_at": "2022-04-03T22:35:42.000Z",
+      "text": "Rezultati #parlamentarni #izbori2022. https://t.co/GEvwFZk63q",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510747898912415748_3_1510747861625016320.png",
+          "sha256": "b7b00eef4e4211fc72ff7e17fb628bfa7a7454061e0ba0062c4b8e692b7260c0",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdBLQVXEAAya7Z.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510747898912415748_3_1510747868432375815.png",
+          "sha256": "a8363946adf7727a1fda33862215b3231f319fc962c57e86f236e7777a19c169",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdBLpsXIAc3vAv.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510747898912415748_3_1510747873994059786.png",
+          "sha256": "2deacaafae25c09f7fe50f2ea76c8db866e80c09e8e30622528c7e5c22d65129",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdBL-aXsAogVCw.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1510748404456075270",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510748404456075270",
+      "created_at": "2022-04-03T22:37:42.000Z",
+      "text": "Izvinjavamo se zbog tehničke greške u projekciji izlaznosti u prvobitno objavljenom tvitu.",
+      "images": [],
+      "category": "correction_notice",
+      "reason": "Apologizes for a technical error in an earlier turnout projection; contains no corrected number. Saved parliamentary chart has 59.3. Deleted/unsaved original cannot be reconstructed."
+    },
+    {
+      "post_id": "1510748684941762570",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510748684941762570",
+      "created_at": "2022-04-03T22:38:49.000Z",
+      "text": "Rezultati #predsednički #izbori2022 https://t.co/g3DvnfetnP",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510748684941762570_3_1510748619187671047.png",
+          "sha256": "7584208f8aedd239c1202f0b1feb0b980c36fcfaf232befe9d5f268e493f3865",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdB3WeX0AcqZ7J.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Presidential election; benchmarks cover national parliament.",
+      "extracted": {
+        "sample_processed_pct": 90,
+        "candidate_pct": {
+          "Vucic": 59,
+          "Ponos": 17.5,
+          "Jovanovic": 5.7,
+          "Obradovic": 4.6,
+          "Djurdjevic_Stamenkovski": 4.4,
+          "Stojkovic": 3,
+          "Stamenkovic": 2.2,
+          "Vacic": 0.9
+        },
+        "invalid_pct": 2.5,
+        "turnout_pct": 59.3
+      }
+    },
+    {
+      "post_id": "1510802172988035078",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510802172988035078",
+      "created_at": "2022-04-04T02:11:22.000Z",
+      "text": "Rezultati beogradskih #izbori2022.\n⬇️⬇️⬇️\nhttps://t.co/0vsgC0yrOO https://t.co/VyQauufe55",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510802172988035078_3_1510800149659934728.png",
+          "sha256": "b44bb60f6606c403e251031368721cef4cc7bd613e0ba7a7e5667084db451ac2",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdwu0cWYAgQ2Y0.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510802172988035078_3_1510800149651628032.png",
+          "sha256": "b77128cb21fdebfda4c8a33f0904da25d7310dcbf72677cc35366dd32698ce52",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdwu0aXoAAM12u.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly; national parliamentary benchmark does not apply.",
+      "extracted": {
+        "sample_processed_pct": 96,
+        "party_pct": {
+          "SNS": 38.1,
+          "UJEDINJENI": 21.3,
+          "MORAMO": 10.8,
+          "SPS": 6.9,
+          "NADA": 6.3,
+          "ZAVETNICI": 3.5,
+          "DVERI": 3.4,
+          "SDS": 2.8,
+          "DJB": 2.2,
+          "SRS": 1.6,
+          "SAROVIC": 0.6,
+          "RUSKI_SAVEZ": 0.4
+        },
+        "invalid_pct": 2.1,
+        "turnout_pct": 57.3
+      }
+    },
+    {
+      "post_id": "1510898947379847169",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510898947379847169",
+      "created_at": "2022-04-04T08:35:54.000Z",
+      "text": "@ElSerbio2 @dijaspora2022 Svi zapisnici sa biračkih mesta objavljuju se na sajtu RIK-a. https://t.co/xhU3LXFHHO",
+      "images": [],
+      "category": "procedure",
+      "reason": "Explains where official polling-place protocols are published; no numerical estimate."
+    },
+    {
+      "post_id": "1510934186768617472",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510934186768617472",
+      "created_at": "2022-04-04T10:55:56.000Z",
+      "text": "@DokonaPopadija Biće na našoj Facebook stranici i Youtube kanalu.",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Announcement of later results or a press conference; no numerical projection."
+    },
+    {
+      "post_id": "1510945570038460420",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510945570038460420",
+      "created_at": "2022-04-04T11:41:10.000Z",
+      "text": "❗️Preliminarna ocena izbornog dana👇 \n\nIzborni dan protekao je u atmosferi punoj tenzija koje su povremeno eskalirale u fizičko nasilje, čime se manifestovala nespremnost izborne administracije i nepoverenje građana u institucije. \n\nhttps://t.co/hKyUzB66vB",
+      "images": [],
+      "category": "process_report",
+      "reason": "Assessment of election-day administration and tension; official vote totals cannot verify process quality."
+    },
+    {
+      "post_id": "1510972458236579840",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510972458236579840",
+      "created_at": "2022-04-04T13:28:01.000Z",
+      "text": "Sa 99% obrađenog uzorka 👉 rezultati #Izbori2022 https://t.co/bxKKXCdzR2",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510972458236579840_3_1510972204539912193.png",
+          "sha256": "786b48ba8b486b3d2250d6a369f5b6717a8c3a646eddfc3440515d665b96451d",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNNu0XIAEcXTf.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510972458236579840_3_1510972204548243458.png",
+          "sha256": "5418fba4fb09ed57225e7674e1b9bd9bc6caacd52907bb9874c3ab0968794290",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNNu2WQAIkJN8.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510972458236579840_3_1510972204535750657.png",
+          "sha256": "f8d074d8b2e8437c5fd1c7c3bcec0abd291f2729539b6597b772e9271edae6c6",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNNuzXoAEVxDC.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1510972464532185095",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510972464532185095",
+      "created_at": "2022-04-04T13:28:02.000Z",
+      "text": "https://t.co/uJdsYGqD8y",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510972464532185095_3_1510972249804836868.png",
+          "sha256": "fb3c6d80b623525b91b7549be25507bff26ea7926177bbaeef4ddf71d34da529",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNQXcXEAQ4GRt.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Presidential election; benchmarks cover national parliament.",
+      "extracted": {
+        "sample_processed_pct": 99,
+        "candidate_pct": {
+          "Vucic": 57.7,
+          "Ponos": 19.1,
+          "Jovanovic": 5.9,
+          "Obradovic": 4.4,
+          "Djurdjevic_Stamenkovski": 4.3,
+          "Stojkovic": 3.2,
+          "Stamenkovic": 2.1,
+          "Vacic": 0.9
+        },
+        "invalid_pct": 2.4,
+        "turnout_pct": 58.6
+      }
+    },
+    {
+      "post_id": "1510972471251505158",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1510972471251505158",
+      "created_at": "2022-04-04T13:28:04.000Z",
+      "text": "https://t.co/7J9v2Y42lQ",
+      "images": [
+        {
+          "file": "data/2022/crtars/1510972471251505158_3_1510972294633603078.png",
+          "sha256": "0b07793e98dfec3120a84bc4e8da8331dd06a1fd026f92466c2c356310f9ba53",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNS-cXwAYOTzv.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2022/crtars/1510972471251505158_3_1510972294692323331.png",
+          "sha256": "fc04dd2f6fe3ddcacd008b27d76568b0427878c8bb3cfe55c9e8717ea25694e0",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgNS-qXwAM7peM.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly; national parliamentary benchmark does not apply.",
+      "extracted": {
+        "sample_processed_pct": 99,
+        "party_pct": {
+          "SNS": 38.1,
+          "UJEDINJENI": 21.3,
+          "MORAMO": 10.8,
+          "SPS": 6.9,
+          "NADA": 6.3,
+          "ZAVETNICI": 3.5,
+          "DVERI": 3.4,
+          "SDS": 2.8,
+          "DJB": 2.2,
+          "SRS": 1.6,
+          "SAROVIC": 0.6,
+          "RUSKI_SAVEZ": 0.4
+        },
+        "invalid_pct": 2.1,
+        "turnout_pct": 57.2
+      }
+    },
+    {
+      "post_id": "1511014481631006726",
+      "account": "crtars",
+      "year": "2022",
+      "post_url": "https://x.com/crtars/status/1511014481631006726",
+      "created_at": "2022-04-04T16:15:00.000Z",
+      "text": "Nemoguće je dovoljno glasno viknuti BRAVO za posvećenost, znanje i energiju naših posmatračica i posmatrača, kao i sjajne ekipe iz call centra i pravne podrške. Pobedili su čak i onakav haos na biračkim mestima. https://t.co/hcfmMuhH94",
+      "images": [
+        {
+          "file": "data/2022/crtars/1511014481631006726_3_1510982773993058309.png",
+          "sha256": "8d275d6d721aa200a8680611d8620e621cb854f4627d5165a1711a01501c8d9a",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPgW09GXMAUdUDd.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "thank_you_graphic",
+      "reason": "Thanks observers; graphic contains no numerical result."
+    },
+    {
+      "post_id": "1736526322761883686",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736526322761883686",
+      "created_at": "2023-12-17T23:18:33.000Z",
+      "text": "📢Izlaznost, na osnovu 95 odsto obrađenog uzorka na parlamentarnim izborima, iznosi 59,1%.\n\nProjekcija rezultata izbora na osnovu 95% obrađenog uzorka 👇👇\nhttps://t.co/5DH8kMLrKR https://t.co/t4qGOk1V8b",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736526322761883686_3_1736525634933829633.png",
+          "sha256": "24f349b7eb2ada6bc092f67bb6bd62b529e8b92ca42a1ffa8fcff29b3f9b6e4d",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlg3U2XMAEkQmB.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/crtars/1736526322761883686_3_1736525647189508096.png",
+          "sha256": "ff51b65699dcf0c9ad92f2f75951afee35d9c2e778431c32708afd48e44a2980",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlg4CgWAAAmo6U.png?name=orig",
+          "reviewed_visually": true
+        },
+        {
+          "file": "data/2023/crtars/1736526322761883686_3_1736525661928370176.png",
+          "sha256": "a472c7220ec0dbffa0b768b9184228aa315c03c8b91cd3cd6b7b46ef214cdfc8",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlg45aXMAASaPU.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736547187666903143",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736547187666903143",
+      "created_at": "2023-12-18T00:41:27.000Z",
+      "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se utiče na izbornu volju građana glavnog grada. \n\nZbog toga smatramo da u slučaju Beograda brojevi ne mogu da govore sami za sebe i da ih je potrebno tumačiti u kontekstu intenzivnih nepravilnosti koje su obeležile događanja na biračkim mestima, ali i na prostoru između njih, od Arene do Zmaja i dalje.",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Announces later Belgrade results and election-day assessment; no national numerical projection."
+    },
+    {
+      "post_id": "1736548054017212677",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736548054017212677",
+      "created_at": "2023-12-18T00:44:54.000Z",
+      "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se utiče na izbornu volju građana glavnog grada. \n\nZbog toga smatramo da u slučaju Beograda brojevi ne mogu da govore sami za sebe i da ih je potrebno tumačiti u kontekstu intenzivnih nepravilnosti koje su obeležile događanja na biračkim mestima, ali i na prostoru između njih, od Arene do Zmaja i dalje.",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736548054017212677_3_1736548035373441024.png",
+          "sha256": "47dff270fefef8298706a0373d59daab8d9ded3659463dbb155467c9d9b73962",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBl1PM_WIAAW2Nu.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "sample_progress",
+      "reason": "Belgrade sample coverage at 01:30 and announcement of later results; not a party share.",
+      "extracted": {
+        "scope": "belgrade_city",
+        "sample_processed_pct": 95,
+        "sample_as_of_local": "01:30",
+        "publication_threshold_sample_pct": 95
+      }
+    },
+    {
+      "post_id": "1736711433302278372",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736711433302278372",
+      "created_at": "2023-12-18T11:34:06.000Z",
+      "text": "📢U 13h počinje naša konferencija za medije na kojoj ćemo objaviti rezultate izbora i ukupnu ocenu izbornog dana. \n\nPratite uživo na našem sajtu i društvenim mrežama. #Izbori2023",
+      "images": [],
+      "category": "publication_update",
+      "reason": "Announces later Belgrade results and election-day assessment; no national numerical projection."
+    },
+    {
+      "post_id": "1736721076103622937",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736721076103622937",
+      "created_at": "2023-12-18T12:12:25.000Z",
+      "text": "👉 https://t.co/Y4ah6OoKZf https://t.co/HD9vBuPxbP",
+      "images": [],
+      "category": "external_livestream",
+      "reason": "Links only; unsaved linked/live content not transcribed."
+    },
+    {
+      "post_id": "1736721897029517632",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736721897029517632",
+      "created_at": "2023-12-18T12:15:41.000Z",
+      "text": "📢 Drastične zloupotrebe prava birača, zakona i institucija eskalirale su na izborni dan.\n\nZbog obima i vrsta izbornih zloupotreba u Beogradu zaključujemo da rezultati beogradskih izbora ne odražavaju slobodno izraženu volju birača koji žive u njemu. https://t.co/BNpiZOKzHm",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736721897029517632_3_1736720476573990912.png",
+          "sha256": "10df68fbff9fdfec6ff7ca340bf1c03a79893c9936fbdd11496b783744bbec92",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoSEmhXAAAKAh-.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736722155281236322",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736722155281236322",
+      "created_at": "2023-12-18T12:16:43.000Z",
+      "text": "Na 5% biračkih mesta za parlamentarne izbore i na 9% biračkih mesta za beogradske izbore zabeležene su nepravilnosti koje su neposredno kompromitovale izborne rezultate na tim biračkim mestima.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Shares of polling places with irregularities, not vote shares; official totals cannot verify these reports.",
+      "extracted": {
+        "parliament_polling_places_irregularities_pct": 5,
+        "belgrade_polling_places_irregularities_pct": 9
+      }
+    },
+    {
+      "post_id": "1736722415747580022",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736722415747580022",
+      "created_at": "2023-12-18T12:17:45.000Z",
+      "text": "U popodnevnim i večernjim časovima izbornog dana postojao je jasan trend izrazitog rasta broja slučajeva unapred popunjenih glasačkih listića i nezakonitog prisustva trećih lica na biračkim mestima, posebno u Beogradu.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736722525567000900",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736722525567000900",
+      "created_at": "2023-12-18T12:18:11.000Z",
+      "text": "Takođe, u Beogradu se do kraja dana utrostručio broj mesta na kojima su zabeleženi slučajevi da se neko potpisao u izvod iz biračkog spiska umesto birača, u poređenju sa prvom polovinom dana.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736722647591838077",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736722647591838077",
+      "created_at": "2023-12-18T12:18:40.000Z",
+      "text": "Biračka mesta su zatvorena u okolnostima zabrinjavajućeg porasta broja slučajeva vođenja paralelne evidencije unutar i izvan biračkog mesta, organizovanog dovođenja birača, sumnjivog kruženja automobila oko biračkih mesta… \n\nIzborni dan je bio takođe obeležen povredama tajnosti glasanja i neproveravanjem identiteta birača.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736722835685454088",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736722835685454088",
+      "created_at": "2023-12-18T12:19:25.000Z",
+      "text": "❗️Pod ovakvim uslovima legitimitet svakih narednih lokalnih izbora biće pod istom sumnjom ukoliko se institucije ne angažuju u cilju utvrđivanja istine i odgovornosti za kršenje i izigravanje zakona i urušavanje integriteta izbora.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736723020964651092",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736723020964651092",
+      "created_at": "2023-12-18T12:20:09.000Z",
+      "text": "Izborna kampanja koja je prethodila ovakvom danu odvijala se u ambijentu izrazitih neravnopravnosti u korist vladajuće koalicije i kontinuirane zloupotrebe institucija države Srbije kao kanala za sticanje nepoštenih prednosti i vođenje negativne kampanje protiv političkih protivnika, čime je obrisana linija između države i političke stranke.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736723281317662849",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736723281317662849",
+      "created_at": "2023-12-18T12:21:11.000Z",
+      "text": "‼️ Rezultati beogradskih izbora ostaće sporni u slučaju da izostane odlučna reakcija institucija u pravcu identifikovanja konkretnih osoba i mehanizama putem kojih su vršene koruptivne radnje u cilju preoblikovanja izborne volje građana.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736728597631521051",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736728597631521051",
+      "created_at": "2023-12-18T12:42:19.000Z",
+      "text": "Celo saopštenje o preliminarnoj oceni izbornog dana 👇\nhttps://t.co/p9cAUlT21W",
+      "images": [],
+      "category": "link_only",
+      "reason": "Links statement about election quality; no numerical result in saved text."
+    },
+    {
+      "post_id": "1736730484737024433",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736730484737024433",
+      "created_at": "2023-12-18T12:49:49.000Z",
+      "text": "‼️Drastične zloupotrebe prava birača, zakona i institucija eskalirale su na izborni dan.\n\n Izražavamo veliku zabrinutost u odnosu na kvalitet parlamentarnih izbora, odnosno njihovo udaljavanje od standarda za slobodne i poštene izbore.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736730487316529316",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736730487316529316",
+      "created_at": "2023-12-18T12:49:49.000Z",
+      "text": "👉 Zbog obima i vrsta izbornih zloupotreba u Beogradu zaključujemo da rezultati beogradskih izbora ne odražavaju slobodno izraženu volju birača koji žive u njemu. 👇",
+      "images": [],
+      "category": "process_report",
+      "reason": "Election-integrity assessment or reported procedural violations; no comparable national vote forecast. Agreement with official totals does not establish election integrity."
+    },
+    {
+      "post_id": "1736730489866670440",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736730489866670440",
+      "created_at": "2023-12-18T12:49:50.000Z",
+      "text": "Rezultati parlamentarnih izbora na punom uzorku 👇 https://t.co/WmbgwBXdMv",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736730489866670440_3_1736730024969994240.png",
+          "sha256": "778e9b32abbf716f196c8bcb0e71cb4e9c3346323ead66b4db4991c197aa8b83",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBoawZEXgAAjPfY.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See scored or supplementary claim records."
+    },
+    {
+      "post_id": "1736730493222088941",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736730493222088941",
+      "created_at": "2023-12-18T12:49:51.000Z",
+      "text": "Rezultati beogradskih izbora na punom uzorku 👇 https://t.co/A1ebwy9BU8",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736730493222088941_3_1736730412741791744.png",
+          "sha256": "1378f6bf82e8eefc04d3f337c813496730c934635dfccc0127a67cd1b0fbcfda",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBobG9oXkAAFjjU.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Full-sample Belgrade city assembly projection; no supplied city benchmark.",
+      "extracted": {
+        "sample_processed_pct": 100,
+        "party_pct": {
+          "SNS": 39.2,
+          "SPN": 34.4,
+          "NADA": 6,
+          "MI": 5.3,
+          "SPS": 4.8,
+          "ZAV_DVERI": 2.6,
+          "NS": 2.1,
+          "DJB_SDS": 1.6,
+          "CALE": 0.5,
+          "RUSKA": 0.4,
+          "LDP": 0.3,
+          "VACIC": 0.3,
+          "ZAPAD": 0.3,
+          "SPP": 0.2
+        },
+        "seats": {
+          "SNS": 49,
+          "SPN": 43,
+          "NADA": 7,
+          "MI": 6,
+          "SPS": 5
+        },
+        "other_lists_seats": 0,
+        "turnout_pct": 58.3,
+        "invalid_pct": 2.2
+      }
+    },
+    {
+      "post_id": "1736777365282328944",
+      "account": "crtars",
+      "year": "2023",
+      "post_url": "https://x.com/crtars/status/1736777365282328944",
+      "created_at": "2023-12-18T15:56:06.000Z",
+      "text": "Hvala na hrabrosti, odgovornosti, energiji i istrajnosti - naravno našim posmatračicama i posmatračima, najboljim na svetu. 💪 https://t.co/FBGv6SRsEI",
+      "images": [
+        {
+          "file": "data/2023/crtars/1736777365282328944_3_1736777030450982912.png",
+          "sha256": "1631f56ab5ece090a7780d1a97e5f550d9f7712cbeffdf8fb73ee7759734ea95",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBpFgeIWsAADxWf.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "thank_you_graphic",
+      "reason": "Thanks observers; graphic contains no numerical result."
+    }
+  ],
+  "claims": [
+    {
+      "post_id": "1275018957607575552",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 60.41,
+        "SPS": 10.32,
+        "SPAS": 3.95,
+        "POKS": 2.62,
+        "METLA": 2.37,
+        "DJB": 2.3,
+        "SRS": 2.18,
+        "SVM": 1.96,
+        "PSG": 1.67,
+        "ZAVETNICI": 1.47,
+        "ZDRAVA": 1.18,
+        "UDS": 1.04,
+        "SPP": 0.88,
+        "ADA": 0.77,
+        "LEVIJATAN": 0.69,
+        "JEDAN_OD_PET": 0.66,
+        "SDA": 0.63,
+        "MIR": 0.32,
+        "ZELENA_NOVA": 0.26,
+        "RUSKA": 0.24,
+        "NARODNI_BLOK": 0.22
+      },
+      "claim_id": "1275018957607575552:vote_share",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "source_post_ids": [
+        "1275014360839135241",
+        "1275015352989212672",
+        "1275018957607575552"
+      ],
+      "available_at": "2020-06-22T10:53:02.000Z",
+      "basis": "voters_who_turned_out",
+      "basis_explicit": false,
+      "reported_error_pp": {
+        "SNS": 1.1,
+        "SPS": 0.46,
+        "SPAS": 0.34,
+        "POKS": 0.15,
+        "METLA": 0.17,
+        "DJB": 0.15,
+        "SRS": 0.14,
+        "SVM": 0.76,
+        "PSG": 0.13,
+        "ZAVETNICI": 0.11,
+        "ZDRAVA": 0.33,
+        "UDS": 0.16,
+        "SPP": 0.43,
+        "ADA": 0.81,
+        "LEVIJATAN": 0.06,
+        "JEDAN_OD_PET": 0.05,
+        "SDA": 0.35,
+        "MIR": 0.06,
+        "ZELENA_NOVA": 0.04,
+        "RUSKA": 0.04,
+        "NARODNI_BLOK": 0.05
+      },
+      "sample_processed_pct": null,
+      "note": "Composite of contiguous ranked panels posted at 12:34:46, 12:38:43 and 12:53:02 local; available only when the last panel was posted. First two panels alone are partial lists. Total party shares 96.14 plus invalid 3.85 approximately 100. Basis voters-who-turned-out inferred consistently with 2020 official table; ballots-cast sensitivity should also be retained."
+    },
+    {
+      "post_id": "1275014360839135241",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 3.85
+      },
+      "claim_id": "1275014360839135241:invalid_ballot_share",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "basis": "ballots_cast",
+      "reported_error_pp": 0.18,
+      "note": "Shown on every ranked panel; one copy retained. Denominator inferred."
+    },
+    {
+      "post_id": "1275015905072816128",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 49
+      },
+      "claim_id": "1275015905072816128:turnout",
+      "account": "crtars",
+      "year": "2020",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "note": "Final turnout headline. Compare matching territorial scope where available; final official subset still includes reruns. Historical 2016 value and intraday series are not forecasts for this benchmark."
+    },
+    {
+      "post_id": "1510747898912415748",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 43.4,
+        "UJEDINJENI": 12.9,
+        "SPS": 11.5,
+        "NADA": 5.2,
+        "MORAMO": 4.3,
+        "DVERI": 4,
+        "ZAVETNICI": 3.9,
+        "DJB": 2.4,
+        "SRS": 2.2,
+        "SDS": 1.7,
+        "SVM": 1.6,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.6,
+        "RUSKI_SAVEZ": 0.2,
+        "KAD": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "claim_id": "1510747898912415748:vote_share",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "sample_processed_pct": 90,
+      "reported_error_pp": {
+        "SNS": 1.3,
+        "UJEDINJENI": 0.9,
+        "SPS": 0.5,
+        "NADA": 0.2,
+        "MORAMO": 0.4,
+        "DVERI": 0.2,
+        "ZAVETNICI": 0.2,
+        "DJB": 0.4,
+        "SRS": 0.1,
+        "SDS": 0.1,
+        "SVM": 0.6,
+        "SPP": 0.5,
+        "OTETE_BEBE": 0.1,
+        "VOJVODJANI": 0.2,
+        "SDA": 0.4,
+        "RUSKI_SAVEZ": 0.1,
+        "KAD": 0.2,
+        "ROMSKA": 0.1,
+        "ADA": 0.1
+      },
+      "note": "Ballots-cast basis inferred from party total plus invalid shares; valid-normalized sensitivity retained. Graph labels determine parliamentary scope."
+    },
+    {
+      "post_id": "1510747898912415748",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 59.3
+      },
+      "claim_id": "1510747898912415748:turnout",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "sample_processed_pct": 90,
+      "reported_error_pp": 1,
+      "comparable": false,
+      "note": "No official reference subtotal matching CRTA excluded territories is supplied for 2022; retain extraction and do not score against the broader national turnout."
+    },
+    {
+      "post_id": "1510747898912415748",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 3.1
+      },
+      "claim_id": "1510747898912415748:invalid_ballot_share",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "basis": "ballots_cast",
+      "sample_processed_pct": 90,
+      "reported_error_pp": 0.1,
+      "note": "Supplementary national-benchmark comparison only; denominator inferred and sample territory differs."
+    },
+    {
+      "post_id": "1510972458236579840",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 42.3,
+        "UJEDINJENI": 14.2,
+        "SPS": 11.1,
+        "NADA": 5.4,
+        "MORAMO": 4.7,
+        "DVERI": 3.9,
+        "ZAVETNICI": 3.8,
+        "DJB": 2.4,
+        "SRS": 2.2,
+        "SDS": 1.7,
+        "SVM": 1.4,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.7,
+        "RUSKI_SAVEZ": 0,
+        "KAD": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "claim_id": "1510972458236579840:vote_share",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "sample_processed_pct": 99,
+      "reported_error_pp": {
+        "SNS": 1.3,
+        "UJEDINJENI": 1,
+        "SPS": 0.4,
+        "NADA": 0.2,
+        "MORAMO": 0.4,
+        "DVERI": 0.2,
+        "ZAVETNICI": 0.2,
+        "DJB": 0.3,
+        "SRS": 0.1,
+        "SDS": 0.1,
+        "SVM": 0.5,
+        "SPP": 0.5,
+        "OTETE_BEBE": 0.1,
+        "VOJVODJANI": 0.2,
+        "SDA": 0.4,
+        "RUSKI_SAVEZ": 0.1,
+        "KAD": 0.2,
+        "ROMSKA": 0.1,
+        "ADA": 0.1
+      },
+      "note": "Ballots-cast basis inferred from party total plus invalid shares; valid-normalized sensitivity retained. Graph labels determine parliamentary scope.",
+      "transcription_caveat": "Russian minority alliance row in saved third image visibly reads only 0, without a percent sign or decimal. Literal 0 retained rather than inventing a missing .2. Treat normalized all-list sensitivity cautiously; top-six raw shares are legible.",
+      "ambiguous_values": {
+        "RUSKI_SAVEZ": {
+          "literal_text": "0",
+          "retained_value": 0,
+          "reason": "Possible truncated/unfinished chart label; no unsaved correction substituted."
+        }
+      }
+    },
+    {
+      "post_id": "1510972458236579840",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 58.7
+      },
+      "claim_id": "1510972458236579840:turnout",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "sample_processed_pct": 99,
+      "reported_error_pp": 1,
+      "comparable": false,
+      "note": "No official reference subtotal matching CRTA excluded territories is supplied for 2022; retain extraction and do not score against the broader national turnout."
+    },
+    {
+      "post_id": "1510972458236579840",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 3
+      },
+      "claim_id": "1510972458236579840:invalid_ballot_share",
+      "account": "crtars",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+      "basis": "ballots_cast",
+      "sample_processed_pct": 99,
+      "reported_error_pp": 0.1,
+      "note": "Supplementary national-benchmark comparison only; denominator inferred and sample territory differs."
+    },
+    {
+      "post_id": "1736526322761883686",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 46.9,
+        "SPN": 23.1,
+        "SPS": 6.7,
+        "NADA": 5,
+        "MI": 4.6,
+        "ZAV_DVERI": 2.9,
+        "SVM": 1.9,
+        "SRS": 1.5,
+        "DJB_SDS": 1.2,
+        "NS": 0.9,
+        "SPP_DSHV": 0.7,
+        "SDA": 0.6,
+        "PDD": 0.4,
+        "RUSKA": 0.3,
+        "LDP": 0.3,
+        "MIR_TOLERANCIJA": 0.2,
+        "SRBIJA_ZAPAD": 0.2,
+        "ADA": 0.1
+      },
+      "claim_id": "1736526322761883686:vote_share",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "sample_processed_pct": 95,
+      "reported_error_pp": {
+        "SNS": 1.4,
+        "SPN": 1.4,
+        "SPS": 0.4,
+        "NADA": 0.2,
+        "MI": 0.2,
+        "ZAV_DVERI": 0.2,
+        "SVM": 0.7,
+        "SRS": 0.1,
+        "DJB_SDS": 0.1,
+        "NS": 0.1,
+        "SPP_DSHV": 0.4,
+        "SDA": 0.3,
+        "PDD": 0.3
+      },
+      "reported_error_upper_bound_pp": {
+        "RUSKA": 0.1,
+        "LDP": 0.1,
+        "MIR_TOLERANCIJA": 0.1,
+        "SRBIJA_ZAPAD": 0.1,
+        "ADA": 0.1
+      },
+      "note": "Ballots-cast basis inferred from party total plus 2.8% invalid. Error labels below 0.1 retained as bounds, not as exact 0.1. This is CRTA own sample projection, not RIK republication."
+    },
+    {
+      "post_id": "1736526322761883686",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 59.1
+      },
+      "claim_id": "1736526322761883686:turnout",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "sample_processed_pct": 95,
+      "reported_error_pp": 0.9,
+      "comparable": false,
+      "note": "No matching territorial subtotal in supplied 2023 official reference; retain extraction, do not score against broader national turnout."
+    },
+    {
+      "post_id": "1736526322761883686",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 2.8
+      },
+      "claim_id": "1736526322761883686:invalid_ballot_share",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "basis": "ballots_cast",
+      "sample_processed_pct": 95,
+      "reported_error_pp": 0.1,
+      "note": "Supplementary national-benchmark comparison; denominator inferred, geographic scope differs."
+    },
+    {
+      "post_id": "1736730489866670440",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 46.5,
+        "SPN": 23.7,
+        "SPS": 6.7,
+        "NADA": 5,
+        "MI": 4.7,
+        "ZAV_DVERI": 2.9,
+        "SVM": 1.7,
+        "SRS": 1.5,
+        "DJB_SDS": 1.2,
+        "NS": 0.9,
+        "SPP_DSHV": 0.7,
+        "SDA": 0.6,
+        "PDD": 0.3,
+        "RUSKA": 0.3,
+        "LDP": 0.3,
+        "MIR_TOLERANCIJA": 0.2,
+        "SRBIJA_ZAPAD": 0.2,
+        "ADA": 0.1
+      },
+      "claim_id": "1736730489866670440:vote_share",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": true,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "sample_processed_pct": 100,
+      "reported_error_pp": {
+        "SNS": 1.3,
+        "SPN": 1.4,
+        "SPS": 0.4,
+        "NADA": 0.2,
+        "MI": 0.2,
+        "ZAV_DVERI": 0.2,
+        "SVM": 0.6,
+        "SRS": 0.1,
+        "DJB_SDS": 0.1,
+        "NS": 0.1,
+        "SPP_DSHV": 0.3,
+        "SDA": 0.3,
+        "PDD": 0.3
+      },
+      "reported_error_upper_bound_pp": {
+        "RUSKA": 0.1,
+        "LDP": 0.1,
+        "MIR_TOLERANCIJA": 0.1,
+        "SRBIJA_ZAPAD": 0.1,
+        "ADA": 0.1
+      },
+      "note": "Ballots-cast basis inferred from party total plus 2.8% invalid. Error labels below 0.1 retained as bounds, not as exact 0.1. This is CRTA own sample projection, not RIK republication."
+    },
+    {
+      "post_id": "1736730489866670440",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 58.9
+      },
+      "claim_id": "1736730489866670440:turnout",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "sample_processed_pct": 100,
+      "reported_error_pp": 0.9,
+      "comparable": false,
+      "note": "No matching territorial subtotal in supplied 2023 official reference; retain extraction, do not score against broader national turnout."
+    },
+    {
+      "post_id": "1736730489866670440",
+      "kind": "invalid_ballot_share",
+      "values": {
+        "invalid_pct": 2.8
+      },
+      "claim_id": "1736730489866670440:invalid_ballot_share",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "basis": "ballots_cast",
+      "sample_processed_pct": 100,
+      "reported_error_pp": 0.1,
+      "note": "Supplementary national-benchmark comparison; denominator inferred, geographic scope differs."
+    },
+    {
+      "post_id": "1736730489866670440",
+      "kind": "seats",
+      "values": {
+        "SNS": 129,
+        "SPN": 65,
+        "SPS": 18,
+        "NADA": 13,
+        "MI": 13,
+        "ZAV_DVERI": 0,
+        "SVM": 6,
+        "SRS": 0,
+        "DJB_SDS": 0,
+        "NS": 0,
+        "SPP_DSHV": 2,
+        "SDA": 2,
+        "PDD": 1,
+        "RUSKA": 1,
+        "LDP": 0,
+        "MIR_TOLERANCIJA": 0,
+        "SRBIJA_ZAPAD": 0,
+        "ADA": 0
+      },
+      "claim_id": "1736730489866670440:seats",
+      "account": "crtars",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription",
+      "confidence_scoring_eligible": false,
+      "attribution": "CRTA",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+      "sample_processed_pct": 100,
+      "note": "Complete projected national allocation; dash in graphic means zero seats. This allocation sums to 250."
+    }
+  ],
+  "old_evidence_recheck": {
+    "old_posts_checked": 74,
+    "text_or_timestamp_changes": 0,
+    "image_hash_changes": 0
+  },
+  "summary": {
+    "new_posts": 67,
+    "new_images": 28,
+    "new_full_party_vote_snapshots": 5,
+    "new_claims": 16
+  },
+  "caveats": [
+    "2020 full forecast is composite; its availability is the latest constituent post, preventing look-ahead.",
+    "2022 99%-sample graphic Russian minority row has literal 0 with incomplete formatting; flagged, never silently repaired.",
+    "CRTA sampling geography differs from full national results in all three years; final official totals also include reruns.",
+    "2022 turnout correction notice has no numerical value; unsaved earlier/deleted tweet cannot be reconstructed."
+  ],
+  "scope_sources": {
+    "2020": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "2022": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "2023": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf"
+  },
+  "old_claim_updates": {
+    "1274806574821842944:turnout_bounds": {
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "note": "Previously labelled national; CRTA sample actually excludes Kosovo, abroad and prisons. Compare with matching territorial subtotal, with rerun caveat."
+    },
+    "1274807242198585346:vote_share_bounds": {
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "note": "Literal bounds remain unchanged; full national benchmark includes excluded territories and reruns. No fabricated midpoint estimate."
+    },
+    "1274807584248209411:below_threshold": {
+      "scope": "without_kosovo_prisons_abroad",
+      "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+      "source_role": "original_projection",
+      "source_family": "CRTA",
+      "note": "Threshold statement from CRTA own sample, not an independent point forecast; full final official national benchmark also contains excluded territories and reruns."
+    }
+  }
+}

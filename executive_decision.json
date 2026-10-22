@@ -1,0 +1,1459 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-22",
+  "coverage": {
+    "accounts": 7,
+    "years": [
+      "2020",
+      "2022",
+      "2023"
+    ],
+    "saved_posts_reviewed": 103,
+    "photos_reviewed": 41,
+    "photos_recovered_from_saved_public_urls": 10,
+    "point_forecast_posts": 8,
+    "comparison_records": 18,
+    "paid_x_api_calls": 0
+  },
+  "methodology": {
+    "scope": "National parliamentary-result estimates in saved 2020, 2022, 2023 election-night 20:00 to following midnight windows, Europe/Belgrade.",
+    "error": "published share minus corresponding official share; MAE = mean absolute error, RMSE = sqrt(mean squared error); units percentage points (pp).",
+    "headline_party_set": "Six largest lists by final vote count in each election, equal weight. All-list metrics also retained; small-list dilution is therefore visible.",
+    "denominator": "2020 CeSID valid ballots inferred from complete charts summing near 100; 2022/2023 CeSID ballots cast inferred from sums near 97. Alternative bases included.",
+    "confidence_error": "For full charts normalize both forecast and official counts to valid votes, then average top-six MAE within a year. This removes denominator assumptions from the cross-year score but does not assess invalid-ballot predictions.",
+    "bounds": "Keep one-sided and two-sided statements as bounds. Measure containment and distance outside them; do not invent point estimates or call broad containment 100% forecasting accuracy.",
+    "confidence_formula": "clamp(round_half_up(100 * max(0, 1 - E/2) * N/(N+1)), 1, 100)",
+    "E": "Weighted mean year error: normalized top-six MAE for point-forecast years; mean distance outside published bounds for bounds-only years.",
+    "N": "Sum of effective year weights. One complete-list point-forecast year = 1. Bounds-only year = 0.25. Multiply by 0.75 when saved search is not exhausted. Repeated posts do not add independent years.",
+    "constants": {
+      "error_scale_pp": 2.0,
+      "bounds_only_year_weight": 0.25,
+      "partial_collection_multiplier": 0.75,
+      "shrinkage_years": 1.0
+    },
+    "confidence_interpretation": "User-requested heuristic support score, not a calibrated probability, statistical confidence interval, general trust score, or percentage of correct posts. Constants are explicit judgment choices, not fitted to data.",
+    "no_evidence": "Score 1 is a required-scale floor for no quantitative forecast evidence. Accuracy metrics are null; do not treat this floor as evidence the account is wrong.",
+    "seats": "Minimum seats to reassign = sum(abs(projected-final))/2. Allocation agreement = 100*(1-distance/250). Separate from vote accuracy and confidence to avoid double counting.",
+    "supplementary": "Turnout, invalid ballots, voter registration, threshold and winner statements are checked separately and do not increase numerical-forecast confidence.",
+    "exclusions": "Separate presidential/local elections; turnout at 19:00; percentages of sample received; process/irregularity reports; linked videos/pages not present in saved data."
+  },
+  "official_sources": {
+    "2020": {
+      "file": "data/2020_official/G202019004.xlsx",
+      "sha256": "4cae75862610e6b442db8002b6b0c28d687764ca9bc1f92ae290f2faffb0adad",
+      "sheet": "Резултати",
+      "range": "A4:BB4",
+      "extraction": "national total; independently reconciled against station rows"
+    },
+    "2022": {
+      "file": "data/2022_official/G202219002.xlsx",
+      "sha256": "e0c69fcfef99189155f64cd2d8035a086304890b8ffb805d22664e43f7f6fd66",
+      "sheet": "Sheet1",
+      "range": "F2:AC8268",
+      "extraction": "sum 8,267 unique municipality/station records; ignore final empty row"
+    },
+    "2023": {
+      "file": "data/2023_official/G20246006.pdf",
+      "sha256": "b980dda3b7e97c5dc2c4a141e007f9ee9ebf664f139c353e30efc45ea54f1ac9",
+      "pages": [
+        8,
+        9
+      ],
+      "printed_pages": [
+        6,
+        7
+      ],
+      "tables": [
+        "1.1",
+        "1.2"
+      ],
+      "extraction": "PDF text extracted; national totals, each of 18 vote counts and seat allocations checked visually on rendered pages; existing RIK transcription reused"
+    }
+  },
+  "accounts": [
+    {
+      "account": "cesidbeograd",
+      "years": {
+        "2020": {
+          "saved_posts": 8,
+          "reviewed_photos": 5,
+          "collection_exhausted": false,
+          "collection": [
+            {
+              "file": "data/2020/cesidbeograd/search_546ab7707bf10151.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:cesidbeograd -is:retweet",
+              "search_exhausted": false,
+              "has_next_token": true
+            }
+          ],
+          "status": "point_estimates_evaluated",
+          "point_forecast_snapshots": 4,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": {
+            "post_id": "1274817636006846465",
+            "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
+            "created_at_belgrade": "2020-06-21T23:33:04+02:00",
+            "sample_processed_pct": 91.1,
+            "chart_sum_pct": 100.4,
+            "basis": "valid_ballots",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 21,
+              "mae_pp": 0.10820071418250861,
+              "rmse_pp": 0.14151141607883622,
+              "max_absolute_error_pp": 0.4198335294239044
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.16957198932166376,
+              "rmse_pp": 0.20864832635570205,
+              "max_absolute_error_pp": 0.4198335294239044
+            }
+          },
+          "first_saved_forecast": {
+            "post_id": "1274789282079703047",
+            "post_url": "https://x.com/cesidbeograd/status/1274789282079703047",
+            "created_at_belgrade": "2020-06-21T21:40:23+02:00",
+            "sample_processed_pct": 63.9,
+            "chart_sum_pct": 100.1,
+            "basis": "valid_ballots",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 21,
+              "mae_pp": 0.12023617856331965,
+              "rmse_pp": 0.1754148357113054,
+              "max_absolute_error_pp": 0.6198335294239072
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.2238330890801635,
+              "rmse_pp": 0.2884666805324576,
+              "max_absolute_error_pp": 0.6198335294239072
+            }
+          },
+          "mean_snapshot_top_six_mae_pp": 0.17586920586758045,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": 0.19818703530499673,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [
+            {
+              "post_id": "1274810342326046721",
+              "kind": "turnout",
+              "values": {
+                "turnout_pct": 47.7
+              },
+              "scope": "without_kosovo_prisons_abroad",
+              "sample_processed_pct": 87,
+              "note": "Compare with matching territorial scope, not national turnout; earlier-year bars are historical context.",
+              "claim_id": "1274810342326046721:turnout",
+              "account": "cesidbeograd",
+              "year": "2020",
+              "extraction": "visually reviewed image transcription",
+              "confidence_scoring_eligible": false,
+              "unit": "percentage_points",
+              "scope_reference": {
+                "registered_voters": 6467129,
+                "voters_who_turned_out": 3150407,
+                "source_cells": "Резултати!C5:D6",
+                "scope": "Central Serbia plus Vojvodina; excludes separately reported Kosovo, abroad and prison rows"
+              },
+              "comparison": {
+                "party": "turnout",
+                "estimate": 47.7,
+                "official": 48.71415120991092,
+                "signed_error": -1.0141512099109207,
+                "absolute_error": 1.0141512099109207
+              },
+              "post_url": "https://x.com/cesidbeograd/status/1274810342326046721",
+              "created_at_belgrade": "2020-06-21T23:04:05+02:00"
+            },
+            {
+              "post_id": "1274817636006846465",
+              "kind": "invalid_ballot_share",
+              "values": {
+                "invalid_pct": 4
+              },
+              "basis": "ballots_cast",
+              "note": "Text says invalid ballots 4%; denominator is assumed ballots cast.",
+              "claim_id": "1274817636006846465:invalid_ballot_share",
+              "account": "cesidbeograd",
+              "year": "2020",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "unit": "percentage_points",
+              "comparison": {
+                "party": "invalid_ballots",
+                "estimate": 4,
+                "official": 3.6708201256196866,
+                "signed_error": 0.3291798743803134,
+                "absolute_error": 0.3291798743803134
+              },
+              "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
+              "created_at_belgrade": "2020-06-21T23:33:04+02:00"
+            }
+          ],
+          "review_dispositions": {
+            "process_report": 2,
+            "compared": 5,
+            "link_only": 1
+          },
+          "notes": [
+            "Saved search is partial. First saved is not necessarily first published.",
+            "Valid-vote percentage basis inferred from chart totals near 100. Turnout benchmark separately matches the explicit exclusions of Kosovo, prisons and abroad."
+          ]
+        },
+        "2022": {
+          "saved_posts": 5,
+          "reviewed_photos": 5,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/cesidbeograd/search_c6f8ab43dccb1c23.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:cesidbeograd -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "point_estimates_evaluated",
+          "point_forecast_snapshots": 2,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": {
+            "post_id": "1510729200650629126",
+            "post_url": "https://x.com/cesidbeograd/status/1510729200650629126",
+            "created_at_belgrade": "2022-04-03T23:21:24+02:00",
+            "sample_processed_pct": 77.1,
+            "chart_sum_pct": 97.0,
+            "basis": "ballots_cast",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 19,
+              "mae_pp": 0.08411248296514068,
+              "rmse_pp": 0.13565919722029238,
+              "max_absolute_error_pp": 0.4747809408704562
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.16192925298756808,
+              "rmse_pp": 0.2216345206083829,
+              "max_absolute_error_pp": 0.4747809408704562
+            }
+          },
+          "first_saved_forecast": {
+            "post_id": "1510718307967582218",
+            "post_url": "https://x.com/cesidbeograd/status/1510718307967582218",
+            "created_at_belgrade": "2022-04-03T22:38:07+02:00",
+            "sample_processed_pct": 62.5,
+            "chart_sum_pct": 97.0,
+            "basis": "ballots_cast",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 19,
+              "mae_pp": 0.15962425473570815,
+              "rmse_pp": 0.2774723447861952,
+              "max_absolute_error_pp": 0.8747809408704548
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.3831389060399452,
+              "rmse_pp": 0.4825534153684266,
+              "max_absolute_error_pp": 0.8747809408704548
+            }
+          },
+          "mean_snapshot_top_six_mae_pp": 0.27253407951375663,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": 0.28325556367247934,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "compared": 2,
+            "different_election": 3
+          },
+          "notes": []
+        },
+        "2023": {
+          "saved_posts": 7,
+          "reviewed_photos": 7,
+          "collection_exhausted": false,
+          "collection": [
+            {
+              "file": "data/2023/cesidbeograd/search_8d7f063216687233.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:cesidbeograd -is:retweet",
+              "search_exhausted": false,
+              "has_next_token": true
+            }
+          ],
+          "status": "point_estimates_evaluated",
+          "point_forecast_snapshots": 2,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 2,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": {
+            "post_id": "1736513641321546053",
+            "post_url": "https://x.com/cesidbeograd/status/1736513641321546053",
+            "created_at_belgrade": "2023-12-17T23:28:09+01:00",
+            "sample_processed_pct": 88.4,
+            "chart_sum_pct": 97.2,
+            "basis": "ballots_cast",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 18,
+              "mae_pp": 0.07537720551146199,
+              "rmse_pp": 0.14352860494629205,
+              "max_absolute_error_pp": 0.5548552335552728
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.1537353055097054,
+              "rmse_pp": 0.23829107961023874,
+              "max_absolute_error_pp": 0.5548552335552728
+            }
+          },
+          "first_saved_forecast": {
+            "post_id": "1736491315691446389",
+            "post_url": "https://x.com/cesidbeograd/status/1736491315691446389",
+            "created_at_belgrade": "2023-12-17T21:59:26+01:00",
+            "sample_processed_pct": 72.6,
+            "chart_sum_pct": 97.10000000000001,
+            "basis": "ballots_cast",
+            "basis_explicit": false,
+            "all_lists_metrics": {
+              "n": 18,
+              "mae_pp": 0.09818438224505377,
+              "rmse_pp": 0.1713779786926418,
+              "max_absolute_error_pp": 0.5552645906023237
+            },
+            "top_six_metrics": {
+              "n": 6,
+              "mae_pp": 0.23882350237714745,
+              "rmse_pp": 0.2933080787869338,
+              "max_absolute_error_pp": 0.5552645906023237
+            }
+          },
+          "mean_snapshot_top_six_mae_pp": 0.1962794039434264,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": 0.1917637388102713,
+          "bounds_checks": [],
+          "seat_checks": [
+            {
+              "post_id": "1736496827044634778",
+              "minimum_seats_to_reassign": 2.0,
+              "allocation_agreement_pct": 99.2
+            },
+            {
+              "post_id": "1736514618996961555",
+              "minimum_seats_to_reassign": 1.0,
+              "allocation_agreement_pct": 99.6
+            }
+          ],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "compared": 4,
+            "different_election": 3
+          },
+          "notes": [
+            "Saved search is partial. First saved is not necessarily first published."
+          ]
+        }
+      },
+      "confidence_score": 63,
+      "confidence_components": {
+        "status": "provisional_evidence_score",
+        "effective_election_years": 2.5,
+        "weighted_error_pp": 0.23028745770357215,
+        "quality_factor": 0.884856271148214,
+        "evidence_factor": 0.7142857142857143,
+        "interpretation": "Support in this saved sample for using the account as a numerical parliamentary-result source. Not calibrated or an account-wide trust rating.",
+        "year_contributions": [
+          {
+            "year": "2020",
+            "weight": 0.75,
+            "error_pp": 0.19818703530499673,
+            "type": "complete_list_point_forecasts"
+          },
+          {
+            "year": "2022",
+            "weight": 1,
+            "error_pp": 0.28325556367247934,
+            "type": "complete_list_point_forecasts"
+          },
+          {
+            "year": "2023",
+            "weight": 0.75,
+            "error_pp": 0.1917637388102713,
+            "type": "complete_list_point_forecasts"
+          }
+        ]
+      },
+      "decision": "provisional_numerical_source",
+      "decision_reason": "Comparable full-list estimates across saved election years; use together with independent sources and retain timing and denominator metadata."
+    },
+    {
+      "account": "crtars",
+      "years": {
+        "2020": {
+          "saved_posts": 34,
+          "reviewed_photos": 3,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2020/crtars/search_3fe9cf6398f2656c.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:crtars -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "bounds_only_evaluated",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 1,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [
+            {
+              "post_id": "1274807242198585346",
+              "tested_bounds": 3,
+              "bounds_containing_final": 3,
+              "mean_distance_outside_pp": 0,
+              "point_estimate_mae_pp": null
+            }
+          ],
+          "seat_checks": [],
+          "supplementary_checks": [
+            {
+              "post_id": "1274806574821842944",
+              "kind": "turnout_bounds",
+              "values": {
+                "lower": 48,
+                "upper": 49
+              },
+              "scope": "national",
+              "note": "2016 comparison is historical context, outside selected benchmark years.",
+              "claim_id": "1274806574821842944:turnout_bounds",
+              "account": "crtars",
+              "year": "2020",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "unit": "percentage_points",
+              "comparison": {
+                "official": 48.93262474682491,
+                "lower": 48,
+                "upper": 49,
+                "lower_inclusive": true,
+                "contains_official": true,
+                "distance_outside_pp": 0,
+                "width_pp": 1
+              },
+              "post_url": "https://x.com/crtars/status/1274806574821842944",
+              "created_at_belgrade": "2020-06-21T22:49:06+02:00"
+            },
+            {
+              "post_id": "1274807584248209411",
+              "kind": "below_threshold",
+              "values": {
+                "lists": [
+                  "SRS",
+                  "POKS",
+                  "UDS",
+                  "METLA",
+                  "ZDRAVA",
+                  "ZAVETNICI",
+                  "NARODNI_BLOK",
+                  "PSG",
+                  "DJB",
+                  "JEDAN_OD_PET",
+                  "ZELENA_NOVA",
+                  "MIR",
+                  "LEVIJATAN"
+                ],
+                "threshold_pct": 3
+              },
+              "note": "Qualitative threshold claim only; explicitly excludes minority lists. Verify against official shares, not sample coverage.",
+              "claim_id": "1274807584248209411:below_threshold",
+              "account": "crtars",
+              "year": "2020",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "checks": [
+                {
+                  "party": "SRS",
+                  "official_share_pct": 2.047047898326085,
+                  "below_threshold": true
+                },
+                {
+                  "party": "POKS",
+                  "official_share_pct": 2.6657496117207566,
+                  "below_threshold": true
+                },
+                {
+                  "party": "UDS",
+                  "official_share_pct": 0.9494684516131435,
+                  "below_threshold": true
+                },
+                {
+                  "party": "METLA",
+                  "official_share_pct": 2.2373388687696854,
+                  "below_threshold": true
+                },
+                {
+                  "party": "ZDRAVA",
+                  "official_share_pct": 1.0377391284915647,
+                  "below_threshold": true
+                },
+                {
+                  "party": "ZAVETNICI",
+                  "official_share_pct": 1.4261735592698488,
+                  "below_threshold": true
+                },
+                {
+                  "party": "NARODNI_BLOK",
+                  "official_share_pct": 0.24435831190710597,
+                  "below_threshold": true
+                },
+                {
+                  "party": "PSG",
+                  "official_share_pct": 1.5756191672760365,
+                  "below_threshold": true
+                },
+                {
+                  "party": "DJB",
+                  "official_share_pct": 2.2953169364240074,
+                  "below_threshold": true
+                },
+                {
+                  "party": "JEDAN_OD_PET",
+                  "official_share_pct": 0.6289751290229267,
+                  "below_threshold": true
+                },
+                {
+                  "party": "ZELENA_NOVA",
+                  "official_share_pct": 0.2422477612644433,
+                  "below_threshold": true
+                },
+                {
+                  "party": "MIR",
+                  "official_share_pct": 0.3152790210024619,
+                  "below_threshold": true
+                },
+                {
+                  "party": "LEVIJATAN",
+                  "official_share_pct": 0.7042721269508626,
+                  "below_threshold": true
+                }
+              ],
+              "all_consistent": true,
+              "post_url": "https://x.com/crtars/status/1274807584248209411",
+              "created_at_belgrade": "2020-06-21T22:53:07+02:00"
+            }
+          ],
+          "review_dispositions": {
+            "process_or_publication_update": 27,
+            "process_report": 1,
+            "earlier_turnout": 1,
+            "compared": 3,
+            "event_photo": 2
+          },
+          "notes": []
+        },
+        "2022": {
+          "saved_posts": 25,
+          "reviewed_photos": 8,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/crtars/search_88a87c9fabc6f683.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:crtars -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "process_or_publication_update": 17,
+            "earlier_turnout": 2,
+            "sample_progress": 6
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero.",
+            "Posts/graphics state that forecasts will wait for at least 95% sample coverage. Saved percentages describe sample progress or pre-closing turnout."
+          ]
+        },
+        "2023": {
+          "saved_posts": 15,
+          "reviewed_photos": 3,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/crtars/search_a33686386300241c.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:crtars -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [
+            {
+              "post_id": "1736473053465313303",
+              "kind": "registered_voters",
+              "values": {
+                "2022": 6502307,
+                "2023": 6500666
+              },
+              "note": "Known registration counts, not a preliminary-result forecast; excluded from forecast confidence.",
+              "claim_id": "1736473053465313303:registered_voters",
+              "account": "crtars",
+              "year": "2023",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "post_url": "https://x.com/crtars/status/1736473053465313303",
+              "created_at_belgrade": "2023-12-17T20:46:52+01:00",
+              "checks": {
+                "2022": {
+                  "estimate": 6502307,
+                  "official": 6502307,
+                  "difference": 0
+                },
+                "2023": {
+                  "estimate": 6500666,
+                  "official": 6500666,
+                  "difference": 0
+                }
+              }
+            }
+          ],
+          "review_dispositions": {
+            "process_or_publication_update": 11,
+            "earlier_turnout": 1,
+            "compared": 1,
+            "sample_progress": 2
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero.",
+            "Posts/graphics state that forecasts will wait for at least 95% sample coverage. Saved percentages describe sample progress or pre-closing turnout."
+          ]
+        }
+      },
+      "confidence_score": 20,
+      "confidence_components": {
+        "status": "provisional_evidence_score",
+        "effective_election_years": 0.25,
+        "weighted_error_pp": 0.0,
+        "quality_factor": 1.0,
+        "evidence_factor": 0.2,
+        "interpretation": "Support in this saved sample for using the account as a numerical parliamentary-result source. Not calibrated or an account-wide trust rating.",
+        "year_contributions": [
+          {
+            "year": "2020",
+            "weight": 0.25,
+            "error_pp": 0,
+            "type": "partial_list_bounds"
+          }
+        ]
+      },
+      "decision": "retain_for_further_collection",
+      "decision_reason": "Saved bounds are testable, but there is too little numerical forecast history to rank this account against full-list projections."
+    },
+    {
+      "account": "miikialeksic",
+      "years": {
+        "2020": {
+          "saved_posts": 2,
+          "reviewed_photos": 0,
+          "collection_exhausted": false,
+          "collection": [
+            {
+              "file": "data/2020/miikialeksic/search_a55de4e10e1d611b.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:miikialeksic -is:retweet",
+              "search_exhausted": false,
+              "has_next_token": true
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "commentary": 2
+          },
+          "notes": [
+            "Saved search is partial. First saved is not necessarily first published.",
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2022": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/miikialeksic/search_60528043fed41d93.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:miikialeksic -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2023": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/miikialeksic/search_c6a207f598de3738.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:miikialeksic -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        }
+      },
+      "confidence_score": 1,
+      "confidence_components": {
+        "status": "insufficient_quantitative_evidence",
+        "effective_election_years": 0,
+        "weighted_error_pp": null,
+        "quality_factor": null,
+        "interpretation": "1 is the floor for no assessable parliamentary percentage forecasts; it does not mean 1% accuracy or dishonesty.",
+        "year_contributions": []
+      },
+      "decision": "insufficient_evidence_for_numerical_use",
+      "decision_reason": "Saved material cannot establish numerical forecasting accuracy. This is not a judgment about the account outside the collected windows."
+    },
+    {
+      "account": "milos_vucevic",
+      "years": {
+        "2020": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2020/milos_vucevic/search_87696b41165a2286.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:milos_vucevic -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2022": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/milos_vucevic/search_3e0d20762b1b957f.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:milos_vucevic -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2023": {
+          "saved_posts": 1,
+          "reviewed_photos": 4,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/milos_vucevic/search_c932282ed21751ae.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:milos_vucevic -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [
+            {
+              "post_id": "1736517035817886148",
+              "kind": "winner",
+              "values": {
+                "party": "SNS"
+              },
+              "scope_inferred": true,
+              "note": "Victory statement interpreted from party slogan and press-conference photos; no numerical margin and no explicit election level. Keep as contextual corroboration, outside numerical score.",
+              "claim_id": "1736517035817886148:winner",
+              "account": "milos_vucevic",
+              "year": "2023",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "official_winner": "SNS",
+              "consistent": true,
+              "comparison_scope": "context_only",
+              "post_url": "https://x.com/milos_vucevic/status/1736517035817886148",
+              "created_at_belgrade": "2023-12-17T23:41:38+01:00"
+            }
+          ],
+          "review_dispositions": {
+            "compared": 1
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        }
+      },
+      "confidence_score": 1,
+      "confidence_components": {
+        "status": "insufficient_quantitative_evidence",
+        "effective_election_years": 0,
+        "weighted_error_pp": null,
+        "quality_factor": null,
+        "interpretation": "1 is the floor for no assessable parliamentary percentage forecasts; it does not mean 1% accuracy or dishonesty.",
+        "year_contributions": []
+      },
+      "decision": "insufficient_evidence_for_numerical_use",
+      "decision_reason": "Saved material cannot establish numerical forecasting accuracy. This is not a judgment about the account outside the collected windows."
+    },
+    {
+      "account": "narodnipokrets",
+      "years": {
+        "2020": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2020/narodnipokrets/search_f3baa81ca47ba00c.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:narodnipokrets -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2022": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/narodnipokrets/search_8b04d030c700bc60.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:narodnipokrets -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2023": {
+          "saved_posts": 1,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/narodnipokrets/search_bd073da63ceba886.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:narodnipokrets -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "external_livestream": 1
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        }
+      },
+      "confidence_score": 1,
+      "confidence_components": {
+        "status": "insufficient_quantitative_evidence",
+        "effective_election_years": 0,
+        "weighted_error_pp": null,
+        "quality_factor": null,
+        "interpretation": "1 is the floor for no assessable parliamentary percentage forecasts; it does not mean 1% accuracy or dishonesty.",
+        "year_contributions": []
+      },
+      "decision": "insufficient_evidence_for_numerical_use",
+      "decision_reason": "Saved material cannot establish numerical forecasting accuracy. This is not a judgment about the account outside the collected windows."
+    },
+    {
+      "account": "slobodaipravda",
+      "years": {
+        "2020": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2020/slobodaipravda/search_0f5322801379a136.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:slobodaipravda -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2022": {
+          "saved_posts": 1,
+          "reviewed_photos": 1,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/slobodaipravda/search_43ea6d04f599e9ca.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:slobodaipravda -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {
+            "external_livestream": 1
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2023": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/slobodaipravda/search_49eed3bc4835ad64.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:slobodaipravda -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        }
+      },
+      "confidence_score": 1,
+      "confidence_components": {
+        "status": "insufficient_quantitative_evidence",
+        "effective_election_years": 0,
+        "weighted_error_pp": null,
+        "quality_factor": null,
+        "interpretation": "1 is the floor for no assessable parliamentary percentage forecasts; it does not mean 1% accuracy or dishonesty.",
+        "year_contributions": []
+      },
+      "decision": "insufficient_evidence_for_numerical_use",
+      "decision_reason": "Saved material cannot establish numerical forecasting accuracy. This is not a judgment about the account outside the collected windows."
+    },
+    {
+      "account": "sns_srbija",
+      "years": {
+        "2020": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2020/sns_srbija/search_6eae2feca8c617f3.json",
+              "window": "2020-06-21T20:00:00+02:00/2020-06-22T00:00:00+02:00",
+              "query": "from:sns_srbija -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPS",
+            "SPAS",
+            "POKS",
+            "DJB",
+            "METLA"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2022": {
+          "saved_posts": 0,
+          "reviewed_photos": 0,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2022/sns_srbija/search_619af2fbf7a518e2.json",
+              "window": "2022-04-03T20:00:00+02:00/2022-04-04T00:00:00+02:00",
+              "query": "from:sns_srbija -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_saved_posts",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "UJEDINJENI",
+            "SPS",
+            "NADA",
+            "MORAMO",
+            "DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [],
+          "review_dispositions": {},
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        },
+        "2023": {
+          "saved_posts": 4,
+          "reviewed_photos": 5,
+          "collection_exhausted": true,
+          "collection": [
+            {
+              "file": "data/2023/sns_srbija/search_bd578e55ae5b1ee2.json",
+              "window": "2023-12-17T20:00:00+01:00/2023-12-18T00:00:00+01:00",
+              "query": "from:sns_srbija -is:retweet",
+              "search_exhausted": true,
+              "has_next_token": false
+            }
+          ],
+          "status": "no_quantitative_result_forecast",
+          "point_forecast_snapshots": 0,
+          "bounds_snapshots": 0,
+          "seat_snapshots": 0,
+          "top_six_lists": [
+            "SNS",
+            "SPN",
+            "SPS",
+            "NADA",
+            "MI",
+            "ZAV_DVERI"
+          ],
+          "latest_forecast": null,
+          "first_saved_forecast": null,
+          "mean_snapshot_top_six_mae_pp": null,
+          "mean_snapshot_valid_normalized_top_six_mae_pp": null,
+          "bounds_checks": [],
+          "seat_checks": [],
+          "supplementary_checks": [
+            {
+              "post_id": "1736505133297451187",
+              "kind": "winner",
+              "values": {
+                "party": "SNS"
+              },
+              "note": "Text explicitly says SNS list received the most votes. Correct qualitative claim alone cannot establish numerical forecasting accuracy.",
+              "claim_id": "1736505133297451187:winner",
+              "account": "sns_srbija",
+              "year": "2023",
+              "extraction": "reviewed saved text",
+              "confidence_scoring_eligible": false,
+              "official_winner": "SNS",
+              "consistent": true,
+              "comparison_scope": "national_parliament",
+              "post_url": "https://x.com/sns_srbija/status/1736505133297451187",
+              "created_at_belgrade": "2023-12-17T22:54:21+01:00"
+            }
+          ],
+          "review_dispositions": {
+            "campaign_graphic": 3,
+            "compared": 1
+          },
+          "notes": [
+            "No numerical parliamentary vote-share forecast in this saved window; accuracy is unavailable, not zero."
+          ]
+        }
+      },
+      "confidence_score": 1,
+      "confidence_components": {
+        "status": "insufficient_quantitative_evidence",
+        "effective_election_years": 0,
+        "weighted_error_pp": null,
+        "quality_factor": null,
+        "interpretation": "1 is the floor for no assessable parliamentary percentage forecasts; it does not mean 1% accuracy or dishonesty.",
+        "year_contributions": []
+      },
+      "decision": "insufficient_evidence_for_numerical_use",
+      "decision_reason": "Saved material cannot establish numerical forecasting accuracy. This is not a judgment about the account outside the collected windows."
+    }
+  ],
+  "limitations": [
+    "Only three historical election nights. Accounts with no saved forecasts are unassessed, not demonstrated inaccurate.",
+    "Midnight cutoff can omit later high-quality forecasts. API exhaustion only covers the configured query/window; deleted posts and external linked content remain absent.",
+    "Final official results include repeat voting and administrative corrections. Retrospective differences do not by themselves demonstrate a reporting mistake on election night.",
+    "Updates on the same night are correlated. CeSID/Ipsos joint estimates form one source family, not two independent confirmations.",
+    "Forecasts are rounded, mainly to 0.1 pp. Sampling design is unavailable, so no statistical confidence interval or calibrated probability is claimed.",
+    "Final official counts are the requested benchmark; this does not assess electoral integrity or resolve reported irregularities.",
+    "The fixed confidence weights and 2 pp scale express a conservative screening rule. Use underlying errors and evidence counts for decisions, not score alone."
+  ],
+  "audit_files": {
+    "claims": "analysis/accounts/reviewed_claims.json",
+    "official_reference": "analysis/accounts/official_reference.json",
+    "full_comparisons": "analysis/accounts/comparisons.json",
+    "report": "analysis/accounts/report.md"
+  },
+  "input_hashes": {
+    "reviewed_claims": "64f7aca317a45d1aa85f24ac663a40f9198a6c2b9362428e2862043751376d8f",
+    "official_reference": "d16c1473b1077808737332c4977dea51cb9a1ae1fd5659019c01f0ae4ac762ed",
+    "checkpoints": {
+      "data/2020/cesidbeograd/search_546ab7707bf10151.json": "53a573dbc296799b965f82d5c274561c0ed2a9bcf3d6a6a6dfa3e03ba9c5f624",
+      "data/2022/cesidbeograd/search_c6f8ab43dccb1c23.json": "c51c3a458c489715d4abc011ad4713ea72d1f057c55b52cbb9f32cfc483669bd",
+      "data/2023/cesidbeograd/search_8d7f063216687233.json": "12266325f25dd41e8063d4f09dd6009cb0688d85234ca2814a72b9e03a120749",
+      "data/2020/crtars/search_3fe9cf6398f2656c.json": "2dd3efa2e1b943d39c08a54d2ab1cd3379f96e586adeb9d4d072ee2e7a92d4c4",
+      "data/2022/crtars/search_88a87c9fabc6f683.json": "a5a1c7eeb499fb1911b46568cf71486e7858d404f4f94da8c65c2007eaed9f3b",
+      "data/2023/crtars/search_a33686386300241c.json": "89b58d38bbb011477b9bc9f6907693dfd6710f39276cb7cc657194bc6e8d9a17",
+      "data/2020/miikialeksic/search_a55de4e10e1d611b.json": "df40816a10f221408c71c9e8720c95bac7ef63e268eb165df9ed5372a9438196",
+      "data/2022/miikialeksic/search_60528043fed41d93.json": "eaa69f7cd33dfbbcea9e9f6dfb36a74df27bacd8e276a1e2d4e8a2ee2bd6a52a",
+      "data/2023/miikialeksic/search_c6a207f598de3738.json": "9a466650955da36b951b8a6f395eb150cb7c24daa35517b994674caae2a079f6",
+      "data/2020/milos_vucevic/search_87696b41165a2286.json": "e783b5a62c7967e6962cfc9da9094191da7567553778d7085f83aa1b0b5ff061",
+      "data/2022/milos_vucevic/search_3e0d20762b1b957f.json": "4bf578214c3ce6d5df37f3730c2961eec5cde5809b5750da649861a96180f2bf",
+      "data/2023/milos_vucevic/search_c932282ed21751ae.json": "cf2de469d75e03de0fb17803bf4e9f62589d65a38663b6a161369f6936a25920",
+      "data/2020/narodnipokrets/search_f3baa81ca47ba00c.json": "df0894518a703a9b5a1e1812252ddbfe17b4ce4fee2f5e311faa51d60a403835",
+      "data/2022/narodnipokrets/search_8b04d030c700bc60.json": "528e3058ac44830c3197559f985b4d016ef3cc94abcc0028c3b650b0278b79a0",
+      "data/2023/narodnipokrets/search_bd073da63ceba886.json": "ea2e4f024977ba34b0b1d6f196f505fe263608c7779efb6408fa897d16fc3fce",
+      "data/2020/slobodaipravda/search_0f5322801379a136.json": "f6d2e6a829aa506447d066b9ea1cef219476ef7bca18e4c412e66f27d9cb3717",
+      "data/2022/slobodaipravda/search_43ea6d04f599e9ca.json": "9a4228a65761d2fccdbf533c87cc6ec1bd37361378e3c99b06586d8bcb0a754d",
+      "data/2023/slobodaipravda/search_49eed3bc4835ad64.json": "2f4feb144f7b8fc8800cc01833ee5efbc66d0eddab66c5a76ce256de23c30513",
+      "data/2020/sns_srbija/search_6eae2feca8c617f3.json": "067d6b7b497cdf4011312b4b6406086eec12f2a1364f1357132e0f198b7252d7",
+      "data/2022/sns_srbija/search_619af2fbf7a518e2.json": "181dc0441d03e44f7daee6b741982901d5593030b17276dc63ac661cf8363d25",
+      "data/2023/sns_srbija/search_bd578e55ae5b1ee2.json": "8ac6c42df8b07c91ae563959a8f7d72e1b468dde7eec4739a8ef0d6c67e291b0"
+    }
+  }
+}

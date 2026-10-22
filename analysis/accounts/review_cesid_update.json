@@ -1,0 +1,995 @@
+{
+  "reviewed_on": "2026-10-22",
+  "account": "cesidbeograd",
+  "review_scope": "Every newly saved CeSID post and all attached photos in the expanded windows; no keyword exclusion; linked external pages and videos not transcribed.",
+  "input_posts_sha256": {
+    "data/2020/cesidbeograd/posts.jsonl": "58b40f2e287f3bd66c6dacef381e3d749c8b01bcead3d326827c81638b1dc1c0",
+    "data/2022/cesidbeograd/posts.jsonl": "a9e7484a676f993a9a58d55ad3b847f603f5fdd0cd78b8bb24b661197bf7b0bd",
+    "data/2023/cesidbeograd/posts.jsonl": "c1c236786cfa460328d4b21c451fe9e141bdf18d25159d055e0230ea4dbf451b"
+  },
+  "records": [
+    {
+      "post_id": "1274826608956837895",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274826608956837895",
+      "created_at": "2020-06-21T22:08:43.000Z",
+      "text": "Raspodela mandata na osnovu 93,4% realizacije uzorka https://t.co/CzhnESJG0s",
+      "images": [
+        {
+          "file": "data/2020/cesidbeograd/1274826608956837895_3_1274826586479628289.jpg",
+          "sha256": "e440bc33bbefad0f14562930cdb198c040358a626d3aece72a53ef7a7db8fb35",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/EbEYBq1XkAEvXD7.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "seat_projection_without_benchmark",
+      "reason": "National parliamentary seat projection; saved 2020 official reference has votes but no verified seat allocations. Retained for later seat comparison, not treated as vote percentages.",
+      "extracted": {
+        "sample_processed_pct": 93.4,
+        "seats": {
+          "SNS": 189,
+          "SPAS": 12,
+          "SPS": 32,
+          "SVM": 9,
+          "SPP": 3,
+          "SDA": 2,
+          "ADA": 3
+        },
+        "other_lists_seats": 0,
+        "total_seats": 250,
+        "source_family": "CeSID/Ipsos"
+      }
+    },
+    {
+      "post_id": "1274980186073726976",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1274980186073726976",
+      "created_at": "2020-06-22T08:18:59.000Z",
+      "text": "@MarkovicDusica2 https://t.co/ruURSy5GPZ",
+      "images": [],
+      "category": "link_only",
+      "reason": "Reply links the previously reviewed 2020 turnout post. No new standalone numerical projection."
+    },
+    {
+      "post_id": "1275019934939189248",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275019934939189248",
+      "created_at": "2020-06-22T10:56:55.000Z",
+      "text": "Zahvaljujemo se našim posmatračima, saradnicima i stručnom timu na vrednom, profesionalnom i odgovornom radu, posebno u toku izbornog dana. ⬇️",
+      "images": [],
+      "category": "acknowledgement",
+      "reason": "Thanks observers, Ipsos, media or followers; no new numerical result."
+    },
+    {
+      "post_id": "1275019938047102977",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275019938047102977",
+      "created_at": "2020-06-22T10:56:56.000Z",
+      "text": "Posebnu zahvalnost dugujemo @IpsosSerbia, sa kojima smo organizovali PVT i objavljivali procene izlaznosti i izbornih rezultata u izbornoj noći, kao i našim medijskim partnerima u objavljivanju procena izlaznosti i izbornih rezultata - @RTS_Predstavlja, @AJBalkans i @AMG_Srbija.",
+      "images": [],
+      "category": "acknowledgement",
+      "reason": "Thanks observers, Ipsos, media or followers; no new numerical result."
+    },
+    {
+      "post_id": "1275019941033455626",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275019941033455626",
+      "created_at": "2020-06-22T10:56:57.000Z",
+      "text": "Ovom prilikom zahvaljujemo i redakcijama i medijima koji su profesionalno izveštavali sa naših konferencija za štampu.\n\nZahvaljujemo se i Vama što ste nas pratili i slali nam sve važne informacije sa terena, čime ste nam pomogli da bolje sagledamo ceo izborni proces.",
+      "images": [],
+      "category": "acknowledgement",
+      "reason": "Thanks observers, Ipsos, media or followers; no new numerical result."
+    },
+    {
+      "post_id": "1275037886791004160",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275037886791004160",
+      "created_at": "2020-06-22T12:08:15.000Z",
+      "text": "@Digitalproeng Poštovani, procenat nevažećih glasova koji je samo stavljen kao napomena. Ne treba ih sabirati sa procentima u grafikonu.",
+      "images": [],
+      "category": "denominator_clarification",
+      "reason": "Reply explains that invalid-vote percentage is a separate note and should not be added to chart percentages. Supports valid-ballot interpretation of the previously reviewed 2020 charts.",
+      "extracted": {
+        "invalid_ballots_added_to_chart_percentages": false
+      }
+    },
+    {
+      "post_id": "1275072801037156363",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275072801037156363",
+      "created_at": "2020-06-22T14:27:00.000Z",
+      "text": "📢📢\n@osce_odihr Specijalna misija za procenu izbora objavila je Izjavu o preliminarnim nalazima i zaključcima:\nhttps://t.co/fdO9hRbMIh\n\nFinalni izveštaj biće pripremljen za oko dva meseca.",
+      "images": [],
+      "category": "external_report_link",
+      "reason": "Links ODIHR preliminary election-observation findings. Saved text is not a numerical parliamentary forecast; linked document not stored or transcribed."
+    },
+    {
+      "post_id": "1275083230069358593",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083230069358593",
+      "created_at": "2020-06-22T15:08:26.000Z",
+      "text": "Ključni nalazi:\n➡️Efikasno sprovedeni izbori, ali uz zabrinjavajuću dominantnu ulogu vladajuće stranke, posebno u medijima\n➡️ Nakon okončanja vanrednog stanja, učesnici su mogli slobodno da sprovode kampanju, poštovane su osnovne slobode izražavanja i okupljanja\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083231667290119",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083231667290119",
+      "created_at": "2020-06-22T15:08:26.000Z",
+      "text": "➡️Uvedena je eksplicitna zabrana i dodatna pojašnjenja oko zloupotrebe državnih resursa, što je propraćeno Vladinom kampanjom, ali ostaje zabrinutost zbog nedovoljne primene\n➡️RIK je posao radio efikasno, javno i inkluzivno, u zakonskim rokovima, uprkos kratkim rokovima\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083233110220801",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083233110220801",
+      "created_at": "2020-06-22T15:08:27.000Z",
+      "text": "➡️MDULS je tokom 2019. uložio napore da izbriše zastarele i duple unose, ali nepoverenje građana u birački spisak ostaje nerešeno pitanje\n➡️Izborna kampanje je bila niskog intenziteta, aktivnija u tradicionalnim medijima i na društvenim mrežama\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083234766970880",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083234766970880",
+      "created_at": "2020-06-22T15:08:27.000Z",
+      "text": "➡️Uočeno preplitanje SNS kampanje sa medijskim izveštavanjem o odgovorima predsednika i vlade na COVID-\n19 krizu. Predsednikova paralelna uloga predsednika SNS-a i nominalnog nosioca izborne liste još je više doprinela zamagljivanju linije između zvanične funkcije i kampanje\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083236528599040",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083236528599040",
+      "created_at": "2020-06-22T15:08:28.000Z",
+      "text": "➡️Regulatorni okvir za finansiranje kampanje ne obezbeđuje\ntransparentno finansiranje kampanje i efektivan nadzor\n➡️Većina TV kanala sa nac. frekvencijom i štampanih medija promovišu politike Vlade, dok drugi imaju ograničenu pokrivenost i ne obezbeđuju efikasnu protivtežu\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083238176952326",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083238176952326",
+      "created_at": "2020-06-22T15:08:28.000Z",
+      "text": "➡️Nadzorni odbor i REM ostali su pasivni u nadzoru ponašanja medija tokom izborne kampanje\n➡️U završnoj fazi kampanje, REM je brzo reagovao i naložio prekid emitovanja nekoliko političkih oglasnih poruka - spot vladajuće stranke i još jedan koji promoviše bojkot izbora.\n⬇️",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1275083239997296643",
+      "account": "cesidbeograd",
+      "year": "2020",
+      "post_url": "https://x.com/cesidbeograd/status/1275083239997296643",
+      "created_at": "2020-06-22T15:08:28.000Z",
+      "text": "➡️U skladu sa zakonom, odluke u vezi sa pritužbama/predstavkama upućenim RIKu i Agenciji za borbu protiv korupcije,  blagovremeno su objavljene na internet prezentacijama ovih tela\n➡️Pitanje međunarodnih i domaćih posmatrača još uvek nije uređeno zakonom, protivno preporukama.",
+      "images": [],
+      "category": "process_report",
+      "reason": "Summarises ODIHR observation of election administration, media, campaigns and institutions. Official result totals cannot verify these process assessments."
+    },
+    {
+      "post_id": "1510758910382284805",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510758910382284805",
+      "created_at": "2022-04-03T23:19:27.000Z",
+      "text": "Projekcija rezultata na osnovu 90% obrađenog uzorka - parlamentarni izbori.  #izbori2022 https://t.co/YoJr4oAqcX",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510758910382284805_3_1510758813883850779.png",
+          "sha256": "98bcada92daa9530370d597b60a936a797dbb3b1b9220784f390b326487571bb",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdLIwrWYBshltF.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See national parliamentary projection claim."
+    },
+    {
+      "post_id": "1510760389537058821",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510760389537058821",
+      "created_at": "2022-04-03T23:25:20.000Z",
+      "text": "Raspodela mandata u Narodnoj skupštini na osnovu 90% obrađenog uzorka.  #izbori2022 https://t.co/rCNxh8pRtq",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510760389537058821_3_1510760358184689665.png",
+          "sha256": "fee6bf69d94390b85f76048b4b5c3be67c6a23ed9cd89be1352a2e5ee855a205",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdMippXIAEfO64.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "seat_projection_without_benchmark",
+      "reason": "National parliamentary seat projection. Saved 2022 official reference has votes but no verified final seats; retain separately rather than mixing seats with vote-share accuracy.",
+      "extracted": {
+        "sample_processed_pct": 90,
+        "seats": {
+          "SNS": 121,
+          "UJEDINJENI": 37,
+          "SPS": 32,
+          "NADA": 15,
+          "MORAMO": 12,
+          "ZAVETNICI": 10,
+          "DVERI": 10,
+          "SVM": 6,
+          "SPP": 3,
+          "VOJVODJANI": 2,
+          "SDA": 1,
+          "KAD": 1
+        },
+        "other_lists_seats": 0,
+        "total_seats": 250,
+        "source_family": "CeSID/Ipsos"
+      }
+    },
+    {
+      "post_id": "1510760757234913288",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510760757234913288",
+      "created_at": "2022-04-03T23:26:47.000Z",
+      "text": "Projekcija rezultata na osnovu 79% obrađenog uzorka - lokalni izbori u Beogradu.  #izbori2022 https://t.co/XS8ystoUeX",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510760757234913288_3_1510760712179699714.png",
+          "sha256": "041019e1a5ef4d33a8d12baaed4df5bdfbd0d0176668dbabb4b93ced7985b3a5",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdM3QYWUAIKVfl.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly chart; supplied benchmark concerns national parliament.",
+      "extracted": {
+        "sample_processed_pct": 79,
+        "party_pct": {
+          "SNS": 38.4,
+          "UJEDINJENI": 20.9,
+          "MORAMO": 10.6,
+          "SPS": 6.9,
+          "NADA": 6.3,
+          "ZAVETNICI": 3.6,
+          "DVERI": 3.5,
+          "SDS": 2.8,
+          "DJB": 2.2,
+          "SRS": 1.7,
+          "SAROVIC": 0.6,
+          "RUSKI_SAVEZ": 0.5
+        }
+      }
+    },
+    {
+      "post_id": "1510761259028955138",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510761259028955138",
+      "created_at": "2022-04-03T23:28:47.000Z",
+      "text": "Raspodela mandata u Skupštini grada Beograda na osnovu 79% obrađenog uzorka.  #izbori2022 https://t.co/tNKicihflc",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510761259028955138_3_1510761155173756931.png",
+          "sha256": "cef5cff73647665ede11277728fe1f7c13d12800d528cdc7d2f6a8b373232e8c",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdNRCqXMAMMYQW.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly seats; no matching city official benchmark supplied.",
+      "extracted": {
+        "sample_processed_pct": 79,
+        "seats": {
+          "SNS": 48,
+          "UJEDINJENI": 26,
+          "MORAMO": 13,
+          "SPS": 8,
+          "NADA": 7,
+          "ZAVETNICI": 4,
+          "DVERI": 4
+        },
+        "other_lists_seats": 0
+      }
+    },
+    {
+      "post_id": "1510761526235471875",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510761526235471875",
+      "created_at": "2022-04-03T23:29:51.000Z",
+      "text": "Projekcija rezultatata na osnovu 88,7% obrađenog uzorka - predsednički izbori.  #izbori2022 https://t.co/rvO7DLERXZ",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510761526235471875_3_1510761513975435267.png",
+          "sha256": "cf5f205850b883b6da4f8bb0d3c1af26756e705f0b96685c229adf63c575e662",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPdNl7TWUAMjU1j.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Presidential projection, outside national parliamentary benchmark.",
+      "extracted": {
+        "sample_processed_pct": 88.7,
+        "candidate_pct": {
+          "Obradovic": 4.4,
+          "Jovanovic": 6,
+          "Vucic": 58.5,
+          "Djurdjevic_Stamenkovski": 4.4,
+          "Ponos": 18.1,
+          "Stamenkovic": 2.1,
+          "Stojkovic": 3.2,
+          "Vacic": 0.9
+        }
+      }
+    },
+    {
+      "post_id": "1510919362894565385",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510919362894565385",
+      "created_at": "2022-04-04T09:57:02.000Z",
+      "text": "Konačna projekcija rezultata - parlamentarni izbori.  #izbori2022 https://t.co/FVbgBThhQU",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510919362894565385_3_1510919006596874243.jpg",
+          "sha256": "9050afbbc69aaae4642f58c683bbdafbe1ed0cdedb46ea0173bf26a30aa755f0",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPfc1NCXwAML8ly.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "compared",
+      "reason": "See national parliamentary projection claim."
+    },
+    {
+      "post_id": "1510919804710006786",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510919804710006786",
+      "created_at": "2022-04-04T09:58:47.000Z",
+      "text": "Konačna projekcija rezultata - predsednički izbori.  #izbori2022 https://t.co/gn9Zz8rc3K",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510919804710006786_3_1510919724477169665.png",
+          "sha256": "88a9acf7801afe283172aab27a77cba7b1285df96d33fba0458026b0d3a31bd5",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPfde_WXwAEWe-g.png?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Final presidential projection, outside national parliamentary benchmark.",
+      "extracted": {
+        "candidate_pct": {
+          "Obradovic": 4.4,
+          "Jovanovic": 6,
+          "Vucic": 58.3,
+          "Djurdjevic_Stamenkovski": 4.4,
+          "Ponos": 18.3,
+          "Stamenkovic": 2.1,
+          "Stojkovic": 3.3,
+          "Vacic": 0.9
+        }
+      }
+    },
+    {
+      "post_id": "1510920112391528448",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510920112391528448",
+      "created_at": "2022-04-04T10:00:00.000Z",
+      "text": "Konačna projekcija izlaznosti. #izbori2022 https://t.co/ejprs5O2Xg",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510920112391528448_3_1510920042015301638.jpg",
+          "sha256": "97346ac41dfa3204c84ade09d362dce8bf359f1a48467f8617e694aade37a777",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPfdxeRXIAY56O7.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "turnout_unmatched_scope",
+      "reason": "See reviewed claim; unmatched turnout scopes are not scored."
+    },
+    {
+      "post_id": "1510923079077216258",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510923079077216258",
+      "created_at": "2022-04-04T10:11:48.000Z",
+      "text": "Projekcija raspodele mandata u Narodnoj skupštini.  #izbori2022 https://t.co/tUtRwRuHNH",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1510923079077216258_3_1510923026673639425.jpg",
+          "sha256": "671a5f6de1e707b116ddf2c86f7c04859d2a84ade280768f4b83f6b84e9c20bb",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPfgfM_XIAEdPeV.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "seat_projection_without_benchmark",
+      "reason": "National parliamentary seat projection. Saved 2022 official reference has votes but no verified final seats; retain separately rather than mixing seats with vote-share accuracy.",
+      "extracted": {
+        "sample_processed_pct": null,
+        "seats": {
+          "SNS": 120,
+          "UJEDINJENI": 38,
+          "SPS": 32,
+          "NADA": 15,
+          "MORAMO": 12,
+          "ZAVETNICI": 10,
+          "DVERI": 10,
+          "SVM": 6,
+          "SPP": 3,
+          "VOJVODJANI": 2,
+          "SDA": 1,
+          "KAD": 1
+        },
+        "other_lists_seats": 0,
+        "total_seats": 250,
+        "source_family": "CeSID/Ipsos"
+      }
+    },
+    {
+      "post_id": "1510926464165855234",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1510926464165855234",
+      "created_at": "2022-04-04T10:25:15.000Z",
+      "text": "Projekcija ne ukljljučuje Kosovo i Metohiju, zavode za izvršenje krivičnih sankcija i dijasporu.",
+      "images": [],
+      "category": "scope_clarification",
+      "reason": "Direct reply to the turnout graphic explicitly excludes Kosovo and Metohija, prisons and diaspora. This reply does not explicitly alter the parliamentary vote-share charts.",
+      "extracted": {
+        "applies_to_post_id": "1510920112391528448",
+        "excluded_areas": [
+          "Kosovo and Metohija",
+          "prisons",
+          "diaspora"
+        ]
+      }
+    },
+    {
+      "post_id": "1511031974613377026",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511031974613377026",
+      "created_at": "2022-04-04T17:24:31.000Z",
+      "text": "[IZBORI BEOGRAD 2022]\n\n#GIK je na večerašnjoj sednici usvojio predlog Izveštaja o preliminarnim rezultatima izbora za odbornike Skupštine grada Beograda održanih 3.aprila 2022. godine.",
+      "images": [],
+      "category": "different_election",
+      "reason": "Announces GIK preliminary Belgrade city results. It is an official-report relay for a different election, not CeSID own parliamentary projection."
+    },
+    {
+      "post_id": "1511031976836411395",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511031976836411395",
+      "created_at": "2022-04-04T17:24:31.000Z",
+      "text": "1.Aleksandar Vučić-Zajedno možemo sve: 38,15% (48 mandata)\n2.Ivica Dačić-Premijer Srbije, Toma Fila-Gradonačelnik Beograda:7,01% (8 mandata)\n3.Dr Vojislav Šešelj-Srpska radikalna stranka:1,63,(0 mandata)\n4.Milica Đurđević Stamenkovski-Srpska stranka Zavetnici: 3,52,(4 mandata)",
+      "images": [],
+      "category": "different_election",
+      "reason": "Relays official GIK Belgrade city preliminary results; no matching city benchmark supplied.",
+      "extracted": {
+        "party_pct": {
+          "SNS": 38.15,
+          "SPS": 7.01,
+          "SRS": 1.63,
+          "ZAVETNICI": 3.52
+        },
+        "seats": {
+          "SNS": 48,
+          "SPS": 8,
+          "SRS": 0,
+          "ZAVETNICI": 4
+        },
+        "source_role": "official_result",
+        "source_family": "GIK"
+      }
+    },
+    {
+      "post_id": "1511031978463801345",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511031978463801345",
+      "created_at": "2022-04-04T17:24:31.000Z",
+      "text": "5.Vladeta Janković-Ujedinjeni za pobedu Beograda:21,20%,(26 mandata)\n6.Dr Miloš Jovanović - NADA ZA BEOGRAD:6,28%,(7 mandata)\n7.MORAMO-ZA DOBAR GRAD - Ne davimo Beograd:10,75%,(13 mandata)\n8.Duško Vujošević - Boris Tadić - Ajmo ljudi: 2,81%,(0 mandata)",
+      "images": [],
+      "category": "different_election",
+      "reason": "Relays official GIK Belgrade city preliminary results; no matching city benchmark supplied.",
+      "extracted": {
+        "party_pct": {
+          "UJEDINJENI": 21.2,
+          "NADA": 6.28,
+          "MORAMO": 10.75,
+          "SDS": 2.81
+        },
+        "seats": {
+          "UJEDINJENI": 26,
+          "NADA": 7,
+          "MORAMO": 13,
+          "SDS": 0
+        },
+        "source_role": "official_result",
+        "source_family": "GIK"
+      }
+    },
+    {
+      "post_id": "1511031980066062338",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511031980066062338",
+      "created_at": "2022-04-04T17:24:32.000Z",
+      "text": "9.Nemanja Šarović - Za sav normalan svet: 0,57%,(0 mandata)\n10.SUVERENISTI: 2,13%,(0 mandata)\n11. Boško Obradović - Srpski pokret DVERI - POKS: 3,40%,(4 mandata)\n12.Ruski manjinski savez za Beograd: 0,43%,(0 mandata)",
+      "images": [],
+      "category": "different_election",
+      "reason": "Relays official GIK Belgrade city preliminary results; no matching city benchmark supplied.",
+      "extracted": {
+        "party_pct": {
+          "SAROVIC": 0.57,
+          "DJB": 2.13,
+          "DVERI": 3.4,
+          "RUSKI_SAVEZ": 0.43
+        },
+        "seats": {
+          "SAROVIC": 0,
+          "DJB": 0,
+          "DVERI": 4,
+          "RUSKI_SAVEZ": 0
+        },
+        "source_role": "official_result",
+        "source_family": "GIK"
+      }
+    },
+    {
+      "post_id": "1511057360822939650",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511057360822939650",
+      "created_at": "2022-04-04T19:05:23.000Z",
+      "text": "Sve o procedurama, rokovima i koracima za zaštitu izbornog prava - šta da radite i kome da se obratite ako ste sprečeni da glasate ili ako vam je narušena sloboda/tajnost glasa ⬇️\nhttps://t.co/qciZfbJdPK",
+      "images": [],
+      "category": "voting_rights_guidance",
+      "reason": "Link to procedures and deadlines for protecting voting rights; no numerical election forecast."
+    },
+    {
+      "post_id": "1511060336501211147",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511060336501211147",
+      "created_at": "2022-04-04T19:17:13.000Z",
+      "text": "[🗳IZBORI 2022🗳]\n\n#RIK je na večerašnjoj sednici usvojio odluku o utvrđivanju preliminarnih rezultata za narodne poslanike. \n\n#izbori2022 https://t.co/pWdCeoRgor",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1511060336501211147_3_1511060325642256388.jpg",
+          "sha256": "ff78d86b67c357c4f0a9cdf60ca971084bbc6ac899838fed70c5236b4849905a",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPhdXDgXwAQi680.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "official_result_relay",
+      "reason": "Photograph of RIK preliminary parliamentary totals, not an original projection. See descriptive claim, excluded from forecast confidence.",
+      "extracted": {
+        "source_role": "official_result",
+        "source_family": "RIK",
+        "as_of_local": "2022-04-04T20:29:00+02:00",
+        "registered_national": 6502307,
+        "polling_stations_total": 8267,
+        "polling_stations_processed": 8007,
+        "polling_stations_processed_pct": 96.85,
+        "electorate_processed_pct": 96.4,
+        "registered_in_processed_stations": 6268496,
+        "turnout_count": 3675064,
+        "turnout_pct": 58.63,
+        "ballots_cast": 3668149,
+        "invalid_ballots": 109294,
+        "invalid_pct": 2.98,
+        "valid_ballots": 3558855,
+        "valid_pct": 97.02,
+        "party_votes": {
+          "SNS": 1576082,
+          "SPS": 421697,
+          "SVM": 58714,
+          "SRS": 79674,
+          "UJEDINJENI": 497797,
+          "NADA": 197536,
+          "ZAVETNICI": 137243,
+          "SPP": 33132,
+          "MORAMO": 169812,
+          "DJB": 83375,
+          "DVERI": 140597,
+          "VOJVODJANI": 23456,
+          "SDA": 20139,
+          "SDS": 61194,
+          "ADA": 3250,
+          "KAD": 9630,
+          "OTETE_BEBE": 30153,
+          "ROMSKA": 6218,
+          "RUSKI_SAVEZ": 9156
+        },
+        "party_pct": {
+          "SNS": 42.97,
+          "SPS": 11.5,
+          "SVM": 1.6,
+          "SRS": 2.17,
+          "UJEDINJENI": 13.57,
+          "NADA": 5.39,
+          "ZAVETNICI": 3.74,
+          "SPP": 0.9,
+          "MORAMO": 4.63,
+          "DJB": 2.27,
+          "DVERI": 3.83,
+          "VOJVODJANI": 0.64,
+          "SDA": 0.55,
+          "SDS": 1.67,
+          "ADA": 0.09,
+          "KAD": 0.26,
+          "OTETE_BEBE": 0.82,
+          "ROMSKA": 0.17,
+          "RUSKI_SAVEZ": 0.25
+        },
+        "seats": {
+          "SNS": 120,
+          "SPS": 32,
+          "SVM": 6,
+          "SRS": 0,
+          "UJEDINJENI": 38,
+          "NADA": 15,
+          "ZAVETNICI": 10,
+          "SPP": 3,
+          "MORAMO": 12,
+          "DJB": 0,
+          "DVERI": 10,
+          "VOJVODJANI": 2,
+          "SDA": 2,
+          "SDS": 0,
+          "ADA": 0,
+          "KAD": 0,
+          "OTETE_BEBE": 0,
+          "ROMSKA": 0,
+          "RUSKI_SAVEZ": 0
+        }
+      }
+    },
+    {
+      "post_id": "1511064571586523144",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511064571586523144",
+      "created_at": "2022-04-04T19:34:02.000Z",
+      "text": "[🗳IZBORI 2022🗳]\n\n#RIK je na večerašnjoj sednici usvojio i odluku o utvrđivanju preliminarnih rezultata za izbora za predsednika republike. \n\n#izbori2022 https://t.co/LYaAGVbb72",
+      "images": [
+        {
+          "file": "data/2022/cesidbeograd/1511064571586523144_3_1511064567027228680.jpg",
+          "sha256": "90df1ea0e689127d066524c8b69ce44da001e9ac294caba8983c1573bd732d49",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/FPhhN75WYAg6dSe.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Photograph of RIK preliminary presidential results; official relay and different election.",
+      "extracted": {
+        "source_role": "official_result",
+        "source_family": "RIK",
+        "processed_polling_stations_pct": 97.13,
+        "candidate_pct": {
+          "Vacic": 0.87,
+          "Stojkovic": 3.2,
+          "Stamenkovic": 2.03,
+          "Ponos": 18.32,
+          "Djurdjevic_Stamenkovski": 4.25,
+          "Vucic": 58.59,
+          "Jovanovic": 5.97,
+          "Obradovic": 4.38
+        },
+        "candidate_votes": {
+          "Vacic": 32074,
+          "Stojkovic": 117784,
+          "Stamenkovic": 74866,
+          "Ponos": 674567,
+          "Djurdjevic_Stamenkovski": 156635,
+          "Vucic": 2157008,
+          "Jovanovic": 219970,
+          "Obradovic": 161212
+        }
+      }
+    },
+    {
+      "post_id": "1511064619787378696",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "post_url": "https://x.com/cesidbeograd/status/1511064619787378696",
+      "created_at": "2022-04-04T19:34:14.000Z",
+      "text": "@bogdan313 Preostalo su nevažeći glasački listići.",
+      "images": [],
+      "category": "denominator_clarification",
+      "reason": "Reply in the GIK Belgrade-city thread says the remainder consists of invalid ballots. No new national vote-share estimate."
+    },
+    {
+      "post_id": "1736522580448747574",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736522580448747574",
+      "created_at": "2023-12-17T23:03:40.000Z",
+      "text": "🗳️ Projekcija raspodele mandata za Skupštinu Grada Beograda na osnovu 77% obrađenog uzorka\n#izboribeograd https://t.co/STYMo9qODU",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736522580448747574_3_1736522574270541824.jpg",
+          "sha256": "d18e680add11db51c54d943730b004be2ebffcc9e33717290b299ab4eb032061",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBleFK_XsAAvySj.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "different_election",
+      "reason": "Belgrade city assembly seats, outside national parliamentary benchmark.",
+      "extracted": {
+        "sample_processed_pct": 77,
+        "seats": {
+          "SNS": 48,
+          "SPN": 43,
+          "NADA": 7,
+          "MI": 6,
+          "SPS": 6
+        },
+        "other_lists_seats": 0
+      }
+    },
+    {
+      "post_id": "1736532114634428580",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "post_url": "https://x.com/cesidbeograd/status/1736532114634428580",
+      "created_at": "2023-12-17T23:41:33.000Z",
+      "text": "🗳️ CeSID i IPSOS: PROJEKCIJA KONAČNE IZLAZNOSTI DO 20h – IZBORI 2023\n#izbori2023 https://t.co/5WxD2KMihN",
+      "images": [
+        {
+          "file": "data/2023/cesidbeograd/1736532114634428580_3_1736532109995515904.jpg",
+          "sha256": "800bf43ef1439dce92124ab1bfa57ca9b6d003146e87e5a9c685a1fdd00df88d",
+          "recovered_from_saved_public_url": false,
+          "url": "https://pbs.twimg.com/media/GBlmwOVXoAAEYUV.jpg?name=orig",
+          "reviewed_visually": true
+        }
+      ],
+      "category": "turnout_unmatched_scope",
+      "reason": "See reviewed claim; unmatched turnout scopes are not scored."
+    }
+  ],
+  "claims": [
+    {
+      "post_id": "1510758910382284805",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 42.9,
+        "UJEDINJENI": 13.5,
+        "SPS": 11.4,
+        "NADA": 5.4,
+        "MORAMO": 4.6,
+        "DVERI": 3.9,
+        "ZAVETNICI": 3.8,
+        "DJB": 2.3,
+        "SRS": 2.1,
+        "SDS": 1.7,
+        "SVM": 1.6,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.5,
+        "KAD": 0.3,
+        "RUSKI_SAVEZ": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "source_role": "original_projection",
+      "source_family": "CeSID/Ipsos",
+      "attribution": "CeSID/Ipsos",
+      "sample_processed_pct": 90,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "confidence_scoring_eligible": true,
+      "note": "Complete national parliamentary chart. Ballots-cast basis inferred from displayed total below 100%; retain valid-vote normalization. Final-projection graphic repeats the same rounded percentages as the earlier 90%-sample chart; this is not independent evidence.",
+      "claim_id": "1510758910382284805:vote_share",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription"
+    },
+    {
+      "post_id": "1510919362894565385",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 42.9,
+        "UJEDINJENI": 13.5,
+        "SPS": 11.4,
+        "NADA": 5.4,
+        "MORAMO": 4.6,
+        "DVERI": 3.9,
+        "ZAVETNICI": 3.8,
+        "DJB": 2.3,
+        "SRS": 2.1,
+        "SDS": 1.7,
+        "SVM": 1.6,
+        "SPP": 1,
+        "OTETE_BEBE": 0.8,
+        "VOJVODJANI": 0.7,
+        "SDA": 0.5,
+        "KAD": 0.3,
+        "RUSKI_SAVEZ": 0.2,
+        "ROMSKA": 0.2,
+        "ADA": 0.1
+      },
+      "source_role": "original_projection",
+      "source_family": "CeSID/Ipsos",
+      "attribution": "CeSID/Ipsos",
+      "sample_processed_pct": null,
+      "basis": "ballots_cast",
+      "basis_explicit": false,
+      "confidence_scoring_eligible": true,
+      "note": "Complete national parliamentary chart. Ballots-cast basis inferred from displayed total below 100%; retain valid-vote normalization. Final-projection graphic repeats the same rounded percentages as the earlier 90%-sample chart; this is not independent evidence.",
+      "claim_id": "1510919362894565385:vote_share",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription"
+    },
+    {
+      "post_id": "1510920112391528448",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 58.6
+      },
+      "source_role": "original_projection",
+      "source_family": "CeSID/Ipsos",
+      "attribution": "CeSID/Ipsos",
+      "sample_processed_pct": null,
+      "scope": "without_kosovo_prisons_abroad",
+      "comparable": false,
+      "benchmark_status": "unmatched_scope",
+      "confidence_scoring_eligible": false,
+      "note": "2022 turnout estimate. Reply 1510926464165855234 explicitly excludes Kosovo, prisons and diaspora; corresponding scoped official denominator has not been established, so no numerical error is assigned. Historical 2016/2017/2020 bars are context.",
+      "scope_evidence_post_id": "1510926464165855234",
+      "claim_id": "1510920112391528448:turnout",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription"
+    },
+    {
+      "post_id": "1511060336501211147",
+      "kind": "vote_share",
+      "values": {
+        "SNS": 42.97,
+        "SPS": 11.5,
+        "SVM": 1.6,
+        "SRS": 2.17,
+        "UJEDINJENI": 13.57,
+        "NADA": 5.39,
+        "ZAVETNICI": 3.74,
+        "SPP": 0.9,
+        "MORAMO": 4.63,
+        "DJB": 2.27,
+        "DVERI": 3.83,
+        "VOJVODJANI": 0.64,
+        "SDA": 0.55,
+        "SDS": 1.67,
+        "ADA": 0.09,
+        "KAD": 0.26,
+        "OTETE_BEBE": 0.82,
+        "ROMSKA": 0.17,
+        "RUSKI_SAVEZ": 0.25
+      },
+      "source_role": "official_result",
+      "source_family": "RIK",
+      "attribution": "RIK preliminary report relayed by CeSID",
+      "sample_processed_pct": 96.85,
+      "basis": "ballots_cast",
+      "basis_explicit": true,
+      "confidence_scoring_eligible": false,
+      "note": "Photograph of the official RIK preliminary table, processed 4 April 2022 20:29 local. Not an independent CeSID/Ipsos forecast and excluded from forecast selection/confidence. Published shares divide by ballots in processed boxes (3,668,149); comparison with final national totals is descriptive and includes incomplete count and later reruns.",
+      "reported_denominator": 3668149,
+      "reported_denominator_scope": "processed_polling_stations",
+      "sample_processed_unit": "polling_stations",
+      "claim_id": "1511060336501211147:vote_share",
+      "account": "cesidbeograd",
+      "year": "2022",
+      "extraction": "visually reviewed image transcription"
+    },
+    {
+      "post_id": "1736532114634428580",
+      "kind": "turnout",
+      "values": {
+        "turnout_pct": 59.3
+      },
+      "source_role": "original_projection",
+      "source_family": "CeSID/Ipsos",
+      "attribution": "CeSID/Ipsos",
+      "sample_processed_pct": null,
+      "scope": "unspecified",
+      "comparable": false,
+      "benchmark_status": "scope_unspecified",
+      "confidence_scoring_eligible": false,
+      "note": "Graphic projects 2023 turnout through 20:00 at 59.3%. Geographic exclusions are not specified in this saved post. Do not silently compare with national final turnout; historical bars are context.",
+      "historical_bars": {
+        "2016": 56.4,
+        "2020": 48.9,
+        "2022": 58.6
+      },
+      "claim_id": "1736532114634428580:turnout",
+      "account": "cesidbeograd",
+      "year": "2023",
+      "extraction": "visually reviewed image transcription"
+    }
+  ],
+  "old_records_verified": {
+    "count": 20,
+    "text_unchanged": true,
+    "image_bytes_unchanged": true
+  },
+  "old_claim_updates": [
+    {
+      "claim_id": "1274789282079703047:vote_share",
+      "add": {
+        "source_role": "original_projection",
+        "source_family": "CeSID/Ipsos",
+        "denominator_support_post_id": "1275037886791004160"
+      },
+      "reason": "New reply confirms invalid-vote percentage is not added to chart percentages, supporting the existing valid-vote interpretation."
+    },
+    {
+      "claim_id": "1274798166576189443:vote_share",
+      "add": {
+        "source_role": "original_projection",
+        "source_family": "CeSID/Ipsos",
+        "denominator_support_post_id": "1275037886791004160"
+      },
+      "reason": "New reply confirms invalid-vote percentage is not added to chart percentages, supporting the existing valid-vote interpretation."
+    },
+    {
+      "claim_id": "1274811761041051649:vote_share",
+      "add": {
+        "source_role": "original_projection",
+        "source_family": "CeSID/Ipsos",
+        "denominator_support_post_id": "1275037886791004160"
+      },
+      "reason": "New reply confirms invalid-vote percentage is not added to chart percentages, supporting the existing valid-vote interpretation."
+    },
+    {
+      "claim_id": "1274817636006846465:vote_share",
+      "add": {
+        "source_role": "original_projection",
+        "source_family": "CeSID/Ipsos",
+        "denominator_support_post_id": "1275037886791004160"
+      },
+      "reason": "New reply confirms invalid-vote percentage is not added to chart percentages, supporting the existing valid-vote interpretation."
+    }
+  ],
+  "notes": [
+    "Only two new original parliamentary point charts, both from 2022, have identical rounded values. Treat later repetition as updated publication timing, not independent sample evidence.",
+    "2020 and 2022 national seat projections are retained as extracted data only because saved official reference lacks independently verified seat counts.",
+    "The RIK table is a separately attributed official result relay and must not replace the latest original forecast at a cutoff.",
+    "The 2022 turnout scope clarification is explicitly a reply to the turnout post, not the parliamentary charts."
+  ]
+}
