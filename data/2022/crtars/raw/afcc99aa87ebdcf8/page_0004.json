@@ -1,0 +1,255 @@
+{
+  "fetched_at": "2026-10-22T17:44:27.829376Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-04T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fpytl0v4jimdwz7wlj5prd70cjnngd"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:16:14.000Z",
+        "edit_history_tweet_ids": [
+          "1510682605271887873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "962713743758065664",
+              "start": 0,
+              "username": "tonisamjaja"
+            }
+          ]
+        },
+        "id": "1510682605271887873",
+        "referenced_tweets": [
+          {
+            "id": "1510682257283035137",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@tonisamjaja Na biračkim mestima koja su zatvorena počinje brojanje. Tamo gde ima još birača, tamo se i dalje glasa."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510675040077033472",
+        "created_at": "2022-04-03T18:11:30.000Z",
+        "edit_history_tweet_ids": [
+          "1510681411526795270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "367077960",
+              "start": 0,
+              "username": "IvanaMarica"
+            },
+            {
+              "end": 28,
+              "id": "938213947152494592",
+              "start": 13,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 39,
+              "id": "4173561813",
+              "start": 29,
+              "username": "ubistruja"
+            }
+          ]
+        },
+        "id": "1510681411526795270",
+        "referenced_tweets": [
+          {
+            "id": "1510680943740207109",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@IvanaMarica @FrauSilovichka @ubistruja U 20.15h imamo konferenciju za novinare."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510675040077033472",
+        "created_at": "2022-04-03T18:07:31.000Z",
+        "edit_history_tweet_ids": [
+          "1510680409373351939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "938213947152494592",
+              "start": 0,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 26,
+              "id": "4173561813",
+              "start": 16,
+              "username": "ubistruja"
+            }
+          ]
+        },
+        "id": "1510680409373351939",
+        "referenced_tweets": [
+          {
+            "id": "1510680129952956431",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@FrauSilovichka @ubistruja Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:07:03.000Z",
+        "edit_history_tweet_ids": [
+          "1510680292150943751"
+        ],
+        "id": "1510680292150943751",
+        "referenced_tweets": [
+          {
+            "id": "1510679772254330885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UroshNovakovic Tako je. Brojanje počinje kad svi birači koji su se zatekli na biračkom mestu glasaju."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510679476098764809",
+        "created_at": "2022-04-03T18:05:56.000Z",
+        "edit_history_tweet_ids": [
+          "1510680010641784832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "33222629",
+              "start": 0,
+              "username": "mmilenkovic"
+            }
+          ]
+        },
+        "id": "1510680010641784832",
+        "referenced_tweets": [
+          {
+            "id": "1510679476098764809",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@mmilenkovic U 20.15 imamo konferenciju za novinare."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:04:39.000Z",
+        "edit_history_tweet_ids": [
+          "1510679687378386950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1315309629753225224",
+              "start": 0,
+              "username": "OkoMojeL"
+            },
+            {
+              "end": 22,
+              "id": "962713743758065664",
+              "start": 10,
+              "username": "tonisamjaja"
+            }
+          ]
+        },
+        "id": "1510679687378386950",
+        "referenced_tweets": [
+          {
+            "id": "1510679487985463304",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@OkoMojeL @tonisamjaja Tako je. Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:03:59.000Z",
+        "edit_history_tweet_ids": [
+          "1510679520575172615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "962713743758065664",
+              "start": 0,
+              "username": "tonisamjaja"
+            }
+          ]
+        },
+        "id": "1510679520575172615",
+        "referenced_tweets": [
+          {
+            "id": "1510679098133204995",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@tonisamjaja Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:03:47.000Z",
+        "edit_history_tweet_ids": [
+          "1510679470826479618"
+        ],
+        "id": "1510679470826479618",
+        "referenced_tweets": [
+          {
+            "id": "1510679225178759172",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UroshNovakovic Ako se birač u 20 sati zatekne na ili ispred biračkog mesta, birački odbor je u obavezi da mu omogući da glasa."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510678575229325318",
+        "created_at": "2022-04-03T18:00:14.000Z",
+        "edit_history_tweet_ids": [
+          "1510678575229325318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "Izbori2022"
+            }
+          ]
+        },
+        "id": "1510678575229325318",
+        "text": "Biračka mesta se zatvaraju i počinje brojanje glasova za #Izbori2022. Podsećamo da ukoliko se zateknete U ili ISPRED biračkog mesta u 20h, birački odbor je dužan da vam dozvoli da glasate."
+      }
+    ],
+    "meta": {
+      "newest_id": "1510682605271887873",
+      "next_token": "b26v89c19zqg8o3fpytl0v48w9i6ug810fs8kwb2wv2pp",
+      "oldest_id": "1510678575229325318",
+      "result_count": 9
+    }
+  }
+}

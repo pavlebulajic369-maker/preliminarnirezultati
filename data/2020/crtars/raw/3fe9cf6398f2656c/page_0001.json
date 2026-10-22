@@ -1,0 +1,405 @@
+{
+  "fetched_at": "2026-10-22T16:50:31.816141Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-21T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274818550180581376"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1274601122108526592",
+        "created_at": "2020-06-21T21:48:03.000Z",
+        "edit_history_tweet_ids": [
+          "1274821407038410752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 68,
+              "tag": "Izbori2020"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 214,
+              "id": "905465755",
+              "start": 203,
+              "username": "FabriziSem"
+            },
+            {
+              "end": 228,
+              "id": "803918197661507584",
+              "start": 216,
+              "username": "OSCE_Serbia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoEAovNMM7",
+              "end": 252,
+              "expanded_url": "https://x.com/CRTArs/status/1274821407038410752/photo/1",
+              "media_key": "3_1274818550180581376",
+              "start": 229,
+              "url": "https://t.co/CoEAovNMM7"
+            }
+          ]
+        },
+        "id": "1274821407038410752",
+        "text": "Čast nam je da su nam se na prijemu povodom završetka izbornog dana #Izbori2020 pridružili g. Sam Fabrizi, ambasador EU, g. Andrea Orizio, šef Misije OEBS-a, i Thomas Schieb, ambasador Nemačke u Srbiji. @FabriziSem  @OSCE_Serbia https://t.co/CoEAovNMM7"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T21:41:44.000Z",
+        "edit_history_tweet_ids": [
+          "1274819820308107265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943505457330704388",
+              "start": 0,
+              "username": "draganpanic63"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 38,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 15,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274819820308107265",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274815156623749127",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@draganpanic63 https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274806327718694912",
+        "created_at": "2020-06-21T21:41:13.000Z",
+        "edit_history_tweet_ids": [
+          "1274819689814929408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "237057341",
+              "start": 12,
+              "username": "RadovanN87"
+            },
+            {
+              "end": 33,
+              "id": "4870766271",
+              "start": 24,
+              "username": "BoraKonj"
+            },
+            {
+              "end": 47,
+              "id": "3369253000",
+              "start": 34,
+              "username": "BalkanUtopia"
+            }
+          ]
+        },
+        "id": "1274819689814929408",
+        "referenced_tweets": [
+          {
+            "id": "1274816436524003329",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Ksenija76o @RadovanN87 @BoraKonj @BalkanUtopia Zabeležili smo ovaj snimak i prosledili našem pravnom timu. Hvala na informaciji."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274818193496985600",
+        "created_at": "2020-06-21T21:38:41.000Z",
+        "edit_history_tweet_ids": [
+          "1274819052469465093"
+        ],
+        "id": "1274819052469465093",
+        "referenced_tweets": [
+          {
+            "id": "1274818193496985600",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@downtownbeg Poštovana, zatvorena su sva birališta. O kvalitetu izbornog procesa i nepravilnostima tokom izbornog dana ćemo više govoriti sutra na konferenciji za novinare u 12h."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274818057974747138"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1274601122108526592",
+        "created_at": "2020-06-21T21:35:21.000Z",
+        "edit_history_tweet_ids": [
+          "1274818213742874624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXN5QNwhOK",
+              "end": 116,
+              "expanded_url": "https://x.com/CRTArs/status/1274818213742874624/photo/1",
+              "media_key": "3_1274818057974747138",
+              "start": 93,
+              "url": "https://t.co/rXN5QNwhOK"
+            }
+          ]
+        },
+        "id": "1274818213742874624",
+        "text": "Rezultate #Izbori2020 čekali smo u društvu G. Junichia Maruyame, ambasadora Japana u Srbiji. https://t.co/rXN5QNwhOK"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274813379941732358",
+        "created_at": "2020-06-21T21:16:54.000Z",
+        "edit_history_tweet_ids": [
+          "1274813568060399616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "917421243015581697",
+              "start": 0,
+              "username": "KatarinaDmitro3"
+            },
+            {
+              "end": 30,
+              "id": "829251286650519553",
+              "start": 17,
+              "username": "CeSIDBeograd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 54,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 31,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274813568060399616",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274813379941732358",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@KatarinaDmitro3 @CeSIDBeograd https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274798882812297217",
+        "created_at": "2020-06-21T21:15:22.000Z",
+        "edit_history_tweet_ids": [
+          "1274813182213832705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "938213947152494592",
+              "start": 0,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 26,
+              "id": "712993922927165441",
+              "start": 16,
+              "username": "psittarch"
+            },
+            {
+              "end": 34,
+              "id": "356450858",
+              "start": 27,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/da-li-je-fanto…",
+              "end": 127,
+              "expanded_url": "https://crta.rs/da-li-je-fantom-glasao-umesto-vas",
+              "start": 104,
+              "url": "https://t.co/D8wsGAZd0B"
+            }
+          ]
+        },
+        "id": "1274813182213832705",
+        "referenced_tweets": [
+          {
+            "id": "1274811908672098306",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@FrauSilovichka @psittarch @avucic Za početak, možete proveriti da li je neko glasao u ime Vaše majke - https://t.co/D8wsGAZd0B"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T21:11:26.000Z",
+        "edit_history_tweet_ids": [
+          "1274812192949444609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729791881849147392",
+              "start": 0,
+              "username": "stefangrf"
+            },
+            {
+              "end": 27,
+              "id": "1212154581804732416",
+              "start": 11,
+              "username": "ElIndio77831877"
+            }
+          ]
+        },
+        "id": "1274812192949444609",
+        "referenced_tweets": [
+          {
+            "id": "1274811463471955968",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@stefangrf @ElIndio77831877 Podaci koje smo objavili baziraju se na 87 odsto obrađenog uzorka. Uzorak je sačinjen od 500 biračkih mesta širom Srbije."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274798882812297217",
+        "created_at": "2020-06-21T21:08:32.000Z",
+        "edit_history_tweet_ids": [
+          "1274811464554106882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "712993922927165441",
+              "start": 0,
+              "username": "psittarch"
+            },
+            {
+              "end": 26,
+              "id": "938213947152494592",
+              "start": 11,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 34,
+              "id": "356450858",
+              "start": 27,
+              "username": "avucic"
+            }
+          ]
+        },
+        "id": "1274811464554106882",
+        "referenced_tweets": [
+          {
+            "id": "1274811024596705283",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@psittarch @FrauSilovichka @avucic Postoji jasna procedura glasanja van biračkog mesta, ovo što ste vi opisali uopšte ne izgleda kao regularno glasanje."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274810488384376837",
+        "created_at": "2020-06-21T21:06:23.000Z",
+        "edit_history_tweet_ids": [
+          "1274810921400098816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 14,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274810921400098816",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          }
+        ],
+        "text": "@zuko_mayonez https://t.co/udnaKW9OxR"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 2000,
+          "media_key": "3_1274818550180581376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEQt5SXkAATpxL.jpg",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "media_key": "3_1274818057974747138",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEQRPrWkAI9DvE.jpg",
+          "width": 3000
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1274821407038410752",
+      "next_token": "b26v89c19zqg8o3fo7gedkg6unoe2vhjk8qbyr4vwbjwd",
+      "oldest_id": "1274810921400098816",
+      "result_count": 10
+    }
+  }
+}

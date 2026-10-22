@@ -1,0 +1,230 @@
+{
+  "fetched_at": "2026-10-22T17:44:21.796435Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-18T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fr5kfr3nw6ij20jz7w4y8lddqjg7el"
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736488240465461248"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736488963819340271",
+        "created_at": "2023-12-17T20:50:06.000Z",
+        "edit_history_tweet_ids": [
+          "1736488963819340271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWj1yApqaT",
+              "end": 301,
+              "expanded_url": "https://x.com/CRTArs/status/1736488963819340271/photo/1",
+              "media_key": "3_1736488240465461248",
+              "start": 278,
+              "url": "https://t.co/TWj1yApqaT"
+            }
+          ]
+        },
+        "id": "1736488963819340271",
+        "note_tweet": {
+          "text": "📢I mi sa nestrpljenjem očekujemo da nam pristignu svi podaci i da završimo sa analizom. Kada budemo imali podatke sa 95% biračkih mesta iz našeg uzorka, moći ćemo da izađemo u javnost sa projekcijama izlaznosti i rezultata. \n\n📌Za sada imamo 70% popunjenog uzorka u Srbiji i 14% na nivou Beograda."
+        },
+        "text": "📢I mi sa nestrpljenjem očekujemo da nam pristignu svi podaci i da završimo sa analizom. Kada budemo imali podatke sa 95% biračkih mesta iz našeg uzorka, moći ćemo da izađemo u javnost sa projekcijama izlaznosti i rezultata. \n\n📌Za sada imamo 70% popunjenog uzorka u Srbiji i 14% https://t.co/TWj1yApqaT"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736456734967787757",
+        "created_at": "2023-12-17T19:46:52.000Z",
+        "edit_history_tweet_ids": [
+          "1736473053465313303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2256542137",
+              "start": 0,
+              "username": "svigirbor"
+            }
+          ]
+        },
+        "id": "1736473053465313303",
+        "referenced_tweets": [
+          {
+            "id": "1736458049575882968",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@svigirbor Na izborima 2022. godine bilo je upisano 6.502.307 a ove godine je 6.500.666"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:36.000Z",
+        "edit_history_tweet_ids": [
+          "1736466192502538457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crta.rs/do-19-casova-i…",
+              "end": 223,
+              "expanded_url": "https://crta.rs/do-19-casova-izlaznost-nesto-veca-nego-na-proslim-izborima/",
+              "start": 200,
+              "url": "https://t.co/6FQWj0Ev8l"
+            }
+          ]
+        },
+        "id": "1736466192502538457",
+        "referenced_tweets": [
+          {
+            "id": "1736466190619287766",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Sledeća konferencija za medije Crte biće održana nakon što se obrade podaci sa 95% biračkih mesta iz oba uzoraka. Konferenciju možete pratiti uživo na Facebook stranici Crte ili na Crtinom YT kanalu.\nhttps://t.co/6FQWj0Ev8l"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:36.000Z",
+        "edit_history_tweet_ids": [
+          "1736466190619287766"
+        ],
+        "id": "1736466190619287766",
+        "referenced_tweets": [
+          {
+            "id": "1736466189063164324",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Pošto se istovremeno održavaju izbori na više nivoa, očekuje se da će proces prebrojavanja glasova trajati dugo. Kako bi se obezbedila pouzdanost i tačnost podataka, s projekcijom rezultata izbora u  javnost izaći ćemo tek kad prikupi i obradi podatke sa najmanje 95% BM iz uzorka"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:36.000Z",
+        "edit_history_tweet_ids": [
+          "1736466189063164324"
+        ],
+        "id": "1736466189063164324",
+        "referenced_tweets": [
+          {
+            "id": "1736466186873761867",
+            "type": "replied_to"
+          }
+        ],
+        "text": "U pitanju su situacije da nisu bili u izvodu iz biračkog spiska na biračkim mestima na kojima decenijama glasaju, nije im omogućeno da glasaju od kuće iako su imali prava na to i blagovremeno su se prijavili, neko je već glasao umesto njih itd."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:35.000Z",
+        "edit_history_tweet_ids": [
+          "1736466186873761867"
+        ],
+        "id": "1736466186873761867",
+        "referenced_tweets": [
+          {
+            "id": "1736466184873099575",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Broj građana koji se obratio Crti povodom kršenja njihovih biračkih prava veći je nego na bilo kojim ranijim izborima koje smo posmatrali."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:35.000Z",
+        "edit_history_tweet_ids": [
+          "1736466184873099575"
+        ],
+        "id": "1736466184873099575",
+        "referenced_tweets": [
+          {
+            "id": "1736466183258345567",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Zabrinjavajuće je veliki porast broja slučajeva vođenja paralelne evidencije unutar i izvan BM, organizovanog dovođenja birača, sumnjivog kruženja automobila oko biračkih mesta…"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:34.000Z",
+        "edit_history_tweet_ids": [
+          "1736466183258345567"
+        ],
+        "id": "1736466183258345567",
+        "referenced_tweets": [
+          {
+            "id": "1736466181698044098",
+            "type": "replied_to"
+          }
+        ],
+        "text": "U Beogradu se od prethodnog preseka utrostručio broj mesta na kojima su zabeleženi slučajevi da se neko potpisao u izvod iz biračkog spiska umesto birača."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:34.000Z",
+        "edit_history_tweet_ids": [
+          "1736466181698044098"
+        ],
+        "id": "1736466181698044098",
+        "referenced_tweets": [
+          {
+            "id": "1736466180125167758",
+            "type": "replied_to"
+          }
+        ],
+        "text": "U popodnevnim i večernjim časovima jasan je trend izrazitog rasta broja slučajeva unapred popunjenih glasačkih listića i nezakonitog prisustva trećih lica na biračkim mestima, posebno u Beogradu."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:33.000Z",
+        "edit_history_tweet_ids": [
+          "1736466180125167758"
+        ],
+        "id": "1736466180125167758",
+        "referenced_tweets": [
+          {
+            "id": "1736466178099302406",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Od poslednjeg preseka Crta je podnela još dve prijave zbog izborne korupcije – dakle, ukupno sedam prijava za sada, i to za slučajeve zabeležene na Novom Beogradu, Čukarici, u Odžacima, Vršcu, Malom Iđošu i - poslednje - u Titelu, isped dva BM."
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "3_1736488240465461248",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBk-2rmWQAA5iQY.png",
+          "width": 1920
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736488963819340271",
+      "next_token": "b26v89c19zqg8o3fr5kfr1kywaor63jq70v3uonxmxfnh",
+      "oldest_id": "1736466180125167758",
+      "result_count": 10
+    }
+  }
+}

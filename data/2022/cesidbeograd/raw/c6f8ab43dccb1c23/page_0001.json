@@ -1,0 +1,232 @@
+{
+  "fetched_at": "2026-10-18T15:59:54.749828Z",
+  "params": {
+    "query": "from:cesidbeograd -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-03T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510735553842630658"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510735577217384457",
+        "created_at": "2022-04-03T21:46:44.000Z",
+        "edit_history_tweet_ids": [
+          "1510735577217384457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 86,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yf83ijpuI",
+              "end": 121,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510735577217384457/photo/1",
+              "media_key": "3_1510735553842630658",
+              "start": 98,
+              "url": "https://t.co/6yf83ijpuI"
+            }
+          ]
+        },
+        "id": "1510735577217384457",
+        "text": "Projekcija rezultatata na osnovu 46,3% obrađenog uzorka - lokalni izbori u Beogradu.  #izbori2022 https://t.co/6yf83ijpuI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510731062808305669"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510731167590453266",
+        "created_at": "2022-04-03T21:29:13.000Z",
+        "edit_history_tweet_ids": [
+          "1510731167590453266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 80,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkje0S1knA",
+              "end": 115,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510731167590453266/photo/1",
+              "media_key": "3_1510731062808305669",
+              "start": 92,
+              "url": "https://t.co/hkje0S1knA"
+            }
+          ]
+        },
+        "id": "1510731167590453266",
+        "text": "Projekcija rezultatata na osnovu 75,2% obrađenog uzorka - predsednički izbori.  #izbori2022 https://t.co/hkje0S1knA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510729038234636296"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510729200650629126",
+        "created_at": "2022-04-03T21:21:24.000Z",
+        "edit_history_tweet_ids": [
+          "1510729200650629126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9KKc9uCIx",
+              "end": 116,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510729200650629126/photo/1",
+              "media_key": "3_1510729038234636296",
+              "start": 93,
+              "url": "https://t.co/q9KKc9uCIx"
+            }
+          ]
+        },
+        "id": "1510729200650629126",
+        "text": "Projekcija rezultatata na osnovu 77,1% obrađenog uzorka - parlamentarni izbori.  #izbori2022 https://t.co/q9KKc9uCIx"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510719389187854344"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510719490430050312",
+        "created_at": "2022-04-03T20:42:48.000Z",
+        "edit_history_tweet_ids": [
+          "1510719490430050312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 80,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6T8eSPBZr",
+              "end": 115,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510719490430050312/photo/1",
+              "media_key": "3_1510719389187854344",
+              "start": 92,
+              "url": "https://t.co/p6T8eSPBZr"
+            }
+          ]
+        },
+        "id": "1510719490430050312",
+        "text": "Projekcija rezultatata na osnovu 55,6% obrađenog uzorka - predsednički izbori.  #izbori2022 https://t.co/p6T8eSPBZr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510717917670871044"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510718307967582218",
+        "created_at": "2022-04-03T20:38:07.000Z",
+        "edit_history_tweet_ids": [
+          "1510718307967582218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 80,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YYrIcRJlz",
+              "end": 115,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510718307967582218/photo/1",
+              "media_key": "3_1510717917670871044",
+              "start": 92,
+              "url": "https://t.co/8YYrIcRJlz"
+            }
+          ]
+        },
+        "id": "1510718307967582218",
+        "text": "Projekcija rezultatata na osnovu 62,5% obrađenog uzorka - parlamentarni izbori. #izbori2022 https://t.co/8YYrIcRJlz"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 416,
+          "media_key": "3_1510735553842630658",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPc1-2RX0AIYghz.png",
+          "width": 670
+        },
+        {
+          "height": 350,
+          "media_key": "3_1510731062808305669",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcx5b3WYAUafTi.png",
+          "width": 631
+        },
+        {
+          "height": 486,
+          "media_key": "3_1510729038234636296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcwDlvX0AgF8al.png",
+          "width": 848
+        },
+        {
+          "height": 350,
+          "media_key": "3_1510719389187854344",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcnR8PWUAgSNlZ.png",
+          "width": 631
+        },
+        {
+          "height": 486,
+          "media_key": "3_1510717917670871044",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcl8SaXEAQ4Zpe.png",
+          "width": 848
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1510735577217384457",
+      "next_token": "b26v89c19zqg8o3fpytl0x76b0s8sq9hvcj5zgi9qi83h",
+      "oldest_id": "1510718307967582218",
+      "result_count": 5
+    }
+  }
+}

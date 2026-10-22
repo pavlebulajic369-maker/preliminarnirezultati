@@ -1,0 +1,332 @@
+{
+  "fetched_at": "2026-10-22T17:44:17.889901Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7ges90bsn3map1kfbwz8m3qyg519"
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275015293526593536"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275015352989212672",
+        "created_at": "2020-06-22T10:38:43.000Z",
+        "edit_history_tweet_ids": [
+          "1275015352989212672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "Izbori2020"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "813381620610854912",
+              "start": 51,
+              "username": "pokretslobodnih"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TO4cqJP63Q",
+              "end": 106,
+              "expanded_url": "https://x.com/CRTArs/status/1275015352989212672/photo/1",
+              "media_key": "3_1275015293526593536",
+              "start": 83,
+              "url": "https://t.co/TO4cqJP63Q"
+            }
+          ]
+        },
+        "id": "1275015352989212672",
+        "text": "Rezultati #Izbori2020\n\nSRS više nije u parlamentu, @pokretslobodnih ispod cenzusa. https://t.co/TO4cqJP63Q"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275014247341330432"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275014360839135241",
+        "created_at": "2020-06-22T10:34:46.000Z",
+        "edit_history_tweet_ids": [
+          "1275014360839135241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wU3qClLh9X",
+              "end": 76,
+              "expanded_url": "https://x.com/CRTArs/status/1275014360839135241/photo/1",
+              "media_key": "3_1275014247341330432",
+              "start": 53,
+              "url": "https://t.co/wU3qClLh9X"
+            }
+          ]
+        },
+        "id": "1275014360839135241",
+        "text": "Rezultati #izbori2020 \n\nSamo tri liste iznad cenzusa https://t.co/wU3qClLh9X"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275013375324454912",
+        "created_at": "2020-06-22T10:30:51.000Z",
+        "edit_history_tweet_ids": [
+          "1275013375324454912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 110,
+              "tag": "izbori2020"
+            }
+          ]
+        },
+        "id": "1275013375324454912",
+        "text": "Ovi izbori Ispunjavaju minimalne demokratske standarde, i nakon njih ćemo imati demokratiju u lošijem stanju. #izbori2020"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275013029646798855",
+        "created_at": "2020-06-22T10:29:29.000Z",
+        "edit_history_tweet_ids": [
+          "1275013029646798855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 243,
+              "start": 232,
+              "tag": "izbori2020"
+            }
+          ]
+        },
+        "id": "1275013029646798855",
+        "text": "U narednim danima ćemo analizirati dokaze i nepravilnosti koje su se događale i u finalnom izveštaju objaviti sve nepravilnosti. Na osnovu prikupljenih dokaza, podnosićemo prijave nadležnim institucijama i o tome obavestiti javnost.#izbori2020"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275012452229484544",
+        "created_at": "2020-06-22T10:27:11.000Z",
+        "edit_history_tweet_ids": [
+          "1275012452229484544"
+        ],
+        "id": "1275012452229484544",
+        "text": "Procenjujemo da bi, bez nepravilnosti koje smo identifikovali, izlaznost bila manja oko 4 procentih poena (oko 45%)."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275012205449265152",
+        "created_at": "2020-06-22T10:26:13.000Z",
+        "edit_history_tweet_ids": [
+          "1275012205449265152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 233,
+              "start": 222,
+              "tag": "izbori2020"
+            }
+          ]
+        },
+        "id": "1275012205449265152",
+        "text": "Na osnovu preliminarne analize izbornog dana procenat biračkih mesta na kojima su zabeležene nepravilnosti i incidenti kreću se u rasponu od 8 do 10 odsto biračkih mesta - duplo više nego na izborima 2016. i 2017. godine. #izbori2020"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275011544515072009",
+        "created_at": "2020-06-22T10:23:35.000Z",
+        "edit_history_tweet_ids": [
+          "1275011544515072009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "KZN"
+            },
+            {
+              "end": 132,
+              "start": 121,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bit.ly/2Cs5l02",
+              "end": 156,
+              "expanded_url": "http://bit.ly/2Cs5l02",
+              "start": 133,
+              "url": "https://t.co/8nJHjrCGpt"
+            }
+          ]
+        },
+        "id": "1275011544515072009",
+        "text": "Počinje #KZN na kojoj predstavljamo preliminarne nalaze monitoringa izbornog dana i ocenu toka glasanja. Pratite live. 👇 #Izbori2020\nhttps://t.co/8nJHjrCGpt"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275004274741837827",
+        "created_at": "2020-06-22T10:16:34.000Z",
+        "edit_history_tweet_ids": [
+          "1275009779002421248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1127709786454278144",
+              "start": 0,
+              "username": "CaptainSensibl7"
+            }
+          ]
+        },
+        "id": "1275009779002421248",
+        "referenced_tweets": [
+          {
+            "id": "1275008821887406081",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@CaptainSensibl7 Poštovani, svesni smo da javnost želi da čuje rezultate što pre, ali sa podacima izlazimo javno onda kada smo sigurni u njihovu tačnost odnosno kada je uzorak dovoljno popunjen."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274290864509063168",
+        "created_at": "2020-06-22T10:04:21.000Z",
+        "edit_history_tweet_ids": [
+          "1275006702681755649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "488776130",
+              "start": 0,
+              "username": "malaJ0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/da-li-je-fanto…",
+              "end": 130,
+              "expanded_url": "https://crta.rs/da-li-je-fantom-glasao-umesto-vas",
+              "start": 107,
+              "url": "https://t.co/D8wsGAZd0B"
+            }
+          ]
+        },
+        "id": "1275006702681755649",
+        "referenced_tweets": [
+          {
+            "id": "1274961618191949826",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@malaJ0 Ovde imate više informacija. Potrebno je poslati RIK-u dopis sa očitanom/skeniranom ličnom kartom. https://t.co/D8wsGAZd0B"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275003952027795456"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275004274741837827",
+        "created_at": "2020-06-22T09:54:42.000Z",
+        "edit_history_tweet_ids": [
+          "1275004274741837827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "KZN"
+            },
+            {
+              "end": 162,
+              "start": 151,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bit.ly/2Cs5l02",
+              "end": 186,
+              "expanded_url": "https://bit.ly/2Cs5l02",
+              "start": 163,
+              "url": "https://t.co/O0DQ8whrXl"
+            },
+            {
+              "display_url": "pic.x.com/dstQkpIZoe",
+              "end": 210,
+              "expanded_url": "https://x.com/CRTArs/status/1275004274741837827/photo/1",
+              "media_key": "3_1275003952027795456",
+              "start": 187,
+              "url": "https://t.co/dstQkpIZoe"
+            }
+          ]
+        },
+        "id": "1275004274741837827",
+        "text": "Uskoro počinje #KZN kojoj ćemo predstaviti preliminarne nalaze o monitoringu izbornog dana i oceniti kako je protekao proces glasanja. Pratite live. 👇 #Izbori2020\nhttps://t.co/O0DQ8whrXl https://t.co/dstQkpIZoe"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 675,
+          "media_key": "3_1275015293526593536",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHDp3XX0AAw69b.png",
+          "width": 1200
+        },
+        {
+          "height": 675,
+          "media_key": "3_1275014247341330432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHCs-BXkAA4JYS.png",
+          "width": 1200
+        },
+        {
+          "height": 1200,
+          "media_key": "3_1275003952027795456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbG5Vs_WAAAPf4u.jpg",
+          "width": 1600
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1275015352989212672",
+      "next_token": "b26v89c19zqg8o3fo7ges900ynm5j2ulo2soxyufw762l",
+      "oldest_id": "1275004274741837827",
+      "result_count": 10
+    }
+  }
+}

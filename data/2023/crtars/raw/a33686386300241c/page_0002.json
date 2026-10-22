@@ -1,0 +1,171 @@
+{
+  "fetched_at": "2026-10-22T16:50:53.743867Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-17T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fr5kfr1kywaor694gg6syg2z8od2t9"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:33.000Z",
+        "edit_history_tweet_ids": [
+          "1736466180125167758"
+        ],
+        "id": "1736466180125167758",
+        "referenced_tweets": [
+          {
+            "id": "1736466178099302406",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Od poslednjeg preseka Crta je podnela još dve prijave zbog izborne korupcije – dakle, ukupno sedam prijava za sada, i to za slučajeve zabeležene na Novom Beogradu, Čukarici, u Odžacima, Vršcu, Malom Iđošu i - poslednje - u Titelu, isped dva BM."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736465838771744768"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736466178099302406",
+        "created_at": "2023-12-17T19:19:33.000Z",
+        "edit_history_tweet_ids": [
+          "1736466178099302406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBbO6qEL8i",
+              "end": 292,
+              "expanded_url": "https://x.com/CRTArs/status/1736466178099302406/photo/1",
+              "media_key": "3_1736465838771744768",
+              "start": 269,
+              "url": "https://t.co/kBbO6qEL8i"
+            }
+          ]
+        },
+        "id": "1736466178099302406",
+        "text": "👉Do 19h na parlamentarne izbore na nivou Srbije izašlo je 55,5% građana sa pravom glasa, dok je  parlamentarne izbore na BM u Beogradu do 19h izašlo je 54,8% birača.\n\n👉To je više nego na izborima 2022. kada je do 19h odziv birača bio 55,1% u Srbiji i 52,2% u Beogradu. https://t.co/kBbO6qEL8i"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736464535672823860",
+        "created_at": "2023-12-17T19:13:01.000Z",
+        "edit_history_tweet_ids": [
+          "1736464425580691538",
+          "1736464535672823860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=Acqva4…",
+              "end": 24,
+              "expanded_url": "https://www.youtube.com/watch?v=Acqva4FQ04w",
+              "start": 1,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?v=Acqva4FQ04w",
+              "url": "https://t.co/DIwAGGid9r"
+            },
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CRTArs/status/1736456734967787757",
+              "start": 25,
+              "url": "https://t.co/k4Ggz25Yzm"
+            }
+          ]
+        },
+        "id": "1736464535672823860",
+        "referenced_tweets": [
+          {
+            "id": "1736456734967787757",
+            "type": "quoted"
+          }
+        ],
+        "text": "👉https://t.co/DIwAGGid9r https://t.co/k4Ggz25Yzm"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736464425580691538",
+        "created_at": "2023-12-17T19:12:35.000Z",
+        "edit_history_tweet_ids": [
+          "1736464425580691538",
+          "1736464535672823860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=Acqva4…",
+              "end": 23,
+              "expanded_url": "https://www.youtube.com/watch?v=Acqva4FQ04w",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?v=Acqva4FQ04w",
+              "url": "https://t.co/DIwAGGid9r"
+            },
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CRTArs/status/1736456734967787757",
+              "start": 25,
+              "url": "https://t.co/k4Ggz25Yzm"
+            }
+          ]
+        },
+        "id": "1736464425580691538",
+        "referenced_tweets": [
+          {
+            "id": "1736456734967787757",
+            "type": "quoted"
+          }
+        ],
+        "text": "https://t.co/DIwAGGid9r👉 https://t.co/k4Ggz25Yzm"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736461552272769289",
+        "created_at": "2023-12-17T19:01:10.000Z",
+        "edit_history_tweet_ids": [
+          "1736461552272769289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "Izbori2023"
+            }
+          ]
+        },
+        "id": "1736461552272769289",
+        "text": "📌Biračka mesta se zatvaraju, počinje brojanje glasova za #Izbori2023"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 675,
+          "media_key": "3_1736465838771744768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBkqeuyXMAA2t2u.png",
+          "width": 1200
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736466180125167758",
+      "next_token": "b26v89c19zqg8o3fr5kfr1kyoqfbv9atcgw7w1d2xa071",
+      "oldest_id": "1736461552272769289",
+      "result_count": 5
+    }
+  }
+}

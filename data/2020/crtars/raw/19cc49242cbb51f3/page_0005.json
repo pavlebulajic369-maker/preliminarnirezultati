@@ -1,0 +1,350 @@
+{
+  "fetched_at": "2026-10-22T17:44:31.179080Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7gedkg6z6p0tu210g4zvcm3ez9ml"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274798882812297217",
+        "created_at": "2020-06-21T21:15:22.000Z",
+        "edit_history_tweet_ids": [
+          "1274813182213832705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "938213947152494592",
+              "start": 0,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 26,
+              "id": "712993922927165441",
+              "start": 16,
+              "username": "psittarch"
+            },
+            {
+              "end": 34,
+              "id": "356450858",
+              "start": 27,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/da-li-je-fanto…",
+              "end": 127,
+              "expanded_url": "https://crta.rs/da-li-je-fantom-glasao-umesto-vas",
+              "start": 104,
+              "url": "https://t.co/D8wsGAZd0B"
+            }
+          ]
+        },
+        "id": "1274813182213832705",
+        "referenced_tweets": [
+          {
+            "id": "1274811908672098306",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@FrauSilovichka @psittarch @avucic Za početak, možete proveriti da li je neko glasao u ime Vaše majke - https://t.co/D8wsGAZd0B"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T21:11:26.000Z",
+        "edit_history_tweet_ids": [
+          "1274812192949444609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729791881849147392",
+              "start": 0,
+              "username": "stefangrf"
+            },
+            {
+              "end": 27,
+              "id": "1212154581804732416",
+              "start": 11,
+              "username": "ElIndio77831877"
+            }
+          ]
+        },
+        "id": "1274812192949444609",
+        "referenced_tweets": [
+          {
+            "id": "1274811463471955968",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@stefangrf @ElIndio77831877 Podaci koje smo objavili baziraju se na 87 odsto obrađenog uzorka. Uzorak je sačinjen od 500 biračkih mesta širom Srbije."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274798882812297217",
+        "created_at": "2020-06-21T21:08:32.000Z",
+        "edit_history_tweet_ids": [
+          "1274811464554106882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "712993922927165441",
+              "start": 0,
+              "username": "psittarch"
+            },
+            {
+              "end": 26,
+              "id": "938213947152494592",
+              "start": 11,
+              "username": "FrauSilovichka"
+            },
+            {
+              "end": 34,
+              "id": "356450858",
+              "start": 27,
+              "username": "avucic"
+            }
+          ]
+        },
+        "id": "1274811464554106882",
+        "referenced_tweets": [
+          {
+            "id": "1274811024596705283",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@psittarch @FrauSilovichka @avucic Postoji jasna procedura glasanja van biračkog mesta, ovo što ste vi opisali uopšte ne izgleda kao regularno glasanje."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274810488384376837",
+        "created_at": "2020-06-21T21:06:23.000Z",
+        "edit_history_tweet_ids": [
+          "1274810921400098816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 14,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274810921400098816",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          }
+        ],
+        "text": "@zuko_mayonez https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274806029411397633",
+        "created_at": "2020-06-21T21:04:16.000Z",
+        "edit_history_tweet_ids": [
+          "1274810389709152256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "54993022",
+              "start": 14,
+              "username": "prijatelj1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 49,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 26,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274810389709152256",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          }
+        ],
+        "text": "@zuko_mayonez @prijatelj1 https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T21:02:36.000Z",
+        "edit_history_tweet_ids": [
+          "1274809971339931649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "828967550767755264",
+              "start": 0,
+              "username": "divet67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 32,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 9,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274809971339931649",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274807940017532935",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@divet67 https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T20:57:40.000Z",
+        "edit_history_tweet_ids": [
+          "1274808728286609409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1212154581804732416",
+              "start": 0,
+              "username": "ElIndio77831877"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 40,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 17,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274808728286609409",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274808569133707267",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ElIndio77831877 https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T20:53:55.000Z",
+        "edit_history_tweet_ids": [
+          "1274807786770235394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 179,
+              "start": 175,
+              "tag": "KZN"
+            }
+          ]
+        },
+        "id": "1274807786770235394",
+        "referenced_tweets": [
+          {
+            "id": "1274807584248209411",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Crta će nastaviti da prikuplja rezultate i podatke u vezi kvaliteta procesa na izborni dan a finalnu projekciju rezultata i ocenu kvaliteta izbornog dana će objaviti sutra na #KZN u 12 časova."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T20:53:07.000Z",
+        "edit_history_tweet_ids": [
+          "1274807584248209411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 199,
+              "start": 188,
+              "tag": "Izbori2020"
+            }
+          ]
+        },
+        "id": "1274807584248209411",
+        "referenced_tweets": [
+          {
+            "id": "1274807242198585346",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Osim manjinskih lista za koje ne važi izborni cenzus od 3 odsto, sve ostale liste, imajući u vidu trenutne procene na osnovu popunjenosti uzorka i marginu greške, ne mogu da pređu cenzus. #Izbori2020"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T20:51:45.000Z",
+        "edit_history_tweet_ids": [
+          "1274807242198585346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 217,
+              "start": 206,
+              "tag": "Izbori2020"
+            }
+          ]
+        },
+        "id": "1274807242198585346",
+        "text": "Na osnovu trenutnog obrađenog uzorka od 87%: \n1. Aleksandar Vučić - Za našu decu preko 58% osvojenih glasova\n2. Koalicija SPS - JS između 9 i 11 %\n3. Aleksandar Šapić - Pobeda za Srbiju između 3,5 i 4,5 %.\n#Izbori2020"
+      }
+    ],
+    "meta": {
+      "newest_id": "1274813182213832705",
+      "next_token": "b26v89c19zqg8o3fo7gedkfwct62lnfcngl68a6du070d",
+      "oldest_id": "1274807242198585346",
+      "result_count": 10
+    }
+  }
+}

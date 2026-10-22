@@ -1,0 +1,292 @@
+{
+  "fetched_at": "2026-10-22T16:54:53.031436Z",
+  "params": {
+    "query": "from:sns_srbija -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-17T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736505811206107136"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1736505841623109652",
+        "created_at": "2023-12-17T21:57:10.000Z",
+        "edit_history_tweet_ids": [
+          "1736505841623109652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 68,
+              "tag": "SrbijaNeSmeDaStane"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "SNS"
+            },
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "Srbija"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "362506556",
+              "start": 53,
+              "username": "milos_vucevic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bZXOkWakY",
+              "end": 124,
+              "expanded_url": "https://x.com/sns_srbija/status/1736505841623109652/photo/1",
+              "media_key": "3_1736505811206107136",
+              "start": 101,
+              "url": "https://t.co/8bZXOkWakY"
+            }
+          ]
+        },
+        "id": "1736505841623109652",
+        "text": "Народе, хвала на подршци! Људи су наша снага! 🇷🇸🇷🇸🇷🇸 @milos_vucevic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/8bZXOkWakY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736504159317143552",
+            "3_1736504957426159616"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1736505133297451187",
+        "created_at": "2023-12-17T21:54:21.000Z",
+        "edit_history_tweet_ids": [
+          "1736505133297451187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "Vucic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "356450858",
+              "start": 47,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "sns.org.rs/novosti/vesti/…",
+              "end": 275,
+              "expanded_url": "https://www.sns.org.rs/novosti/vesti/vucic-apsolutna-vecina-je-na-strani-liste-srbija-ne-sme-da-stane",
+              "start": 252,
+              "url": "https://t.co/UjFNH8dleb"
+            },
+            {
+              "display_url": "pic.x.com/nMUXiIN3Ma",
+              "end": 299,
+              "expanded_url": "https://x.com/sns_srbija/status/1736505133297451187/photo/1",
+              "media_key": "3_1736504159317143552",
+              "start": 276,
+              "url": "https://t.co/nMUXiIN3Ma"
+            },
+            {
+              "display_url": "pic.x.com/nMUXiIN3Ma",
+              "end": 299,
+              "expanded_url": "https://x.com/sns_srbija/status/1736505133297451187/photo/1",
+              "media_key": "3_1736504957426159616",
+              "start": 276,
+              "url": "https://t.co/nMUXiIN3Ma"
+            }
+          ]
+        },
+        "id": "1736505133297451187",
+        "text": "Председник Србије и члан СНС Александар #Vucic @avucic изјавио је, да прелиминарни резултати показују да је највише гласова освојила листа \"Србија не сме да стане\", и додао да људи знају да желимо Србији добро, и зато морамо да наставимо да се боримо. https://t.co/UjFNH8dleb https://t.co/nMUXiIN3Ma"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736499167491399681"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1736499191289905374",
+        "created_at": "2023-12-17T21:30:44.000Z",
+        "edit_history_tweet_ids": [
+          "1736499191289905374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "Vucic"
+            },
+            {
+              "end": 82,
+              "start": 63,
+              "tag": "SrbijaNeSmeDaStane"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "SNS"
+            },
+            {
+              "end": 95,
+              "start": 88,
+              "tag": "Srbija"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "356450858",
+              "start": 55,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SQJBz8Exz",
+              "end": 119,
+              "expanded_url": "https://x.com/sns_srbija/status/1736499191289905374/photo/1",
+              "media_key": "3_1736499167491399681",
+              "start": 96,
+              "url": "https://t.co/2SQJBz8Exz"
+            }
+          ]
+        },
+        "id": "1736499191289905374",
+        "text": "Србијо, хвала на подршци! Живела Србија! 🇷🇸🇷🇸🇷🇸 #Vucic @avucic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/2SQJBz8Exz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736492745387098113"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1736492784155038064",
+        "created_at": "2023-12-17T21:05:16.000Z",
+        "edit_history_tweet_ids": [
+          "1736492784155038064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "Vucic"
+            },
+            {
+              "end": 116,
+              "start": 97,
+              "tag": "SrbijaNeSmeDaStane"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "SNS"
+            },
+            {
+              "end": 129,
+              "start": 122,
+              "tag": "Srbija"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 81,
+              "id": "356450858",
+              "start": 74,
+              "username": "avucic"
+            },
+            {
+              "end": 96,
+              "id": "362506556",
+              "start": 82,
+              "username": "milos_vucevic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5tdGCrOHc",
+              "end": 153,
+              "expanded_url": "https://x.com/sns_srbija/status/1736492784155038064/photo/1",
+              "media_key": "3_1736492745387098113",
+              "start": 130,
+              "url": "https://t.co/V5tdGCrOHc"
+            }
+          ]
+        },
+        "id": "1736492784155038064",
+        "text": "Србијо, хвала на подршци! Ви сте наша снага! Живела Србија! 🇷🇸🇷🇸🇷🇸 #Vucic @avucic @milos_vucevic #SrbijaNeSmeDaStane #SNS #Srbija https://t.co/V5tdGCrOHc"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "3_1736505811206107136",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlO1btXcAA4e6_.jpg",
+          "width": 1080
+        },
+        {
+          "height": 2731,
+          "media_key": "3_1736504159317143552",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlNVR8WMAAS0jh.jpg",
+          "width": 4096
+        },
+        {
+          "height": 2731,
+          "media_key": "3_1736504957426159616",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlODvIXUAAwvnM.jpg",
+          "width": 4096
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736499167491399681",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlIyt8WIAExm_g.jpg",
+          "width": 1080
+        },
+        {
+          "height": 855,
+          "media_key": "3_1736492745387098113",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlC85vXQAEmYWA.jpg",
+          "width": 855
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736505841623109652",
+      "next_token": "b26v89c19zqg8o3fr5kfr1lv3jloeumlk6zu0lazyn7gd",
+      "oldest_id": "1736492784155038064",
+      "result_count": 4
+    }
+  }
+}

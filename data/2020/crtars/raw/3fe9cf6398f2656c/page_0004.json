@@ -1,0 +1,133 @@
+{
+  "fetched_at": "2026-10-22T16:51:49.168634Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-21T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7gedid9hcvsax8boa7hgqeymh4sd"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274771133460615171",
+        "created_at": "2020-06-21T18:28:16.000Z",
+        "edit_history_tweet_ids": [
+          "1274771133460615171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "kzn"
+            },
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "facebook.com/watch/live/?v=…",
+              "end": 49,
+              "expanded_url": "https://www.facebook.com/watch/live/?v=588489555167780&notif_id=1592742502585872&notif_t=live_video_explicit",
+              "start": 26,
+              "url": "https://t.co/FSFsge502P"
+            }
+          ]
+        },
+        "id": "1274771133460615171",
+        "text": "Počinje #kzn. #Izbori2020\nhttps://t.co/FSFsge502P"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274764054502965253",
+        "created_at": "2020-06-21T18:25:24.000Z",
+        "edit_history_tweet_ids": [
+          "1274770411989983233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/CRTArs/status/1274290864509063168",
+              "start": 14,
+              "url": "https://t.co/B85U67bY15"
+            }
+          ]
+        },
+        "id": "1274770411989983233",
+        "referenced_tweets": [
+          {
+            "id": "1274290864509063168",
+            "type": "quoted"
+          },
+          {
+            "id": "1274766802791391233",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Nina97507336 https://t.co/B85U67bY15"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274764054502965253",
+        "created_at": "2020-06-21T18:07:07.000Z",
+        "edit_history_tweet_ids": [
+          "1274765808808464385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2328581142",
+              "start": 0,
+              "username": "novaknajveci"
+            }
+          ]
+        },
+        "id": "1274765808808464385",
+        "referenced_tweets": [
+          {
+            "id": "1274765435188150272",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@novaknajveci Nakon prebrojavanja glasova mi ćemo objaviti konačnu izlaznost i rezultate za parlamentarne izbore."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274764054502965253",
+        "created_at": "2020-06-21T18:00:09.000Z",
+        "edit_history_tweet_ids": [
+          "1274764054502965253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 130,
+              "tag": "Izbori2020"
+            }
+          ]
+        },
+        "id": "1274764054502965253",
+        "text": "Zatvaraju se birališta. Ukoliko se birač zatekao u 20h na ili ispred biračkog mesta, birački odbor je dužan da ga pusti da glasa. #Izbori2020"
+      }
+    ],
+    "meta": {
+      "newest_id": "1274771133460615171",
+      "next_token": "b26v89c19zqg8o3fo7gedicyth5vkmgml34p9q0xsz1j1",
+      "oldest_id": "1274764054502965253",
+      "result_count": 4
+    }
+  }
+}

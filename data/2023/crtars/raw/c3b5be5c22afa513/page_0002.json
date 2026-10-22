@@ -1,0 +1,334 @@
+{
+  "fetched_at": "2026-10-22T17:44:14.163304Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-18T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fr5kfr7xy0jn72s7ngvrtxsca05p4t"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:18:11.000Z",
+        "edit_history_tweet_ids": [
+          "1736722525567000900"
+        ],
+        "id": "1736722525567000900",
+        "referenced_tweets": [
+          {
+            "id": "1736722415747580022",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Takođe, u Beogradu se do kraja dana utrostručio broj mesta na kojima su zabeleženi slučajevi da se neko potpisao u izvod iz biračkog spiska umesto birača, u poređenju sa prvom polovinom dana."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:17:45.000Z",
+        "edit_history_tweet_ids": [
+          "1736722415747580022"
+        ],
+        "id": "1736722415747580022",
+        "referenced_tweets": [
+          {
+            "id": "1736722155281236322",
+            "type": "replied_to"
+          }
+        ],
+        "text": "U popodnevnim i večernjim časovima izbornog dana postojao je jasan trend izrazitog rasta broja slučajeva unapred popunjenih glasačkih listića i nezakonitog prisustva trećih lica na biračkim mestima, posebno u Beogradu."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:16:43.000Z",
+        "edit_history_tweet_ids": [
+          "1736722155281236322"
+        ],
+        "id": "1736722155281236322",
+        "note_tweet": {
+          "text": "Na 5% biračkih mesta za parlamentarne izbore i na 9% biračkih mesta za beogradske izbore zabeležene su nepravilnosti koje su neposredno kompromitovale izborne rezultate na tim biračkim mestima."
+        },
+        "referenced_tweets": [
+          {
+            "id": "1736721897029517632",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Na 5% biračkih mesta za parlamentarne izbore i na 9% biračkih mesta za beogradske izbore zabeležene su nepravilnosti koje su neposredno kompromitovale izborne rezultate na tim biračkim mestima."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736720476573990912"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:15:41.000Z",
+        "edit_history_tweet_ids": [
+          "1736721897029517632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNpiZOKzHm",
+              "end": 273,
+              "expanded_url": "https://x.com/CRTArs/status/1736721897029517632/photo/1",
+              "media_key": "3_1736720476573990912",
+              "start": 250,
+              "url": "https://t.co/BNpiZOKzHm"
+            }
+          ]
+        },
+        "id": "1736721897029517632",
+        "text": "📢 Drastične zloupotrebe prava birača, zakona i institucija eskalirale su na izborni dan.\n\nZbog obima i vrsta izbornih zloupotreba u Beogradu zaključujemo da rezultati beogradskih izbora ne odražavaju slobodno izraženu volju birača koji žive u njemu. https://t.co/BNpiZOKzHm"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721076103622937",
+        "created_at": "2023-12-18T12:12:25.000Z",
+        "edit_history_tweet_ids": [
+          "1736721076103622937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/live/w2l_Rc2Aa…",
+              "end": 25,
+              "expanded_url": "https://www.youtube.com/live/w2l_Rc2AatM?si=QtFJLZDWEkCZK2-2",
+              "start": 2,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/live/w2l_Rc2AatM?si=QtFJLZDWEkCZK2-2",
+              "url": "https://t.co/Y4ah6OoKZf"
+            },
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/CRTArs/status/1736711433302278372",
+              "start": 26,
+              "url": "https://t.co/HD9vBuPxbP"
+            }
+          ]
+        },
+        "id": "1736721076103622937",
+        "referenced_tweets": [
+          {
+            "id": "1736711433302278372",
+            "type": "quoted"
+          }
+        ],
+        "text": "👉 https://t.co/Y4ah6OoKZf https://t.co/HD9vBuPxbP"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736711433302278372",
+        "created_at": "2023-12-18T11:34:06.000Z",
+        "edit_history_tweet_ids": [
+          "1736711433302278372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 166,
+              "tag": "Izbori2023"
+            }
+          ]
+        },
+        "id": "1736711433302278372",
+        "text": "📢U 13h počinje naša konferencija za medije na kojoj ćemo objaviti rezultate izbora i ukupnu ocenu izbornog dana. \n\nPratite uživo na našem sajtu i društvenim mrežama. #Izbori2023"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736548035373441024"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736548054017212677",
+        "created_at": "2023-12-18T00:44:54.000Z",
+        "edit_history_tweet_ids": [
+          "1736547187666903143",
+          "1736548054017212677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuoqPKQp7B",
+              "end": 301,
+              "expanded_url": "https://x.com/CRTArs/status/1736548054017212677/photo/1",
+              "media_key": "3_1736548035373441024",
+              "start": 278,
+              "url": "https://t.co/TuoqPKQp7B"
+            }
+          ]
+        },
+        "id": "1736548054017212677",
+        "note_tweet": {
+          "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se utiče na izbornu volju građana glavnog grada. \n\nZbog toga smatramo da u slučaju Beograda brojevi ne mogu da govore sami za sebe i da ih je potrebno tumačiti u kontekstu intenzivnih nepravilnosti koje su obeležile događanja na biračkim mestima, ali i na prostoru između njih, od Arene do Zmaja i dalje."
+        },
+        "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se https://t.co/TuoqPKQp7B"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736547187666903143",
+        "created_at": "2023-12-18T00:41:27.000Z",
+        "edit_history_tweet_ids": [
+          "1736547187666903143",
+          "1736548054017212677"
+        ],
+        "id": "1736547187666903143",
+        "note_tweet": {
+          "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se utiče na izbornu volju građana glavnog grada. \n\nZbog toga smatramo da u slučaju Beograda brojevi ne mogu da govore sami za sebe i da ih je potrebno tumačiti u kontekstu intenzivnih nepravilnosti koje su obeležile događanja na biračkim mestima, ali i na prostoru između njih, od Arene do Zmaja i dalje."
+        },
+        "text": "‼️ Projekciju rezultata beogradskih izbora saopštićemo na konferenciji za medije u ponedeljak, 18.12. u 13 sati, kada ćemo objaviti i ukupnu ocenu izbornog dana. \n\nProblemi koji su obeležili 17. decembar bili su posebno izraženi u Beogradu i prvenstveno izazvani potrebom da se"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736525634933829633",
+            "3_1736525647189508096",
+            "3_1736525661928370176"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736526322761883686",
+        "created_at": "2023-12-17T23:18:33.000Z",
+        "edit_history_tweet_ids": [
+          "1736526322761883686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crta.rs/na-parlamentar…",
+              "end": 176,
+              "expanded_url": "https://crta.rs/na-parlamentarnim-izborima-lista-srbija-ne-sme-da-stane-469-srbija-protiv-nasilja-231/",
+              "start": 153,
+              "url": "https://t.co/5DH8kMLrKR"
+            },
+            {
+              "display_url": "pic.x.com/t4qGOk1V8b",
+              "end": 200,
+              "expanded_url": "https://x.com/CRTArs/status/1736526322761883686/photo/1",
+              "media_key": "3_1736525634933829633",
+              "start": 177,
+              "url": "https://t.co/t4qGOk1V8b"
+            },
+            {
+              "display_url": "pic.x.com/t4qGOk1V8b",
+              "end": 200,
+              "expanded_url": "https://x.com/CRTArs/status/1736526322761883686/photo/1",
+              "media_key": "3_1736525647189508096",
+              "start": 177,
+              "url": "https://t.co/t4qGOk1V8b"
+            },
+            {
+              "display_url": "pic.x.com/t4qGOk1V8b",
+              "end": 200,
+              "expanded_url": "https://x.com/CRTArs/status/1736526322761883686/photo/1",
+              "media_key": "3_1736525661928370176",
+              "start": 177,
+              "url": "https://t.co/t4qGOk1V8b"
+            }
+          ]
+        },
+        "id": "1736526322761883686",
+        "text": "📢Izlaznost, na osnovu 95 odsto obrađenog uzorka na parlamentarnim izborima, iznosi 59,1%.\n\nProjekcija rezultata izbora na osnovu 95% obrađenog uzorka 👇👇\nhttps://t.co/5DH8kMLrKR https://t.co/t4qGOk1V8b"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736503021335371776"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736503158015156295",
+        "created_at": "2023-12-17T21:46:30.000Z",
+        "edit_history_tweet_ids": [
+          "1736503158015156295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "izbori2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMwMaPNhQn",
+              "end": 72,
+              "expanded_url": "https://x.com/CRTArs/status/1736503158015156295/photo/1",
+              "media_key": "3_1736503021335371776",
+              "start": 49,
+              "url": "https://t.co/GMwMaPNhQn"
+            }
+          ]
+        },
+        "id": "1736503158015156295",
+        "text": "Velika biračka mesta još se broje... #izbori2023 https://t.co/GMwMaPNhQn"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 675,
+          "media_key": "3_1736720476573990912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBoSEmhXAAAKAh-.png",
+          "width": 1200
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736548035373441024",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBl1PM_WIAAW2Nu.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736525634933829633",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlg3U2XMAEkQmB.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736525647189508096",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlg4CgWAAAmo6U.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736525661928370176",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlg45aXMAASaPU.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736503021335371776",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBlMTCoWYAAZwVQ.png",
+          "width": 1920
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736722525567000900",
+      "next_token": "b26v89c19zqg8o3fr5kfr3nw6ij20jz7w4y8lddqjg7el",
+      "oldest_id": "1736503158015156295",
+      "result_count": 10
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "fetched_at": "2026-10-22T17:44:05.948211Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-18T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736777030450982912"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736777365282328944",
+        "created_at": "2023-12-18T15:56:06.000Z",
+        "edit_history_tweet_ids": [
+          "1736777365282328944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBGv6SRsEI",
+              "end": 149,
+              "expanded_url": "https://x.com/CRTArs/status/1736777365282328944/photo/1",
+              "media_key": "3_1736777030450982912",
+              "start": 126,
+              "url": "https://t.co/FBGv6SRsEI"
+            }
+          ]
+        },
+        "id": "1736777365282328944",
+        "text": "Hvala na hrabrosti, odgovornosti, energiji i istrajnosti - naravno našim posmatračicama i posmatračima, najboljim na svetu. 💪 https://t.co/FBGv6SRsEI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736730412741791744"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736730484737024433",
+        "created_at": "2023-12-18T12:49:51.000Z",
+        "edit_history_tweet_ids": [
+          "1736730493222088941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1ebwy9BU8",
+              "end": 70,
+              "expanded_url": "https://x.com/CRTArs/status/1736730493222088941/photo/1",
+              "media_key": "3_1736730412741791744",
+              "start": 47,
+              "url": "https://t.co/A1ebwy9BU8"
+            }
+          ]
+        },
+        "id": "1736730493222088941",
+        "referenced_tweets": [
+          {
+            "id": "1736730489866670440",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Rezultati beogradskih izbora na punom uzorku 👇 https://t.co/A1ebwy9BU8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736730024969994240"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1736730484737024433",
+        "created_at": "2023-12-18T12:49:50.000Z",
+        "edit_history_tweet_ids": [
+          "1736730489866670440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmbgwBXdMv",
+              "end": 73,
+              "expanded_url": "https://x.com/CRTArs/status/1736730489866670440/photo/1",
+              "media_key": "3_1736730024969994240",
+              "start": 50,
+              "url": "https://t.co/WmbgwBXdMv"
+            }
+          ]
+        },
+        "id": "1736730489866670440",
+        "referenced_tweets": [
+          {
+            "id": "1736730487316529316",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Rezultati parlamentarnih izbora na punom uzorku 👇 https://t.co/WmbgwBXdMv"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736730484737024433",
+        "created_at": "2023-12-18T12:49:49.000Z",
+        "edit_history_tweet_ids": [
+          "1736730487316529316"
+        ],
+        "id": "1736730487316529316",
+        "referenced_tweets": [
+          {
+            "id": "1736730484737024433",
+            "type": "replied_to"
+          }
+        ],
+        "text": "👉 Zbog obima i vrsta izbornih zloupotreba u Beogradu zaključujemo da rezultati beogradskih izbora ne odražavaju slobodno izraženu volju birača koji žive u njemu. 👇"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736730484737024433",
+        "created_at": "2023-12-18T12:49:49.000Z",
+        "edit_history_tweet_ids": [
+          "1736730484737024433"
+        ],
+        "id": "1736730484737024433",
+        "text": "‼️Drastične zloupotrebe prava birača, zakona i institucija eskalirale su na izborni dan.\n\n Izražavamo veliku zabrinutost u odnosu na kvalitet parlamentarnih izbora, odnosno njihovo udaljavanje od standarda za slobodne i poštene izbore."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:42:19.000Z",
+        "edit_history_tweet_ids": [
+          "1736728597631521051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crta.rs/preliminarna-o…",
+              "end": 77,
+              "expanded_url": "https://crta.rs/preliminarna-ocena-izbornog-dana/",
+              "start": 54,
+              "status": 200,
+              "unwound_url": "https://crta.rs/preliminarna-ocena-izbornog-dana/",
+              "url": "https://t.co/p9cAUlT21W"
+            }
+          ]
+        },
+        "id": "1736728597631521051",
+        "text": "Celo saopštenje o preliminarnoj oceni izbornog dana 👇\nhttps://t.co/p9cAUlT21W"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:21:11.000Z",
+        "edit_history_tweet_ids": [
+          "1736723281317662849"
+        ],
+        "id": "1736723281317662849",
+        "referenced_tweets": [
+          {
+            "id": "1736723020964651092",
+            "type": "replied_to"
+          }
+        ],
+        "text": "‼️ Rezultati beogradskih izbora ostaće sporni u slučaju da izostane odlučna reakcija institucija u pravcu identifikovanja konkretnih osoba i mehanizama putem kojih su vršene koruptivne radnje u cilju preoblikovanja izborne volje građana."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:20:09.000Z",
+        "edit_history_tweet_ids": [
+          "1736723020964651092"
+        ],
+        "id": "1736723020964651092",
+        "note_tweet": {
+          "text": "Izborna kampanja koja je prethodila ovakvom danu odvijala se u ambijentu izrazitih neravnopravnosti u korist vladajuće koalicije i kontinuirane zloupotrebe institucija države Srbije kao kanala za sticanje nepoštenih prednosti i vođenje negativne kampanje protiv političkih protivnika, čime je obrisana linija između države i političke stranke."
+        },
+        "text": "Izborna kampanja koja je prethodila ovakvom danu odvijala se u ambijentu izrazitih neravnopravnosti u korist vladajuće koalicije i kontinuirane zloupotrebe institucija države Srbije kao kanala za sticanje nepoštenih prednosti i vođenje negativne kampanje protiv političkih"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:19:25.000Z",
+        "edit_history_tweet_ids": [
+          "1736722835685454088"
+        ],
+        "id": "1736722835685454088",
+        "text": "❗️Pod ovakvim uslovima legitimitet svakih narednih lokalnih izbora biće pod istom sumnjom ukoliko se institucije ne angažuju u cilju utvrđivanja istine i odgovornosti za kršenje i izigravanje zakona i urušavanje integriteta izbora."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1736721897029517632",
+        "created_at": "2023-12-18T12:18:40.000Z",
+        "edit_history_tweet_ids": [
+          "1736722647591838077"
+        ],
+        "id": "1736722647591838077",
+        "note_tweet": {
+          "text": "Biračka mesta su zatvorena u okolnostima zabrinjavajućeg porasta broja slučajeva vođenja paralelne evidencije unutar i izvan biračkog mesta, organizovanog dovođenja birača, sumnjivog kruženja automobila oko biračkih mesta… \n\nIzborni dan je bio takođe obeležen povredama tajnosti glasanja i neproveravanjem identiteta birača."
+        },
+        "referenced_tweets": [
+          {
+            "id": "1736722525567000900",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Biračka mesta su zatvorena u okolnostima zabrinjavajućeg porasta broja slučajeva vođenja paralelne evidencije unutar i izvan biračkog mesta, organizovanog dovođenja birača, sumnjivog kruženja automobila oko biračkih mesta… \n\nIzborni dan je bio takođe obeležen povredama tajnosti"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 675,
+          "media_key": "3_1736777030450982912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBpFgeIWsAADxWf.png",
+          "width": 1200
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736730412741791744",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBobG9oXkAAFjjU.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736730024969994240",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBoawZEXgAAjPfY.png",
+          "width": 1920
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736777365282328944",
+      "next_token": "b26v89c19zqg8o3fr5kfr7xy0jn72s7ngvrtxsca05p4t",
+      "oldest_id": "1736722647591838077",
+      "result_count": 10
+    }
+  }
+}

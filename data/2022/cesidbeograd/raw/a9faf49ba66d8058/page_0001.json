@@ -1,0 +1,284 @@
+{
+  "fetched_at": "2026-10-22T17:43:20.156146Z",
+  "params": {
+    "query": "from:cesidbeograd -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-04T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511031974613377026",
+        "created_at": "2022-04-04T19:34:14.000Z",
+        "edit_history_tweet_ids": [
+          "1511064619787378696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "82414572",
+              "start": 0,
+              "username": "bogdan313"
+            }
+          ]
+        },
+        "id": "1511064619787378696",
+        "text": "@bogdan313 Preostalo su nevažeći glasački listići."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1511064567027228680"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1511064571586523144",
+        "created_at": "2022-04-04T19:34:02.000Z",
+        "edit_history_tweet_ids": [
+          "1511064571586523144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "RIK"
+            },
+            {
+              "end": 152,
+              "start": 141,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYaAGVbb72",
+              "end": 176,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1511064571586523144/photo/1",
+              "media_key": "3_1511064567027228680",
+              "start": 153,
+              "url": "https://t.co/LYaAGVbb72"
+            }
+          ]
+        },
+        "id": "1511064571586523144",
+        "text": "[🗳IZBORI 2022🗳]\n\n#RIK je na večerašnjoj sednici usvojio i odluku o utvrđivanju preliminarnih rezultata za izbora za predsednika republike. \n\n#izbori2022 https://t.co/LYaAGVbb72"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1511060325642256388"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1511060336501211147",
+        "created_at": "2022-04-04T19:17:13.000Z",
+        "edit_history_tweet_ids": [
+          "1511060336501211147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "RIK"
+            },
+            {
+              "end": 136,
+              "start": 125,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWdCeoRgor",
+              "end": 160,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1511060336501211147/photo/1",
+              "media_key": "3_1511060325642256388",
+              "start": 137,
+              "url": "https://t.co/pWdCeoRgor"
+            }
+          ]
+        },
+        "id": "1511060336501211147",
+        "text": "[🗳IZBORI 2022🗳]\n\n#RIK je na večerašnjoj sednici usvojio odluku o utvrđivanju preliminarnih rezultata za narodne poslanike. \n\n#izbori2022 https://t.co/pWdCeoRgor"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511057360822939650",
+        "created_at": "2022-04-04T19:05:23.000Z",
+        "edit_history_tweet_ids": [
+          "1511057360822939650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cesid.rs/izbori-2022/iz…",
+              "end": 203,
+              "expanded_url": "http://www.cesid.rs/izbori-2022/izbori-se-za-bolje-izbore-zastita-izbornog-prava/",
+              "start": 180,
+              "url": "https://t.co/qciZfbJdPK"
+            }
+          ]
+        },
+        "id": "1511057360822939650",
+        "text": "Sve o procedurama, rokovima i koracima za zaštitu izbornog prava - šta da radite i kome da se obratite ako ste sprečeni da glasate ili ako vam je narušena sloboda/tajnost glasa ⬇️\nhttps://t.co/qciZfbJdPK"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511031974613377026",
+        "created_at": "2022-04-04T17:24:32.000Z",
+        "edit_history_tweet_ids": [
+          "1511031980066062338"
+        ],
+        "id": "1511031980066062338",
+        "referenced_tweets": [
+          {
+            "id": "1511031978463801345",
+            "type": "replied_to"
+          }
+        ],
+        "text": "9.Nemanja Šarović - Za sav normalan svet: 0,57%,(0 mandata)\n10.SUVERENISTI: 2,13%,(0 mandata)\n11. Boško Obradović - Srpski pokret DVERI - POKS: 3,40%,(4 mandata)\n12.Ruski manjinski savez za Beograd: 0,43%,(0 mandata)"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511031974613377026",
+        "created_at": "2022-04-04T17:24:31.000Z",
+        "edit_history_tweet_ids": [
+          "1511031978463801345"
+        ],
+        "id": "1511031978463801345",
+        "referenced_tweets": [
+          {
+            "id": "1511031976836411395",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5.Vladeta Janković-Ujedinjeni za pobedu Beograda:21,20%,(26 mandata)\n6.Dr Miloš Jovanović - NADA ZA BEOGRAD:6,28%,(7 mandata)\n7.MORAMO-ZA DOBAR GRAD - Ne davimo Beograd:10,75%,(13 mandata)\n8.Duško Vujošević - Boris Tadić - Ajmo ljudi: 2,81%,(0 mandata)"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511031974613377026",
+        "created_at": "2022-04-04T17:24:31.000Z",
+        "edit_history_tweet_ids": [
+          "1511031976836411395"
+        ],
+        "id": "1511031976836411395",
+        "referenced_tweets": [
+          {
+            "id": "1511031974613377026",
+            "type": "replied_to"
+          }
+        ],
+        "text": "1.Aleksandar Vučić-Zajedno možemo sve: 38,15% (48 mandata)\n2.Ivica Dačić-Premijer Srbije, Toma Fila-Gradonačelnik Beograda:7,01% (8 mandata)\n3.Dr Vojislav Šešelj-Srpska radikalna stranka:1,63,(0 mandata)\n4.Milica Đurđević Stamenkovski-Srpska stranka Zavetnici: 3,52,(4 mandata)"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1511031974613377026",
+        "created_at": "2022-04-04T17:24:31.000Z",
+        "edit_history_tweet_ids": [
+          "1511031974613377026"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "GIK"
+            }
+          ]
+        },
+        "id": "1511031974613377026",
+        "text": "[IZBORI BEOGRAD 2022]\n\n#GIK je na večerašnjoj sednici usvojio predlog Izveštaja o preliminarnim rezultatima izbora za odbornike Skupštine grada Beograda održanih 3.aprila 2022. godine."
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1510920112391528448",
+        "created_at": "2022-04-04T10:25:15.000Z",
+        "edit_history_tweet_ids": [
+          "1510926464165855234"
+        ],
+        "id": "1510926464165855234",
+        "referenced_tweets": [
+          {
+            "id": "1510920112391528448",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Projekcija ne ukljljučuje Kosovo i Metohiju, zavode za izvršenje krivičnih sankcija i dijasporu."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510923026673639425"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1510923079077216258",
+        "created_at": "2022-04-04T10:11:48.000Z",
+        "edit_history_tweet_ids": [
+          "1510923079077216258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 52,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUtRwRuHNH",
+              "end": 87,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1510923079077216258/photo/1",
+              "media_key": "3_1510923026673639425",
+              "start": 64,
+              "url": "https://t.co/tUtRwRuHNH"
+            }
+          ]
+        },
+        "id": "1510923079077216258",
+        "text": "Projekcija raspodele mandata u Narodnoj skupštini.  #izbori2022 https://t.co/tUtRwRuHNH"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1024,
+          "media_key": "3_1511064567027228680",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPhhN75WYAg6dSe.jpg",
+          "width": 768
+        },
+        {
+          "height": 2048,
+          "media_key": "3_1511060325642256388",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPhdXDgXwAQi680.jpg",
+          "width": 1536
+        },
+        {
+          "height": 441,
+          "media_key": "3_1510923026673639425",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPfgfM_XIAEdPeV.jpg",
+          "width": 938
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1511064619787378696",
+      "next_token": "b26v89c19zqg8o3fpytl11gx6ic15nx60ay658vfd94e5",
+      "oldest_id": "1510923079077216258",
+      "result_count": 10
+    }
+  }
+}

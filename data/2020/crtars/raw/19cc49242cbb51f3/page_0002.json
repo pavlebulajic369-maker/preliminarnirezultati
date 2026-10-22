@@ -1,0 +1,402 @@
+{
+  "fetched_at": "2026-10-22T17:44:08.514898Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7ges90x8wx8ha9lqvuecv1txxrwd"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275024490918002688",
+        "created_at": "2020-06-22T11:42:44.000Z",
+        "edit_history_tweet_ids": [
+          "1275031464921489417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "17896613",
+              "start": 0,
+              "username": "Ptiki"
+            }
+          ]
+        },
+        "id": "1275031464921489417",
+        "referenced_tweets": [
+          {
+            "id": "1275024490918002688",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Ptiki Mi objavljujemo rezultate i izlaznost na osnovu informacija sa uzorka - 500 biračkih mesta. Informacije o procentu osvojenih glasova i o izlaznosti birača uvek idu zajedno."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275030149961056256",
+        "created_at": "2020-06-22T11:37:31.000Z",
+        "edit_history_tweet_ids": [
+          "1275030149961056256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Izbori2020"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 150,
+              "id": "19492719",
+              "start": 142,
+              "username": "rasaned"
+            }
+          ]
+        },
+        "id": "1275030149961056256",
+        "text": "#Izbori2020 bili su najlošiji od svih koje je CRTA posmatrala i to se odnosi i na izborni dan i, još više, na ceo izborni proces – izjavio je @rasaned. Rezultati nisu lažirani, ali je sporan način na koji je volja birača oblikovana."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275020463954149379",
+        "created_at": "2020-06-22T11:22:18.000Z",
+        "edit_history_tweet_ids": [
+          "1275026322939613185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "328953004",
+              "start": 0,
+              "username": "kafa_s_mlekom"
+            }
+          ]
+        },
+        "id": "1275026322939613185",
+        "referenced_tweets": [
+          {
+            "id": "1275020463954149379",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@kafa_s_mlekom Mi objavljujemo izlaznost i rezultate samo za parlamentarne izbore."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275012452229484544",
+        "created_at": "2020-06-22T10:53:53.000Z",
+        "edit_history_tweet_ids": [
+          "1275019170116259841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4186623153",
+              "start": 0,
+              "username": "javorkaf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 34,
+              "expanded_url": "https://x.com/CRTArs/status/1275006702681755649",
+              "start": 11,
+              "url": "https://t.co/NZAk6xDHKR"
+            }
+          ]
+        },
+        "id": "1275019170116259841",
+        "referenced_tweets": [
+          {
+            "id": "1275006702681755649",
+            "type": "quoted"
+          },
+          {
+            "id": "1275018138736832512",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@javorkaf .https://t.co/NZAk6xDHKR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275018635640217602",
+            "3_1275018656091602945"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275018957607575552",
+        "created_at": "2020-06-22T10:53:02.000Z",
+        "edit_history_tweet_ids": [
+          "1275018957607575552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHISuJmJdM",
+              "end": 72,
+              "expanded_url": "https://x.com/CRTArs/status/1275018957607575552/photo/1",
+              "media_key": "3_1275018635640217602",
+              "start": 49,
+              "url": "https://t.co/BHISuJmJdM"
+            },
+            {
+              "display_url": "pic.x.com/BHISuJmJdM",
+              "end": 72,
+              "expanded_url": "https://x.com/CRTArs/status/1275018957607575552/photo/1",
+              "media_key": "3_1275018656091602945",
+              "start": 49,
+              "url": "https://t.co/BHISuJmJdM"
+            }
+          ]
+        },
+        "id": "1275018957607575552",
+        "text": "Rezultati #Izbori2020 \n\nČak devet lista ispod 1% https://t.co/BHISuJmJdM"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274806574821842944",
+        "created_at": "2020-06-22T10:47:31.000Z",
+        "edit_history_tweet_ids": [
+          "1275017566751272960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "949792019311943680",
+              "start": 0,
+              "username": "CDooka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 81,
+              "expanded_url": "https://x.com/CRTArs/status/1275016940386484242",
+              "start": 58,
+              "url": "https://t.co/rkditpvItu"
+            }
+          ]
+        },
+        "id": "1275017566751272960",
+        "referenced_tweets": [
+          {
+            "id": "1275016940386484242",
+            "type": "quoted"
+          },
+          {
+            "id": "1275010289923227651",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@CDooka U poslednja dva sata glasalo je 7,2 odsto birača. https://t.co/rkditpvItu"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275014360839135241",
+        "created_at": "2020-06-22T10:46:17.000Z",
+        "edit_history_tweet_ids": [
+          "1275017256011993088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1371785125",
+              "start": 0,
+              "username": "BiljanaMarusic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 39,
+              "expanded_url": "https://x.com/CRTArs/status/1275015905072816128",
+              "start": 16,
+              "url": "https://t.co/vicYGfRH7g"
+            }
+          ]
+        },
+        "id": "1275017256011993088",
+        "referenced_tweets": [
+          {
+            "id": "1275015905072816128",
+            "type": "quoted"
+          },
+          {
+            "id": "1275015087011618818",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@BiljanaMarusic https://t.co/vicYGfRH7g"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1275014360839135241",
+        "created_at": "2020-06-22T10:45:51.000Z",
+        "edit_history_tweet_ids": [
+          "1275017147136258048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1100930658",
+              "start": 0,
+              "username": "javimisesutra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 38,
+              "expanded_url": "https://x.com/CRTArs/status/1275015905072816128",
+              "start": 15,
+              "url": "https://t.co/vicYGfRH7g"
+            }
+          ]
+        },
+        "id": "1275017147136258048",
+        "referenced_tweets": [
+          {
+            "id": "1275015905072816128",
+            "type": "quoted"
+          },
+          {
+            "id": "1275016974066757634",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@javimisesutra https://t.co/vicYGfRH7g"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275016751366000640"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275016940386484242",
+        "created_at": "2020-06-22T10:45:01.000Z",
+        "edit_history_tweet_ids": [
+          "1275016940386484242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 40,
+              "tag": "izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmSH1eveUj",
+              "end": 125,
+              "expanded_url": "https://x.com/CRTArs/status/1275016940386484242/photo/1",
+              "media_key": "3_1275016751366000640",
+              "start": 102,
+              "url": "https://t.co/dmSH1eveUj"
+            }
+          ]
+        },
+        "id": "1275016940386484242",
+        "text": "Kretanje izlaznosti tokom izbornog dana #izbori2020 \n\nU poslednja 2 sata glasalo je 7,2 odsto birača. https://t.co/dmSH1eveUj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1275015651900510218"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1275015905072816128",
+        "created_at": "2020-06-22T10:40:55.000Z",
+        "edit_history_tweet_ids": [
+          "1275015905072816128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DkFnTQf1PT",
+              "end": 71,
+              "expanded_url": "https://x.com/CRTArs/status/1275015905072816128/photo/1",
+              "media_key": "3_1275015651900510218",
+              "start": 48,
+              "url": "https://t.co/DkFnTQf1PT"
+            }
+          ]
+        },
+        "id": "1275015905072816128",
+        "text": "Izlaznost #Izbori2020\n\n2020 - 49%\n\n2016 - 56.7% https://t.co/DkFnTQf1PT"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 675,
+          "media_key": "3_1275018635640217602",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHGsZtWoAIUn6i.png",
+          "width": 1200
+        },
+        {
+          "height": 675,
+          "media_key": "3_1275018656091602945",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHGtl5WAAE7COv.png",
+          "width": 1200
+        },
+        {
+          "height": 675,
+          "media_key": "3_1275016751366000640",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHE-uPX0AAU-0k.png",
+          "width": 1200
+        },
+        {
+          "height": 675,
+          "media_key": "3_1275015651900510218",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbHD-uaX0Ao657y.png",
+          "width": 1200
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1275031464921489417",
+      "next_token": "b26v89c19zqg8o3fo7ges90bsn3map1kfbwz8m3qyg519",
+      "oldest_id": "1275015905072816128",
+      "result_count": 10
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "fetched_at": "2026-10-22T17:43:31.632317Z",
+  "params": {
+    "query": "from:cesidbeograd -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7ges90bypldxwbw7gblrhfqudcal"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275019934939189248",
+        "created_at": "2020-06-22T10:56:56.000Z",
+        "edit_history_tweet_ids": [
+          "1275019938047102977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 252,
+              "id": "4104497902",
+              "start": 236,
+              "username": "RTS_Predstavlja"
+            },
+            {
+              "end": 264,
+              "id": "226951255",
+              "start": 254,
+              "username": "AJBalkans"
+            }
+          ]
+        },
+        "id": "1275019938047102977",
+        "text": "Posebnu zahvalnost dugujemo @IpsosSerbia, sa kojima smo organizovali PVT i objavljivali procene izlaznosti i izbornih rezultata u izbornoj noći, kao i našim medijskim partnerima u objavljivanju procena izlaznosti i izbornih rezultata - @RTS_Predstavlja, @AJBalkans i @AMG_Srbija."
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275019934939189248",
+        "created_at": "2020-06-22T10:56:55.000Z",
+        "edit_history_tweet_ids": [
+          "1275019934939189248"
+        ],
+        "id": "1275019934939189248",
+        "text": "Zahvaljujemo se našim posmatračima, saradnicima i stručnom timu na vrednom, profesionalnom i odgovornom radu, posebno u toku izbornog dana. ⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1274980034709729283",
+        "created_at": "2020-06-22T08:18:59.000Z",
+        "edit_history_tweet_ids": [
+          "1274980186073726976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4405540702",
+              "start": 0,
+              "username": "MarkovicDusica2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CeSIDBeograd/s…",
+              "end": 40,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274810342326046721?s=19",
+              "start": 17,
+              "url": "https://t.co/ruURSy5GPZ"
+            }
+          ]
+        },
+        "id": "1274980186073726976",
+        "text": "@MarkovicDusica2 https://t.co/ruURSy5GPZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274826586479628289"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274826608956837895",
+        "created_at": "2020-06-21T22:08:43.000Z",
+        "edit_history_tweet_ids": [
+          "1274826608956837895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzhnESJG0s",
+              "end": 76,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274826608956837895/photo/1",
+              "media_key": "3_1274826586479628289",
+              "start": 53,
+              "url": "https://t.co/CzhnESJG0s"
+            }
+          ]
+        },
+        "id": "1274826608956837895",
+        "text": "Raspodela mandata na osnovu 93,4% realizacije uzorka https://t.co/CzhnESJG0s"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274817609767231491"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274817636006846465",
+        "created_at": "2020-06-21T21:33:04.000Z",
+        "edit_history_tweet_ids": [
+          "1274817636006846465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0OCdrtd4Q",
+              "end": 91,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274817636006846465/photo/1",
+              "media_key": "3_1274817609767231491",
+              "start": 68,
+              "url": "https://t.co/E0OCdrtd4Q"
+            }
+          ]
+        },
+        "id": "1274817636006846465",
+        "text": "Procena rezultata na 91,1% realizacije uzorka\n\nNevažeći listići: 4% https://t.co/E0OCdrtd4Q"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1274813379941732358",
+        "created_at": "2020-06-21T21:20:36.000Z",
+        "edit_history_tweet_ids": [
+          "1274814500814966786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "917421243015581697",
+              "start": 0,
+              "username": "KatarinaDmitro3"
+            },
+            {
+              "end": 24,
+              "id": "2543288485",
+              "start": 17,
+              "username": "CRTArs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CeSIDBeograd/s…",
+              "end": 48,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274810342326046721",
+              "start": 25,
+              "url": "https://t.co/rfgfoFgiTo"
+            }
+          ]
+        },
+        "id": "1274814500814966786",
+        "referenced_tweets": [
+          {
+            "id": "1274810342326046721",
+            "type": "quoted"
+          },
+          {
+            "id": "1274813379941732358",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@KatarinaDmitro3 @CRTArs https://t.co/rfgfoFgiTo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274811741751390208"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274811761041051649",
+        "created_at": "2020-06-21T21:09:43.000Z",
+        "edit_history_tweet_ids": [
+          "1274811761041051649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgmj02VXoJ",
+              "end": 69,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274811761041051649/photo/1",
+              "media_key": "3_1274811741751390208",
+              "start": 46,
+              "url": "https://t.co/wgmj02VXoJ"
+            }
+          ]
+        },
+        "id": "1274811761041051649",
+        "text": "Procena rezultata na 87,4% realizacije uzorka https://t.co/wgmj02VXoJ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274804712659914752"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274810342326046721",
+        "created_at": "2020-06-21T21:04:05.000Z",
+        "edit_history_tweet_ids": [
+          "1274810342326046721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouTZb2dUeL",
+              "end": 150,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274810342326046721/photo/1",
+              "media_key": "3_1274804712659914752",
+              "start": 127,
+              "url": "https://t.co/ouTZb2dUeL"
+            }
+          ]
+        },
+        "id": "1274810342326046721",
+        "text": "Procena izlaznosti u 20h (bez Kosova i Metohije, zavoda za izvršenje krivičnih sankcija i dijaspore) na 87% realizacije uzorka https://t.co/ouTZb2dUeL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274798150541357059"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274798166576189443",
+        "created_at": "2020-06-21T20:15:42.000Z",
+        "edit_history_tweet_ids": [
+          "1274798166576189443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZfG151i7C",
+              "end": 69,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274798166576189443/photo/1",
+              "media_key": "3_1274798150541357059",
+              "start": 46,
+              "url": "https://t.co/MZfG151i7C"
+            }
+          ]
+        },
+        "id": "1274798166576189443",
+        "text": "Procena rezultata na 75,5% realizacije uzorka https://t.co/MZfG151i7C"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274789033743450115"
+          ]
+        },
+        "author_id": "829251286650519553",
+        "conversation_id": "1274789282079703047",
+        "created_at": "2020-06-21T19:40:23.000Z",
+        "edit_history_tweet_ids": [
+          "1274789282079703047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4LQLhkSMF",
+              "end": 69,
+              "expanded_url": "https://x.com/CeSIDBeograd/status/1274789282079703047/photo/1",
+              "media_key": "3_1274789033743450115",
+              "start": 46,
+              "url": "https://t.co/q4LQLhkSMF"
+            }
+          ]
+        },
+        "id": "1274789282079703047",
+        "text": "Procena rezultata na 63.9% realizacije uzorka https://t.co/q4LQLhkSMF"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 812,
+          "media_key": "3_1274826586479628289",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEYBq1XkAEvXD7.jpg",
+          "width": 1088
+        },
+        {
+          "height": 1029,
+          "media_key": "3_1274817609767231491",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEP3J-WoAMe4n5.jpg",
+          "width": 1098
+        },
+        {
+          "height": 1029,
+          "media_key": "3_1274811741751390208",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEKhl6WsAAaIrC.jpg",
+          "width": 1098
+        },
+        {
+          "height": 589,
+          "media_key": "3_1274804712659914752",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEEIcgWkAAOUWD.jpg",
+          "width": 1026
+        },
+        {
+          "height": 1029,
+          "media_key": "3_1274798150541357059",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbD-KetXsAM0OXX.jpg",
+          "width": 1098
+        },
+        {
+          "height": 1095,
+          "media_key": "3_1274789033743450115",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbD13z_XgAMi7qA.jpg",
+          "width": 1054
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1275019938047102977",
+      "next_token": "b26v89c19zqg8o3fo7gedidklxgdmzmqq8hfewse3ewe5",
+      "oldest_id": "1274789282079703047",
+      "result_count": 10
+    }
+  }
+}

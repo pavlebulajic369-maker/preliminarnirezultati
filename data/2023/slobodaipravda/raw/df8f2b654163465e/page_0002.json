@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-22T17:46:06.961887Z",
+  "params": {
+    "query": "from:slobodaipravda -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-18T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fr5kfr3pp36z4dxz40zlbmbvkw9859"
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1736541606826672128"
+          ]
+        },
+        "author_id": "1098237214083956736",
+        "conversation_id": "1736541942396133520",
+        "created_at": "2023-12-18T00:20:37.000Z",
+        "edit_history_tweet_ids": [
+          "1736541942396133520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WswaFiCpLI",
+              "end": 188,
+              "expanded_url": "https://x.com/SlobodaIPravda/status/1736541942396133520/video/1",
+              "media_key": "13_1736541606826672128",
+              "start": 165,
+              "url": "https://t.co/WswaFiCpLI"
+            }
+          ]
+        },
+        "id": "1736541942396133520",
+        "text": "Potpuno je jasno da su u Beogradu stranke opozicije dobile više glasova od stranka koje su dosada u prestonici predstavljale vlast! Branićemo izbornu volju građana! https://t.co/WswaFiCpLI"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "13_1736541606826672128",
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1736541606826672128/img/V3NRhBwak-s01e8A.jpg",
+          "type": "video",
+          "width": 1920
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736541942396133520",
+      "next_token": "b26v89c19zqg8o3fr5kfr3p398hmnu645o5ksk0mn0xod",
+      "oldest_id": "1736541942396133520",
+      "result_count": 1
+    }
+  }
+}

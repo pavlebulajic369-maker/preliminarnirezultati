@@ -1,0 +1,206 @@
+{
+  "fetched_at": "2026-10-22T17:43:18.656466Z",
+  "params": {
+    "query": "from:cesidbeograd -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:28.000Z",
+        "edit_history_tweet_ids": [
+          "1275083239997296643"
+        ],
+        "id": "1275083239997296643",
+        "referenced_tweets": [
+          {
+            "id": "1275083238176952326",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️U skladu sa zakonom, odluke u vezi sa pritužbama/predstavkama upućenim RIKu i Agenciji za borbu protiv korupcije,  blagovremeno su objavljene na internet prezentacijama ovih tela\n➡️Pitanje međunarodnih i domaćih posmatrača još uvek nije uređeno zakonom, protivno preporukama."
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:28.000Z",
+        "edit_history_tweet_ids": [
+          "1275083238176952326"
+        ],
+        "id": "1275083238176952326",
+        "referenced_tweets": [
+          {
+            "id": "1275083236528599040",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️Nadzorni odbor i REM ostali su pasivni u nadzoru ponašanja medija tokom izborne kampanje\n➡️U završnoj fazi kampanje, REM je brzo reagovao i naložio prekid emitovanja nekoliko političkih oglasnih poruka - spot vladajuće stranke i još jedan koji promoviše bojkot izbora.\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:28.000Z",
+        "edit_history_tweet_ids": [
+          "1275083236528599040"
+        ],
+        "id": "1275083236528599040",
+        "referenced_tweets": [
+          {
+            "id": "1275083234766970880",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️Regulatorni okvir za finansiranje kampanje ne obezbeđuje\ntransparentno finansiranje kampanje i efektivan nadzor\n➡️Većina TV kanala sa nac. frekvencijom i štampanih medija promovišu politike Vlade, dok drugi imaju ograničenu pokrivenost i ne obezbeđuju efikasnu protivtežu\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:27.000Z",
+        "edit_history_tweet_ids": [
+          "1275083234766970880"
+        ],
+        "id": "1275083234766970880",
+        "referenced_tweets": [
+          {
+            "id": "1275083233110220801",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️Uočeno preplitanje SNS kampanje sa medijskim izveštavanjem o odgovorima predsednika i vlade na COVID-\n19 krizu. Predsednikova paralelna uloga predsednika SNS-a i nominalnog nosioca izborne liste još je više doprinela zamagljivanju linije između zvanične funkcije i kampanje\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:27.000Z",
+        "edit_history_tweet_ids": [
+          "1275083233110220801"
+        ],
+        "id": "1275083233110220801",
+        "referenced_tweets": [
+          {
+            "id": "1275083231667290119",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️MDULS je tokom 2019. uložio napore da izbriše zastarele i duple unose, ali nepoverenje građana u birački spisak ostaje nerešeno pitanje\n➡️Izborna kampanje je bila niskog intenziteta, aktivnija u tradicionalnim medijima i na društvenim mrežama\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:26.000Z",
+        "edit_history_tweet_ids": [
+          "1275083231667290119"
+        ],
+        "id": "1275083231667290119",
+        "referenced_tweets": [
+          {
+            "id": "1275083230069358593",
+            "type": "replied_to"
+          }
+        ],
+        "text": "➡️Uvedena je eksplicitna zabrana i dodatna pojašnjenja oko zloupotrebe državnih resursa, što je propraćeno Vladinom kampanjom, ali ostaje zabrinutost zbog nedovoljne primene\n➡️RIK je posao radio efikasno, javno i inkluzivno, u zakonskim rokovima, uprkos kratkim rokovima\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T15:08:26.000Z",
+        "edit_history_tweet_ids": [
+          "1275083230069358593"
+        ],
+        "id": "1275083230069358593",
+        "referenced_tweets": [
+          {
+            "id": "1275072801037156363",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Ključni nalazi:\n➡️Efikasno sprovedeni izbori, ali uz zabrinjavajuću dominantnu ulogu vladajuće stranke, posebno u medijima\n➡️ Nakon okončanja vanrednog stanja, učesnici su mogli slobodno da sprovode kampanju, poštovane su osnovne slobode izražavanja i okupljanja\n⬇️"
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275072801037156363",
+        "created_at": "2020-06-22T14:27:00.000Z",
+        "edit_history_tweet_ids": [
+          "1275072801037156363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "376097854",
+              "start": 3,
+              "username": "osce_odihr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "osce.org/files/f/docume…",
+              "end": 133,
+              "expanded_url": "https://www.osce.org/files/f/documents/d/f/455164.pdf",
+              "start": 110,
+              "url": "https://t.co/fdO9hRbMIh"
+            }
+          ]
+        },
+        "id": "1275072801037156363",
+        "text": "📢📢\n@osce_odihr Specijalna misija za procenu izbora objavila je Izjavu o preliminarnim nalazima i zaključcima:\nhttps://t.co/fdO9hRbMIh\n\nFinalni izveštaj biće pripremljen za oko dva meseca."
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1274817636006846465",
+        "created_at": "2020-06-22T12:08:15.000Z",
+        "edit_history_tweet_ids": [
+          "1275037886791004160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1245071579903676417",
+              "start": 0,
+              "username": "Digitalproeng"
+            }
+          ]
+        },
+        "id": "1275037886791004160",
+        "referenced_tweets": [
+          {
+            "id": "1275003229919752192",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Digitalproeng Poštovani, procenat nevažećih glasova koji je samo stavljen kao napomena. Ne treba ih sabirati sa procentima u grafikonu."
+      },
+      {
+        "author_id": "829251286650519553",
+        "conversation_id": "1275019934939189248",
+        "created_at": "2020-06-22T10:56:57.000Z",
+        "edit_history_tweet_ids": [
+          "1275019941033455626"
+        ],
+        "id": "1275019941033455626",
+        "referenced_tweets": [
+          {
+            "id": "1275019938047102977",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Ovom prilikom zahvaljujemo i redakcijama i medijima koji su profesionalno izveštavali sa naših konferencija za štampu.\n\nZahvaljujemo se i Vama što ste nas pratili i slali nam sve važne informacije sa terena, čime ste nam pomogli da bolje sagledamo ceo izborni proces."
+      }
+    ],
+    "meta": {
+      "newest_id": "1275083239997296643",
+      "next_token": "b26v89c19zqg8o3fo7ges90bypldxwbw7gblrhfqudcal",
+      "oldest_id": "1275019941033455626",
+      "result_count": 10
+    }
+  }
+}

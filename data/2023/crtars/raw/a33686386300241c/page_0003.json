@@ -1,0 +1,19 @@
+{
+  "fetched_at": "2026-10-22T16:51:11.669451Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-17T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fr5kfr1kyoqfbv9atcgw7w1d2xa071"
+  },
+  "response": {
+    "meta": {
+      "result_count": 0
+    }
+  }
+}

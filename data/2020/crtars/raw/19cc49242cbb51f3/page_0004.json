@@ -1,0 +1,413 @@
+{
+  "fetched_at": "2026-10-22T17:44:26.075054Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fo7ges900ynm5j2ulo2soxyufw762l"
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274986467648045057",
+        "created_at": "2020-06-22T09:18:27.000Z",
+        "edit_history_tweet_ids": [
+          "1274995155284754435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crta.rs/vazeci-i-nevaz…",
+              "end": 180,
+              "expanded_url": "https://crta.rs/vazeci-i-nevazeci-glasacki-listici/",
+              "start": 157,
+              "url": "https://t.co/JdWwwTXVzP"
+            }
+          ]
+        },
+        "id": "1274995155284754435",
+        "referenced_tweets": [
+          {
+            "id": "1274986467648045057",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@greatjakuza Ovo je važeći listić pošto se može jasno utvrditi za koga je birač glasao. Na našem sajtu možete pogledati primere važećih i nevažećih listića: https://t.co/JdWwwTXVzP"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274980584482365441",
+        "created_at": "2020-06-22T09:13:27.000Z",
+        "edit_history_tweet_ids": [
+          "1274993895403859971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "869837929",
+              "start": 0,
+              "username": "micin_taja"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/izlaznost-na-p…",
+              "end": 89,
+              "expanded_url": "https://crta.rs/izlaznost-na-parlamentarnim-izborima-izmedju-48-i-49-odsto-manje-nego-2016-godine",
+              "start": 66,
+              "url": "https://t.co/faCBJ0Hnnx"
+            }
+          ]
+        },
+        "id": "1274993895403859971",
+        "referenced_tweets": [
+          {
+            "id": "1274980584482365441",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@micin_taja Izlaznost i preliminarne rezultate smo objavili sinoć https://t.co/faCBJ0Hnnx"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274806574821842944",
+        "created_at": "2020-06-21T22:30:28.000Z",
+        "edit_history_tweet_ids": [
+          "1274832082930458624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4825065657",
+              "start": 0,
+              "username": "Liki_Twiki"
+            }
+          ]
+        },
+        "id": "1274832082930458624",
+        "referenced_tweets": [
+          {
+            "id": "1274831614342766599",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Liki_Twiki Zabeležili smo, hvala na info."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274821612676808705",
+        "created_at": "2020-06-21T22:29:55.000Z",
+        "edit_history_tweet_ids": [
+          "1274831942970720256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "796760863264952320",
+              "start": 0,
+              "username": "nkaonikica"
+            },
+            {
+              "end": 25,
+              "id": "873170994776637440",
+              "start": 12,
+              "username": "savski_nasip"
+            },
+            {
+              "end": 38,
+              "id": "280504244",
+              "start": 26,
+              "username": "RaulLaranga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 62,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 39,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274831942970720256",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274831492309540866",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@nkaonikica @savski_nasip @RaulLaranga https://t.co/udnaKW9OxR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274818550180581376"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1274601122108526592",
+        "created_at": "2020-06-21T21:48:03.000Z",
+        "edit_history_tweet_ids": [
+          "1274821407038410752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 68,
+              "tag": "Izbori2020"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 214,
+              "id": "905465755",
+              "start": 203,
+              "username": "FabriziSem"
+            },
+            {
+              "end": 228,
+              "id": "803918197661507584",
+              "start": 216,
+              "username": "OSCE_Serbia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoEAovNMM7",
+              "end": 252,
+              "expanded_url": "https://x.com/CRTArs/status/1274821407038410752/photo/1",
+              "media_key": "3_1274818550180581376",
+              "start": 229,
+              "url": "https://t.co/CoEAovNMM7"
+            }
+          ]
+        },
+        "id": "1274821407038410752",
+        "referenced_tweets": [
+          {
+            "id": "1274818213742874624",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Čast nam je da su nam se na prijemu povodom završetka izbornog dana #Izbori2020 pridružili g. Sam Fabrizi, ambasador EU, g. Andrea Orizio, šef Misije OEBS-a, i Thomas Schieb, ambasador Nemačke u Srbiji. @FabriziSem  @OSCE_Serbia https://t.co/CoEAovNMM7"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274807242198585346",
+        "created_at": "2020-06-21T21:41:44.000Z",
+        "edit_history_tweet_ids": [
+          "1274819820308107265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943505457330704388",
+              "start": 0,
+              "username": "draganpanic63"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 38,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 15,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274819820308107265",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274815156623749127",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@draganpanic63 https://t.co/udnaKW9OxR"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274806327718694912",
+        "created_at": "2020-06-21T21:41:13.000Z",
+        "edit_history_tweet_ids": [
+          "1274819689814929408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "237057341",
+              "start": 12,
+              "username": "RadovanN87"
+            },
+            {
+              "end": 33,
+              "id": "4870766271",
+              "start": 24,
+              "username": "BoraKonj"
+            },
+            {
+              "end": 47,
+              "id": "3369253000",
+              "start": 34,
+              "username": "BalkanUtopia"
+            }
+          ]
+        },
+        "id": "1274819689814929408",
+        "referenced_tweets": [
+          {
+            "id": "1274816436524003329",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Ksenija76o @RadovanN87 @BoraKonj @BalkanUtopia Zabeležili smo ovaj snimak i prosledili našem pravnom timu. Hvala na informaciji."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274818193496985600",
+        "created_at": "2020-06-21T21:38:41.000Z",
+        "edit_history_tweet_ids": [
+          "1274819052469465093"
+        ],
+        "id": "1274819052469465093",
+        "referenced_tweets": [
+          {
+            "id": "1274818193496985600",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@downtownbeg Poštovana, zatvorena su sva birališta. O kvalitetu izbornog procesa i nepravilnostima tokom izbornog dana ćemo više govoriti sutra na konferenciji za novinare u 12h."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274818057974747138"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1274601122108526592",
+        "created_at": "2020-06-21T21:35:21.000Z",
+        "edit_history_tweet_ids": [
+          "1274818213742874624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "Izbori2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXN5QNwhOK",
+              "end": 116,
+              "expanded_url": "https://x.com/CRTArs/status/1274818213742874624/photo/1",
+              "media_key": "3_1274818057974747138",
+              "start": 93,
+              "url": "https://t.co/rXN5QNwhOK"
+            }
+          ]
+        },
+        "id": "1274818213742874624",
+        "referenced_tweets": [
+          {
+            "id": "1274742594455646210",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Rezultate #Izbori2020 čekali smo u društvu G. Junichia Maruyame, ambasadora Japana u Srbiji. https://t.co/rXN5QNwhOK"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1274813379941732358",
+        "created_at": "2020-06-21T21:16:54.000Z",
+        "edit_history_tweet_ids": [
+          "1274813568060399616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "917421243015581697",
+              "start": 0,
+              "username": "KatarinaDmitro3"
+            },
+            {
+              "end": 30,
+              "id": "829251286650519553",
+              "start": 17,
+              "username": "CeSIDBeograd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CRTArs/status/…",
+              "end": 54,
+              "expanded_url": "https://x.com/CRTArs/status/1274806574821842944",
+              "start": 31,
+              "url": "https://t.co/udnaKW9OxR"
+            }
+          ]
+        },
+        "id": "1274813568060399616",
+        "referenced_tweets": [
+          {
+            "id": "1274806574821842944",
+            "type": "quoted"
+          },
+          {
+            "id": "1274813379941732358",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@KatarinaDmitro3 @CeSIDBeograd https://t.co/udnaKW9OxR"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 2000,
+          "media_key": "3_1274818550180581376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEQt5SXkAATpxL.jpg",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "media_key": "3_1274818057974747138",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbEQRPrWkAI9DvE.jpg",
+          "width": 3000
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1274995155284754435",
+      "next_token": "b26v89c19zqg8o3fo7gedkg6z6p0tu210g4zvcm3ez9ml",
+      "oldest_id": "1274813568060399616",
+      "result_count": 10
+    }
+  }
+}

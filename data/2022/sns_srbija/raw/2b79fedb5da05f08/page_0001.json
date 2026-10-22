@@ -1,0 +1,132 @@
+{
+  "fetched_at": "2026-10-22T17:46:21.512265Z",
+  "params": {
+    "query": "from:sns_srbija -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-04T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1510752092788510725"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1510752295096573961",
+        "created_at": "2022-04-03T22:53:10.000Z",
+        "edit_history_tweet_ids": [
+          "1510752295096573961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "Vucic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "356450858",
+              "start": 31,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0rC93FOzM",
+              "end": 62,
+              "expanded_url": "https://x.com/sns_srbija/status/1510752295096573961/video/1",
+              "media_key": "7_1510752092788510725",
+              "start": 39,
+              "url": "https://t.co/V0rC93FOzM"
+            }
+          ]
+        },
+        "id": "1510752295096573961",
+        "text": "Хвала, Србијо! 🇷🇸❤️🇷🇸   #Vucic @avucic https://t.co/V0rC93FOzM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510742970995298304"
+          ]
+        },
+        "author_id": "245540045",
+        "conversation_id": "1510745100393005056",
+        "created_at": "2022-04-03T22:24:34.000Z",
+        "edit_history_tweet_ids": [
+          "1510745100393005056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "Vucic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "356450858",
+              "start": 29,
+              "username": "avucic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "sns.org.rs/novosti/vesti/…",
+              "end": 265,
+              "expanded_url": "https://www.sns.org.rs/novosti/vesti/vucic-postaracu-se-da-srbija-nastavi-da-napreduje",
+              "start": 242,
+              "url": "https://t.co/FJeDdVwgDs"
+            },
+            {
+              "display_url": "pic.x.com/BJD6sQSZuu",
+              "end": 289,
+              "expanded_url": "https://x.com/sns_srbija/status/1510745100393005056/photo/1",
+              "media_key": "3_1510742970995298304",
+              "start": 266,
+              "url": "https://t.co/BJD6sQSZuu"
+            }
+          ]
+        },
+        "id": "1510745100393005056",
+        "text": "Председник Александар #Vucic @avucic је рекао да је задовољан што су грађани изашли у толиком броју и потврдили демократску природу српског друштва, и додао да жели да се настави модернизација наше земље, као и да се сачува мир и стабилност. https://t.co/FJeDdVwgDs https://t.co/BJD6sQSZuu"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "7_1510752092788510725",
+          "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1510752092788510725/pu/img/6xxCUZBIe2gn08hX.jpg",
+          "type": "video",
+          "width": 1920
+        },
+        {
+          "height": 1698,
+          "media_key": "3_1510742970995298304",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPc8ulUX0AAgmfl.jpg",
+          "width": 2829
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1510752295096573961",
+      "next_token": "b26v89c19zqg8o3fpytl0x82jqm4m6m1lkogkwqehcj99",
+      "oldest_id": "1510745100393005056",
+      "result_count": 2
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "fetched_at": "2026-10-22T16:58:50.921723Z",
+  "params": {
+    "query": "from:miikialeksic -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-21T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "2591230740",
+        "conversation_id": "1274789795768696834",
+        "created_at": "2020-06-21T19:48:02.000Z",
+        "edit_history_tweet_ids": [
+          "1274791203821834241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "528471643",
+              "start": 0,
+              "username": "dietrologia_"
+            }
+          ]
+        },
+        "id": "1274791203821834241",
+        "referenced_tweets": [
+          {
+            "id": "1274789795768696834",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@dietrologia_ A izlaznost?"
+      },
+      {
+        "author_id": "2591230740",
+        "conversation_id": "1274789123988107264",
+        "created_at": "2020-06-21T19:39:46.000Z",
+        "edit_history_tweet_ids": [
+          "1274789123988107264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "2543288485",
+              "start": 54,
+              "username": "CRTArs"
+            },
+            {
+              "end": 75,
+              "id": "829251286650519553",
+              "start": 62,
+              "username": "CeSIDBeograd"
+            }
+          ]
+        },
+        "id": "1274789123988107264",
+        "text": "Pre smo saznali rezultate nego procenat izlaznosti....@CRTArs @CeSIDBeograd"
+      }
+    ],
+    "meta": {
+      "newest_id": "1274791203821834241",
+      "next_token": "b26v89c19zqg8o3fo7gedidklx8imv6vhfi1fgxp7nhj1",
+      "oldest_id": "1274789123988107264",
+      "result_count": 2
+    }
+  }
+}

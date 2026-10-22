@@ -1,0 +1,403 @@
+{
+  "fetched_at": "2026-10-22T17:44:11.490337Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-04T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fpytl0x82ob4epvfr2h21ll6x773p9"
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510747861625016320",
+            "3_1510747868432375815",
+            "3_1510747873994059786"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510747898912415748",
+        "created_at": "2022-04-03T22:35:42.000Z",
+        "edit_history_tweet_ids": [
+          "1510747898912415748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 10,
+              "tag": "parlamentarni"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEvwFZk63q",
+              "end": 61,
+              "expanded_url": "https://x.com/CRTArs/status/1510747898912415748/photo/1",
+              "media_key": "3_1510747861625016320",
+              "start": 38,
+              "url": "https://t.co/GEvwFZk63q"
+            },
+            {
+              "display_url": "pic.x.com/GEvwFZk63q",
+              "end": 61,
+              "expanded_url": "https://x.com/CRTArs/status/1510747898912415748/photo/1",
+              "media_key": "3_1510747868432375815",
+              "start": 38,
+              "url": "https://t.co/GEvwFZk63q"
+            },
+            {
+              "display_url": "pic.x.com/GEvwFZk63q",
+              "end": 61,
+              "expanded_url": "https://x.com/CRTArs/status/1510747898912415748/photo/1",
+              "media_key": "3_1510747873994059786",
+              "start": 38,
+              "url": "https://t.co/GEvwFZk63q"
+            }
+          ]
+        },
+        "id": "1510747898912415748",
+        "text": "Rezultati #parlamentarni #izbori2022. https://t.co/GEvwFZk63q"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510745846677127169",
+        "created_at": "2022-04-03T22:27:32.000Z",
+        "edit_history_tweet_ids": [
+          "1510745846677127169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 142,
+              "tag": "Izbori2022"
+            }
+          ]
+        },
+        "id": "1510745846677127169",
+        "text": "Posmatračka misija Crte će u ponedeljak u 13 sati održati konferenciju za medije na kojoj će dati preliminarnu ocenu kvaliteta izbornog dana. #Izbori2022"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510745160820432896",
+        "created_at": "2022-04-03T22:24:49.000Z",
+        "edit_history_tweet_ids": [
+          "1510745160820432896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 137,
+              "tag": "Izbori2022"
+            }
+          ]
+        },
+        "id": "1510745160820432896",
+        "text": "I dalje obrađujemo podatke za Beograd i očekujemo da ćemo projekcije rezultata objaviti u toku noći. Pratite naš sajt i društvene mreže. #Izbori2022"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510740570632769547",
+        "created_at": "2022-04-03T22:06:34.000Z",
+        "edit_history_tweet_ids": [
+          "1510740570632769547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "facebook.com/CRTArs/videos/…",
+              "end": 55,
+              "expanded_url": "https://www.facebook.com/CRTArs/videos/1201030817311924",
+              "start": 32,
+              "url": "https://t.co/z9oAJCIeCk"
+            }
+          ]
+        },
+        "id": "1510740570632769547",
+        "text": "Pratite KZN live. #izbori2022 \n\nhttps://t.co/z9oAJCIeCk"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510732125095477262",
+        "created_at": "2022-04-03T21:37:13.000Z",
+        "edit_history_tweet_ids": [
+          "1510733183570038805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "512849625",
+              "start": 0,
+              "username": "marija_antic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vujoilic/statu…",
+              "end": 66,
+              "expanded_url": "https://x.com/vujoilic/status/1510705706957258762",
+              "start": 43,
+              "url": "https://t.co/nqpLJxg9k9"
+            }
+          ]
+        },
+        "id": "1510733183570038805",
+        "referenced_tweets": [
+          {
+            "id": "1510705706957258762",
+            "type": "quoted"
+          },
+          {
+            "id": "1510732125095477262",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@marija_antic Još obrađujemo podatke.    \n\nhttps://t.co/nqpLJxg9k9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510722381576351746"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510724054164119567",
+        "created_at": "2022-04-03T21:00:59.000Z",
+        "edit_history_tweet_ids": [
+          "1510724065258004488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLw7XABhua",
+              "end": 23,
+              "expanded_url": "https://x.com/CRTArs/status/1510724065258004488/photo/1",
+              "media_key": "3_1510722381576351746",
+              "start": 0,
+              "url": "https://t.co/gLw7XABhua"
+            }
+          ]
+        },
+        "id": "1510724065258004488",
+        "referenced_tweets": [
+          {
+            "id": "1510724059461476358",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/gLw7XABhua"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510722341659193351"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510724054164119567",
+        "created_at": "2022-04-03T21:00:58.000Z",
+        "edit_history_tweet_ids": [
+          "1510724059461476358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGvPVOH9g3",
+              "end": 23,
+              "expanded_url": "https://x.com/CRTArs/status/1510724059461476358/photo/1",
+              "media_key": "3_1510722341659193351",
+              "start": 0,
+              "url": "https://t.co/WGvPVOH9g3"
+            }
+          ]
+        },
+        "id": "1510724059461476358",
+        "referenced_tweets": [
+          {
+            "id": "1510724054164119567",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/WGvPVOH9g3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510722232645038085"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510724054164119567",
+        "created_at": "2022-04-03T21:00:57.000Z",
+        "edit_history_tweet_ids": [
+          "1510724054164119567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvNozgjcjO",
+              "end": 288,
+              "expanded_url": "https://x.com/CRTArs/status/1510724054164119567/photo/1",
+              "media_key": "3_1510722232645038085",
+              "start": 265,
+              "url": "https://t.co/gvNozgjcjO"
+            }
+          ]
+        },
+        "id": "1510724054164119567",
+        "text": "Prebrojavanje glasova na biračkim mestima u Beogradu dugo traje. S obzirom da ona čine veliki deo našeg uzorka za Srbiju, nećemo izlaziti u javnost sa projekcijama izlaznosti i rezultatima za predsedničke i parlamentarne izbore dok nam ne stignu podaci sa BM u BG. https://t.co/gvNozgjcjO"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510720070108033026",
+        "created_at": "2022-04-03T20:47:42.000Z",
+        "edit_history_tweet_ids": [
+          "1510720723102404609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "769901442870181888",
+              "start": 0,
+              "username": "Lula196971"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vujoilic/statu…",
+              "end": 65,
+              "expanded_url": "https://x.com/vujoilic/status/1510705706957258762",
+              "start": 42,
+              "url": "https://t.co/nqpLJxg9k9"
+            }
+          ]
+        },
+        "id": "1510720723102404609",
+        "referenced_tweets": [
+          {
+            "id": "1510705706957258762",
+            "type": "quoted"
+          },
+          {
+            "id": "1510720070108033026",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Lula196971 Još uvek obrađujemo podatke.\n\nhttps://t.co/nqpLJxg9k9"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510718192645246991",
+        "created_at": "2022-04-03T20:39:19.000Z",
+        "edit_history_tweet_ids": [
+          "1510718613694603269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "821550379",
+              "start": 0,
+              "username": "darkocitic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vujoilic/statu…",
+              "end": 63,
+              "expanded_url": "https://x.com/vujoilic/status/1510705706957258762",
+              "start": 40,
+              "url": "https://t.co/nqpLJxg9k9"
+            }
+          ]
+        },
+        "id": "1510718613694603269",
+        "referenced_tweets": [
+          {
+            "id": "1510705706957258762",
+            "type": "quoted"
+          },
+          {
+            "id": "1510718192645246991",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@darkocitic U toku je obrada podataka.\n\nhttps://t.co/nqpLJxg9k9"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "3_1510747861625016320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPdBLQVXEAAya7Z.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510747868432375815",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPdBLpsXIAc3vAv.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510747873994059786",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPdBL-aXsAogVCw.png",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510722381576351746",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcqAHwXMAI3gIg.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510722341659193351",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcp9zDXsAcWZcr.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510722232645038085",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcp3c8XsAUEWs7.png",
+          "width": 1920
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1510747898912415748",
+      "next_token": "b26v89c19zqg8o3fpytl0x76b1fbfw1v2bxs4exljr1q5",
+      "oldest_id": "1510718613694603269",
+      "result_count": 10
+    }
+  }
+}

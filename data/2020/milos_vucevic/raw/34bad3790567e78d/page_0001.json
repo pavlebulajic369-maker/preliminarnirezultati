@@ -1,0 +1,109 @@
+{
+  "fetched_at": "2026-10-22T17:45:20.031233Z",
+  "params": {
+    "query": "from:milos_vucevic -is:retweet",
+    "start_time": "2020-06-21T18:00:00Z",
+    "end_time": "2020-06-22T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1274863381137240064",
+            "3_1274863385306415115",
+            "3_1274863391622995969",
+            "3_1274863397411139586"
+          ]
+        },
+        "author_id": "362506556",
+        "conversation_id": "1274863403841073153",
+        "created_at": "2020-06-22T00:34:55.000Z",
+        "edit_history_tweet_ids": [
+          "1274863403841073153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRRiU18HBn",
+              "end": 169,
+              "expanded_url": "https://x.com/VucevicM/status/1274863403841073153/photo/1",
+              "media_key": "3_1274863381137240064",
+              "start": 146,
+              "url": "https://t.co/FRRiU18HBn"
+            },
+            {
+              "display_url": "pic.x.com/FRRiU18HBn",
+              "end": 169,
+              "expanded_url": "https://x.com/VucevicM/status/1274863403841073153/photo/1",
+              "media_key": "3_1274863385306415115",
+              "start": 146,
+              "url": "https://t.co/FRRiU18HBn"
+            },
+            {
+              "display_url": "pic.x.com/FRRiU18HBn",
+              "end": 169,
+              "expanded_url": "https://x.com/VucevicM/status/1274863403841073153/photo/1",
+              "media_key": "3_1274863391622995969",
+              "start": 146,
+              "url": "https://t.co/FRRiU18HBn"
+            },
+            {
+              "display_url": "pic.x.com/FRRiU18HBn",
+              "end": 169,
+              "expanded_url": "https://x.com/VucevicM/status/1274863403841073153/photo/1",
+              "media_key": "3_1274863397411139586",
+              "start": 146,
+              "url": "https://t.co/FRRiU18HBn"
+            }
+          ]
+        },
+        "id": "1274863403841073153",
+        "text": "Нови Сад остаје у сигурним рукама. Од 197 обрађених на 109 бирачких места, СНС је освојио 56,52 одсто. На прошлим изборима смо имали 40,05 одсто. https://t.co/FRRiU18HBn"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 759,
+          "media_key": "3_1274863381137240064",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbE5fZnWsAACqRG.jpg",
+          "width": 1080
+        },
+        {
+          "height": 745,
+          "media_key": "3_1274863385306415115",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbE5fpJXQAsh1NX.jpg",
+          "width": 1080
+        },
+        {
+          "height": 720,
+          "media_key": "3_1274863391622995969",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbE5gArWoAEDdSw.jpg",
+          "width": 1079
+        },
+        {
+          "height": 810,
+          "media_key": "3_1274863397411139586",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/EbE5gWPWsAIW-Gf.jpg",
+          "width": 1080
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1274863403841073153",
+      "next_token": "b26v89c19zqg8o3fo7gedkhoxbcmt796d4ek5sph059bx",
+      "oldest_id": "1274863403841073153",
+      "result_count": 1
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-10-22T16:59:41.657954Z",
+  "params": {
+    "query": "from:narodnipokrets -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-17T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736513680055902500",
+        "created_at": "2023-12-17T22:28:18.000Z",
+        "edit_history_tweet_ids": [
+          "1736513680055902500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/live/cHyb3NoAq…",
+              "end": 33,
+              "expanded_url": "https://www.youtube.com/live/cHyb3NoAqX0?si=OvAQ81FZrZV9ftUR",
+              "start": 10,
+              "url": "https://t.co/yJfSyZHxuw"
+            }
+          ]
+        },
+        "id": "1736513680055902500",
+        "text": "UŽIVO ⬇️\n\nhttps://t.co/yJfSyZHxuw"
+      }
+    ],
+    "meta": {
+      "newest_id": "1736513680055902500",
+      "next_token": "b26v89c19zqg8o3fr5kfr3o6yyz1noou56c8ixz9aowot",
+      "oldest_id": "1736513680055902500",
+      "result_count": 1
+    }
+  }
+}

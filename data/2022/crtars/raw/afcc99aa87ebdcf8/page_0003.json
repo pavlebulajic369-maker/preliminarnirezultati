@@ -1,0 +1,382 @@
+{
+  "fetched_at": "2026-10-22T17:44:20.364710Z",
+  "params": {
+    "query": "from:crtars -is:retweet",
+    "start_time": "2022-04-03T18:00:00Z",
+    "end_time": "2022-04-04T22:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10,
+    "next_token": "b26v89c19zqg8o3fpytl0x76b1fbfw1v2bxs4exljr1q5"
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510704420249554953"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510705155351756803",
+        "created_at": "2022-04-03T19:45:54.000Z",
+        "edit_history_tweet_ids": [
+          "1510705169360633863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLunyJg7sY",
+              "end": 23,
+              "expanded_url": "https://x.com/CRTArs/status/1510705169360633863/photo/1",
+              "media_key": "3_1510704420249554953",
+              "start": 0,
+              "url": "https://t.co/XLunyJg7sY"
+            }
+          ]
+        },
+        "id": "1510705169360633863",
+        "referenced_tweets": [
+          {
+            "id": "1510705160632381447",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/XLunyJg7sY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510704222945357827"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510705155351756803",
+        "created_at": "2022-04-03T19:45:52.000Z",
+        "edit_history_tweet_ids": [
+          "1510705160632381447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKZ5Hx61V8",
+              "end": 23,
+              "expanded_url": "https://x.com/CRTArs/status/1510705160632381447/photo/1",
+              "media_key": "3_1510704222945357827",
+              "start": 0,
+              "url": "https://t.co/dKZ5Hx61V8"
+            }
+          ]
+        },
+        "id": "1510705160632381447",
+        "referenced_tweets": [
+          {
+            "id": "1510705155351756803",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/dKZ5Hx61V8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510704181530832898"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510705155351756803",
+        "created_at": "2022-04-03T19:45:51.000Z",
+        "edit_history_tweet_ids": [
+          "1510705155351756803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "Izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNc5zxmebY",
+              "end": 62,
+              "expanded_url": "https://x.com/CRTArs/status/1510705155351756803/photo/1",
+              "media_key": "3_1510704181530832898",
+              "start": 39,
+              "url": "https://t.co/LNc5zxmebY"
+            }
+          ]
+        },
+        "id": "1510705155351756803",
+        "text": "Kako pristižu podaci #Izbori2022? ⬇️⬇️ https://t.co/LNc5zxmebY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510698528124903430"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510698894216384513",
+        "created_at": "2022-04-03T19:20:58.000Z",
+        "edit_history_tweet_ids": [
+          "1510698894216384513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 194,
+              "start": 183,
+              "tag": "Izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B53RG7jtpM",
+              "end": 218,
+              "expanded_url": "https://x.com/CRTArs/status/1510698894216384513/photo/1",
+              "media_key": "3_1510698528124903430",
+              "start": 195,
+              "url": "https://t.co/B53RG7jtpM"
+            }
+          ]
+        },
+        "id": "1510698894216384513",
+        "text": "Kako se kretala izlaznost tokom izbornog dana? \n\nSa projekcijama finalne izlaznosti i rezulatata izaći ćemo u javnost kada budemo imali 95% podataka sa oba uzorka (Srbija i Beograd), #Izbori2022 https://t.co/B53RG7jtpM"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510688997651230721",
+        "created_at": "2022-04-03T18:46:37.000Z",
+        "edit_history_tweet_ids": [
+          "1510690248002465795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "910868449219530753",
+              "start": 0,
+              "username": "Krakozijanka"
+            },
+            {
+              "end": 25,
+              "id": "789010569428951040",
+              "start": 14,
+              "username": "BalkanskaR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/ako-vam-je-usk…",
+              "end": 264,
+              "expanded_url": "https://crta.rs/ako-vam-je-uskraceno-biracko-pravo-na-dan-glasanja-kome-da-se-zalite",
+              "start": 241,
+              "url": "https://t.co/lb0rJVC1C3"
+            }
+          ]
+        },
+        "id": "1510690248002465795",
+        "referenced_tweets": [
+          {
+            "id": "1510690012769230858",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Krakozijanka @BalkanskaR Ako ste u 20 sati bili u redu za glasanje na biračkom mestu, a birački odbor vam nije dozvolio da glasate, možete da podnesete zahtev za poništavanje glasanja jer vam je uskraćeno biračko pravo. Ovo je procedura. \n\nhttps://t.co/lb0rJVC1C3"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510686069292949511",
+        "created_at": "2022-04-03T18:44:41.000Z",
+        "edit_history_tweet_ids": [
+          "1510689763770179590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "148852536",
+              "start": 0,
+              "username": "i_Okolonaokolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crta.rs/ako-vam-je-usk…",
+              "end": 254,
+              "expanded_url": "https://crta.rs/ako-vam-je-uskraceno-biracko-pravo-na-dan-glasanja-kome-da-se-zalite",
+              "start": 231,
+              "status": 200,
+              "unwound_url": "https://crta.rs/ako-vam-je-uskraceno-biracko-pravo-na-dan-glasanja-kome-da-se-zalite/",
+              "url": "https://t.co/lb0rJVkqKv"
+            }
+          ]
+        },
+        "id": "1510689763770179590",
+        "referenced_tweets": [
+          {
+            "id": "1510686069292949511",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@i_Okolonaokolo Ako ste u 20 sati bili u redu za glasanje na biračkom mestu, a birački odbor vam nije dozvolio da glasate, možete da podnesete zahtev za poništavanje glasanja jer vam je uskraćeno biračko pravo. Ovo je procedura. \n\nhttps://t.co/lb0rJVkqKv"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510686572747935745",
+        "created_at": "2022-04-03T18:32:00.000Z",
+        "edit_history_tweet_ids": [
+          "1510686572747935745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "Izbori2022"
+            }
+          ]
+        },
+        "id": "1510686572747935745",
+        "text": "Prve procene rezultata #Izbori2022 objavićemo kad uzorak bude adekvatno popunjen, odnosno kad bude popunjeno 95% uzorka."
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510685713360113669",
+        "created_at": "2022-04-03T18:29:48.000Z",
+        "edit_history_tweet_ids": [
+          "1510686016432181254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3253838127",
+              "start": 0,
+              "username": "Dragana_Nedin"
+            }
+          ]
+        },
+        "id": "1510686016432181254",
+        "referenced_tweets": [
+          {
+            "id": "1510685713360113669",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Dragana_Nedin Brojanje počinje na biračkim mestima gde je završeno glasanje."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1510685085179203585"
+          ]
+        },
+        "author_id": "2543288485",
+        "conversation_id": "1510685669382889474",
+        "created_at": "2022-04-03T18:28:25.000Z",
+        "edit_history_tweet_ids": [
+          "1510685669382889474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crta.rs/do-19-casova-i…",
+              "end": 97,
+              "expanded_url": "https://crta.rs/do-19-casova-izlaznost-nesto-veca-nego-na-proslim-i-pretproslim-izborima/",
+              "start": 74,
+              "url": "https://t.co/tb1g0XvRSv"
+            },
+            {
+              "display_url": "pic.x.com/b7TreD3xFW",
+              "end": 121,
+              "expanded_url": "https://x.com/CRTArs/status/1510685669382889474/photo/1",
+              "media_key": "3_1510685085179203585",
+              "start": 98,
+              "url": "https://t.co/b7TreD3xFW"
+            }
+          ]
+        },
+        "id": "1510685669382889474",
+        "text": "Do 19h na parlamentarnim izborima na glasanje je izašlo je 55,1% birača. \nhttps://t.co/tb1g0XvRSv https://t.co/b7TreD3xFW"
+      },
+      {
+        "author_id": "2543288485",
+        "conversation_id": "1510684533682847750",
+        "created_at": "2022-04-03T18:23:54.000Z",
+        "edit_history_tweet_ids": [
+          "1510684533682847750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "Izbori2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "facebook.com/CRTArs/videos/…",
+              "end": 54,
+              "expanded_url": "https://www.facebook.com/CRTArs/videos/1046013742997203/",
+              "start": 31,
+              "url": "https://t.co/CWsHJdmxHg"
+            }
+          ]
+        },
+        "id": "1510684533682847750",
+        "text": "Počinje KZN #Izbori2022  ⬇️⬇️\n https://t.co/CWsHJdmxHg"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1080,
+          "media_key": "3_1510704420249554953",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcZqomWUAkqqE_.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510704222945357827",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcZfJlXMAManiA.png",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1510704181530832898",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcZcvTXsAIKJP9.png",
+          "width": 1920
+        },
+        {
+          "height": 675,
+          "media_key": "3_1510698528124903430",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcUTquXIAYR0BC.png",
+          "width": 1200
+        },
+        {
+          "height": 675,
+          "media_key": "3_1510685085179203585",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FPcIFL2WUAEGWiw.png",
+          "width": 1200
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1510705169360633863",
+      "next_token": "b26v89c19zqg8o3fpytl0v4jimdwz7wlj5prd70cjnngd",
+      "oldest_id": "1510684533682847750",
+      "result_count": 10
+    }
+  }
+}

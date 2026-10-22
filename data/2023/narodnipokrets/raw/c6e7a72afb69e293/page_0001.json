@@ -1,0 +1,266 @@
+{
+  "fetched_at": "2026-10-22T17:45:44.720772Z",
+  "params": {
+    "query": "from:narodnipokrets -is:retweet",
+    "start_time": "2023-12-17T19:00:00Z",
+    "end_time": "2023-12-18T23:00:00Z",
+    "sort_order": "recency",
+    "tweet.fields": "created_at,author_id,attachments,entities,referenced_tweets,conversation_id,note_tweet",
+    "expansions": "attachments.media_keys",
+    "media.fields": "media_key,type,url,preview_image_url,alt_text,width,height",
+    "max_results": 10
+  },
+  "response": {
+    "data": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1736808372622573568"
+          ]
+        },
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736809954378649715",
+        "created_at": "2023-12-18T18:05:36.000Z",
+        "edit_history_tweet_ids": [
+          "1736809954378649715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbiqLnGfil",
+              "end": 52,
+              "expanded_url": "https://x.com/NarodniPokretS/status/1736809954378649715/video/1",
+              "media_key": "7_1736808372622573568",
+              "start": 29,
+              "url": "https://t.co/pbiqLnGfil"
+            }
+          ]
+        },
+        "id": "1736809954378649715",
+        "text": "📍Republička izborna komisija https://t.co/pbiqLnGfil"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1736798701555703808"
+          ]
+        },
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736798830295671241",
+        "created_at": "2023-12-18T17:21:23.000Z",
+        "edit_history_tweet_ids": [
+          "1736798830295671241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBsBMBmS7U",
+              "end": 61,
+              "expanded_url": "https://x.com/NarodniPokretS/status/1736798830295671241/video/1",
+              "media_key": "7_1736798701555703808",
+              "start": 38,
+              "url": "https://t.co/XBsBMBmS7U"
+            }
+          ]
+        },
+        "id": "1736798830295671241",
+        "text": "Ispred Republičke izborne komisije ⬇️ https://t.co/XBsBMBmS7U"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736756351441764353"
+          ]
+        },
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736756357057950141",
+        "created_at": "2023-12-18T14:32:37.000Z",
+        "edit_history_tweet_ids": [
+          "1736756357057950141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2591230740",
+              "start": 19,
+              "username": "MiikiAleksic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqB5T5Yhcu",
+              "end": 73,
+              "expanded_url": "https://x.com/NarodniPokretS/status/1736756357057950141/photo/1",
+              "media_key": "3_1736756351441764353",
+              "start": 50,
+              "url": "https://t.co/zqB5T5Yhcu"
+            }
+          ]
+        },
+        "id": "1736756357057950141",
+        "text": "Pratite gostovanje @MiikiAleksic u Utisku nedelje https://t.co/zqB5T5Yhcu"
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736729337695437204",
+        "created_at": "2023-12-18T12:45:17.000Z",
+        "edit_history_tweet_ids": [
+          "1736729343718527233"
+        ],
+        "id": "1736729343718527233",
+        "referenced_tweets": [
+          {
+            "id": "1736729341139009789",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Izborna volja Beograđana ne može biti opravdana u preko 40 000 glasova ljudi dovedenih iz drugih gradova i država da glasaju u njihovo ime, niti izborni rezultati mogu biti prihvaćeni nakon otvorene kupovine glasova, bugarskih vozova i drugih izbornih neregularnosti zabeleženih."
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736729337695437204",
+        "created_at": "2023-12-18T12:45:16.000Z",
+        "edit_history_tweet_ids": [
+          "1736729341139009789"
+        ],
+        "id": "1736729341139009789",
+        "referenced_tweets": [
+          {
+            "id": "1736729337695437204",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Čekali smo sinoć da se prebroje svi glasovi i da se zabeleže sve nepravilnosti na biračkim mestima kako bismo vam se obratili sa pouzdanim informacijama."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1736729331953520640"
+          ]
+        },
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736729337695437204",
+        "created_at": "2023-12-18T12:45:15.000Z",
+        "edit_history_tweet_ids": [
+          "1736729337695437204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DRg2tIC8n",
+              "end": 203,
+              "expanded_url": "https://x.com/NarodniPokretS/status/1736729337695437204/photo/1",
+              "media_key": "3_1736729331953520640",
+              "start": 180,
+              "url": "https://t.co/1DRg2tIC8n"
+            }
+          ]
+        },
+        "id": "1736729337695437204",
+        "text": "🚩Večeras dajemo upozorenje i povlačimo crvenu liniju za RIK i Tužilaštvo zbog izborne krađe. Branićemo svaki glas na ulici! Vidimo se u 18 sati kod Gradske skupštine (Stari dvor)! https://t.co/1DRg2tIC8n"
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736563217717936257",
+        "created_at": "2023-12-18T01:45:10.000Z",
+        "edit_history_tweet_ids": [
+          "1736563223149609047"
+        ],
+        "id": "1736563223149609047",
+        "referenced_tweets": [
+          {
+            "id": "1736563220704301138",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Pozivamo građane Beograda na proteste zbog krađe izborne volje ispred Gradske Skupštine (Starog dvora) u 18h, odakle ćemo se uputiti ka sedištu Republičke izborne komisije u ulici Kralja Milana."
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736563217717936257",
+        "created_at": "2023-12-18T01:45:10.000Z",
+        "edit_history_tweet_ids": [
+          "1736563220704301138"
+        ],
+        "id": "1736563220704301138",
+        "referenced_tweets": [
+          {
+            "id": "1736563217717936257",
+            "type": "replied_to"
+          }
+        ],
+        "text": "… drastično promenjena izborna volja Beograđana, zahtevamo poništavanje izbora u gradu Beogradu i ponavljanje glasanja za Skupštinu grada. Prethodno, zahtevamo čišćenje biračkog spiska."
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736563217717936257",
+        "created_at": "2023-12-18T01:45:09.000Z",
+        "edit_history_tweet_ids": [
+          "1736563217717936257"
+        ],
+        "id": "1736563217717936257",
+        "text": "Na osnovu 81 procenta prebrojanih glasova u Beogradu, lista SNS ima 21 hiljadu glasova više od naše liste Srbija protiv nasilja. \n\nS obzirom na to da je više od 40 hiljada ljudi bez legalnog prebivališta u Beogradu organizovano dovedeno radi podrške SNS listi, čime je…"
+      },
+      {
+        "author_id": "1687428231689850885",
+        "conversation_id": "1736513680055902500",
+        "created_at": "2023-12-17T22:28:18.000Z",
+        "edit_history_tweet_ids": [
+          "1736513680055902500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/live/cHyb3NoAq…",
+              "end": 33,
+              "expanded_url": "https://www.youtube.com/live/cHyb3NoAqX0?si=OvAQ81FZrZV9ftUR",
+              "start": 10,
+              "url": "https://t.co/yJfSyZHxuw"
+            }
+          ]
+        },
+        "id": "1736513680055902500",
+        "text": "UŽIVO ⬇️\n\nhttps://t.co/yJfSyZHxuw"
+      }
+    ],
+    "includes": {
+      "media": [
+        {
+          "height": 1280,
+          "media_key": "7_1736808372622573568",
+          "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1736808372622573568/pu/img/u4TgNgFRhBoqvpG7.jpg",
+          "type": "video",
+          "width": 720
+        },
+        {
+          "height": 1280,
+          "media_key": "7_1736798701555703808",
+          "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1736798701555703808/pu/img/jB3Lba2Pt5jREtOF.jpg",
+          "type": "video",
+          "width": 720
+        },
+        {
+          "height": 1080,
+          "media_key": "3_1736756351441764353",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBoysy0XAAEKsCR.jpg",
+          "width": 1080
+        },
+        {
+          "height": 1350,
+          "media_key": "3_1736729331953520640",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBoaIDYXUAAuuQy.jpg",
+          "width": 1080
+        }
+      ]
+    },
+    "meta": {
+      "newest_id": "1736809954378649715",
+      "next_token": "b26v89c19zqg8o3fr5kfr3o6yyz1noou56c8ixz9aowot",
+      "oldest_id": "1736513680055902500",
+      "result_count": 10
+    }
+  }
+}
