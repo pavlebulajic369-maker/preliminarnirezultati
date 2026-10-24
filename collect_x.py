@@ -432,7 +432,7 @@ def main(argv=None):
               f"${args.max_posts * POST_READ_PRICE_USD:.3f}")
         print("Destination:", folder)
         if not args.window:
-            print("Saved window: election day 20:00 to midnight (00:00 the following day), Belgrade time.")
+            print(f"Saved window (Belgrade offsets): {window}")
     if not args.fetch:
         print("DRY RUN: no network calls, no files written, no credits used. Add --fetch to collect.")
         return 0

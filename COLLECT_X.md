@@ -27,9 +27,9 @@ Replace `accountname` with the actual handle. A leading `@` is optional.
 .\.venv\Scripts\python.exe .\collect_x.py --account accountname --year 2023
 ```
 
-The default is a dry run: it displays the exact UTC interval, query, output folder and estimated post-read limit. It makes no network requests, writes no files and does not need a token. Every saved window covers **20:00 on election day to midnight in Belgrade**, a four-hour interval. In ISO timestamps, that midnight is `00:00` on the following calendar day. Start is inclusive and end is exclusive. See `election_windows.sources.md` for the dates and sources.
+The default is a dry run: it displays the exact UTC interval, query, output folder and estimated post-read limit. It makes no network requests, writes no files and does not need a token. Every current saved window covers **20:00 on election day through the end of the following day in Belgrade**, a 28-hour interval. In ISO timestamps, the end is `00:00` two calendar dates after election day. Start is inclusive and end is exclusive. See `election_windows.sources.md` for the dates and sources, and `README.md` for the Serbian guide and evaluation results.
 
-For 2023 the window is 17 December at 20:00 through 18 December at 00:00; files go in `data/2023/accountname/`. Changing the window creates a new search checkpoint. Previously saved posts remain in place, including any outside the new window; use `search_ids` to identify records from a particular search.
+For 2023 the window is 17 December at 20:00 through 19 December at 00:00; files go in `data/2023/accountname/`. Changing the window creates a new search checkpoint. Previously saved posts remain in place, including any outside the new window; use `search_ids` to identify records from a particular search.
 
 ## First live test: at most 10 newly returned posts
 
@@ -100,7 +100,7 @@ data/2023/cesidbeograd/
 
 Each account folder contains its post records, photos, raw API pages and search checkpoint. Official-results folders are not read or modified by collection. Changing `$account` selects the next account; the actual handle is `CeSIDBeograd` (with the `e`), and folder names are lowercase.
 
-Repeat the same batch command to continue partial searches. Exhausted searches make no further X search requests. Existing records and photos are retained. Ten posts is a batch limit, not evidence that most relevant posts were collected; continue until every selected year reports exhausted to finish these four-hour windows. Results outside the windows are excluded, and keyword matching happens locally after collection.
+Repeat the same batch command to continue partial searches. Exhausted searches make no further X search requests. Existing records and photos are retained. Ten posts is a batch limit, not evidence that most relevant posts were collected; continue until every selected year reports exhausted to finish these 28-hour windows. Results outside the windows are excluded from the search, and keyword matching happens locally after collection.
 
 The existing `--year 2023` command still works; omitting both year options defaults to 2023. Use either `--year` or `--years`, and list each year once. A custom `--window` requires a single year. All requested windows are validated before fetching begins. An error stops the batch; saved progress remains available for another invocation.
 

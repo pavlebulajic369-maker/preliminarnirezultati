@@ -35,6 +35,9 @@
     "year": "2020",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "denominator_support_post_id": "1275037886791004160",
     "unit": "percentage_points",
     "denominator": 3100608,
     "chart_sum_pct": 100.1,
@@ -386,7 +389,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1274789282079703047",
-    "created_at_belgrade": "2020-06-21T21:40:23+02:00"
+    "source_post_ids": [
+      "1274789282079703047"
+    ],
+    "created_at_belgrade": "2020-06-21T21:40:23+02:00",
+    "available_at_belgrade": "2020-06-21T21:40:23+02:00"
   },
   {
     "post_id": "1274798166576189443",
@@ -424,6 +431,9 @@
     "year": "2020",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "denominator_support_post_id": "1275037886791004160",
     "unit": "percentage_points",
     "denominator": 3100608,
     "chart_sum_pct": 100.1,
@@ -775,7 +785,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1274798166576189443",
-    "created_at_belgrade": "2020-06-21T22:15:42+02:00"
+    "source_post_ids": [
+      "1274798166576189443"
+    ],
+    "created_at_belgrade": "2020-06-21T22:15:42+02:00",
+    "available_at_belgrade": "2020-06-21T22:15:42+02:00"
   },
   {
     "post_id": "1274811761041051649",
@@ -813,6 +827,9 @@
     "year": "2020",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "denominator_support_post_id": "1275037886791004160",
     "unit": "percentage_points",
     "denominator": 3100608,
     "chart_sum_pct": 100.4,
@@ -1164,7 +1181,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1274811761041051649",
-    "created_at_belgrade": "2020-06-21T23:09:43+02:00"
+    "source_post_ids": [
+      "1274811761041051649"
+    ],
+    "created_at_belgrade": "2020-06-21T23:09:43+02:00",
+    "available_at_belgrade": "2020-06-21T23:09:43+02:00"
   },
   {
     "post_id": "1274817636006846465",
@@ -1202,6 +1223,9 @@
     "year": "2020",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "denominator_support_post_id": "1275037886791004160",
     "unit": "percentage_points",
     "denominator": 3100608,
     "chart_sum_pct": 100.4,
@@ -1553,7 +1577,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
-    "created_at_belgrade": "2020-06-21T23:33:04+02:00"
+    "source_post_ids": [
+      "1274817636006846465"
+    ],
+    "created_at_belgrade": "2020-06-21T23:33:04+02:00",
+    "available_at_belgrade": "2020-06-21T23:33:04+02:00"
   },
   {
     "post_id": "1274817636006846465",
@@ -1568,6 +1596,8 @@
     "year": "2020",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "comparison": {
       "party": "invalid_ballots",
@@ -1577,7 +1607,11 @@
       "absolute_error": 0.3291798743803134
     },
     "post_url": "https://x.com/cesidbeograd/status/1274817636006846465",
-    "created_at_belgrade": "2020-06-21T23:33:04+02:00"
+    "source_post_ids": [
+      "1274817636006846465"
+    ],
+    "created_at_belgrade": "2020-06-21T23:33:04+02:00",
+    "available_at_belgrade": "2020-06-21T23:33:04+02:00"
   },
   {
     "post_id": "1274810342326046721",
@@ -1593,6 +1627,8 @@
     "year": "2020",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": false,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "scope_reference": {
       "registered_voters": 6467129,
@@ -1608,7 +1644,11 @@
       "absolute_error": 1.0141512099109207
     },
     "post_url": "https://x.com/cesidbeograd/status/1274810342326046721",
-    "created_at_belgrade": "2020-06-21T23:04:05+02:00"
+    "source_post_ids": [
+      "1274810342326046721"
+    ],
+    "created_at_belgrade": "2020-06-21T23:04:05+02:00",
+    "available_at_belgrade": "2020-06-21T23:04:05+02:00"
   },
   {
     "post_id": "1510718307967582218",
@@ -1644,6 +1684,8 @@
     "year": "2022",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "denominator": 3806050,
     "chart_sum_pct": 97.0,
@@ -1967,7 +2009,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1510718307967582218",
-    "created_at_belgrade": "2022-04-03T22:38:07+02:00"
+    "source_post_ids": [
+      "1510718307967582218"
+    ],
+    "created_at_belgrade": "2022-04-03T22:38:07+02:00",
+    "available_at_belgrade": "2022-04-03T22:38:07+02:00"
   },
   {
     "post_id": "1510729200650629126",
@@ -2003,6 +2049,8 @@
     "year": "2022",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "denominator": 3806050,
     "chart_sum_pct": 97.0,
@@ -2326,7 +2374,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1510729200650629126",
-    "created_at_belgrade": "2022-04-03T23:21:24+02:00"
+    "source_post_ids": [
+      "1510729200650629126"
+    ],
+    "created_at_belgrade": "2022-04-03T23:21:24+02:00",
+    "available_at_belgrade": "2022-04-03T23:21:24+02:00"
   },
   {
     "post_id": "1736491315691446389",
@@ -2361,6 +2413,8 @@
     "year": "2023",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "denominator": 3815007,
     "chart_sum_pct": 97.10000000000001,
@@ -2670,7 +2724,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1736491315691446389",
-    "created_at_belgrade": "2023-12-17T21:59:26+01:00"
+    "source_post_ids": [
+      "1736491315691446389"
+    ],
+    "created_at_belgrade": "2023-12-17T21:59:26+01:00",
+    "available_at_belgrade": "2023-12-17T21:59:26+01:00"
   },
   {
     "post_id": "1736496827044634778",
@@ -2705,6 +2763,8 @@
     "year": "2023",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": false,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "seats",
     "all_lists": [
       {
@@ -2837,7 +2897,11 @@
     "minimum_seats_to_reassign": 2.0,
     "allocation_agreement_pct": 99.2,
     "post_url": "https://x.com/cesidbeograd/status/1736496827044634778",
-    "created_at_belgrade": "2023-12-17T22:21:20+01:00"
+    "source_post_ids": [
+      "1736496827044634778"
+    ],
+    "created_at_belgrade": "2023-12-17T22:21:20+01:00",
+    "available_at_belgrade": "2023-12-17T22:21:20+01:00"
   },
   {
     "post_id": "1736513641321546053",
@@ -2872,6 +2936,8 @@
     "year": "2023",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": true,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "percentage_points",
     "denominator": 3815007,
     "chart_sum_pct": 97.2,
@@ -3181,7 +3247,11 @@
       }
     },
     "post_url": "https://x.com/cesidbeograd/status/1736513641321546053",
-    "created_at_belgrade": "2023-12-17T23:28:09+01:00"
+    "source_post_ids": [
+      "1736513641321546053"
+    ],
+    "created_at_belgrade": "2023-12-17T23:28:09+01:00",
+    "available_at_belgrade": "2023-12-17T23:28:09+01:00"
   },
   {
     "post_id": "1736514618996961555",
@@ -3216,6 +3286,8 @@
     "year": "2023",
     "extraction": "visually reviewed image transcription",
     "confidence_scoring_eligible": false,
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
     "unit": "seats",
     "all_lists": [
       {
@@ -3348,7 +3420,11 @@
     "minimum_seats_to_reassign": 1.0,
     "allocation_agreement_pct": 99.6,
     "post_url": "https://x.com/cesidbeograd/status/1736514618996961555",
-    "created_at_belgrade": "2023-12-17T23:32:02+01:00"
+    "source_post_ids": [
+      "1736514618996961555"
+    ],
+    "created_at_belgrade": "2023-12-17T23:32:02+01:00",
+    "available_at_belgrade": "2023-12-17T23:32:02+01:00"
   },
   {
     "post_id": "1274807242198585346",
@@ -3373,13 +3449,17 @@
     "basis": "voters_who_turned_out",
     "basis_explicit": false,
     "sample_processed_pct": 87,
-    "note": "Literal published bounds; no fabricated SNS point estimate and no midpoint MAE. Valid-vote sensitivity is also shown.",
+    "note": "Literal bounds remain unchanged; full national benchmark includes excluded territories and reruns. No fabricated midpoint estimate.",
     "attribution": "CRTA",
     "claim_id": "1274807242198585346:vote_share_bounds",
     "account": "crtars",
     "year": "2020",
     "extraction": "reviewed saved text",
-    "confidence_scoring_eligible": true,
+    "confidence_scoring_eligible": false,
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
     "unit": "percentage_points",
     "bounds": [
       {
@@ -3450,7 +3530,11 @@
     ],
     "point_estimate_mae_pp": null,
     "post_url": "https://x.com/crtars/status/1274807242198585346",
-    "created_at_belgrade": "2020-06-21T22:51:45+02:00"
+    "source_post_ids": [
+      "1274807242198585346"
+    ],
+    "created_at_belgrade": "2020-06-21T22:51:45+02:00",
+    "available_at_belgrade": "2020-06-21T22:51:45+02:00"
   },
   {
     "post_id": "1274806574821842944",
@@ -3459,16 +3543,25 @@
       "lower": 48,
       "upper": 49
     },
-    "scope": "national",
-    "note": "2016 comparison is historical context, outside selected benchmark years.",
+    "scope": "without_kosovo_prisons_abroad",
+    "note": "Previously labelled national; CRTA sample actually excludes Kosovo, abroad and prisons. Compare with matching territorial subtotal, with rerun caveat.",
     "claim_id": "1274806574821842944:turnout_bounds",
     "account": "crtars",
     "year": "2020",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
     "unit": "percentage_points",
+    "scope_reference": {
+      "registered_voters": 6467129,
+      "voters_who_turned_out": 3150407,
+      "source_cells": "Резултати!C5:D6",
+      "scope": "Central Serbia plus Vojvodina; excludes separately reported Kosovo, abroad and prison rows"
+    },
     "comparison": {
-      "official": 48.93262474682491,
+      "official": 48.71415120991092,
       "lower": 48,
       "upper": 49,
       "lower_inclusive": true,
@@ -3477,7 +3570,11 @@
       "width_pp": 1
     },
     "post_url": "https://x.com/crtars/status/1274806574821842944",
-    "created_at_belgrade": "2020-06-21T22:49:06+02:00"
+    "source_post_ids": [
+      "1274806574821842944"
+    ],
+    "created_at_belgrade": "2020-06-21T22:49:06+02:00",
+    "available_at_belgrade": "2020-06-21T22:49:06+02:00"
   },
   {
     "post_id": "1274807584248209411",
@@ -3500,12 +3597,16 @@
       ],
       "threshold_pct": 3
     },
-    "note": "Qualitative threshold claim only; explicitly excludes minority lists. Verify against official shares, not sample coverage.",
+    "note": "Threshold statement from CRTA own sample, not an independent point forecast; full final official national benchmark also contains excluded territories and reruns.",
     "claim_id": "1274807584248209411:below_threshold",
     "account": "crtars",
     "year": "2020",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
     "checks": [
       {
         "party": "SRS",
@@ -3575,7 +3676,11 @@
     ],
     "all_consistent": true,
     "post_url": "https://x.com/crtars/status/1274807584248209411",
-    "created_at_belgrade": "2020-06-21T22:53:07+02:00"
+    "source_post_ids": [
+      "1274807584248209411"
+    ],
+    "created_at_belgrade": "2020-06-21T22:53:07+02:00",
+    "available_at_belgrade": "2020-06-21T22:53:07+02:00"
   },
   {
     "post_id": "1736473053465313303",
@@ -3590,8 +3695,14 @@
     "year": "2023",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "source_role": "original_projection",
+    "source_family": "CRTA",
     "post_url": "https://x.com/crtars/status/1736473053465313303",
+    "source_post_ids": [
+      "1736473053465313303"
+    ],
     "created_at_belgrade": "2023-12-17T20:46:52+01:00",
+    "available_at_belgrade": "2023-12-17T20:46:52+01:00",
     "checks": {
       "2022": {
         "estimate": 6502307,
@@ -3617,11 +3728,17 @@
     "year": "2023",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "source_role": "political_statement",
+    "source_family": "sns_srbija",
     "official_winner": "SNS",
     "consistent": true,
     "comparison_scope": "national_parliament",
     "post_url": "https://x.com/sns_srbija/status/1736505133297451187",
-    "created_at_belgrade": "2023-12-17T22:54:21+01:00"
+    "source_post_ids": [
+      "1736505133297451187"
+    ],
+    "created_at_belgrade": "2023-12-17T22:54:21+01:00",
+    "available_at_belgrade": "2023-12-17T22:54:21+01:00"
   },
   {
     "post_id": "1736517035817886148",
@@ -3636,10 +3753,3660 @@
     "year": "2023",
     "extraction": "reviewed saved text",
     "confidence_scoring_eligible": false,
+    "source_role": "political_statement",
+    "source_family": "milos_vucevic",
     "official_winner": "SNS",
     "consistent": true,
     "comparison_scope": "context_only",
     "post_url": "https://x.com/milos_vucevic/status/1736517035817886148",
-    "created_at_belgrade": "2023-12-17T23:41:38+01:00"
+    "source_post_ids": [
+      "1736517035817886148"
+    ],
+    "created_at_belgrade": "2023-12-17T23:41:38+01:00",
+    "available_at_belgrade": "2023-12-17T23:41:38+01:00"
+  },
+  {
+    "post_id": "1510758910382284805",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 42.9,
+      "UJEDINJENI": 13.5,
+      "SPS": 11.4,
+      "NADA": 5.4,
+      "MORAMO": 4.6,
+      "DVERI": 3.9,
+      "ZAVETNICI": 3.8,
+      "DJB": 2.3,
+      "SRS": 2.1,
+      "SDS": 1.7,
+      "SVM": 1.6,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.5,
+      "KAD": 0.3,
+      "RUSKI_SAVEZ": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "attribution": "CeSID/Ipsos",
+    "sample_processed_pct": 90,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "confidence_scoring_eligible": true,
+    "note": "Complete national parliamentary chart. Ballots-cast basis inferred from displayed total below 100%; retain valid-vote normalization. Final-projection graphic repeats the same rounded percentages as the earlier 90%-sample chart; this is not independent evidence.",
+    "claim_id": "1510758910382284805:vote_share",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 97.0,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 42.9,
+        "official": 42.96057592517177,
+        "signed_error": -0.060575925171768574,
+        "absolute_error": 0.060575925171768574
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 13.5,
+        "official": 13.674780940870455,
+        "signed_error": -0.17478094087045548,
+        "absolute_error": 0.17478094087045548
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.4,
+        "official": 11.436371040842868,
+        "signed_error": -0.036371040842867686,
+        "absolute_error": 0.036371040842867686
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.4,
+        "official": 5.371553185060627,
+        "signed_error": 0.02844681493937351,
+        "absolute_error": 0.02844681493937351
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.6,
+        "official": 4.696023436371041,
+        "signed_error": -0.09602343637104127,
+        "absolute_error": 0.09602343637104127
+      },
+      {
+        "party": "DVERI",
+        "estimate": 3.9,
+        "official": 3.803470789926564,
+        "signed_error": 0.09652921007343584,
+        "absolute_error": 0.09652921007343584
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.8,
+        "official": 3.71059234639587,
+        "signed_error": 0.08940765360412994,
+        "absolute_error": 0.08940765360412994
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.3,
+        "official": 2.2690716096740715,
+        "signed_error": 0.030928390325928312,
+        "absolute_error": 0.030928390325928312
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.1,
+        "official": 2.156198683674676,
+        "signed_error": -0.05619868367467573,
+        "absolute_error": 0.05619868367467573
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.6,
+        "official": 1.5846612629891883,
+        "signed_error": 0.015338737010811787,
+        "absolute_error": 0.015338737010811787
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.5,
+        "official": 0.5400086704063267,
+        "signed_error": -0.04000867040632672,
+        "absolute_error": 0.04000867040632672
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.3,
+        "official": 0.267074788823058,
+        "signed_error": 0.03292521117694197,
+        "absolute_error": 0.03292521117694197
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.2,
+        "official": 0.2514155095177415,
+        "signed_error": -0.05141550951774149,
+        "absolute_error": 0.05141550951774149
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.05429928389634516,
+      "rmse_pp": 0.06616576563727257,
+      "max_absolute_error_pp": 0.17478094087045548
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.08212122804482373,
+      "rmse_pp": 0.09564542385295702,
+      "max_absolute_error_pp": 0.17478094087045548
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.22680412371134,
+          "official": 44.27175165595907,
+          "signed_error": -0.044947532247732624,
+          "absolute_error": 0.044947532247732624
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.917525773195877,
+          "official": 14.09214128829067,
+          "signed_error": -0.17461551509479278,
+          "absolute_error": 0.17461551509479278
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.75257731958763,
+          "official": 11.785414130561922,
+          "signed_error": -0.03283681097429181,
+          "absolute_error": 0.03283681097429181
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.56701030927835,
+          "official": 5.535495358116041,
+          "signed_error": 0.0315149511623094,
+          "absolute_error": 0.0315149511623094
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.7422680412371125,
+          "official": 4.839348143463023,
+          "signed_error": -0.09708010222591046,
+          "absolute_error": 0.09708010222591046
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.020618556701031,
+          "official": 3.9195543964684427,
+          "signed_error": 0.10106416023258813,
+          "absolute_error": 0.10106416023258813
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 3.917525773195876,
+          "official": 3.8238412618646382,
+          "signed_error": 0.0936845113312379,
+          "absolute_error": 0.0936845113312379
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.3711340206185563,
+          "official": 2.338324676281121,
+          "signed_error": 0.03280934433743532,
+          "absolute_error": 0.03280934433743532
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.1649484536082473,
+          "official": 2.22200681878241,
+          "signed_error": -0.05705836517416252,
+          "absolute_error": 0.05705836517416252
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7525773195876289,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03163620631526309,
+          "absolute_error": 0.03163620631526309
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.6494845360824741,
+          "official": 1.6330258238640056,
+          "signed_error": 0.016458712218468508,
+          "absolute_error": 0.016458712218468508
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0309278350515463,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06025856332696622,
+          "absolute_error": 0.06025856332696622
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8247422680412371,
+          "official": 0.8446582594343096,
+          "signed_error": -0.01991599139307254,
+          "absolute_error": 0.01991599139307254
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7216494845360825,
+          "official": 0.6504702533866474,
+          "signed_error": 0.07117923114943503,
+          "absolute_error": 0.07117923114943503
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5154639175257731,
+          "official": 0.5564899732707195,
+          "signed_error": -0.04102605574494633,
+          "absolute_error": 0.04102605574494633
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.30927835051546393,
+          "official": 0.2752260292072624,
+          "signed_error": 0.034052321308201516,
+          "absolute_error": 0.034052321308201516
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.20618556701030927,
+          "official": 0.25908882178891235,
+          "signed_error": -0.05290325477860308,
+          "absolute_error": 0.05290325477860308
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.20618556701030927,
+          "official": 0.17309591782804018,
+          "signed_error": 0.03308964918226909,
+          "absolute_error": 0.03308964918226909
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10309278350515463,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014635977069333062,
+          "absolute_error": 0.014635977069333062
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.08034317865627087,
+        "rmse_pp": 0.09506210058028415,
+        "max_absolute_error_pp": 0.17461551509479278
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.4572841621431951,
+        "rmse_pp": 0.6399097414522914,
+        "max_absolute_error_pp": 1.3717516559590734
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.08212122804482373,
+        "rmse_pp": 0.09564542385295702,
+        "max_absolute_error_pp": 0.17478094087045548
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.06957977819002455,
+        "rmse_pp": 0.08696056221346142,
+        "max_absolute_error_pp": 0.15859969626503556
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1510758910382284805",
+    "source_post_ids": [
+      "1510758910382284805"
+    ],
+    "created_at_belgrade": "2022-04-04T01:19:27+02:00",
+    "available_at_belgrade": "2022-04-04T01:19:27+02:00"
+  },
+  {
+    "post_id": "1510919362894565385",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 42.9,
+      "UJEDINJENI": 13.5,
+      "SPS": 11.4,
+      "NADA": 5.4,
+      "MORAMO": 4.6,
+      "DVERI": 3.9,
+      "ZAVETNICI": 3.8,
+      "DJB": 2.3,
+      "SRS": 2.1,
+      "SDS": 1.7,
+      "SVM": 1.6,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.5,
+      "KAD": 0.3,
+      "RUSKI_SAVEZ": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "attribution": "CeSID/Ipsos",
+    "sample_processed_pct": null,
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "confidence_scoring_eligible": true,
+    "note": "Complete national parliamentary chart. Ballots-cast basis inferred from displayed total below 100%; retain valid-vote normalization. Final-projection graphic repeats the same rounded percentages as the earlier 90%-sample chart; this is not independent evidence.",
+    "claim_id": "1510919362894565385:vote_share",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 97.0,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 42.9,
+        "official": 42.96057592517177,
+        "signed_error": -0.060575925171768574,
+        "absolute_error": 0.060575925171768574
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 13.5,
+        "official": 13.674780940870455,
+        "signed_error": -0.17478094087045548,
+        "absolute_error": 0.17478094087045548
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.4,
+        "official": 11.436371040842868,
+        "signed_error": -0.036371040842867686,
+        "absolute_error": 0.036371040842867686
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.4,
+        "official": 5.371553185060627,
+        "signed_error": 0.02844681493937351,
+        "absolute_error": 0.02844681493937351
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.6,
+        "official": 4.696023436371041,
+        "signed_error": -0.09602343637104127,
+        "absolute_error": 0.09602343637104127
+      },
+      {
+        "party": "DVERI",
+        "estimate": 3.9,
+        "official": 3.803470789926564,
+        "signed_error": 0.09652921007343584,
+        "absolute_error": 0.09652921007343584
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.8,
+        "official": 3.71059234639587,
+        "signed_error": 0.08940765360412994,
+        "absolute_error": 0.08940765360412994
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.3,
+        "official": 2.2690716096740715,
+        "signed_error": 0.030928390325928312,
+        "absolute_error": 0.030928390325928312
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.1,
+        "official": 2.156198683674676,
+        "signed_error": -0.05619868367467573,
+        "absolute_error": 0.05619868367467573
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.6,
+        "official": 1.5846612629891883,
+        "signed_error": 0.015338737010811787,
+        "absolute_error": 0.015338737010811787
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.5,
+        "official": 0.5400086704063267,
+        "signed_error": -0.04000867040632672,
+        "absolute_error": 0.04000867040632672
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.3,
+        "official": 0.267074788823058,
+        "signed_error": 0.03292521117694197,
+        "absolute_error": 0.03292521117694197
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.2,
+        "official": 0.2514155095177415,
+        "signed_error": -0.05141550951774149,
+        "absolute_error": 0.05141550951774149
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.05429928389634516,
+      "rmse_pp": 0.06616576563727257,
+      "max_absolute_error_pp": 0.17478094087045548
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.08212122804482373,
+      "rmse_pp": 0.09564542385295702,
+      "max_absolute_error_pp": 0.17478094087045548
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.22680412371134,
+          "official": 44.27175165595907,
+          "signed_error": -0.044947532247732624,
+          "absolute_error": 0.044947532247732624
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.917525773195877,
+          "official": 14.09214128829067,
+          "signed_error": -0.17461551509479278,
+          "absolute_error": 0.17461551509479278
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.75257731958763,
+          "official": 11.785414130561922,
+          "signed_error": -0.03283681097429181,
+          "absolute_error": 0.03283681097429181
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.56701030927835,
+          "official": 5.535495358116041,
+          "signed_error": 0.0315149511623094,
+          "absolute_error": 0.0315149511623094
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.7422680412371125,
+          "official": 4.839348143463023,
+          "signed_error": -0.09708010222591046,
+          "absolute_error": 0.09708010222591046
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.020618556701031,
+          "official": 3.9195543964684427,
+          "signed_error": 0.10106416023258813,
+          "absolute_error": 0.10106416023258813
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 3.917525773195876,
+          "official": 3.8238412618646382,
+          "signed_error": 0.0936845113312379,
+          "absolute_error": 0.0936845113312379
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.3711340206185563,
+          "official": 2.338324676281121,
+          "signed_error": 0.03280934433743532,
+          "absolute_error": 0.03280934433743532
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.1649484536082473,
+          "official": 2.22200681878241,
+          "signed_error": -0.05705836517416252,
+          "absolute_error": 0.05705836517416252
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7525773195876289,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03163620631526309,
+          "absolute_error": 0.03163620631526309
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.6494845360824741,
+          "official": 1.6330258238640056,
+          "signed_error": 0.016458712218468508,
+          "absolute_error": 0.016458712218468508
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0309278350515463,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06025856332696622,
+          "absolute_error": 0.06025856332696622
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8247422680412371,
+          "official": 0.8446582594343096,
+          "signed_error": -0.01991599139307254,
+          "absolute_error": 0.01991599139307254
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7216494845360825,
+          "official": 0.6504702533866474,
+          "signed_error": 0.07117923114943503,
+          "absolute_error": 0.07117923114943503
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5154639175257731,
+          "official": 0.5564899732707195,
+          "signed_error": -0.04102605574494633,
+          "absolute_error": 0.04102605574494633
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.30927835051546393,
+          "official": 0.2752260292072624,
+          "signed_error": 0.034052321308201516,
+          "absolute_error": 0.034052321308201516
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.20618556701030927,
+          "official": 0.25908882178891235,
+          "signed_error": -0.05290325477860308,
+          "absolute_error": 0.05290325477860308
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.20618556701030927,
+          "official": 0.17309591782804018,
+          "signed_error": 0.03308964918226909,
+          "absolute_error": 0.03308964918226909
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10309278350515463,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014635977069333062,
+          "absolute_error": 0.014635977069333062
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.08034317865627087,
+        "rmse_pp": 0.09506210058028415,
+        "max_absolute_error_pp": 0.17461551509479278
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.4572841621431951,
+        "rmse_pp": 0.6399097414522914,
+        "max_absolute_error_pp": 1.3717516559590734
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.08212122804482373,
+        "rmse_pp": 0.09564542385295702,
+        "max_absolute_error_pp": 0.17478094087045548
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.06957977819002455,
+        "rmse_pp": 0.08696056221346142,
+        "max_absolute_error_pp": 0.15859969626503556
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1510919362894565385",
+    "source_post_ids": [
+      "1510919362894565385"
+    ],
+    "created_at_belgrade": "2022-04-04T11:57:02+02:00",
+    "available_at_belgrade": "2022-04-04T11:57:02+02:00"
+  },
+  {
+    "post_id": "1510920112391528448",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 58.6
+    },
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "attribution": "CeSID/Ipsos",
+    "sample_processed_pct": null,
+    "scope": "without_kosovo_prisons_abroad",
+    "comparable": false,
+    "benchmark_status": "unmatched_scope",
+    "confidence_scoring_eligible": false,
+    "note": "2022 turnout estimate. Reply 1510926464165855234 explicitly excludes Kosovo, prisons and diaspora; corresponding scoped official denominator has not been established, so no numerical error is assigned. Historical 2016/2017/2020 bars are context.",
+    "scope_evidence_post_id": "1510926464165855234",
+    "claim_id": "1510920112391528448:turnout",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/cesidbeograd/status/1510920112391528448",
+    "source_post_ids": [
+      "1510920112391528448"
+    ],
+    "created_at_belgrade": "2022-04-04T12:00:00+02:00",
+    "available_at_belgrade": "2022-04-04T12:00:00+02:00"
+  },
+  {
+    "post_id": "1511060336501211147",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 42.97,
+      "SPS": 11.5,
+      "SVM": 1.6,
+      "SRS": 2.17,
+      "UJEDINJENI": 13.57,
+      "NADA": 5.39,
+      "ZAVETNICI": 3.74,
+      "SPP": 0.9,
+      "MORAMO": 4.63,
+      "DJB": 2.27,
+      "DVERI": 3.83,
+      "VOJVODJANI": 0.64,
+      "SDA": 0.55,
+      "SDS": 1.67,
+      "ADA": 0.09,
+      "KAD": 0.26,
+      "OTETE_BEBE": 0.82,
+      "ROMSKA": 0.17,
+      "RUSKI_SAVEZ": 0.25
+    },
+    "source_role": "official_result",
+    "source_family": "RIK",
+    "attribution": "RIK preliminary report relayed by CeSID",
+    "sample_processed_pct": 96.85,
+    "basis": "ballots_cast",
+    "basis_explicit": true,
+    "confidence_scoring_eligible": false,
+    "note": "Photograph of the official RIK preliminary table, processed 4 April 2022 20:29 local. Not an independent CeSID/Ipsos forecast and excluded from forecast selection/confidence. Published shares divide by ballots in processed boxes (3,668,149); comparison with final national totals is descriptive and includes incomplete count and later reruns.",
+    "reported_denominator": 3668149,
+    "reported_denominator_scope": "processed_polling_stations",
+    "sample_processed_unit": "polling_stations",
+    "claim_id": "1511060336501211147:vote_share",
+    "account": "cesidbeograd",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 97.02,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 42.97,
+        "official": 42.96057592517177,
+        "signed_error": 0.00942407482823171,
+        "absolute_error": 0.00942407482823171
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.5,
+        "official": 11.436371040842868,
+        "signed_error": 0.06362895915713196,
+        "absolute_error": 0.06362895915713196
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.6,
+        "official": 1.5846612629891883,
+        "signed_error": 0.015338737010811787,
+        "absolute_error": 0.015338737010811787
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.17,
+        "official": 2.156198683674676,
+        "signed_error": 0.013801316325324109,
+        "absolute_error": 0.013801316325324109
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 13.57,
+        "official": 13.674780940870455,
+        "signed_error": -0.1047809408704552,
+        "absolute_error": 0.1047809408704552
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.39,
+        "official": 5.371553185060627,
+        "signed_error": 0.018446814939372835,
+        "absolute_error": 0.018446814939372835
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.74,
+        "official": 3.71059234639587,
+        "signed_error": 0.029407653604130335,
+        "absolute_error": 0.029407653604130335
+      },
+      {
+        "party": "SPP",
+        "estimate": 0.9,
+        "official": 0.9419214145899292,
+        "signed_error": -0.04192141458992915,
+        "absolute_error": 0.04192141458992915
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.63,
+        "official": 4.696023436371041,
+        "signed_error": -0.06602343637104102,
+        "absolute_error": 0.06602343637104102
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.27,
+        "official": 2.2690716096740715,
+        "signed_error": 0.0009283903259285076,
+        "absolute_error": 0.0009283903259285076
+      },
+      {
+        "party": "DVERI",
+        "estimate": 3.83,
+        "official": 3.803470789926564,
+        "signed_error": 0.026529210073436005,
+        "absolute_error": 0.026529210073436005
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.64,
+        "official": 0.6312055805887994,
+        "signed_error": 0.008794419411200627,
+        "absolute_error": 0.008794419411200627
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.55,
+        "official": 0.5400086704063267,
+        "signed_error": 0.009991329593673326,
+        "absolute_error": 0.009991329593673326
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.67,
+        "official": 1.6699728064528843,
+        "signed_error": 2.7193547115667016e-05,
+        "absolute_error": 2.7193547115667016e-05
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.09,
+        "official": 0.0858370226350153,
+        "signed_error": 0.0041629773649846935,
+        "absolute_error": 0.0041629773649846935
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.26,
+        "official": 0.267074788823058,
+        "signed_error": -0.007074788823058009,
+        "absolute_error": 0.007074788823058009
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.82,
+        "official": 0.8196424114239171,
+        "signed_error": 0.00035758857608281236,
+        "absolute_error": 0.00035758857608281236
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.17,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0020305828877708043,
+        "absolute_error": 0.0020305828877708043
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.25,
+        "official": 0.2514155095177415,
+        "signed_error": -0.0014155095177414978,
+        "absolute_error": 0.0014155095177414978
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.02232028093775895,
+      "rmse_pp": 0.035406896848503844,
+      "max_absolute_error_pp": 0.1047809408704552
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.048138906039944786,
+      "rmse_pp": 0.05848031195518536,
+      "max_absolute_error_pp": 0.1047809408704552
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.289837146980005,
+          "official": 44.27175165595907,
+          "signed_error": 0.018085491020933375,
+          "absolute_error": 0.018085491020933375
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.853226138940425,
+          "official": 11.785414130561922,
+          "signed_error": 0.06781200837850321,
+          "absolute_error": 0.06781200837850321
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.6491445062873635,
+          "official": 1.6330258238640056,
+          "signed_error": 0.0161186824233579,
+          "absolute_error": 0.0161186824233579
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.236652236652237,
+          "official": 2.22200681878241,
+          "signed_error": 0.014645417869826982,
+          "absolute_error": 0.014645417869826982
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.9868068439497,
+          "official": 14.09214128829067,
+          "signed_error": -0.1053344443409685,
+          "absolute_error": 0.1053344443409685
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.555555555555555,
+          "official": 5.535495358116041,
+          "signed_error": 0.020060197439514482,
+          "absolute_error": 0.020060197439514482
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 3.854875283446712,
+          "official": 3.8238412618646382,
+          "signed_error": 0.031034021582073912,
+          "absolute_error": 0.031034021582073912
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.927643784786642,
+          "official": 0.9706692717245801,
+          "signed_error": -0.04302548693793806,
+          "absolute_error": 0.04302548693793806
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.772211915069058,
+          "official": 4.839348143463023,
+          "signed_error": -0.06713622839396471,
+          "absolute_error": 0.06713622839396471
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.339723768295197,
+          "official": 2.338324676281121,
+          "signed_error": 0.0013990920140760643,
+          "absolute_error": 0.0013990920140760643
+        },
+        {
+          "party": "DVERI",
+          "estimate": 3.9476396619253764,
+          "official": 3.9195543964684427,
+          "signed_error": 0.028085265456933683,
+          "absolute_error": 0.028085265456933683
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.6596578025149454,
+          "official": 0.6504702533866474,
+          "signed_error": 0.009187549128298,
+          "absolute_error": 0.009187549128298
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.5668934240362813,
+          "official": 0.5564899732707195,
+          "signed_error": 0.010403450765561817,
+          "absolute_error": 0.010403450765561817
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7212945784374356,
+          "official": 1.7209411132723658,
+          "signed_error": 0.00035346516506984393,
+          "absolute_error": 0.00035346516506984393
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.0927643784786642,
+          "official": 0.08845680643582157,
+          "signed_error": 0.004307572042842628,
+          "absolute_error": 0.004307572042842628
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.26798598227169657,
+          "official": 0.2752260292072624,
+          "signed_error": -0.007240046935565847,
+          "absolute_error": 0.007240046935565847
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8451865594722738,
+          "official": 0.8446582594343096,
+          "signed_error": 0.0005283000379642244,
+          "absolute_error": 0.0005283000379642244
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.17522160379303237,
+          "official": 0.17309591782804018,
+          "signed_error": 0.0021256859649921855,
+          "absolute_error": 0.0021256859649921855
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.25767882910740053,
+          "official": 0.25908882178891235,
+          "signed_error": -0.001409992681511818,
+          "absolute_error": 0.001409992681511818
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.05108560583846966,
+        "rmse_pp": 0.06016555693872308,
+        "max_absolute_error_pp": 0.1053344443409685
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.42561749547652844,
+        "rmse_pp": 0.5946519512827094,
+        "max_absolute_error_pp": 1.3017516559590732
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.048138906039944786,
+        "rmse_pp": 0.05848031195518536,
+        "max_absolute_error_pp": 0.1047809408704552
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.05705326130190658,
+        "rmse_pp": 0.06146706217077964,
+        "max_absolute_error_pp": 0.08859969626503528
+      }
+    },
+    "post_url": "https://x.com/cesidbeograd/status/1511060336501211147",
+    "source_post_ids": [
+      "1511060336501211147"
+    ],
+    "created_at_belgrade": "2022-04-04T21:17:13+02:00",
+    "available_at_belgrade": "2022-04-04T21:17:13+02:00"
+  },
+  {
+    "post_id": "1736532114634428580",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 59.3
+    },
+    "source_role": "original_projection",
+    "source_family": "CeSID/Ipsos",
+    "attribution": "CeSID/Ipsos",
+    "sample_processed_pct": null,
+    "scope": "unspecified",
+    "comparable": false,
+    "benchmark_status": "scope_unspecified",
+    "confidence_scoring_eligible": false,
+    "note": "Graphic projects 2023 turnout through 20:00 at 59.3%. Geographic exclusions are not specified in this saved post. Do not silently compare with national final turnout; historical bars are context.",
+    "historical_bars": {
+      "2016": 56.4,
+      "2020": 48.9,
+      "2022": 58.6
+    },
+    "claim_id": "1736532114634428580:turnout",
+    "account": "cesidbeograd",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/cesidbeograd/status/1736532114634428580",
+    "source_post_ids": [
+      "1736532114634428580"
+    ],
+    "created_at_belgrade": "2023-12-18T00:41:33+01:00",
+    "available_at_belgrade": "2023-12-18T00:41:33+01:00"
+  },
+  {
+    "post_id": "1275018957607575552",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 60.41,
+      "SPS": 10.32,
+      "SPAS": 3.95,
+      "POKS": 2.62,
+      "METLA": 2.37,
+      "DJB": 2.3,
+      "SRS": 2.18,
+      "SVM": 1.96,
+      "PSG": 1.67,
+      "ZAVETNICI": 1.47,
+      "ZDRAVA": 1.18,
+      "UDS": 1.04,
+      "SPP": 0.88,
+      "ADA": 0.77,
+      "LEVIJATAN": 0.69,
+      "JEDAN_OD_PET": 0.66,
+      "SDA": 0.63,
+      "MIR": 0.32,
+      "ZELENA_NOVA": 0.26,
+      "RUSKA": 0.24,
+      "NARODNI_BLOK": 0.22
+    },
+    "claim_id": "1275018957607575552:vote_share",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "source_post_ids": [
+      "1275014360839135241",
+      "1275015352989212672",
+      "1275018957607575552"
+    ],
+    "available_at": "2020-06-22T10:53:02.000Z",
+    "basis": "voters_who_turned_out",
+    "basis_explicit": false,
+    "reported_error_pp": {
+      "SNS": 1.1,
+      "SPS": 0.46,
+      "SPAS": 0.34,
+      "POKS": 0.15,
+      "METLA": 0.17,
+      "DJB": 0.15,
+      "SRS": 0.14,
+      "SVM": 0.76,
+      "PSG": 0.13,
+      "ZAVETNICI": 0.11,
+      "ZDRAVA": 0.33,
+      "UDS": 0.16,
+      "SPP": 0.43,
+      "ADA": 0.81,
+      "LEVIJATAN": 0.06,
+      "JEDAN_OD_PET": 0.05,
+      "SDA": 0.35,
+      "MIR": 0.06,
+      "ZELENA_NOVA": 0.04,
+      "RUSKA": 0.04,
+      "NARODNI_BLOK": 0.05
+    },
+    "sample_processed_pct": null,
+    "note": "Composite of contiguous ranked panels posted at 12:34:46, 12:38:43 and 12:53:02 local; available only when the last panel was posted. First two panels alone are partial lists. Total party shares 96.14 plus invalid 3.85 approximately 100. Basis voters-who-turned-out inferred consistently with 2020 official table; ballots-cast sensitivity should also be retained.",
+    "unit": "percentage_points",
+    "denominator": 3221908,
+    "chart_sum_pct": 96.14,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 60.41,
+        "official": 60.647231392081956,
+        "signed_error": -0.2372313920819593,
+        "absolute_error": 0.2372313920819593
+      },
+      {
+        "party": "SPS",
+        "estimate": 10.32,
+        "official": 10.37686364725498,
+        "signed_error": -0.056863647254980165,
+        "absolute_error": 0.056863647254980165
+      },
+      {
+        "party": "SPAS",
+        "estimate": 3.95,
+        "official": 3.8298114036775726,
+        "signed_error": 0.12018859632242762,
+        "absolute_error": 0.12018859632242762
+      },
+      {
+        "party": "POKS",
+        "estimate": 2.62,
+        "official": 2.6657496117207566,
+        "signed_error": -0.04574961172075653,
+        "absolute_error": 0.04574961172075653
+      },
+      {
+        "party": "METLA",
+        "estimate": 2.37,
+        "official": 2.2373388687696854,
+        "signed_error": 0.13266113123031475,
+        "absolute_error": 0.13266113123031475
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.3,
+        "official": 2.2953169364240074,
+        "signed_error": 0.004683063575992463,
+        "absolute_error": 0.004683063575992463
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.18,
+        "official": 2.047047898326085,
+        "signed_error": 0.13295210167391502,
+        "absolute_error": 0.13295210167391502
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.96,
+        "official": 2.2313796669551085,
+        "signed_error": -0.2713796669551085,
+        "absolute_error": 0.2713796669551085
+      },
+      {
+        "party": "PSG",
+        "estimate": 1.67,
+        "official": 1.5756191672760365,
+        "signed_error": 0.09438083272396347,
+        "absolute_error": 0.09438083272396347
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 1.47,
+        "official": 1.4261735592698488,
+        "signed_error": 0.043826440730151184,
+        "absolute_error": 0.043826440730151184
+      },
+      {
+        "party": "ZDRAVA",
+        "estimate": 1.18,
+        "official": 1.0377391284915647,
+        "signed_error": 0.14226087150843525,
+        "absolute_error": 0.14226087150843525
+      },
+      {
+        "party": "UDS",
+        "estimate": 1.04,
+        "official": 0.9494684516131435,
+        "signed_error": 0.09053154838685651,
+        "absolute_error": 0.09053154838685651
+      },
+      {
+        "party": "SPP",
+        "estimate": 0.88,
+        "official": 0.9984766790361488,
+        "signed_error": -0.11847667903614878,
+        "absolute_error": 0.11847667903614878
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.77,
+        "official": 0.8205386373540151,
+        "signed_error": -0.05053863735401509,
+        "absolute_error": 0.05053863735401509
+      },
+      {
+        "party": "LEVIJATAN",
+        "estimate": 0.69,
+        "official": 0.7042721269508626,
+        "signed_error": -0.014272126950862662,
+        "absolute_error": 0.014272126950862662
+      },
+      {
+        "party": "JEDAN_OD_PET",
+        "estimate": 0.66,
+        "official": 0.6289751290229267,
+        "signed_error": 0.031024870977073293,
+        "absolute_error": 0.031024870977073293
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.63,
+        "official": 0.7658815832109421,
+        "signed_error": -0.13588158321094213,
+        "absolute_error": 0.13588158321094213
+      },
+      {
+        "party": "MIR",
+        "estimate": 0.32,
+        "official": 0.3152790210024619,
+        "signed_error": 0.0047209789975380945,
+        "absolute_error": 0.0047209789975380945
+      },
+      {
+        "party": "ZELENA_NOVA",
+        "estimate": 0.26,
+        "official": 0.2422477612644433,
+        "signed_error": 0.017752238735556702,
+        "absolute_error": 0.017752238735556702
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.24,
+        "official": 0.19538112199355165,
+        "signed_error": 0.04461887800644834,
+        "absolute_error": 0.04461887800644834
+      },
+      {
+        "party": "NARODNI_BLOK",
+        "estimate": 0.22,
+        "official": 0.24435831190710597,
+        "signed_error": -0.024358311907105967,
+        "absolute_error": 0.024358311907105967
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 21,
+      "mae_pp": 0.08639777187335962,
+      "rmse_pp": 0.11199484682348068,
+      "max_absolute_error_pp": 0.2713796669551085
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPS",
+      "SPAS",
+      "POKS",
+      "DJB",
+      "METLA"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.0995629070310718,
+      "rmse_pp": 0.12494761585734115,
+      "max_absolute_error_pp": 0.2372313920819593
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 62.835448304555854,
+          "official": 63.019833529423906,
+          "signed_error": -0.18438522486805198,
+          "absolute_error": 0.18438522486805198
+        },
+        {
+          "party": "SPS",
+          "estimate": 10.734345745787394,
+          "official": 10.782820659689971,
+          "signed_error": -0.0484749139025773,
+          "absolute_error": 0.0484749139025773
+        },
+        {
+          "party": "SPAS",
+          "estimate": 4.108591637195756,
+          "official": 3.9796388321258283,
+          "signed_error": 0.128952805069928,
+          "absolute_error": 0.128952805069928
+        },
+        {
+          "party": "POKS",
+          "estimate": 2.7251924277095902,
+          "official": 2.7700373604144737,
+          "signed_error": -0.04484493270488343,
+          "absolute_error": 0.04484493270488343
+        },
+        {
+          "party": "METLA",
+          "estimate": 2.4651549823174537,
+          "official": 2.324866606807439,
+          "signed_error": 0.1402883755100146,
+          "absolute_error": 0.1402883755100146
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.392344497607655,
+          "official": 2.385112855285157,
+          "signed_error": 0.007231642322498288,
+          "absolute_error": 0.007231642322498288
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.26752652381943,
+          "official": 2.1271311949140297,
+          "signed_error": 0.14039532890540052,
+          "absolute_error": 0.14039532890540052
+        },
+        {
+          "party": "SVM",
+          "estimate": 2.03869357187435,
+          "official": 2.3186742729167955,
+          "signed_error": -0.27998070104244555,
+          "absolute_error": 0.27998070104244555
+        },
+        {
+          "party": "PSG",
+          "estimate": 1.7370501352194716,
+          "official": 1.6372595310339133,
+          "signed_error": 0.0997906041855583,
+          "absolute_error": 0.0997906041855583
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 1.5290201789057625,
+          "official": 1.4819674076826221,
+          "signed_error": 0.04705277122314033,
+          "absolute_error": 0.04705277122314033
+        },
+        {
+          "party": "ZDRAVA",
+          "estimate": 1.2273767422508841,
+          "official": 1.0783368939253204,
+          "signed_error": 0.14903984832556372,
+          "absolute_error": 0.14903984832556372
+        },
+        {
+          "party": "UDS",
+          "estimate": 1.0817557728312877,
+          "official": 0.9866129481701653,
+          "signed_error": 0.09514282466112234,
+          "absolute_error": 0.09514282466112234
+        },
+        {
+          "party": "SPP",
+          "estimate": 0.9153318077803203,
+          "official": 1.0375384440729045,
+          "signed_error": -0.12220663629258421,
+          "absolute_error": 0.12220663629258421
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.8009153318077803,
+          "official": 0.8526392243069746,
+          "signed_error": -0.05172389249919429,
+          "absolute_error": 0.05172389249919429
+        },
+        {
+          "party": "LEVIJATAN",
+          "estimate": 0.7177033492822966,
+          "official": 0.7318242099614011,
+          "signed_error": -0.014120860679104452,
+          "absolute_error": 0.014120860679104452
+        },
+        {
+          "party": "JEDAN_OD_PET",
+          "estimate": 0.6864988558352403,
+          "official": 0.6535814911140009,
+          "signed_error": 0.032917364721239406,
+          "absolute_error": 0.032917364721239406
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.655294362388184,
+          "official": 0.7958439119037298,
+          "signed_error": -0.14054954951554588,
+          "absolute_error": 0.14054954951554588
+        },
+        {
+          "party": "MIR",
+          "estimate": 0.3328479301019347,
+          "official": 0.3276131649018515,
+          "signed_error": 0.005234765200083202,
+          "absolute_error": 0.005234765200083202
+        },
+        {
+          "party": "ZELENA_NOVA",
+          "estimate": 0.2704389432078219,
+          "official": 0.2517248230024563,
+          "signed_error": 0.018714120205365614,
+          "absolute_error": 0.018714120205365614
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.249635947576451,
+          "official": 0.20302469709166718,
+          "signed_error": 0.04661125048478382,
+          "absolute_error": 0.04661125048478382
+        },
+        {
+          "party": "NARODNI_BLOK",
+          "estimate": 0.22883295194508008,
+          "official": 0.25391794125539247,
+          "signed_error": -0.02508498931031239,
+          "absolute_error": 0.02508498931031239
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.09236298239632561,
+        "rmse_pp": 0.11159506209665086,
+        "max_absolute_error_pp": 0.18438522486805198
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.56376277168865,
+        "rmse_pp": 1.0845970761490886,
+        "max_absolute_error_pp": 2.6098335294239092
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.11020129006080974,
+        "rmse_pp": 0.14452370184062208,
+        "max_absolute_error_pp": 0.2964887970937937
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.0995629070310718,
+        "rmse_pp": 0.12494761585734115,
+        "max_absolute_error_pp": 0.2372313920819593
+      }
+    },
+    "post_url": "https://x.com/crtars/status/1275018957607575552",
+    "created_at_belgrade": "2020-06-22T12:53:02+02:00",
+    "available_at_belgrade": "2020-06-22T12:53:02+02:00"
+  },
+  {
+    "post_id": "1275014360839135241",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 3.85
+    },
+    "claim_id": "1275014360839135241:invalid_ballot_share",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "basis": "ballots_cast",
+    "reported_error_pp": 0.18,
+    "note": "Shown on every ranked panel; one copy retained. Denominator inferred.",
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 3.85,
+      "official": 3.6708201256196866,
+      "signed_error": 0.17917987438031346,
+      "absolute_error": 0.17917987438031346
+    },
+    "post_url": "https://x.com/crtars/status/1275014360839135241",
+    "source_post_ids": [
+      "1275014360839135241"
+    ],
+    "created_at_belgrade": "2020-06-22T12:34:46+02:00",
+    "available_at_belgrade": "2020-06-22T12:34:46+02:00"
+  },
+  {
+    "post_id": "1275015905072816128",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 49
+    },
+    "claim_id": "1275015905072816128:turnout",
+    "account": "crtars",
+    "year": "2020",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2020/10/Parlamentarni-izbori-2020_Crta_Zavrsni-izvestaj.pdf",
+    "note": "Final turnout headline. Compare matching territorial scope where available; final official subset still includes reruns. Historical 2016 value and intraday series are not forecasts for this benchmark.",
+    "unit": "percentage_points",
+    "scope_reference": {
+      "registered_voters": 6467129,
+      "voters_who_turned_out": 3150407,
+      "source_cells": "Резултати!C5:D6",
+      "scope": "Central Serbia plus Vojvodina; excludes separately reported Kosovo, abroad and prison rows"
+    },
+    "comparison": {
+      "party": "turnout",
+      "estimate": 49,
+      "official": 48.71415120991092,
+      "signed_error": 0.2858487900890765,
+      "absolute_error": 0.2858487900890765
+    },
+    "post_url": "https://x.com/crtars/status/1275015905072816128",
+    "source_post_ids": [
+      "1275015905072816128"
+    ],
+    "created_at_belgrade": "2020-06-22T12:40:55+02:00",
+    "available_at_belgrade": "2020-06-22T12:40:55+02:00"
+  },
+  {
+    "post_id": "1510747898912415748",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 43.4,
+      "UJEDINJENI": 12.9,
+      "SPS": 11.5,
+      "NADA": 5.2,
+      "MORAMO": 4.3,
+      "DVERI": 4,
+      "ZAVETNICI": 3.9,
+      "DJB": 2.4,
+      "SRS": 2.2,
+      "SDS": 1.7,
+      "SVM": 1.6,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.6,
+      "RUSKI_SAVEZ": 0.2,
+      "KAD": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "claim_id": "1510747898912415748:vote_share",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "sample_processed_pct": 90,
+    "reported_error_pp": {
+      "SNS": 1.3,
+      "UJEDINJENI": 0.9,
+      "SPS": 0.5,
+      "NADA": 0.2,
+      "MORAMO": 0.4,
+      "DVERI": 0.2,
+      "ZAVETNICI": 0.2,
+      "DJB": 0.4,
+      "SRS": 0.1,
+      "SDS": 0.1,
+      "SVM": 0.6,
+      "SPP": 0.5,
+      "OTETE_BEBE": 0.1,
+      "VOJVODJANI": 0.2,
+      "SDA": 0.4,
+      "RUSKI_SAVEZ": 0.1,
+      "KAD": 0.2,
+      "ROMSKA": 0.1,
+      "ADA": 0.1
+    },
+    "note": "Ballots-cast basis inferred from party total plus invalid shares; valid-normalized sensitivity retained. Graph labels determine parliamentary scope.",
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 96.9,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 43.4,
+        "official": 42.96057592517177,
+        "signed_error": 0.4394240748282314,
+        "absolute_error": 0.4394240748282314
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 12.9,
+        "official": 13.674780940870455,
+        "signed_error": -0.7747809408704551,
+        "absolute_error": 0.7747809408704551
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.5,
+        "official": 11.436371040842868,
+        "signed_error": 0.06362895915713196,
+        "absolute_error": 0.06362895915713196
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.2,
+        "official": 5.371553185060627,
+        "signed_error": -0.17155318506062667,
+        "absolute_error": 0.17155318506062667
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.3,
+        "official": 4.696023436371041,
+        "signed_error": -0.3960234363710411,
+        "absolute_error": 0.3960234363710411
+      },
+      {
+        "party": "DVERI",
+        "estimate": 4,
+        "official": 3.803470789926564,
+        "signed_error": 0.19652921007343593,
+        "absolute_error": 0.19652921007343593
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.9,
+        "official": 3.71059234639587,
+        "signed_error": 0.18940765360413003,
+        "absolute_error": 0.18940765360413003
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.4,
+        "official": 2.2690716096740715,
+        "signed_error": 0.1309283903259284,
+        "absolute_error": 0.1309283903259284
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.2,
+        "official": 2.156198683674676,
+        "signed_error": 0.04380131632532436,
+        "absolute_error": 0.04380131632532436
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.6,
+        "official": 1.5846612629891883,
+        "signed_error": 0.015338737010811787,
+        "absolute_error": 0.015338737010811787
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.5400086704063267,
+        "signed_error": 0.05999132959367326,
+        "absolute_error": 0.05999132959367326
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0.2,
+        "official": 0.2514155095177415,
+        "signed_error": -0.05141550951774149,
+        "absolute_error": 0.05141550951774149
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.2,
+        "official": 0.267074788823058,
+        "signed_error": -0.067074788823058,
+        "absolute_error": 0.067074788823058
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.1485596685056131,
+      "rmse_pp": 0.24048734856811865,
+      "max_absolute_error_pp": 0.7747809408704551
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.3403233010601537,
+      "rmse_pp": 0.4127784830046735,
+      "max_absolute_error_pp": 0.7747809408704551
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 44.788441692466456,
+          "official": 44.27175165595907,
+          "signed_error": 0.5166900365073843,
+          "absolute_error": 0.5166900365073843
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 13.312693498452012,
+          "official": 14.09214128829067,
+          "signed_error": -0.7794477898386578,
+          "absolute_error": 0.7794477898386578
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.867905056759545,
+          "official": 11.785414130561922,
+          "signed_error": 0.08249092619762344,
+          "absolute_error": 0.08249092619762344
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.366357069143446,
+          "official": 5.535495358116041,
+          "signed_error": -0.16913828897259453,
+          "absolute_error": 0.16913828897259453
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.4375644994840036,
+          "official": 4.839348143463023,
+          "signed_error": -0.40178364397901944,
+          "absolute_error": 0.40178364397901944
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.127966976264189,
+          "official": 3.9195543964684427,
+          "signed_error": 0.20841257979574657,
+          "absolute_error": 0.20841257979574657
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 4.0247678018575845,
+          "official": 3.8238412618646382,
+          "signed_error": 0.2009265399929463,
+          "absolute_error": 0.2009265399929463
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.4767801857585137,
+          "official": 2.338324676281121,
+          "signed_error": 0.1384555094773927,
+          "absolute_error": 0.1384555094773927
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.2703818369453046,
+          "official": 2.22200681878241,
+          "signed_error": 0.0483750181628948,
+          "absolute_error": 0.0483750181628948
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.7543859649122806,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03344485163991484,
+          "absolute_error": 0.03344485163991484
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.6511867905056758,
+          "official": 1.6330258238640056,
+          "signed_error": 0.018160966641670218,
+          "absolute_error": 0.018160966641670218
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0319917440660473,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06132247234146726,
+          "absolute_error": 0.06132247234146726
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8255933952528379,
+          "official": 0.8446582594343096,
+          "signed_error": -0.019064864181471686,
+          "absolute_error": 0.019064864181471686
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7223942208462332,
+          "official": 0.6504702533866474,
+          "signed_error": 0.07192396745958574,
+          "absolute_error": 0.07192396745958574
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6191950464396284,
+          "official": 0.5564899732707195,
+          "signed_error": 0.06270507316890894,
+          "absolute_error": 0.06270507316890894
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.20639834881320948,
+          "official": 0.25908882178891235,
+          "signed_error": -0.05269047297570287,
+          "absolute_error": 0.05269047297570287
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.20639834881320948,
+          "official": 0.2752260292072624,
+          "signed_error": -0.06882768039405293,
+          "absolute_error": 0.06882768039405293
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.20639834881320948,
+          "official": 0.17309591782804018,
+          "signed_error": 0.0333024309851693,
+          "absolute_error": 0.0333024309851693
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10319917440660474,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014742367970783168,
+          "absolute_error": 0.014742367970783168
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.359660544215171,
+        "rmse_pp": 0.43104250846021885,
+        "max_absolute_error_pp": 0.7794477898386578
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.5507660299870475,
+        "rmse_pp": 0.6674001894342351,
+        "max_absolute_error_pp": 1.192141288290669
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.3403233010601537,
+        "rmse_pp": 0.4127784830046735,
+        "max_absolute_error_pp": 0.7747809408704551
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.34711895288853895,
+        "rmse_pp": 0.4167230313811435,
+        "max_absolute_error_pp": 0.7585996962650352
+      }
+    },
+    "post_url": "https://x.com/crtars/status/1510747898912415748",
+    "source_post_ids": [
+      "1510747898912415748"
+    ],
+    "created_at_belgrade": "2022-04-04T00:35:42+02:00",
+    "available_at_belgrade": "2022-04-04T00:35:42+02:00"
+  },
+  {
+    "post_id": "1510747898912415748",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 59.3
+    },
+    "claim_id": "1510747898912415748:turnout",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "sample_processed_pct": 90,
+    "reported_error_pp": 1,
+    "comparable": false,
+    "note": "No official reference subtotal matching CRTA excluded territories is supplied for 2022; retain extraction and do not score against the broader national turnout.",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/crtars/status/1510747898912415748",
+    "source_post_ids": [
+      "1510747898912415748"
+    ],
+    "created_at_belgrade": "2022-04-04T00:35:42+02:00",
+    "available_at_belgrade": "2022-04-04T00:35:42+02:00"
+  },
+  {
+    "post_id": "1510747898912415748",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 3.1
+    },
+    "claim_id": "1510747898912415748:invalid_ballot_share",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "basis": "ballots_cast",
+    "sample_processed_pct": 90,
+    "reported_error_pp": 0.1,
+    "note": "Supplementary national-benchmark comparison only; denominator inferred and sample territory differs.",
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 3.1,
+      "official": 2.9616531574729708,
+      "signed_error": 0.13834684252702933,
+      "absolute_error": 0.13834684252702933
+    },
+    "post_url": "https://x.com/crtars/status/1510747898912415748",
+    "source_post_ids": [
+      "1510747898912415748"
+    ],
+    "created_at_belgrade": "2022-04-04T00:35:42+02:00",
+    "available_at_belgrade": "2022-04-04T00:35:42+02:00"
+  },
+  {
+    "post_id": "1510972458236579840",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 42.3,
+      "UJEDINJENI": 14.2,
+      "SPS": 11.1,
+      "NADA": 5.4,
+      "MORAMO": 4.7,
+      "DVERI": 3.9,
+      "ZAVETNICI": 3.8,
+      "DJB": 2.4,
+      "SRS": 2.2,
+      "SDS": 1.7,
+      "SVM": 1.4,
+      "SPP": 1,
+      "OTETE_BEBE": 0.8,
+      "VOJVODJANI": 0.7,
+      "SDA": 0.7,
+      "RUSKI_SAVEZ": 0,
+      "KAD": 0.2,
+      "ROMSKA": 0.2,
+      "ADA": 0.1
+    },
+    "claim_id": "1510972458236579840:vote_share",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "sample_processed_pct": 99,
+    "reported_error_pp": {
+      "SNS": 1.3,
+      "UJEDINJENI": 1,
+      "SPS": 0.4,
+      "NADA": 0.2,
+      "MORAMO": 0.4,
+      "DVERI": 0.2,
+      "ZAVETNICI": 0.2,
+      "DJB": 0.3,
+      "SRS": 0.1,
+      "SDS": 0.1,
+      "SVM": 0.5,
+      "SPP": 0.5,
+      "OTETE_BEBE": 0.1,
+      "VOJVODJANI": 0.2,
+      "SDA": 0.4,
+      "RUSKI_SAVEZ": 0.1,
+      "KAD": 0.2,
+      "ROMSKA": 0.1,
+      "ADA": 0.1
+    },
+    "note": "Ballots-cast basis inferred from party total plus invalid shares; valid-normalized sensitivity retained. Graph labels determine parliamentary scope.",
+    "transcription_caveat": "Russian minority alliance row in saved third image visibly reads only 0, without a percent sign or decimal. Literal 0 retained rather than inventing a missing .2. Treat normalized all-list sensitivity cautiously; top-six raw shares are legible.",
+    "ambiguous_values": {
+      "RUSKI_SAVEZ": {
+        "literal_text": "0",
+        "retained_value": 0,
+        "reason": "Possible truncated/unfinished chart label; no unsaved correction substituted."
+      }
+    },
+    "unit": "percentage_points",
+    "denominator": 3806050,
+    "chart_sum_pct": 96.8,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 42.3,
+        "official": 42.96057592517177,
+        "signed_error": -0.66057592517177,
+        "absolute_error": 0.66057592517177
+      },
+      {
+        "party": "UJEDINJENI",
+        "estimate": 14.2,
+        "official": 13.674780940870455,
+        "signed_error": 0.5252190591295438,
+        "absolute_error": 0.5252190591295438
+      },
+      {
+        "party": "SPS",
+        "estimate": 11.1,
+        "official": 11.436371040842868,
+        "signed_error": -0.3363710408428684,
+        "absolute_error": 0.3363710408428684
+      },
+      {
+        "party": "NADA",
+        "estimate": 5.4,
+        "official": 5.371553185060627,
+        "signed_error": 0.02844681493937351,
+        "absolute_error": 0.02844681493937351
+      },
+      {
+        "party": "MORAMO",
+        "estimate": 4.7,
+        "official": 4.696023436371041,
+        "signed_error": 0.003976563628959262,
+        "absolute_error": 0.003976563628959262
+      },
+      {
+        "party": "DVERI",
+        "estimate": 3.9,
+        "official": 3.803470789926564,
+        "signed_error": 0.09652921007343584,
+        "absolute_error": 0.09652921007343584
+      },
+      {
+        "party": "ZAVETNICI",
+        "estimate": 3.8,
+        "official": 3.71059234639587,
+        "signed_error": 0.08940765360412994,
+        "absolute_error": 0.08940765360412994
+      },
+      {
+        "party": "DJB",
+        "estimate": 2.4,
+        "official": 2.2690716096740715,
+        "signed_error": 0.1309283903259284,
+        "absolute_error": 0.1309283903259284
+      },
+      {
+        "party": "SRS",
+        "estimate": 2.2,
+        "official": 2.156198683674676,
+        "signed_error": 0.04380131632532436,
+        "absolute_error": 0.04380131632532436
+      },
+      {
+        "party": "SDS",
+        "estimate": 1.7,
+        "official": 1.6699728064528843,
+        "signed_error": 0.030027193547115694,
+        "absolute_error": 0.030027193547115694
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.4,
+        "official": 1.5846612629891883,
+        "signed_error": -0.1846612629891884,
+        "absolute_error": 0.1846612629891884
+      },
+      {
+        "party": "SPP",
+        "estimate": 1,
+        "official": 0.9419214145899292,
+        "signed_error": 0.05807858541007083,
+        "absolute_error": 0.05807858541007083
+      },
+      {
+        "party": "OTETE_BEBE",
+        "estimate": 0.8,
+        "official": 0.8196424114239171,
+        "signed_error": -0.019642411423917094,
+        "absolute_error": 0.019642411423917094
+      },
+      {
+        "party": "VOJVODJANI",
+        "estimate": 0.7,
+        "official": 0.6312055805887994,
+        "signed_error": 0.06879441941120057,
+        "absolute_error": 0.06879441941120057
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.7,
+        "official": 0.5400086704063267,
+        "signed_error": 0.15999132959367324,
+        "absolute_error": 0.15999132959367324
+      },
+      {
+        "party": "RUSKI_SAVEZ",
+        "estimate": 0,
+        "official": 0.2514155095177415,
+        "signed_error": -0.2514155095177415,
+        "absolute_error": 0.2514155095177415
+      },
+      {
+        "party": "KAD",
+        "estimate": 0.2,
+        "official": 0.267074788823058,
+        "signed_error": -0.067074788823058,
+        "absolute_error": 0.067074788823058
+      },
+      {
+        "party": "ROMSKA",
+        "estimate": 0.2,
+        "official": 0.1679694171122292,
+        "signed_error": 0.0320305828877708,
+        "absolute_error": 0.0320305828877708
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0858370226350153,
+        "signed_error": 0.014162977364984702,
+        "absolute_error": 0.014162977364984702
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 19,
+      "mae_pp": 0.14742815973737128,
+      "rmse_pp": 0.22948272867691683,
+      "max_absolute_error_pp": 0.66057592517177
+    },
+    "top_six_lists": [
+      "SNS",
+      "UJEDINJENI",
+      "SPS",
+      "NADA",
+      "MORAMO",
+      "DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.2751864356309918,
+      "rmse_pp": 0.3731630592745995,
+      "max_absolute_error_pp": 0.66057592517177
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 43.69834710743802,
+          "official": 44.27175165595907,
+          "signed_error": -0.5734045485210544,
+          "absolute_error": 0.5734045485210544
+        },
+        {
+          "party": "UJEDINJENI",
+          "estimate": 14.669421487603307,
+          "official": 14.09214128829067,
+          "signed_error": 0.5772801993126375,
+          "absolute_error": 0.5772801993126375
+        },
+        {
+          "party": "SPS",
+          "estimate": 11.466942148760332,
+          "official": 11.785414130561922,
+          "signed_error": -0.31847198180159,
+          "absolute_error": 0.31847198180159
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.578512396694215,
+          "official": 5.535495358116041,
+          "signed_error": 0.043017038578174294,
+          "absolute_error": 0.043017038578174294
+        },
+        {
+          "party": "MORAMO",
+          "estimate": 4.855371900826446,
+          "official": 4.839348143463023,
+          "signed_error": 0.016023757363423208,
+          "absolute_error": 0.016023757363423208
+        },
+        {
+          "party": "DVERI",
+          "estimate": 4.028925619834711,
+          "official": 3.9195543964684427,
+          "signed_error": 0.10937122336626803,
+          "absolute_error": 0.10937122336626803
+        },
+        {
+          "party": "ZAVETNICI",
+          "estimate": 3.925619834710744,
+          "official": 3.8238412618646382,
+          "signed_error": 0.10177857284610559,
+          "absolute_error": 0.10177857284610559
+        },
+        {
+          "party": "DJB",
+          "estimate": 2.479338842975207,
+          "official": 2.338324676281121,
+          "signed_error": 0.14101416669408584,
+          "absolute_error": 0.14101416669408584
+        },
+        {
+          "party": "SRS",
+          "estimate": 2.272727272727273,
+          "official": 2.22200681878241,
+          "signed_error": 0.05072045394486313,
+          "absolute_error": 0.05072045394486313
+        },
+        {
+          "party": "SDS",
+          "estimate": 1.756198347107438,
+          "official": 1.7209411132723658,
+          "signed_error": 0.03525723383507229,
+          "absolute_error": 0.03525723383507229
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.4462809917355373,
+          "official": 1.6330258238640056,
+          "signed_error": -0.18674483212846837,
+          "absolute_error": 0.18674483212846837
+        },
+        {
+          "party": "SPP",
+          "estimate": 1.0330578512396695,
+          "official": 0.9706692717245801,
+          "signed_error": 0.06238857951508947,
+          "absolute_error": 0.06238857951508947
+        },
+        {
+          "party": "OTETE_BEBE",
+          "estimate": 0.8264462809917356,
+          "official": 0.8446582594343096,
+          "signed_error": -0.01821197844257405,
+          "absolute_error": 0.01821197844257405
+        },
+        {
+          "party": "VOJVODJANI",
+          "estimate": 0.7231404958677686,
+          "official": 0.6504702533866474,
+          "signed_error": 0.0726702424811212,
+          "absolute_error": 0.0726702424811212
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.7231404958677686,
+          "official": 0.5564899732707195,
+          "signed_error": 0.16665052259704916,
+          "absolute_error": 0.16665052259704916
+        },
+        {
+          "party": "RUSKI_SAVEZ",
+          "estimate": 0.0,
+          "official": 0.25908882178891235,
+          "signed_error": -0.25908882178891235,
+          "absolute_error": 0.25908882178891235
+        },
+        {
+          "party": "KAD",
+          "estimate": 0.2066115702479339,
+          "official": 0.2752260292072624,
+          "signed_error": -0.06861445895932852,
+          "absolute_error": 0.06861445895932852
+        },
+        {
+          "party": "ROMSKA",
+          "estimate": 0.2066115702479339,
+          "official": 0.17309591782804018,
+          "signed_error": 0.03351565241989371,
+          "absolute_error": 0.03351565241989371
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10330578512396695,
+          "official": 0.08845680643582157,
+          "signed_error": 0.014848978688145373,
+          "absolute_error": 0.014848978688145373
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.2729281248238579,
+        "rmse_pp": 0.3599858559453915,
+        "max_absolute_error_pp": 0.5772801993126375
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.5099037327129722,
+        "rmse_pp": 0.8570676652032534,
+        "max_absolute_error_pp": 1.9717516559590749
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.2751864356309918,
+        "rmse_pp": 0.3731630592745995,
+        "max_absolute_error_pp": 0.66057592517177
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.2698909879976497,
+        "rmse_pp": 0.3607012373120283,
+        "max_absolute_error_pp": 0.6097410642375607
+      }
+    },
+    "post_url": "https://x.com/crtars/status/1510972458236579840",
+    "source_post_ids": [
+      "1510972458236579840"
+    ],
+    "created_at_belgrade": "2022-04-04T15:28:01+02:00",
+    "available_at_belgrade": "2022-04-04T15:28:01+02:00"
+  },
+  {
+    "post_id": "1510972458236579840",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 58.7
+    },
+    "claim_id": "1510972458236579840:turnout",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "sample_processed_pct": 99,
+    "reported_error_pp": 1,
+    "comparable": false,
+    "note": "No official reference subtotal matching CRTA excluded territories is supplied for 2022; retain extraction and do not score against the broader national turnout.",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/crtars/status/1510972458236579840",
+    "source_post_ids": [
+      "1510972458236579840"
+    ],
+    "created_at_belgrade": "2022-04-04T15:28:01+02:00",
+    "available_at_belgrade": "2022-04-04T15:28:01+02:00"
+  },
+  {
+    "post_id": "1510972458236579840",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 3
+    },
+    "claim_id": "1510972458236579840:invalid_ballot_share",
+    "account": "crtars",
+    "year": "2022",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2022/04/Preliminarni-izvestaj-o-izbornom-danu-2022.pdf",
+    "basis": "ballots_cast",
+    "sample_processed_pct": 99,
+    "reported_error_pp": 0.1,
+    "note": "Supplementary national-benchmark comparison only; denominator inferred and sample territory differs.",
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 3,
+      "official": 2.9616531574729708,
+      "signed_error": 0.038346842527029246,
+      "absolute_error": 0.038346842527029246
+    },
+    "post_url": "https://x.com/crtars/status/1510972458236579840",
+    "source_post_ids": [
+      "1510972458236579840"
+    ],
+    "created_at_belgrade": "2022-04-04T15:28:01+02:00",
+    "available_at_belgrade": "2022-04-04T15:28:01+02:00"
+  },
+  {
+    "post_id": "1736526322761883686",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 46.9,
+      "SPN": 23.1,
+      "SPS": 6.7,
+      "NADA": 5,
+      "MI": 4.6,
+      "ZAV_DVERI": 2.9,
+      "SVM": 1.9,
+      "SRS": 1.5,
+      "DJB_SDS": 1.2,
+      "NS": 0.9,
+      "SPP_DSHV": 0.7,
+      "SDA": 0.6,
+      "PDD": 0.4,
+      "RUSKA": 0.3,
+      "LDP": 0.3,
+      "MIR_TOLERANCIJA": 0.2,
+      "SRBIJA_ZAPAD": 0.2,
+      "ADA": 0.1
+    },
+    "claim_id": "1736526322761883686:vote_share",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "sample_processed_pct": 95,
+    "reported_error_pp": {
+      "SNS": 1.4,
+      "SPN": 1.4,
+      "SPS": 0.4,
+      "NADA": 0.2,
+      "MI": 0.2,
+      "ZAV_DVERI": 0.2,
+      "SVM": 0.7,
+      "SRS": 0.1,
+      "DJB_SDS": 0.1,
+      "NS": 0.1,
+      "SPP_DSHV": 0.4,
+      "SDA": 0.3,
+      "PDD": 0.3
+    },
+    "reported_error_upper_bound_pp": {
+      "RUSKA": 0.1,
+      "LDP": 0.1,
+      "MIR_TOLERANCIJA": 0.1,
+      "SRBIJA_ZAPAD": 0.1,
+      "ADA": 0.1
+    },
+    "note": "Ballots-cast basis inferred from party total plus 2.8% invalid. Error labels below 0.1 retained as bounds, not as exact 0.1. This is CRTA own sample projection, not RIK republication.",
+    "unit": "percentage_points",
+    "denominator": 3815007,
+    "chart_sum_pct": 97.5,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 46.9,
+        "official": 46.754855233555276,
+        "signed_error": 0.14514476644472296,
+        "absolute_error": 0.14514476644472296
+      },
+      {
+        "party": "SPN",
+        "estimate": 23.1,
+        "official": 23.655264590602325,
+        "signed_error": -0.5552645906023237,
+        "absolute_error": 0.5552645906023237
+      },
+      {
+        "party": "SPS",
+        "estimate": 6.7,
+        "official": 6.55086609277519,
+        "signed_error": 0.1491339072248099,
+        "absolute_error": 0.1491339072248099
+      },
+      {
+        "party": "NADA",
+        "estimate": 5,
+        "official": 5.017841382728786,
+        "signed_error": -0.017841382728786215,
+        "absolute_error": 0.017841382728786215
+      },
+      {
+        "party": "MI",
+        "estimate": 4.6,
+        "official": 4.687540547107777,
+        "signed_error": -0.08754054710777748,
+        "absolute_error": 0.08754054710777748
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 2.9,
+        "official": 2.756613552740532,
+        "signed_error": 0.1433864472594677,
+        "absolute_error": 0.1433864472594677
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.9,
+        "official": 1.6971659553966743,
+        "signed_error": 0.20283404460332566,
+        "absolute_error": 0.20283404460332566
+      },
+      {
+        "party": "SRS",
+        "estimate": 1.5,
+        "official": 1.462172939656467,
+        "signed_error": 0.03782706034353289,
+        "absolute_error": 0.03782706034353289
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 1.2,
+        "official": 1.1816229957114102,
+        "signed_error": 0.018377004288589793,
+        "absolute_error": 0.018377004288589793
+      },
+      {
+        "party": "NS",
+        "estimate": 0.9,
+        "official": 0.8751753273322959,
+        "signed_error": 0.024824672667704162,
+        "absolute_error": 0.024824672667704162
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 0.7,
+        "official": 0.7618858890691419,
+        "signed_error": -0.06188588906914194,
+        "absolute_error": 0.06188588906914194
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.5721352542734521,
+        "signed_error": 0.027864745726547846,
+        "absolute_error": 0.027864745726547846
+      },
+      {
+        "party": "PDD",
+        "estimate": 0.4,
+        "official": 0.3538918801459604,
+        "signed_error": 0.04610811985403962,
+        "absolute_error": 0.04610811985403962
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.3,
+        "official": 0.2980073168935208,
+        "signed_error": 0.0019926831064792094,
+        "absolute_error": 0.0019926831064792094
+      },
+      {
+        "party": "LDP",
+        "estimate": 0.3,
+        "official": 0.24228002727124748,
+        "signed_error": 0.05771997272875251,
+        "absolute_error": 0.05771997272875251
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0.2,
+        "official": 0.17787647571813106,
+        "signed_error": 0.02212352428186895,
+        "absolute_error": 0.02212352428186895
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0.2,
+        "official": 0.1431714279947586,
+        "signed_error": 0.05682857200524141,
+        "absolute_error": 0.05682857200524141
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0847966989313519,
+        "signed_error": 0.015203301068648103,
+        "absolute_error": 0.015203301068648103
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 18,
+      "mae_pp": 0.09288340172843111,
+      "rmse_pp": 0.15594023977068022,
+      "max_absolute_error_pp": 0.5552645906023237
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "NADA",
+      "MI",
+      "ZAV_DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.18305194022798132,
+      "rmse_pp": 0.2517167808836265,
+      "max_absolute_error_pp": 0.5552645906023237
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 48.1025641025641,
+          "official": 48.06552342805589,
+          "signed_error": 0.037040674508212135,
+          "absolute_error": 0.037040674508212135
+        },
+        {
+          "party": "SPN",
+          "estimate": 23.692307692307693,
+          "official": 24.318387228380228,
+          "signed_error": -0.6260795360725346,
+          "absolute_error": 0.6260795360725346
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.871794871794871,
+          "official": 6.734505028054599,
+          "signed_error": 0.1372898437402723,
+          "absolute_error": 0.1372898437402723
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.128205128205129,
+          "official": 5.158505385911746,
+          "signed_error": -0.030300257706617373,
+          "absolute_error": 0.030300257706617373
+        },
+        {
+          "party": "MI",
+          "estimate": 4.717948717948717,
+          "official": 4.818945302289585,
+          "signed_error": -0.10099658434086756,
+          "absolute_error": 0.10099658434086756
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.9743589743589745,
+          "official": 2.8338890718295824,
+          "signed_error": 0.14046990252939207,
+          "absolute_error": 0.14046990252939207
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.9487179487179487,
+          "official": 1.7447422215922594,
+          "signed_error": 0.20397572712568923,
+          "absolute_error": 0.20397572712568923
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.5384615384615385,
+          "official": 1.5031617002310442,
+          "signed_error": 0.03529983823049432,
+          "absolute_error": 0.03529983823049432
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2307692307692308,
+          "official": 1.2147471636856915,
+          "signed_error": 0.01602206708353937,
+          "absolute_error": 0.01602206708353937
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9230769230769231,
+          "official": 0.899708917703096,
+          "signed_error": 0.023368005373827105,
+          "absolute_error": 0.023368005373827105
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.717948717948718,
+          "official": 0.7832436624523239,
+          "signed_error": -0.06529494450360596,
+          "absolute_error": 0.06529494450360596
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6153846153846154,
+          "official": 0.5881737913832957,
+          "signed_error": 0.02721082400131969,
+          "absolute_error": 0.02721082400131969
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.41025641025641024,
+          "official": 0.36381245051843475,
+          "signed_error": 0.04644395973797549,
+          "absolute_error": 0.04644395973797549
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.3076923076923077,
+          "official": 0.30636128804859525,
+          "signed_error": 0.001331019643712461,
+          "absolute_error": 0.001331019643712461
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.3076923076923077,
+          "official": 0.24907180802473095,
+          "signed_error": 0.058620499667576764,
+          "absolute_error": 0.058620499667576764
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.20512820512820512,
+          "official": 0.18286284639790373,
+          "signed_error": 0.022265358730301388,
+          "absolute_error": 0.022265358730301388
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.20512820512820512,
+          "official": 0.14718491998605218,
+          "signed_error": 0.05794328514215294,
+          "absolute_error": 0.05794328514215294
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10256410256410256,
+          "official": 0.08717378545493937,
+          "signed_error": 0.015390317109163193,
+          "absolute_error": 0.015390317109163193
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.17869613314964936,
+        "rmse_pp": 0.27173709948934044,
+        "max_absolute_error_pp": 0.6260795360725346
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.47699621681041093,
+        "rmse_pp": 0.6977982700572708,
+        "max_absolute_error_pp": 1.2183872283802266
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.18305194022798132,
+        "rmse_pp": 0.2517167808836265,
+        "max_absolute_error_pp": 0.5552645906023237
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.18873516672747467,
+        "rmse_pp": 0.2483717848194235,
+        "max_absolute_error_pp": 0.5197329003288864
+      }
+    },
+    "post_url": "https://x.com/crtars/status/1736526322761883686",
+    "source_post_ids": [
+      "1736526322761883686"
+    ],
+    "created_at_belgrade": "2023-12-18T00:18:33+01:00",
+    "available_at_belgrade": "2023-12-18T00:18:33+01:00"
+  },
+  {
+    "post_id": "1736526322761883686",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 59.1
+    },
+    "claim_id": "1736526322761883686:turnout",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "sample_processed_pct": 95,
+    "reported_error_pp": 0.9,
+    "comparable": false,
+    "note": "No matching territorial subtotal in supplied 2023 official reference; retain extraction, do not score against broader national turnout.",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/crtars/status/1736526322761883686",
+    "source_post_ids": [
+      "1736526322761883686"
+    ],
+    "created_at_belgrade": "2023-12-18T00:18:33+01:00",
+    "available_at_belgrade": "2023-12-18T00:18:33+01:00"
+  },
+  {
+    "post_id": "1736526322761883686",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 2.8
+    },
+    "claim_id": "1736526322761883686:invalid_ballot_share",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "basis": "ballots_cast",
+    "sample_processed_pct": 95,
+    "reported_error_pp": 0.1,
+    "note": "Supplementary national-benchmark comparison; denominator inferred, geographic scope differs.",
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 2.8,
+      "official": 2.726836412095705,
+      "signed_error": 0.07316358790429467,
+      "absolute_error": 0.07316358790429467
+    },
+    "post_url": "https://x.com/crtars/status/1736526322761883686",
+    "source_post_ids": [
+      "1736526322761883686"
+    ],
+    "created_at_belgrade": "2023-12-18T00:18:33+01:00",
+    "available_at_belgrade": "2023-12-18T00:18:33+01:00"
+  },
+  {
+    "post_id": "1736730489866670440",
+    "kind": "vote_share",
+    "values": {
+      "SNS": 46.5,
+      "SPN": 23.7,
+      "SPS": 6.7,
+      "NADA": 5,
+      "MI": 4.7,
+      "ZAV_DVERI": 2.9,
+      "SVM": 1.7,
+      "SRS": 1.5,
+      "DJB_SDS": 1.2,
+      "NS": 0.9,
+      "SPP_DSHV": 0.7,
+      "SDA": 0.6,
+      "PDD": 0.3,
+      "RUSKA": 0.3,
+      "LDP": 0.3,
+      "MIR_TOLERANCIJA": 0.2,
+      "SRBIJA_ZAPAD": 0.2,
+      "ADA": 0.1
+    },
+    "claim_id": "1736730489866670440:vote_share",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": true,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "basis": "ballots_cast",
+    "basis_explicit": false,
+    "sample_processed_pct": 100,
+    "reported_error_pp": {
+      "SNS": 1.3,
+      "SPN": 1.4,
+      "SPS": 0.4,
+      "NADA": 0.2,
+      "MI": 0.2,
+      "ZAV_DVERI": 0.2,
+      "SVM": 0.6,
+      "SRS": 0.1,
+      "DJB_SDS": 0.1,
+      "NS": 0.1,
+      "SPP_DSHV": 0.3,
+      "SDA": 0.3,
+      "PDD": 0.3
+    },
+    "reported_error_upper_bound_pp": {
+      "RUSKA": 0.1,
+      "LDP": 0.1,
+      "MIR_TOLERANCIJA": 0.1,
+      "SRBIJA_ZAPAD": 0.1,
+      "ADA": 0.1
+    },
+    "note": "Ballots-cast basis inferred from party total plus 2.8% invalid. Error labels below 0.1 retained as bounds, not as exact 0.1. This is CRTA own sample projection, not RIK republication.",
+    "unit": "percentage_points",
+    "denominator": 3815007,
+    "chart_sum_pct": 97.5,
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 46.5,
+        "official": 46.754855233555276,
+        "signed_error": -0.2548552335552756,
+        "absolute_error": 0.2548552335552756
+      },
+      {
+        "party": "SPN",
+        "estimate": 23.7,
+        "official": 23.655264590602325,
+        "signed_error": 0.044735409397674175,
+        "absolute_error": 0.044735409397674175
+      },
+      {
+        "party": "SPS",
+        "estimate": 6.7,
+        "official": 6.55086609277519,
+        "signed_error": 0.1491339072248099,
+        "absolute_error": 0.1491339072248099
+      },
+      {
+        "party": "NADA",
+        "estimate": 5,
+        "official": 5.017841382728786,
+        "signed_error": -0.017841382728786215,
+        "absolute_error": 0.017841382728786215
+      },
+      {
+        "party": "MI",
+        "estimate": 4.7,
+        "official": 4.687540547107777,
+        "signed_error": 0.012459452892223055,
+        "absolute_error": 0.012459452892223055
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 2.9,
+        "official": 2.756613552740532,
+        "signed_error": 0.1433864472594677,
+        "absolute_error": 0.1433864472594677
+      },
+      {
+        "party": "SVM",
+        "estimate": 1.7,
+        "official": 1.6971659553966743,
+        "signed_error": 0.0028340446033257027,
+        "absolute_error": 0.0028340446033257027
+      },
+      {
+        "party": "SRS",
+        "estimate": 1.5,
+        "official": 1.462172939656467,
+        "signed_error": 0.03782706034353289,
+        "absolute_error": 0.03782706034353289
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 1.2,
+        "official": 1.1816229957114102,
+        "signed_error": 0.018377004288589793,
+        "absolute_error": 0.018377004288589793
+      },
+      {
+        "party": "NS",
+        "estimate": 0.9,
+        "official": 0.8751753273322959,
+        "signed_error": 0.024824672667704162,
+        "absolute_error": 0.024824672667704162
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 0.7,
+        "official": 0.7618858890691419,
+        "signed_error": -0.06188588906914194,
+        "absolute_error": 0.06188588906914194
+      },
+      {
+        "party": "SDA",
+        "estimate": 0.6,
+        "official": 0.5721352542734521,
+        "signed_error": 0.027864745726547846,
+        "absolute_error": 0.027864745726547846
+      },
+      {
+        "party": "PDD",
+        "estimate": 0.3,
+        "official": 0.3538918801459604,
+        "signed_error": -0.053891880145960414,
+        "absolute_error": 0.053891880145960414
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 0.3,
+        "official": 0.2980073168935208,
+        "signed_error": 0.0019926831064792094,
+        "absolute_error": 0.0019926831064792094
+      },
+      {
+        "party": "LDP",
+        "estimate": 0.3,
+        "official": 0.24228002727124748,
+        "signed_error": 0.05771997272875251,
+        "absolute_error": 0.05771997272875251
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0.2,
+        "official": 0.17787647571813106,
+        "signed_error": 0.02212352428186895,
+        "absolute_error": 0.02212352428186895
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0.2,
+        "official": 0.1431714279947586,
+        "signed_error": 0.05682857200524141,
+        "absolute_error": 0.05682857200524141
+      },
+      {
+        "party": "ADA",
+        "estimate": 0.1,
+        "official": 0.0847966989313519,
+        "signed_error": 0.015203301068648103,
+        "absolute_error": 0.015203301068648103
+      }
+    ],
+    "all_lists_metrics": {
+      "n": 18,
+      "mae_pp": 0.055765843505223865,
+      "rmse_pp": 0.0841347390674324,
+      "max_absolute_error_pp": 0.2548552335552756
+    },
+    "top_six_lists": [
+      "SNS",
+      "SPN",
+      "SPS",
+      "NADA",
+      "MI",
+      "ZAV_DVERI"
+    ],
+    "top_six_metrics": {
+      "n": 6,
+      "mae_pp": 0.10373530550970611,
+      "rmse_pp": 0.13554002814074917,
+      "max_absolute_error_pp": 0.2548552335552756
+    },
+    "normalized_valid_votes": {
+      "formula": "estimate = 100 * displayed_share / sum(all displayed shares); actual = 100 * votes / valid_ballots",
+      "all_lists": [
+        {
+          "party": "SNS",
+          "estimate": 47.69230769230769,
+          "official": 48.06552342805589,
+          "signed_error": -0.37321573574819666,
+          "absolute_error": 0.37321573574819666
+        },
+        {
+          "party": "SPN",
+          "estimate": 24.307692307692307,
+          "official": 24.318387228380228,
+          "signed_error": -0.010694920687921439,
+          "absolute_error": 0.010694920687921439
+        },
+        {
+          "party": "SPS",
+          "estimate": 6.871794871794871,
+          "official": 6.734505028054599,
+          "signed_error": 0.1372898437402723,
+          "absolute_error": 0.1372898437402723
+        },
+        {
+          "party": "NADA",
+          "estimate": 5.128205128205129,
+          "official": 5.158505385911746,
+          "signed_error": -0.030300257706617373,
+          "absolute_error": 0.030300257706617373
+        },
+        {
+          "party": "MI",
+          "estimate": 4.82051282051282,
+          "official": 4.818945302289585,
+          "signed_error": 0.0015675182232355311,
+          "absolute_error": 0.0015675182232355311
+        },
+        {
+          "party": "ZAV_DVERI",
+          "estimate": 2.9743589743589745,
+          "official": 2.8338890718295824,
+          "signed_error": 0.14046990252939207,
+          "absolute_error": 0.14046990252939207
+        },
+        {
+          "party": "SVM",
+          "estimate": 1.7435897435897436,
+          "official": 1.7447422215922594,
+          "signed_error": -0.0011524780025158332,
+          "absolute_error": 0.0011524780025158332
+        },
+        {
+          "party": "SRS",
+          "estimate": 1.5384615384615385,
+          "official": 1.5031617002310442,
+          "signed_error": 0.03529983823049432,
+          "absolute_error": 0.03529983823049432
+        },
+        {
+          "party": "DJB_SDS",
+          "estimate": 1.2307692307692308,
+          "official": 1.2147471636856915,
+          "signed_error": 0.01602206708353937,
+          "absolute_error": 0.01602206708353937
+        },
+        {
+          "party": "NS",
+          "estimate": 0.9230769230769231,
+          "official": 0.899708917703096,
+          "signed_error": 0.023368005373827105,
+          "absolute_error": 0.023368005373827105
+        },
+        {
+          "party": "SPP_DSHV",
+          "estimate": 0.717948717948718,
+          "official": 0.7832436624523239,
+          "signed_error": -0.06529494450360596,
+          "absolute_error": 0.06529494450360596
+        },
+        {
+          "party": "SDA",
+          "estimate": 0.6153846153846154,
+          "official": 0.5881737913832957,
+          "signed_error": 0.02721082400131969,
+          "absolute_error": 0.02721082400131969
+        },
+        {
+          "party": "PDD",
+          "estimate": 0.3076923076923077,
+          "official": 0.36381245051843475,
+          "signed_error": -0.05612014282612704,
+          "absolute_error": 0.05612014282612704
+        },
+        {
+          "party": "RUSKA",
+          "estimate": 0.3076923076923077,
+          "official": 0.30636128804859525,
+          "signed_error": 0.001331019643712461,
+          "absolute_error": 0.001331019643712461
+        },
+        {
+          "party": "LDP",
+          "estimate": 0.3076923076923077,
+          "official": 0.24907180802473095,
+          "signed_error": 0.058620499667576764,
+          "absolute_error": 0.058620499667576764
+        },
+        {
+          "party": "MIR_TOLERANCIJA",
+          "estimate": 0.20512820512820512,
+          "official": 0.18286284639790373,
+          "signed_error": 0.022265358730301388,
+          "absolute_error": 0.022265358730301388
+        },
+        {
+          "party": "SRBIJA_ZAPAD",
+          "estimate": 0.20512820512820512,
+          "official": 0.14718491998605218,
+          "signed_error": 0.05794328514215294,
+          "absolute_error": 0.05794328514215294
+        },
+        {
+          "party": "ADA",
+          "estimate": 0.10256410256410256,
+          "official": 0.08717378545493937,
+          "signed_error": 0.015390317109163193,
+          "absolute_error": 0.015390317109163193
+        }
+      ],
+      "top_six_metrics": {
+        "n": 6,
+        "mae_pp": 0.11558969643927257,
+        "rmse_pp": 0.17267755315418656,
+        "max_absolute_error_pp": 0.37321573574819666
+      }
+    },
+    "sensitivity_raw_chart_against_other_denominators": {
+      "valid_ballots": {
+        "n": 6,
+        "mae_pp": 0.42699621681041094,
+        "rmse_pp": 0.6925916981526756,
+        "max_absolute_error_pp": 1.56552342805589
+      },
+      "ballots_cast": {
+        "n": 6,
+        "mae_pp": 0.10373530550970611,
+        "rmse_pp": 0.13554002814074917,
+        "max_absolute_error_pp": 0.2548552335552756
+      },
+      "voters_who_turned_out": {
+        "n": 6,
+        "mae_pp": 0.10019984753413791,
+        "rmse_pp": 0.12114252982055172,
+        "max_absolute_error_pp": 0.18462651011085285
+      }
+    },
+    "post_url": "https://x.com/crtars/status/1736730489866670440",
+    "source_post_ids": [
+      "1736730489866670440"
+    ],
+    "created_at_belgrade": "2023-12-18T13:49:50+01:00",
+    "available_at_belgrade": "2023-12-18T13:49:50+01:00"
+  },
+  {
+    "post_id": "1736730489866670440",
+    "kind": "turnout",
+    "values": {
+      "turnout_pct": 58.9
+    },
+    "claim_id": "1736730489866670440:turnout",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "sample_processed_pct": 100,
+    "reported_error_pp": 0.9,
+    "comparable": false,
+    "note": "No matching territorial subtotal in supplied 2023 official reference; retain extraction, do not score against broader national turnout.",
+    "unit": "percentage_points",
+    "comparison": null,
+    "evaluation_status": "not_comparable",
+    "evaluation_note": "No official turnout benchmark with the same stated population scope.",
+    "post_url": "https://x.com/crtars/status/1736730489866670440",
+    "source_post_ids": [
+      "1736730489866670440"
+    ],
+    "created_at_belgrade": "2023-12-18T13:49:50+01:00",
+    "available_at_belgrade": "2023-12-18T13:49:50+01:00"
+  },
+  {
+    "post_id": "1736730489866670440",
+    "kind": "invalid_ballot_share",
+    "values": {
+      "invalid_pct": 2.8
+    },
+    "claim_id": "1736730489866670440:invalid_ballot_share",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "basis": "ballots_cast",
+    "sample_processed_pct": 100,
+    "reported_error_pp": 0.1,
+    "note": "Supplementary national-benchmark comparison; denominator inferred, geographic scope differs.",
+    "unit": "percentage_points",
+    "comparison": {
+      "party": "invalid_ballots",
+      "estimate": 2.8,
+      "official": 2.726836412095705,
+      "signed_error": 0.07316358790429467,
+      "absolute_error": 0.07316358790429467
+    },
+    "post_url": "https://x.com/crtars/status/1736730489866670440",
+    "source_post_ids": [
+      "1736730489866670440"
+    ],
+    "created_at_belgrade": "2023-12-18T13:49:50+01:00",
+    "available_at_belgrade": "2023-12-18T13:49:50+01:00"
+  },
+  {
+    "post_id": "1736730489866670440",
+    "kind": "seats",
+    "values": {
+      "SNS": 129,
+      "SPN": 65,
+      "SPS": 18,
+      "NADA": 13,
+      "MI": 13,
+      "ZAV_DVERI": 0,
+      "SVM": 6,
+      "SRS": 0,
+      "DJB_SDS": 0,
+      "NS": 0,
+      "SPP_DSHV": 2,
+      "SDA": 2,
+      "PDD": 1,
+      "RUSKA": 1,
+      "LDP": 0,
+      "MIR_TOLERANCIJA": 0,
+      "SRBIJA_ZAPAD": 0,
+      "ADA": 0
+    },
+    "claim_id": "1736730489866670440:seats",
+    "account": "crtars",
+    "year": "2023",
+    "extraction": "visually reviewed image transcription",
+    "confidence_scoring_eligible": false,
+    "attribution": "CRTA",
+    "source_role": "original_projection",
+    "source_family": "CRTA",
+    "scope": "without_kosovo_prisons_abroad",
+    "scope_note": "CRTA sample excludes Kosovo voters, abroad and prisons. National final official benchmark is broader and includes repeat voting; deviations from it are not a pure matched-population forecast error.",
+    "scope_source_url": "https://crta.rs/wp-content/uploads/2024/02/CRTA_Zavrsni-izborni-izvestaj-2023.pdf",
+    "sample_processed_pct": 100,
+    "note": "Complete projected national allocation; dash in graphic means zero seats. This allocation sums to 250. Seat overlap is descriptive, not a reliability probability.",
+    "unit": "seats",
+    "all_lists": [
+      {
+        "party": "SNS",
+        "estimate": 129,
+        "official": 129,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPN",
+        "estimate": 65,
+        "official": 65,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPS",
+        "estimate": 18,
+        "official": 18,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NADA",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "MI",
+        "estimate": 13,
+        "official": 13,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ZAV_DVERI",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SVM",
+        "estimate": 6,
+        "official": 6,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "DJB_SDS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "NS",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SPP_DSHV",
+        "estimate": 2,
+        "official": 2,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SDA",
+        "estimate": 2,
+        "official": 2,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "PDD",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "RUSKA",
+        "estimate": 1,
+        "official": 1,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "LDP",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "MIR_TOLERANCIJA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "SRBIJA_ZAPAD",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      },
+      {
+        "party": "ADA",
+        "estimate": 0,
+        "official": 0,
+        "signed_error": 0,
+        "absolute_error": 0
+      }
+    ],
+    "minimum_seats_to_reassign": 0.0,
+    "allocation_agreement_pct": 100.0,
+    "post_url": "https://x.com/crtars/status/1736730489866670440",
+    "source_post_ids": [
+      "1736730489866670440"
+    ],
+    "created_at_belgrade": "2023-12-18T13:49:50+01:00",
+    "available_at_belgrade": "2023-12-18T13:49:50+01:00"
   }
 ]

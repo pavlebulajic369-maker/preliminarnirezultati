@@ -1,16 +1,14 @@
 # Serbian parliamentary election search windows
 
-Updated 2026-10-18. Scope: the five national parliamentary election cycles in this project: 2014, 2016, 2020, 2022 and 2023. Presidential, provincial and local elections are outside this file's scope.
+Updated 2026-10-24. Active scope: the three national parliamentary election cycles retained by the user: 2020, 2022 and 2023. Presidential, provincial and local elections are outside this file's scope. Earlier archive links for 2014 and 2016 remain below for reference only.
 
-`election_windows.json` contains ISO 8601 interval strings, `start/end`. Each window covers **20:00 on election day to midnight in Europe/Belgrade**, as requested. Midnight ending election day is written as **00:00 on the next calendar day**. Each interval lasts four hours, with start inclusive and end exclusive. The start is the scheduled close of voting, not a claim that every polling station actually closed at that moment. The end is a user-selected collection boundary, independent of RIK announcement times.
+`election_windows.json` contains ISO 8601 interval strings, `start/end`. Each window covers **20:00 on election day through midnight ending the following day in Europe/Belgrade**, as requested. The end is **00:00 two calendar dates after election day**. Each interval lasts 28 hours, with start inclusive and end exclusive. The start is the scheduled close of voting, not a claim that every polling station actually closed at that moment. The end is a user-selected collection boundary, independent of RIK announcement times.
 
 | Key | Start (Belgrade) | Exclusive end (Belgrade) |
 | --- | --- | --- |
-| election2014 | 16 March 2014, 20:00 CET | 17 March 2014, 00:00 CET |
-| election2016 | 24 April 2016, 20:00 CEST | 25 April 2016, 00:00 CEST |
-| election2020 | 21 June 2020, 20:00 CEST | 22 June 2020, 00:00 CEST |
-| election2022 | 3 April 2022, 20:00 CEST | 4 April 2022, 00:00 CEST |
-| election2023 | 17 December 2023, 20:00 CET | 18 December 2023, 00:00 CET |
+| election2020 | 21 June 2020, 20:00 CEST | 23 June 2020, 00:00 CEST |
+| election2022 | 3 April 2022, 20:00 CEST | 5 April 2022, 00:00 CEST |
+| election2023 | 17 December 2023, 20:00 CET | 19 December 2023, 00:00 CET |
 
 ## Election-date sources
 

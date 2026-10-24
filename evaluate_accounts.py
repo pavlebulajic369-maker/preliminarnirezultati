@@ -66,6 +66,7 @@ def score_claim(claim, reference):
     parties = reference['parties']
     if kind == 'vote_share_partial':
         require(bool(values) and set(values) < set(parties), 'Partial vector must contain a strict subset of known lists.')
+        require(all(isinstance(v, (int,float)) and math.isfinite(v) and 0 <= v <= 100 for v in values.values()), 'Invalid percentage.')
         rows = [comparison(k, v, 100*parties[k]['votes']/reference[claim['basis']]) for k,v in values.items()]
         result.update(unit='percentage_points', reported_lists=rows, reported_lists_metrics=metrics(rows),
                       missing_lists=sorted(set(parties)-set(values)), top_six_metrics=None,
@@ -109,7 +110,7 @@ def score_claim(claim, reference):
                       mean_distance_outside_pp=mean(r['distance_outside_pp'] for r in rows),
                       valid_vote_basis_sensitivity=valid, point_estimate_mae_pp=None)
     elif kind == 'turnout':
-        scope=reference.get('turnout_scope_without_kosovo_prisons_abroad')
+        scope=turnout_reference(claim, reference)
         if claim.get('comparable') is False or not scope:
             result.update(unit='percentage_points', comparison=None, evaluation_status='not_comparable',
                           evaluation_note='No official turnout benchmark with the same stated population scope.')
@@ -118,8 +119,13 @@ def score_claim(claim, reference):
             result.update(unit='percentage_points', scope_reference=scope,
                           comparison=comparison('turnout',values['turnout_pct'],actual))
     elif kind == 'turnout_bounds':
-        actual=100*reference['voters_who_turned_out']/reference['registered_voters']
-        result.update(unit='percentage_points', comparison=check_bound(actual, **values))
+        scope=turnout_reference(claim, reference)
+        if claim.get('comparable') is False or not scope:
+            result.update(unit='percentage_points', comparison=None, evaluation_status='not_comparable',
+                          evaluation_note='No official turnout benchmark with the same stated population scope.')
+        else:
+            actual=100*scope['voters_who_turned_out']/scope['registered_voters']
+            result.update(unit='percentage_points', scope_reference=scope, comparison=check_bound(actual, **values))
     elif kind == 'invalid_ballot_share':
         actual=100*reference['invalid_ballots']/reference['ballots_cast']
         result.update(unit='percentage_points',comparison=comparison('invalid_ballots',values['invalid_pct'],actual))
@@ -134,6 +140,14 @@ def score_claim(claim, reference):
     elif kind != 'registered_voters':
         raise ValueError('Unknown claim kind: '+kind)
     return result
+
+
+def turnout_reference(claim, reference):
+    if claim.get('scope') == 'without_kosovo_prisons_abroad':
+        return reference.get('turnout_scope_without_kosovo_prisons_abroad')
+    if claim.get('scope') == 'national':
+        return {key: reference[key] for key in ('registered_voters','voters_who_turned_out')}
+    return None
 
 
 def confidence(evidence):
@@ -156,6 +170,7 @@ def validate_inputs(review, refs):
     actual={p.relative_to(ROOT).as_posix() for y in YEARS for p in (ROOT/'data'/y).glob('*/posts.jsonl')}
     require(actual==set(review['input_posts_sha256']), 'Account/year files changed. Review new data before evaluation.')
     posts={}
+    locations={}
     for filename,expected in review['input_posts_sha256'].items():
         path=ROOT/filename
         require(sha256(path)==expected, 'Posts changed: '+filename+'. Review new or changed posts before evaluation.')
@@ -163,19 +178,28 @@ def validate_inputs(review, refs):
             p=json.loads(line)
             require(p['id'] not in posts, 'Duplicate saved post ID.')
             posts[p['id']]=p
+            locations[p['id']]=(path.parent.name,path.parent.parent.name,path.parent)
     require(len(review['records'])==len(posts) and {r['post_id'] for r in review['records']}==set(posts), 'Every post needs exactly one review disposition.')
     for record in review['records']:
         p=posts[record['post_id']]
         require(record['text']==p.get('full_text',p['text']), 'Reviewed text mismatch.')
+        require(parse_time(record['created_at'])==parse_time(p['created_at']), 'Reviewed timestamp mismatch.')
+        require((record['account'],record['year'])==locations[record['post_id']][:2], 'Reviewed account/year does not match source folder.')
+        require(not p.get('missing_media_keys'), 'Missing media attachments need review.')
         photo_media=[m for m in p.get('media',[]) if m.get('type')=='photo']
         other_media=[m for m in p.get('media',[]) if m.get('type')!='photo']
         require(len(record['images'])==len(photo_media), 'Image review missing.')
+        require({Path(img['file']).name for img in record['images']}=={m.get('local_file') for m in photo_media}, 'Image attachment set mismatch.')
         require({(m.get('type'),m.get('media_key')) for m in record.get('unreviewed_media',[])} ==
                 {(m.get('type'),m.get('media_key')) for m in other_media}, 'Unreviewed video/other attachment audit missing.')
         for img in record['images']:
             path=ROOT/img['file']
             require(path.is_file() and sha256(path)==img['sha256'], 'Image changed or missing: '+img['file'])
             require(path.name in {m.get('local_file') for m in photo_media}, 'Image is not attached to its stated post.')
+            require(img.get('reviewed_visually') is True, 'Photo needs visual review.')
+            saved_copy=locations[record['post_id']][2]/path.name
+            if saved_copy.is_file():
+                require(sha256(saved_copy)==img['sha256'], 'Current saved photo differs from reviewed recovery: '+str(saved_copy))
     for year,ref in refs.items():
         require(sha256(ROOT/ref['source']['file'])==ref['source']['sha256'],'Official source changed: '+year)
         require(sum(p['votes'] for p in ref['parties'].values())==ref['valid_ballots'],'Votes do not reconcile: '+year)
@@ -237,6 +261,7 @@ def matched_cutoffs(results, window):
     """Latest eligible information actually available by each common deadline."""
     start,end=parse_window(window)
     eligible=[r for r in results if r['kind']=='vote_share' and r.get('source_role')=='original_projection'
+              and r.get('confidence_scoring_eligible',True)
               and start<=parse_time(r.get('available_at_belgrade',r['created_at_belgrade']))<end]
     slots={}
     previous=None
@@ -320,7 +345,7 @@ def collection_coverage(states, account, window):
 def short_snapshot(r):
     result={k:r.get(k) for k in ('claim_id','post_id','source_post_ids','post_url','created_at_belgrade',
             'available_at_belgrade','source_role','source_family','sample_processed_pct','chart_sum_pct',
-            'basis','basis_explicit','all_lists_metrics','top_six_metrics')}
+            'basis','basis_explicit','scope','scope_note','scope_source_url','note','all_lists_metrics','top_six_metrics')}
     result['normalized_top_six_metrics']=r['normalized_valid_votes']['top_six_metrics']
     return result
 
@@ -399,6 +424,10 @@ def build():
                 yr['notes'].append('No eligible original full-list parliamentary vote-share forecast in this saved window; comparable point accuracy is unavailable, not zero. Bounds, partial vectors and official/quoted charts remain separate.')
             if year=='2020' and account=='cesidbeograd':
                 yr['notes'].append('Valid-vote percentage basis inferred from chart totals near 100. Turnout benchmark separately matches the explicit exclusions of Kosovo, prisons and abroad.')
+            if account=='crtars':
+                yr['notes'].append('CRTA sample excludes Kosovo voters, prisons and abroad. National final-result errors include this geographic mismatch and later reruns; they are benchmark discrepancies, not pure matched-population sampling errors.')
+                if year=='2022':
+                    yr['notes'].append('Latest chart prints the Russian minority row as literal 0 without a decimal or percent sign. Transcription preserves 0; the uncertainty can also affect full-vector normalization.')
             if contribution:
                 evidence.append(contribution)
             year_results[year]=yr
@@ -427,6 +456,7 @@ def build():
         'error':'published share minus corresponding official share; MAE = mean absolute error, RMSE = sqrt(mean squared error); units percentage points (pp).',
         'headline_party_set':'Six largest lists by final vote count in each election, equal weight. All-list metrics also retained; small-list dilution is therefore visible.',
         'denominator':'2020 CeSID valid ballots inferred from complete charts summing near 100; 2022/2023 CeSID ballots cast inferred from sums near 97. Alternative bases included.',
+        'geographic_scope':'CRTA samples exclude Kosovo voters, prisons and abroad. The requested benchmark is final national totals, including reruns. Valid-vote normalization does not remove geographic mismatches; errors measure discrepancy from this national benchmark, not pure matched-population forecast error. Turnout is left unscored where a matching scope benchmark is unavailable.',
         'confidence_error':'Normalize the complete forecast vector and official counts to valid votes, calculate top-six MAE, then average equally over available fixed cutoff slots within each year. Extra intermediate updates do not receive extra weight. Normalization removes denominator assumptions from this score but does not assess invalid-ballot predictions.',
         'bounds':'Keep one-sided and two-sided statements as bounds. Measure containment and distance outside them; do not invent point estimates or call broad containment 100% forecasting accuracy.',
         'confidence_formula':'clamp(round_half_up(100 * max(0, 1 - E/2) * N/(N+1)), 1, 100)',
@@ -463,10 +493,12 @@ def build():
                         'active_windows':windows,
                         'unreviewed_non_photo_attachments':sum(len(r.get('unreviewed_media',[])) for r in review['records']),
                         'photos_recovered_from_saved_public_urls':sum(img['recovered_from_saved_public_url'] for r in review['records'] for img in r['images']),
-                        'point_forecast_posts':sum(r['kind']=='vote_share' and r.get('source_role')=='original_projection' for r in scored),
+                        'point_forecast_snapshots':sum(r['kind']=='vote_share' and r.get('source_role')=='original_projection' for r in scored),
+                        'point_forecast_posts':len({pid for r in scored if r['kind']=='vote_share' and r.get('source_role')=='original_projection' for pid in r['source_post_ids']}),
                         'comparison_records':len(scored),'paid_x_api_calls':0},
             'methodology':methodology,
             'official_sources':{y:ref['source'] for y,ref in refs.items()},
+            'forecast_scope_sources':review.get('scope_sources',{}),
             'accounts':accounts,
             'matched_time_comparisons':matched,
             'limitations':[
@@ -475,6 +507,7 @@ def build():
                 'Missing cutoff data can reflect late publication or incomplete collection. Compare accounts only where year and cutoff match, and check collection coverage.',
                 'Full-list normalization cannot be applied to a few selected parties. Bounds and partial vectors do not receive a comparable point-forecast score.',
                 'Final official results include repeat voting and administrative corrections. Retrospective differences do not by themselves demonstrate a reporting mistake on election night.',
+                'CRTA sample exclusions differ from the national benchmark. Latest CRTA 2022 chart also contains an ambiguous literal 0 for the Russian minority list; it is preserved rather than silently corrected.',
                 'Updates on the same night are correlated. CeSID/Ipsos joint estimates form one source family, not two independent confirmations.',
                 'Forecasts are rounded, mainly to 0.1 pp. Sampling design is unavailable, so no statistical confidence interval or calibrated probability is claimed.',
                 'Final official counts are the requested benchmark; this does not assess electoral integrity or resolve reported irregularities.',
@@ -547,6 +580,8 @@ def write_report(output, scored):
     lines += ['', '## Sources and reproducibility', '']
     for year,source in output['official_sources'].items():
         lines.append(f"- {year}: `{source['file']}`. See official_reference.json for extraction details and source hashes.")
+    for year,url in output['forecast_scope_sources'].items():
+        lines.append(f"- [CRTA {year} sampling scope]({url}): Kosovo voters, prisons and abroad excluded.")
     lines += ['', 'Run `python .\\evaluate_accounts.py` from the project root. It uses only reviewed local inputs, checks post/image/source hashes, validates composite availability against constituent post timestamps, and writes the executive JSON and detailed comparisons. New or changed evidence requires review; this program does not automatically transcribe new images or videos.',
               '', 'Full-party normalization corrects denominator differences but cannot correct geographic sample exclusions. A comparison with national final totals can include a benchmark-scope discrepancy; it is not automatically a pure forecasting error. See each claim’s notes.',
               '', '## Limitations', '']
