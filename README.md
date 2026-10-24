@@ -57,6 +57,8 @@ Za svaki presek uzima se poslednja sopstvena potpuna procena objavljena do tog t
 
 ## Kako pokrenuti program
 
+Za **praćenje uživo naloga CeSIDBeograd i crtars svakog minuta, od 12:00 do ponoći**, koristi novi `watch_x.py`. Windows obaveštenja, izbor datuma, pokretanje jednom komandom i podešavanje Task Scheduler-a opisani su u [WATCH_X.md](WATCH_X.md). Postojeće komande ispod služe za istorijsko prikupljanje.
+
 Otvori projekat u VS Code-u, zatim otvori terminal i izaberi PowerShell. Nalepi sledeće komande. Tekst `(.venv) PS ...>` koji vidiš u terminalu nije deo komande i ne kopira se.
 
 ```powershell
